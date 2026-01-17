@@ -15,7 +15,7 @@
     "csv:update": "tsx scripts/update-league-csv.ts",
     "refresh": "npm run fetch && npm run csv:update && npm run generate",
     "refresh:all": "npm run fetch:all && npm run csv:update && npm run generate",
-    "generate": "tsx scripts/build-war-timelines.ts && tsx scripts/build-season-clan-details.ts && tsx scripts/build-season-family.ts && tsx scripts/build-player-seasons-index.ts && tsx scripts/build-seasons-index.ts",
+    "generate": "tsx scripts/build-war-timelines.ts && tsx scripts/build-season-clan-details.ts && tsx scripts/build-season-family.ts && tsx scripts/build-player-seasons-index.ts && tsx scripts/build-seasons-index.ts && tsx scripts/aggregate-cwl.ts && tsx scripts/build-family-players.ts",
     "data:offline": "tsx scripts/aggregate-all-seasons.ts --offline --start=2019-07 && npm run generate",
     "build:excel": "tsx scripts/build-data.ts",
     "enrich:csv": "tsx scripts/load-league-csv.ts",

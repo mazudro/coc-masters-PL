@@ -22,6 +22,62 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // ============================================================================
+// League CSV Cache (for populating league tier per clan/season)
+// ============================================================================
+
+const CSV_DIR = path.join(__dirname, '../public/data/mix csv');
+
+interface LeagueCacheEntry {
+  tier: string;
+  id: number | null;
+  position: number | null;
+}
+
+function buildLeagueTierCache(): Map<string, LeagueCacheEntry> {
+  const cache = new Map<string, LeagueCacheEntry>();
+  
+  if (!fs.existsSync(CSV_DIR)) {
+    console.log('No CSV directory found, league data will not be populated');
+    return cache;
+  }
+  
+  const csvFiles = fs.readdirSync(CSV_DIR).filter(f => f.endsWith('-clan-war-leagues.csv'));
+  
+  for (const file of csvFiles) {
+    const content = fs.readFileSync(path.join(CSV_DIR, file), 'utf-8');
+    const lines = content.split('\n').filter(l => l.trim());
+    
+    if (lines.length < 2) continue;
+    
+    const header = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+    const tagIdx = header.indexOf('Tag');
+    const seasonIdx = header.indexOf('Season');
+    const leagueIdIdx = header.indexOf('League ID');
+    const leagueNameIdx = header.indexOf('League Name');
+    const positionIdx = header.indexOf('Position');
+    
+    if (tagIdx === -1 || seasonIdx === -1 || leagueNameIdx === -1) continue;
+    
+    for (let i = 1; i < lines.length; i++) {
+      const fields = lines[i].split(',').map(f => f.trim().replace(/"/g, ''));
+      
+      const clanTag = fields[tagIdx]?.replace('#', '') ?? '';
+      const season = fields[seasonIdx] ?? '';
+      const leagueName = fields[leagueNameIdx] ?? '';
+      const leagueId = leagueIdIdx >= 0 ? parseInt(fields[leagueIdIdx], 10) || null : null;
+      const position = positionIdx >= 0 ? parseInt(fields[positionIdx], 10) || null : null;
+      
+      if (clanTag && season && leagueName) {
+        cache.set(`${clanTag}|${season}`, { tier: leagueName, id: leagueId, position });
+      }
+    }
+  }
+  
+  console.log(`Loaded ${cache.size} league tier entries from CSV files`);
+  return cache;
+}
+
+// ============================================================================
 // Types (aligned with src/lib/types.ts)
 // ============================================================================
 
@@ -312,7 +368,7 @@ function calculatePerformanceTrend(seasons: PlayerSeasonStats[]): 'improving' | 
 // Main aggregation
 // ============================================================================
 
-function aggregateCWLData(): Map<string, AggregatedPlayer> {
+function aggregateCWLData(leagueCache: Map<string, LeagueCacheEntry>): Map<string, AggregatedPlayer> {
   const cacheDir = path.join(__dirname, '../tmp/cwl-cache');
   const playerMap = new Map<string, AggregatedPlayer>();
 
@@ -463,8 +519,16 @@ function aggregateCWLData(): Map<string, AggregatedPlayer> {
 
   // Post-process: finalize aggregates
   for (const player of playerMap.values()) {
-    // Calculate season-level averages
+    // Calculate season-level averages and add league info
     for (const season of player.allSeasons) {
+      // Add league tier from CSV cache
+      const clanTagClean = season.clanTag.replace('#', '');
+      const leagueKey = `${clanTagClean}|${season.season}`;
+      const leagueInfo = leagueCache.get(leagueKey);
+      if (leagueInfo) {
+        season.leagueTier = leagueInfo.tier;
+      }
+      
       if (season.attacks > 0) {
         season.avgStarsAllowed = season.timesAttacked > 0
           ? Math.round((season.starsAllowed / season.timesAttacked) * 100) / 100
@@ -546,6 +610,28 @@ function aggregateCWLData(): Map<string, AggregatedPlayer> {
     // Performance trend
     player.performanceTrend = calculatePerformanceTrend(player.allSeasons);
 
+    // Build league history from season data
+    const leagueMap = new Map<string, { seasonsPlayed: number; attacksInLeague: number }>();
+    for (const s of player.allSeasons) {
+      if (s.leagueTier) {
+        const existing = leagueMap.get(s.leagueTier) || { seasonsPlayed: 0, attacksInLeague: 0 };
+        existing.seasonsPlayed++;
+        existing.attacksInLeague += s.attacks;
+        leagueMap.set(s.leagueTier, existing);
+      }
+    }
+    player.leagueHistory = Array.from(leagueMap.entries()).map(([tier, data]) => ({
+      leagueTier: tier,
+      seasonsPlayed: data.seasonsPlayed,
+      attacksInLeague: data.attacksInLeague,
+    }));
+    
+    // Set primary league (most attacks)
+    if (player.leagueHistory.length > 0) {
+      player.primaryLeague = player.leagueHistory
+        .sort((a, b) => b.attacksInLeague - a.attacksInLeague)[0].leagueTier;
+    }
+
     // Reliability score
     player.reliabilityBreakdown = calculateReliabilityBreakdown(
       player.avgStars,
@@ -563,7 +649,10 @@ function aggregateCWLData(): Map<string, AggregatedPlayer> {
 async function main() {
   console.log('Aggregating CWL season data...\n');
 
-  const playerMap = aggregateCWLData();
+  // Build league cache from CSV files first
+  const leagueCache = buildLeagueTierCache();
+  
+  const playerMap = aggregateCWLData(leagueCache);
   const players = Array.from(playerMap.values()).filter((p) => p.allSeasons.length > 0);
 
   console.log(`✓ Aggregated ${players.length} unique players\n`);
