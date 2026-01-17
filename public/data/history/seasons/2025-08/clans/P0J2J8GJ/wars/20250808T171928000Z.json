@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:22.002Z",
+  "season": "2025-08",
+  "warTag": "P0J2J8GJ-20250808T171928000Z",
+  "startTime": "20250807T171928.000Z",
+  "endTime": "20250808T171928.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 28,
+    "stars": 33,
+    "destructionPercentage": 88.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#RLPU28CJ",
+            "defenderName": "Pheng KH",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 171,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "HANG SOTHEA"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#V8P8UYY",
+            "defenderName": "ST KINGDOM",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 144,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "ST KINGDOM"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P2UU0VUR",
+            "defenderName": "T.Pong",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 155,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KH_Mafia"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2J8CLG8U",
+            "defenderName": "KH_Mafia",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 148,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "T.Pong"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#C2QYCYP8",
+            "defenderName": "HANG SOTHEA",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "GameOutOfDate"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#Q0V0UQ8C9",
+            "defenderName": "Try Jakiter",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "SOTHEA HANG"
+        }
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#VCQQLCGU",
+            "defenderName": "BOVANN KH",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 127,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "BOVANN KH"
+        }
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#CGJC888V",
+            "defenderName": "GameOutOfDate",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Try Jakiter"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YRC02QCQY",
+            "defenderName": "kun Khmer",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "KH_Ganster"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2YUYJYY2R",
+            "defenderName": "SOTHEA HANG",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 59,
+            "duration": 180,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "kun Khmer"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9J2LYPP0",
+            "defenderName": "phanareach Phea",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 93,
+          "attackerName": "phanareach Phea"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#20RPPG8VG",
+            "defenderName": "chansokleapphea",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Pheng KH"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#YPJG9JPYJ",
+            "defenderName": "Satürö Wise",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 120,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Satürö Wise"
+        }
+      },
+      {
+        "tag": "#22CVU8U9",
+        "name": "Jjiraya",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#22CVU8U9",
+            "attackerName": "Jjiraya",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#V8P0GLYL",
+            "defenderName": "Bun Thoeun",
+            "defenderTH": 17,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "chansokleapphea"
+        }
+      },
+      {
+        "tag": "#299PCL828",
+        "name": "Wybraniec",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#299PCL828",
+            "attackerName": "Wybraniec",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#URUYQJQY",
+            "defenderName": "KH_Ganster",
+            "defenderTH": 17,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 76,
+          "attackerName": "Bun Thoeun"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8J882C8",
+    "name": "khmer family",
+    "clanLevel": 30,
+    "stars": 32,
+    "destructionPercentage": 86.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#C2QYCYP8",
+        "name": "HANG SOTHEA",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#C2QYCYP8",
+            "attackerName": "HANG SOTHEA",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 159,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#V8P8UYY",
+        "name": "ST KINGDOM",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#V8P8UYY",
+            "attackerName": "ST KINGDOM",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 166,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#2J8CLG8U",
+        "name": "KH_Mafia",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2J8CLG8U",
+            "attackerName": "KH_Mafia",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#P2UU0VUR",
+        "name": "T.Pong",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#P2UU0VUR",
+            "attackerName": "T.Pong",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#CGJC888V",
+        "name": "GameOutOfDate",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#CGJC888V",
+            "attackerName": "GameOutOfDate",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 153,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#2YUYJYY2R",
+        "name": "SOTHEA HANG",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2YUYJYY2R",
+            "attackerName": "SOTHEA HANG",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 163,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 59,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#VCQQLCGU",
+        "name": "BOVANN KH",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#VCQQLCGU",
+            "attackerName": "BOVANN KH",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#22Y9JQYJ",
+            "defenderName": "~ Yakuu ~",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 153,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#Q0V0UQ8C9",
+        "name": "Try Jakiter",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q0V0UQ8C9",
+            "attackerName": "Try Jakiter",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 161,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#9J2LYPP0",
+        "name": "phanareach Phea",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9J2LYPP0",
+            "attackerName": "phanareach Phea",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 93,
+            "duration": 107,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#YRC02QCQY",
+        "name": "kun Khmer",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YRC02QCQY",
+            "attackerName": "kun Khmer",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 165,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#20RPPG8VG",
+        "name": "chansokleapphea",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#20RPPG8VG",
+            "attackerName": "chansokleapphea",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#22CVU8U9",
+            "defenderName": "Jjiraya",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#RLPU28CJ",
+        "name": "Pheng KH",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#RLPU28CJ",
+            "attackerName": "Pheng KH",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 156,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#YPJG9JPYJ",
+        "name": "Satürö Wise",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YPJG9JPYJ",
+            "attackerName": "Satürö Wise",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#V8P0GLYL",
+        "name": "Bun Thoeun",
+        "townhallLevel": 17,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#V8P0GLYL",
+            "attackerName": "Bun Thoeun",
+            "attackerTH": 17,
+            "attackerMapPosition": 20,
+            "defenderTag": "#299PCL828",
+            "defenderName": "Wybraniec",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 1,
+            "destructionPercentage": 76,
+            "duration": 164,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Jjiraya"
+        }
+      },
+      {
+        "tag": "#URUYQJQY",
+        "name": "KH_Ganster",
+        "townhallLevel": 17,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#URUYQJQY",
+            "attackerName": "KH_Ganster",
+            "attackerTH": 17,
+            "attackerMapPosition": 22,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 159,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wybraniec"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#V8P0GLYL",
+      "attackerName": "Bun Thoeun",
+      "attackerTH": 17,
+      "attackerMapPosition": 20,
+      "defenderTag": "#299PCL828",
+      "defenderName": "Wybraniec",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 1,
+      "destructionPercentage": 76,
+      "duration": 164,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#RLPU28CJ",
+      "defenderName": "Pheng KH",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 171,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P2UU0VUR",
+      "defenderName": "T.Pong",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 155,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#C2QYCYP8",
+      "defenderName": "HANG SOTHEA",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#VCQQLCGU",
+      "defenderName": "BOVANN KH",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 127,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9J2LYPP0",
+      "defenderName": "phanareach Phea",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CGJC888V",
+      "attackerName": "GameOutOfDate",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 153,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VCQQLCGU",
+      "attackerName": "BOVANN KH",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#22Y9JQYJ",
+      "defenderName": "~ Yakuu ~",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 153,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJG9JPYJ",
+      "attackerName": "Satürö Wise",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YRC02QCQY",
+      "attackerName": "kun Khmer",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 165,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0V0UQ8C9",
+      "attackerName": "Try Jakiter",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 161,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2UU0VUR",
+      "attackerName": "T.Pong",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#Q0V0UQ8C9",
+      "defenderName": "Try Jakiter",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#YPJG9JPYJ",
+      "defenderName": "Satürö Wise",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 120,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22CVU8U9",
+      "attackerName": "Jjiraya",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#V8P0GLYL",
+      "defenderName": "Bun Thoeun",
+      "defenderTH": 17,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#C2QYCYP8",
+      "attackerName": "HANG SOTHEA",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 159,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#V8P8UYY",
+      "attackerName": "ST KINGDOM",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 166,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RLPU28CJ",
+      "attackerName": "Pheng KH",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 156,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YUYJYY2R",
+      "attackerName": "SOTHEA HANG",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 163,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YRC02QCQY",
+      "defenderName": "kun Khmer",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2J8CLG8U",
+      "attackerName": "KH_Mafia",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#URUYQJQY",
+      "attackerName": "KH_Ganster",
+      "attackerTH": 17,
+      "attackerMapPosition": 22,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 159,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2J8CLG8U",
+      "defenderName": "KH_Mafia",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 148,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#CGJC888V",
+      "defenderName": "GameOutOfDate",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#20RPPG8VG",
+      "defenderName": "chansokleapphea",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20RPPG8VG",
+      "attackerName": "chansokleapphea",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#22CVU8U9",
+      "defenderName": "Jjiraya",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J2LYPP0",
+      "attackerName": "phanareach Phea",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 93,
+      "duration": 107,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#299PCL828",
+      "attackerName": "Wybraniec",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#URUYQJQY",
+      "defenderName": "KH_Ganster",
+      "defenderTH": 17,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#V8P8UYY",
+      "defenderName": "ST KINGDOM",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 144,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2YUYJYY2R",
+      "defenderName": "SOTHEA HANG",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 59,
+      "duration": 180,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:22.074Z",
+  "season": "2026-01",
+  "warTag": "P0J2J8GJ-20260109T200533000Z",
+  "startTime": "20260108T200533.000Z",
+  "endTime": "20260109T200533.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 29,
+    "stars": 43,
+    "destructionPercentage": 98.8,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#C98VY0VU",
+            "defenderName": "⚡️⚡️MR.UGUR⚡️⚡️",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 176,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "PARSA"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LQ0LCP0G",
+            "defenderName": "samiozdmrr",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 157,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "⚡️⚡️MR.UGUR⚡️⚡️"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2PG988R0G",
+            "defenderName": "PARSA",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 164,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "samiozdmrr"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2LUR0R9QR",
+            "defenderName": "<THE DARK>",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Sinan"
+        }
+      },
+      {
+        "tag": "#YLJJYG28G",
+        "name": "byczeq",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YLJJYG28G",
+            "attackerName": "byczeq",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#20J8C8YP",
+            "defenderName": "⚡️Mahsun⚡️",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "<THE DARK>"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#VLPPVQC2",
+            "defenderName": "sencer",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 171,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "HandSome"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "Maryśka™",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "Maryśka™",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#V9PLLC9G",
+            "defenderName": "Sinan",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ENDİ TV"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#PUC2U28R8",
+            "defenderName": "ENDİ TV",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "⚡️Mahsun⚡️"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#8YYR00GRG",
+            "defenderName": "HandSome",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "EFE EGE"
+        }
+      },
+      {
+        "tag": "#299PCL828",
+        "name": "Wybraniec",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#299PCL828",
+            "attackerName": "Wybraniec",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2YYC8JYRG",
+            "defenderName": "Sencer",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "sencer"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#YY099CRV",
+            "defenderName": "~O Ğ U Z H A N~",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "XROJX"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#988QVV0JR",
+            "defenderName": "KARAYEL",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "~O Ğ U Z H A N~"
+        }
+      },
+      {
+        "tag": "#22CVU8U9",
+        "name": "Jjiraya",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#22CVU8U9",
+            "attackerName": "Jjiraya",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#9YRGC8P8Q",
+            "defenderName": "FilleMarin",
+            "defenderTH": 18,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 136,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "KARAYEL"
+        }
+      },
+      {
+        "tag": "#LJ2L00VCY",
+        "name": "IK∆RIS",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2L00VCY",
+            "attackerName": "IK∆RIS",
+            "attackerTH": 18,
+            "attackerMapPosition": 14,
+            "defenderTag": "#YJYJRRR99",
+            "defenderName": "EFE EGE",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 151,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Sencer"
+        }
+      },
+      {
+        "tag": "#RL8YC2LL",
+        "name": "Kiesl",
+        "townhallLevel": 18,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#RL8YC2LL",
+            "attackerName": "Kiesl",
+            "attackerTH": 18,
+            "attackerMapPosition": 16,
+            "defenderTag": "#20URJU8CL",
+            "defenderName": "XROJX",
+            "defenderTH": 18,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "FilleMarin"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#92GGVQL2",
+    "name": "D R M M ⚡⚡⚡⚡",
+    "clanLevel": 24,
+    "stars": 34,
+    "destructionPercentage": 92.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#C98VY0VU",
+        "name": "⚡️⚡️MR.UGUR⚡️⚡️",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#C98VY0VU",
+            "attackerName": "⚡️⚡️MR.UGUR⚡️⚡️",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 180,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#V9PLLC9G",
+        "name": "Sinan",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#V9PLLC9G",
+            "attackerName": "Sinan",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 180,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Maryśka™"
+        }
+      },
+      {
+        "tag": "#VLPPVQC2",
+        "name": "sencer",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#VLPPVQC2",
+            "attackerName": "sencer",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#299PCL828",
+            "defenderName": "Wybraniec",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 180,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#2YYC8JYRG",
+        "name": "Sencer",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2YYC8JYRG",
+            "attackerName": "Sencer",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LJ2L00VCY",
+            "defenderName": "IK∆RIS",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wybraniec"
+        }
+      },
+      {
+        "tag": "#2LUR0R9QR",
+        "name": "<THE DARK>",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2LUR0R9QR",
+            "attackerName": "<THE DARK>",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YLJJYG28G",
+            "defenderName": "byczeq",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#LQ0LCP0G",
+        "name": "samiozdmrr",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LQ0LCP0G",
+            "attackerName": "samiozdmrr",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#20J8C8YP",
+        "name": "⚡️Mahsun⚡️",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#20J8C8YP",
+            "attackerName": "⚡️Mahsun⚡️",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "byczeq"
+        }
+      },
+      {
+        "tag": "#2PG988R0G",
+        "name": "PARSA",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2PG988R0G",
+            "attackerName": "PARSA",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#PUC2U28R8",
+        "name": "ENDİ TV",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PUC2U28R8",
+            "attackerName": "ENDİ TV",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "Maryśka™",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#8YYR00GRG",
+        "name": "HandSome",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8YYR00GRG",
+            "attackerName": "HandSome",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 180,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#YY099CRV",
+        "name": "~O Ğ U Z H A N~",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YY099CRV",
+            "attackerName": "~O Ğ U Z H A N~",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#988QVV0JR",
+        "name": "KARAYEL",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#988QVV0JR",
+            "attackerName": "KARAYEL",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#22CVU8U9",
+            "defenderName": "Jjiraya",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 128,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#YJYJRRR99",
+        "name": "EFE EGE",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YJYJRRR99",
+            "attackerName": "EFE EGE",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "IK∆RIS"
+        }
+      },
+      {
+        "tag": "#9YRGC8P8Q",
+        "name": "FilleMarin",
+        "townhallLevel": 18,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#9YRGC8P8Q",
+            "attackerName": "FilleMarin",
+            "attackerTH": 18,
+            "attackerMapPosition": 15,
+            "defenderTag": "#RL8YC2LL",
+            "defenderName": "Kiesl",
+            "defenderTH": 18,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 107,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jjiraya"
+        }
+      },
+      {
+        "tag": "#20URJU8CL",
+        "name": "XROJX",
+        "townhallLevel": 18,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#20URJU8CL",
+            "attackerName": "XROJX",
+            "attackerTH": 18,
+            "attackerMapPosition": 17,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kiesl"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#9YRGC8P8Q",
+      "attackerName": "FilleMarin",
+      "attackerTH": 18,
+      "attackerMapPosition": 15,
+      "defenderTag": "#RL8YC2LL",
+      "defenderName": "Kiesl",
+      "defenderTH": 18,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 107,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YLJJYG28G",
+      "attackerName": "byczeq",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#20J8C8YP",
+      "defenderName": "⚡️Mahsun⚡️",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22CVU8U9",
+      "attackerName": "Jjiraya",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#9YRGC8P8Q",
+      "defenderName": "FilleMarin",
+      "defenderTH": 18,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 136,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJYJRRR99",
+      "attackerName": "EFE EGE",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#YY099CRV",
+      "defenderName": "~O Ğ U Z H A N~",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#C98VY0VU",
+      "defenderName": "⚡️⚡️MR.UGUR⚡️⚡️",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 176,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "Maryśka™",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#V9PLLC9G",
+      "defenderName": "Sinan",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PUC2U28R8",
+      "attackerName": "ENDİ TV",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "Maryśka™",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YYC8JYRG",
+      "attackerName": "Sencer",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LJ2L00VCY",
+      "defenderName": "IK∆RIS",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#8YYR00GRG",
+      "defenderName": "HandSome",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#V9PLLC9G",
+      "attackerName": "Sinan",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 180,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#988QVV0JR",
+      "attackerName": "KARAYEL",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#22CVU8U9",
+      "defenderName": "Jjiraya",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 128,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ2L00VCY",
+      "attackerName": "IK∆RIS",
+      "attackerTH": 18,
+      "attackerMapPosition": 14,
+      "defenderTag": "#YJYJRRR99",
+      "defenderName": "EFE EGE",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 151,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RL8YC2LL",
+      "attackerName": "Kiesl",
+      "attackerTH": 18,
+      "attackerMapPosition": 16,
+      "defenderTag": "#20URJU8CL",
+      "defenderName": "XROJX",
+      "defenderTH": 18,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PG988R0G",
+      "attackerName": "PARSA",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#988QVV0JR",
+      "defenderName": "KARAYEL",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#VLPPVQC2",
+      "defenderName": "sencer",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 171,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY099CRV",
+      "attackerName": "~O Ğ U Z H A N~",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2LUR0R9QR",
+      "defenderName": "<THE DARK>",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YYR00GRG",
+      "attackerName": "HandSome",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 180,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20J8C8YP",
+      "attackerName": "⚡️Mahsun⚡️",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#C98VY0VU",
+      "attackerName": "⚡️⚡️MR.UGUR⚡️⚡️",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 180,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2LUR0R9QR",
+      "attackerName": "<THE DARK>",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YLJJYG28G",
+      "defenderName": "byczeq",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LQ0LCP0G",
+      "defenderName": "samiozdmrr",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 157,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#VLPPVQC2",
+      "attackerName": "sencer",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#299PCL828",
+      "defenderName": "Wybraniec",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 180,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LQ0LCP0G",
+      "attackerName": "samiozdmrr",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2PG988R0G",
+      "defenderName": "PARSA",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 164,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20URJU8CL",
+      "attackerName": "XROJX",
+      "attackerTH": 18,
+      "attackerMapPosition": 17,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#PUC2U28R8",
+      "defenderName": "ENDİ TV",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#299PCL828",
+      "attackerName": "Wybraniec",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2YYC8JYRG",
+      "defenderName": "Sencer",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

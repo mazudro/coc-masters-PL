@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.634Z",
+  "season": "2025-11",
+  "warTag": "JPRPRVUY-20251107T193811000Z",
+  "startTime": "20251106T193811.000Z",
+  "endTime": "20251107T193811.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 24,
+    "stars": 31,
+    "destructionPercentage": 85.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#299QRL28L",
+            "defenderName": "Sami qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 177,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Atiq Qureshi"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8VL9QGYUC",
+            "defenderName": "Atiq Qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Ähm€D Š khä№"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P2VRGVLG",
+            "defenderName": "Game Finisher",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "hayat qureshi"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2CPCRU202",
+            "defenderName": "کندهاری شامار",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Qais Azimi"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#PRQ89J9UR",
+            "defenderName": "Ähm€D Š khä№",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 168,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Sami qureshi"
+        }
+      },
+      {
+        "tag": "#PGVQQGRUR",
+        "name": "SPIKEONE",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PGVQQGRUR",
+            "attackerName": "SPIKEONE",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#CJLCCU8L",
+            "defenderName": "Atiq",
+            "defenderTH": 16,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 88,
+          "attackerName": "Game Finisher"
+        }
+      },
+      {
+        "tag": "#LJ2L00VCY",
+        "name": "IK∆RIS",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2L00VCY",
+            "attackerName": "IK∆RIS",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#9V022UCQ",
+            "defenderName": "barak",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 179,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Atiq Qureshi"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#P20GPLJCQ",
+            "defenderName": "Qais Azimi",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 154,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zabi Qureshi"
+        }
+      },
+      {
+        "tag": "#RL8YC2LL",
+        "name": "Kiesl",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#RL8YC2LL",
+            "attackerName": "Kiesl",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#JULJ2J09",
+            "defenderName": "☆محسن کریمی☆",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 70,
+          "attackerName": "Naveed"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#GRQ98G2J",
+            "defenderName": "Zabi Qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 102,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Atiq Qureshi"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#22PYLUYQ2",
+            "defenderName": "Atiq Qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 149,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Atiq"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Y8U80YCJ0",
+            "defenderName": "Atiq Qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 150,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "کندهاری شامار"
+        }
+      },
+      {
+        "tag": "#QCYJQ2Q2V",
+        "name": "Jjiraya v2",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QCYJQ2Q2V",
+            "attackerName": "Jjiraya v2",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8L0QLCJ0G",
+            "defenderName": "ronaldo",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 1,
+            "destructionPercentage": 86,
+            "duration": 174,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "barak"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#QQ2280Q9C",
+            "defenderName": "Naveed",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 96,
+            "duration": 162,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ronaldo"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 23,
+            "defenderTag": "#JLPRRG2P",
+            "defenderName": "hayat qureshi",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 166,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "☆محسن کریمی☆"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2GC2VL9U",
+    "name": "Afghan boys",
+    "clanLevel": 21,
+    "stars": 37,
+    "destructionPercentage": 93.86666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#299QRL28L",
+        "name": "Sami qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#299QRL28L",
+            "attackerName": "Sami qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#8VL9QGYUC",
+        "name": "Atiq Qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8VL9QGYUC",
+            "attackerName": "Atiq Qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#9V022UCQ",
+        "name": "barak",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9V022UCQ",
+            "attackerName": "barak",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QCYJQ2Q2V",
+            "defenderName": "Jjiraya v2",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "IK∆RIS"
+        }
+      },
+      {
+        "tag": "#2CPCRU202",
+        "name": "کندهاری شامار",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2CPCRU202",
+            "attackerName": "کندهاری شامار",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#PRQ89J9UR",
+        "name": "Ähm€D Š khä№",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PRQ89J9UR",
+            "attackerName": "Ähm€D Š khä№",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 163,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#JLPRRG2P",
+        "name": "hayat qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#JLPRRG2P",
+            "attackerName": "hayat qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 172,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#P2VRGVLG",
+        "name": "Game Finisher",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P2VRGVLG",
+            "attackerName": "Game Finisher",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#PGVQQGRUR",
+            "defenderName": "SPIKEONE",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 88,
+            "duration": 170,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#JULJ2J09",
+        "name": "☆محسن کریمی☆",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#JULJ2J09",
+            "attackerName": "☆محسن کریمی☆",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 23,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kiesl"
+        }
+      },
+      {
+        "tag": "#P20GPLJCQ",
+        "name": "Qais Azimi",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P20GPLJCQ",
+            "attackerName": "Qais Azimi",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#GRQ98G2J",
+        "name": "Zabi Qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#GRQ98G2J",
+            "attackerName": "Zabi Qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#22PYLUYQ2",
+        "name": "Atiq Qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#22PYLUYQ2",
+            "attackerName": "Atiq Qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LJ2L00VCY",
+            "defenderName": "IK∆RIS",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#Y8U80YCJ0",
+        "name": "Atiq Qureshi",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y8U80YCJ0",
+            "attackerName": "Atiq Qureshi",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 151,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#8L0QLCJ0G",
+        "name": "ronaldo",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8L0QLCJ0G",
+            "attackerName": "ronaldo",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 86,
+          "attackerName": "Jjiraya v2"
+        }
+      },
+      {
+        "tag": "#QQ2280Q9C",
+        "name": "Naveed",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QQ2280Q9C",
+            "attackerName": "Naveed",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#RL8YC2LL",
+            "defenderName": "Kiesl",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 70,
+            "duration": 153,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 96,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#CJLCCU8L",
+        "name": "Atiq",
+        "townhallLevel": 16,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#CJLCCU8L",
+            "attackerName": "Atiq",
+            "attackerTH": 16,
+            "attackerMapPosition": 18,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 151,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SPIKEONE"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#QQ2280Q9C",
+      "defenderName": "Naveed",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 96,
+      "duration": 162,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQ2280Q9C",
+      "attackerName": "Naveed",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#RL8YC2LL",
+      "defenderName": "Kiesl",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 70,
+      "duration": 153,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PRQ89J9UR",
+      "attackerName": "Ähm€D Š khä№",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 163,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20GPLJCQ",
+      "attackerName": "Qais Azimi",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RL8YC2LL",
+      "attackerName": "Kiesl",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#JULJ2J09",
+      "defenderName": "☆محسن کریمی☆",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#299QRL28L",
+      "defenderName": "Sami qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 177,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Y8U80YCJ0",
+      "defenderName": "Atiq Qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 150,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#22PYLUYQ2",
+      "defenderName": "Atiq Qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 149,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LJ2L00VCY",
+      "attackerName": "IK∆RIS",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#9V022UCQ",
+      "defenderName": "barak",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 179,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#P20GPLJCQ",
+      "defenderName": "Qais Azimi",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 154,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8VL9QGYUC",
+      "attackerName": "Atiq Qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JLPRRG2P",
+      "attackerName": "hayat qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 172,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#299QRL28L",
+      "attackerName": "Sami qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2VRGVLG",
+      "attackerName": "Game Finisher",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#PGVQQGRUR",
+      "defenderName": "SPIKEONE",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 88,
+      "duration": 170,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22PYLUYQ2",
+      "attackerName": "Atiq Qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LJ2L00VCY",
+      "defenderName": "IK∆RIS",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GRQ98G2J",
+      "attackerName": "Zabi Qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y8U80YCJ0",
+      "attackerName": "Atiq Qureshi",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 151,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CJLCCU8L",
+      "attackerName": "Atiq",
+      "attackerTH": 16,
+      "attackerMapPosition": 18,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 151,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L0QLCJ0G",
+      "attackerName": "ronaldo",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#PRQ89J9UR",
+      "defenderName": "Ähm€D Š khä№",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 168,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCYJQ2Q2V",
+      "attackerName": "Jjiraya v2",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8L0QLCJ0G",
+      "defenderName": "ronaldo",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 1,
+      "destructionPercentage": 86,
+      "duration": 174,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2CPCRU202",
+      "attackerName": "کندهاری شامار",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#GRQ98G2J",
+      "defenderName": "Zabi Qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 102,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PGVQQGRUR",
+      "attackerName": "SPIKEONE",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#CJLCCU8L",
+      "defenderName": "Atiq",
+      "defenderTH": 16,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P2VRGVLG",
+      "defenderName": "Game Finisher",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 23,
+      "defenderTag": "#JLPRRG2P",
+      "defenderName": "hayat qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 166,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2CPCRU202",
+      "defenderName": "کندهاری شامار",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V022UCQ",
+      "attackerName": "barak",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QCYJQ2Q2V",
+      "defenderName": "Jjiraya v2",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JULJ2J09",
+      "attackerName": "☆محسن کریمی☆",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 23,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8VL9QGYUC",
+      "defenderName": "Atiq Qureshi",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

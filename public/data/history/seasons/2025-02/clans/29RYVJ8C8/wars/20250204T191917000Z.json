@@ -1,0 +1,1159 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.064Z",
+  "season": "2025-02",
+  "warTag": "29RYVJ8C8-20250204T191917000Z",
+  "startTime": "20250203T191917.000Z",
+  "endTime": "20250204T191917.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 10,
+    "stars": 36,
+    "destructionPercentage": 87.13333333333334,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#28PV8VYJR",
+            "defenderName": "No Sub-Ziro",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 151,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P0CVYLGYU",
+            "defenderName": "No Flash",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 158,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#299PCL828",
+        "name": "Wybraniec",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#299PCL828",
+            "attackerName": "Wybraniec",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2G2R8G2Q2",
+            "defenderName": "$ Ottoman $",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 174,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9GP08G0PC",
+        "name": "KOKS",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9GP08G0PC",
+            "attackerName": "KOKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YU8G9PQ8C",
+            "defenderName": "subur",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 153,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "subur"
+        }
+      },
+      {
+        "tag": "#PJR8PV8P0",
+        "name": "ColManeQPL",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sabar"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2VCPV2UVP",
+            "defenderName": "kukuh",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LQ28VCJQR",
+            "defenderName": "No Wan-Ziro",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 94,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YP8JCRCPG",
+        "name": "krakra",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YP8JCRCPG",
+            "attackerName": "krakra",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#299CRVPQP",
+            "defenderName": "No GoGo Ziro",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "No GoGo Ziro"
+        }
+      },
+      {
+        "tag": "#9QJQV8PJG",
+        "name": "MrTea",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9QJQV8PJG",
+            "attackerName": "MrTea",
+            "attackerTH": 15,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2LV2YL0J8",
+            "defenderName": "imronah",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "kukuh"
+        }
+      },
+      {
+        "tag": "#QYUU0008R",
+        "name": "Vallesco",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QYUU0008R",
+            "attackerName": "Vallesco",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8PRU0YJY2",
+            "defenderName": "vian s",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 118,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "vian s"
+        }
+      },
+      {
+        "tag": "#9CC0J9LC0",
+        "name": "Panda",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9CC0J9LC0",
+            "attackerName": "Panda",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2RLC289JV",
+            "defenderName": "Damns Ind",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 92,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Damns Ind"
+        }
+      },
+      {
+        "tag": "#LJJ0PRCCG",
+        "name": "Jelen",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LJJ0PRCCG",
+            "attackerName": "Jelen",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QQ8QLVLUY",
+            "defenderName": "DR. NO ZIRO",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2JCY00LP",
+        "name": "JJ",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2JCY00LP",
+            "attackerName": "JJ",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2Q2R0LU9U",
+            "defenderName": "the bos",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "the bos"
+        }
+      },
+      {
+        "tag": "#U8UG9VCU",
+        "name": "Patryk1m",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#U8UG9VCU",
+            "attackerName": "Patryk1m",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#9GUQ0CLU0",
+            "defenderName": "kian santang",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kian santang"
+        }
+      },
+      {
+        "tag": "#PCGCRVG98",
+        "name": "GruchaczPL",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PCGCRVG98",
+            "attackerName": "GruchaczPL",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#QV02UVRCV",
+            "defenderName": "Upik Ziro",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 86,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Upik Ziro"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#Q2RJ82UV",
+    "name": "LOVE IN JAWA",
+    "clanLevel": 21,
+    "stars": 23,
+    "destructionPercentage": 57.6,
+    "attacks": 9,
+    "members": [
+      {
+        "tag": "#28PV8VYJR",
+        "name": "No Sub-Ziro",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#P0CVYLGYU",
+        "name": "No Flash",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#2G2R8G2Q2",
+        "name": "$ Ottoman $",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "Wybraniec"
+        }
+      },
+      {
+        "tag": "#YU8G9PQ8C",
+        "name": "subur",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YU8G9PQ8C",
+            "attackerName": "subur",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9GP08G0PC",
+            "defenderName": "KOKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 118,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "KOKS"
+        }
+      },
+      {
+        "tag": "#YCQ80G98R",
+        "name": "sabar",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YCQ80G98R",
+            "attackerName": "sabar",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#PJR8PV8P0",
+            "defenderName": "ColManeQPL",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2VCPV2UVP",
+        "name": "kukuh",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2VCPV2UVP",
+            "attackerName": "kukuh",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9QJQV8PJG",
+            "defenderName": "MrTea",
+            "defenderTH": 15,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#LQ28VCJQR",
+        "name": "No Wan-Ziro",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#299CRVPQP",
+        "name": "No GoGo Ziro",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#299CRVPQP",
+            "attackerName": "No GoGo Ziro",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YP8JCRCPG",
+            "defenderName": "krakra",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 180,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "krakra"
+        }
+      },
+      {
+        "tag": "#2LV2YL0J8",
+        "name": "imronah",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MrTea"
+        }
+      },
+      {
+        "tag": "#8PRU0YJY2",
+        "name": "vian s",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8PRU0YJY2",
+            "attackerName": "vian s",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#QYUU0008R",
+            "defenderName": "Vallesco",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Vallesco"
+        }
+      },
+      {
+        "tag": "#2RLC289JV",
+        "name": "Damns Ind",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2RLC289JV",
+            "attackerName": "Damns Ind",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9CC0J9LC0",
+            "defenderName": "Panda",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Panda"
+        }
+      },
+      {
+        "tag": "#QQ8QLVLUY",
+        "name": "DR. NO ZIRO",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jelen"
+        }
+      },
+      {
+        "tag": "#2Q2R0LU9U",
+        "name": "the bos",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2R0LU9U",
+            "attackerName": "the bos",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2JCY00LP",
+            "defenderName": "JJ",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "JJ"
+        }
+      },
+      {
+        "tag": "#9GUQ0CLU0",
+        "name": "kian santang",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9GUQ0CLU0",
+            "attackerName": "kian santang",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#U8UG9VCU",
+            "defenderName": "Patryk1m",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 169,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Patryk1m"
+        }
+      },
+      {
+        "tag": "#QV02UVRCV",
+        "name": "Upik Ziro",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QV02UVRCV",
+            "attackerName": "Upik Ziro",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#PCGCRVG98",
+            "defenderName": "GruchaczPL",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 145,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "GruchaczPL"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2VCPV2UVP",
+      "defenderName": "kukuh",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YP8JCRCPG",
+      "attackerName": "krakra",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#299CRVPQP",
+      "defenderName": "No GoGo Ziro",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#U8UG9VCU",
+      "attackerName": "Patryk1m",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#9GUQ0CLU0",
+      "defenderName": "kian santang",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2JCY00LP",
+      "attackerName": "JJ",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2Q2R0LU9U",
+      "defenderName": "the bos",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CC0J9LC0",
+      "attackerName": "Panda",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2RLC289JV",
+      "defenderName": "Damns Ind",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 92,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LJJ0PRCCG",
+      "attackerName": "Jelen",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QQ8QLVLUY",
+      "defenderName": "DR. NO ZIRO",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9QJQV8PJG",
+      "attackerName": "MrTea",
+      "attackerTH": 15,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2LV2YL0J8",
+      "defenderName": "imronah",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#299CRVPQP",
+      "attackerName": "No GoGo Ziro",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YP8JCRCPG",
+      "defenderName": "krakra",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 180,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QV02UVRCV",
+      "attackerName": "Upik Ziro",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#PCGCRVG98",
+      "defenderName": "GruchaczPL",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 145,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#299PCL828",
+      "attackerName": "Wybraniec",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2G2R8G2Q2",
+      "defenderName": "$ Ottoman $",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 174,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P0CVYLGYU",
+      "defenderName": "No Flash",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 158,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VCPV2UVP",
+      "attackerName": "kukuh",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9QJQV8PJG",
+      "defenderName": "MrTea",
+      "defenderTH": 15,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GP08G0PC",
+      "attackerName": "KOKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YU8G9PQ8C",
+      "defenderName": "subur",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 153,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QYUU0008R",
+      "attackerName": "Vallesco",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8PRU0YJY2",
+      "defenderName": "vian s",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 118,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YCQ80G98R",
+      "attackerName": "sabar",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#PJR8PV8P0",
+      "defenderName": "ColManeQPL",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GUQ0CLU0",
+      "attackerName": "kian santang",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#U8UG9VCU",
+      "defenderName": "Patryk1m",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 169,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PRU0YJY2",
+      "attackerName": "vian s",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#QYUU0008R",
+      "defenderName": "Vallesco",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YU8G9PQ8C",
+      "attackerName": "subur",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9GP08G0PC",
+      "defenderName": "KOKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 118,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q2R0LU9U",
+      "attackerName": "the bos",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2JCY00LP",
+      "defenderName": "JJ",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RLC289JV",
+      "attackerName": "Damns Ind",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9CC0J9LC0",
+      "defenderName": "Panda",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PCGCRVG98",
+      "attackerName": "GruchaczPL",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#QV02UVRCV",
+      "defenderName": "Upik Ziro",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 86,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LQ28VCJQR",
+      "defenderName": "No Wan-Ziro",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 94,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#28PV8VYJR",
+      "defenderName": "No Sub-Ziro",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 151,
+      "order": 23,
+      "side": "clan"
+    }
+  ]
+}

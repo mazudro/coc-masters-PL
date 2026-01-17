@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.567Z",
+  "season": "2025-10",
+  "warTag": "JPRPRVUY-20251008T001914000Z",
+  "startTime": "20251006T231156.000Z",
+  "endTime": "20251008T001914.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 23,
+    "stars": 38,
+    "destructionPercentage": 93.53333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2PYCL8YJU",
+            "defenderName": "CPT. Hindsight",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 180,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "CPT. Hindsight"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2PJ8Q8V2Q",
+            "defenderName": "kaopaytek",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 146,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kaopaytek"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#YCRCPJU88",
+            "defenderName": "Stark Tzy",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 180,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Stark Tzy"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#Q28YLPYCG",
+            "defenderName": "Uncdka",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 180,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Uncdka"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QGQQ2GYVU",
+            "attackerName": "vermer",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#GR2RCC9CG",
+            "defenderName": "Akuyaku",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "YN Tripster"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#Y99LY9V99",
+            "defenderName": "liam",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 136,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "liam"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#G882YLJUQ",
+            "defenderName": "Zero",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BatokBoluIsiBom"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QPL08GCJ0",
+            "defenderName": "BatokBoluIsiBom",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Xylaria"
+        }
+      },
+      {
+        "tag": "#RL8YC2LL",
+        "name": "Kiesl",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#RL8YC2LL",
+            "attackerName": "Kiesl",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2UYLGQ9UJ",
+            "defenderName": "YN Tripster",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 180,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Akuyaku"
+        }
+      },
+      {
+        "tag": "#YP8JCRCPG",
+        "name": "krakra",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YP8JCRCPG",
+            "attackerName": "krakra",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#GRLPQL8Y8",
+            "defenderName": "Xylaria",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "ChaosM"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#GQV809VV2",
+            "defenderName": "uncle bizzum",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "uncle bizzum"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#GGJRLP2VL",
+            "defenderName": "Luch",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Luch"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LCRRVR0QQ",
+            "defenderName": "smokeknight007",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 78,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "smokeknight007"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#GJYUPRPJC",
+            "defenderName": "ChaosM",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zero"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 22,
+            "defenderTag": "#GGVCQUYYV",
+            "defenderName": "chef ed",
+            "defenderTH": 14,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 127,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "chef ed"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#LGJJRYRQ",
+    "name": "BD Master",
+    "clanLevel": 19,
+    "stars": 38,
+    "destructionPercentage": 96.13333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2PYCL8YJU",
+        "name": "CPT. Hindsight",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2PYCL8YJU",
+            "attackerName": "CPT. Hindsight",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#2PJ8Q8V2Q",
+        "name": "kaopaytek",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2PJ8Q8V2Q",
+            "attackerName": "kaopaytek",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 127,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#YCRCPJU88",
+        "name": "Stark Tzy",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YCRCPJU88",
+            "attackerName": "Stark Tzy",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 136,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#Q28YLPYCG",
+        "name": "Uncdka",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q28YLPYCG",
+            "attackerName": "Uncdka",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#2UYLGQ9UJ",
+        "name": "YN Tripster",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2UYLGQ9UJ",
+            "attackerName": "YN Tripster",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 180,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "Kiesl"
+        }
+      },
+      {
+        "tag": "#Y99LY9V99",
+        "name": "liam",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Y99LY9V99",
+            "attackerName": "liam",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 157,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#G882YLJUQ",
+        "name": "Zero",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#G882YLJUQ",
+            "attackerName": "Zero",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#QPL08GCJ0",
+        "name": "BatokBoluIsiBom",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QPL08GCJ0",
+            "attackerName": "BatokBoluIsiBom",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#GR2RCC9CG",
+        "name": "Akuyaku",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#GR2RCC9CG",
+            "attackerName": "Akuyaku",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#RL8YC2LL",
+            "defenderName": "Kiesl",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 164,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "vermer"
+        }
+      },
+      {
+        "tag": "#GRLPQL8Y8",
+        "name": "Xylaria",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GRLPQL8Y8",
+            "attackerName": "Xylaria",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 164,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "krakra"
+        }
+      },
+      {
+        "tag": "#GQV809VV2",
+        "name": "uncle bizzum",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GQV809VV2",
+            "attackerName": "uncle bizzum",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#GGJRLP2VL",
+        "name": "Luch",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#GGJRLP2VL",
+            "attackerName": "Luch",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#LCRRVR0QQ",
+        "name": "smokeknight007",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LCRRVR0QQ",
+            "attackerName": "smokeknight007",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#GJYUPRPJC",
+        "name": "ChaosM",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#GJYUPRPJC",
+            "attackerName": "ChaosM",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#YP8JCRCPG",
+            "defenderName": "krakra",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 161,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#GGVCQUYYV",
+        "name": "chef ed",
+        "townhallLevel": 14,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GGVCQUYYV",
+            "attackerName": "chef ed",
+            "attackerTH": 14,
+            "attackerMapPosition": 20,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#Y99LY9V99",
+      "defenderName": "liam",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 136,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QPL08GCJ0",
+      "defenderName": "BatokBoluIsiBom",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QPL08GCJ0",
+      "attackerName": "BatokBoluIsiBom",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2PYCL8YJU",
+      "defenderName": "CPT. Hindsight",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 180,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GQV809VV2",
+      "attackerName": "uncle bizzum",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GGJRLP2VL",
+      "attackerName": "Luch",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GGVCQUYYV",
+      "attackerName": "chef ed",
+      "attackerTH": 14,
+      "attackerMapPosition": 20,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PYCL8YJU",
+      "attackerName": "CPT. Hindsight",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2UYLGQ9UJ",
+      "attackerName": "YN Tripster",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 180,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q28YLPYCG",
+      "attackerName": "Uncdka",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RL8YC2LL",
+      "attackerName": "Kiesl",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2UYLGQ9UJ",
+      "defenderName": "YN Tripster",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 180,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#G882YLJUQ",
+      "defenderName": "Zero",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#GQV809VV2",
+      "defenderName": "uncle bizzum",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LCRRVR0QQ",
+      "defenderName": "smokeknight007",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 78,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#Q28YLPYCG",
+      "defenderName": "Uncdka",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 180,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PJ8Q8V2Q",
+      "attackerName": "kaopaytek",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 127,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QGQQ2GYVU",
+      "attackerName": "vermer",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#GR2RCC9CG",
+      "defenderName": "Akuyaku",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#GJYUPRPJC",
+      "defenderName": "ChaosM",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G882YLJUQ",
+      "attackerName": "Zero",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 22,
+      "defenderTag": "#GGVCQUYYV",
+      "defenderName": "chef ed",
+      "defenderTH": 14,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 127,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#GGJRLP2VL",
+      "defenderName": "Luch",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LCRRVR0QQ",
+      "attackerName": "smokeknight007",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YP8JCRCPG",
+      "attackerName": "krakra",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#GRLPQL8Y8",
+      "defenderName": "Xylaria",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YCRCPJU88",
+      "attackerName": "Stark Tzy",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 136,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2PJ8Q8V2Q",
+      "defenderName": "kaopaytek",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 146,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJYUPRPJC",
+      "attackerName": "ChaosM",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#YP8JCRCPG",
+      "defenderName": "krakra",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 161,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#YCRCPJU88",
+      "defenderName": "Stark Tzy",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 180,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GR2RCC9CG",
+      "attackerName": "Akuyaku",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#RL8YC2LL",
+      "defenderName": "Kiesl",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 164,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y99LY9V99",
+      "attackerName": "liam",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 157,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GRLPQL8Y8",
+      "attackerName": "Xylaria",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 164,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

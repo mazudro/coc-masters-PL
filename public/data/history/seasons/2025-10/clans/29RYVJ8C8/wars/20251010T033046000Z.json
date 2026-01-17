@@ -1,0 +1,1339 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.179Z",
+  "season": "2025-10",
+  "warTag": "29RYVJ8C8-20251010T033046000Z",
+  "startTime": "20251009T030143.000Z",
+  "endTime": "20251010T033046.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 34,
+    "destructionPercentage": 86.13333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#J0L2G29C",
+            "defenderName": "Azzurro",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 176,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YVJLC2R0",
+            "defenderName": "Ale",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 85,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ale"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEUSZ KRÓL !!",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEUSZ KRÓL !!",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#220YQR99P",
+            "defenderName": "lorenzo",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 91,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "lorenzo"
+        }
+      },
+      {
+        "tag": "#QCYJQ2Q2V",
+        "name": "Jjiraya v2",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QCYJQ2Q2V",
+            "attackerName": "Jjiraya v2",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8RCVQQ09",
+            "defenderName": "frizza",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 127,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "frizza"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8JQ0QGLJ8",
+            "defenderName": "lazzaro",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 161,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "lazzaro"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#V2LGVCVJ",
+            "defenderName": "davidinho",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 90,
+            "duration": 180,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "davidinho"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YCPUU2GJ0",
+            "defenderName": "WxlfiiGOD",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "WxlfiiGOD"
+        }
+      },
+      {
+        "tag": "#2Q0JGCJVG",
+        "name": "kaliber 44",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0JGCJVG",
+            "attackerName": "kaliber 44",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#UL982QVJ",
+            "defenderName": "Evil",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Evil"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LUCGPJG",
+            "defenderName": "Don Leo",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Azzurro"
+        }
+      },
+      {
+        "tag": "#Y29YYQR2",
+        "name": "kamyk",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y29YYQR2",
+            "attackerName": "kamyk",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#PPY9YJYU",
+            "defenderName": "azuju",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 73,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "azuju"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "Mamcorz 2.0",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "Mamcorz 2.0",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#JGUQ8PJJ",
+            "defenderName": "B GiaKo 99",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "B GiaKo 99"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YYJG0CVR9",
+            "defenderName": "Asador",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "Asador"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#UQ9JC8CJ",
+            "defenderName": "A BUO PILLLONZI",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 101,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "A BUO PILLLONZI"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 14,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2QCGG2UR8",
+            "defenderName": "KAISER SOZE",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 174,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KAISER SOZE"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#Q98Y8RV2C",
+            "defenderName": "Fra05",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#CYGL2JJ",
+    "name": "Clan:  #CYGL2JJ",
+    "clanLevel": 26,
+    "stars": 31,
+    "destructionPercentage": 76.13333333333334,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#J0L2G29C",
+        "name": "Azzurro",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#J0L2G29C",
+            "attackerName": "Azzurro",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 119,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#YVJLC2R0",
+        "name": "Ale",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YVJLC2R0",
+            "attackerName": "Ale",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#220YQR99P",
+        "name": "lorenzo",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#220YQR99P",
+            "attackerName": "lorenzo",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEUSZ KRÓL !!",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "MATEUSZ KRÓL !!"
+        }
+      },
+      {
+        "tag": "#8RCVQQ09",
+        "name": "frizza",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8RCVQQ09",
+            "attackerName": "frizza",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QCYJQ2Q2V",
+            "defenderName": "Jjiraya v2",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 157,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Jjiraya v2"
+        }
+      },
+      {
+        "tag": "#8JQ0QGLJ8",
+        "name": "lazzaro",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8JQ0QGLJ8",
+            "attackerName": "lazzaro",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 180,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#V2LGVCVJ",
+        "name": "davidinho",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#V2LGVCVJ",
+            "attackerName": "davidinho",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 99,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 90,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#YCPUU2GJ0",
+        "name": "WxlfiiGOD",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YCPUU2GJ0",
+            "attackerName": "WxlfiiGOD",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 164,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#UL982QVJ",
+        "name": "Evil",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#UL982QVJ",
+            "attackerName": "Evil",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2Q0JGCJVG",
+            "defenderName": "kaliber 44",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 166,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kaliber 44"
+        }
+      },
+      {
+        "tag": "#LUCGPJG",
+        "name": "Don Leo",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#PPY9YJYU",
+        "name": "azuju",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PPY9YJYU",
+            "attackerName": "azuju",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Y29YYQR2",
+            "defenderName": "kamyk",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 180,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "kamyk"
+        }
+      },
+      {
+        "tag": "#JGUQ8PJJ",
+        "name": "B GiaKo 99",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#JGUQ8PJJ",
+            "attackerName": "B GiaKo 99",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "Mamcorz 2.0",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 76,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz 2.0"
+        }
+      },
+      {
+        "tag": "#YYJG0CVR9",
+        "name": "Asador",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YYJG0CVR9",
+            "attackerName": "Asador",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 102,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#UQ9JC8CJ",
+        "name": "A BUO PILLLONZI",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#UQ9JC8CJ",
+            "attackerName": "A BUO PILLLONZI",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 103,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#2QCGG2UR8",
+        "name": "KAISER SOZE",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2QCGG2UR8",
+            "attackerName": "KAISER SOZE",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 151,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#Q98Y8RV2C",
+        "name": "Fra05",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8JQ0QGLJ8",
+      "attackerName": "lazzaro",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 180,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#220YQR99P",
+      "attackerName": "lorenzo",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEUSZ KRÓL !!",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y29YYQR2",
+      "attackerName": "kamyk",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#PPY9YJYU",
+      "defenderName": "azuju",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 73,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEUSZ KRÓL !!",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#220YQR99P",
+      "defenderName": "lorenzo",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 91,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YYJG0CVR9",
+      "defenderName": "Asador",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#V2LGVCVJ",
+      "defenderName": "davidinho",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 90,
+      "duration": 180,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPY9YJYU",
+      "attackerName": "azuju",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Y29YYQR2",
+      "defenderName": "kamyk",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 180,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8JQ0QGLJ8",
+      "defenderName": "lazzaro",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 161,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QCGG2UR8",
+      "attackerName": "KAISER SOZE",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 151,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JGUQ8PJJ",
+      "attackerName": "B GiaKo 99",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "Mamcorz 2.0",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 76,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#UQ9JC8CJ",
+      "defenderName": "A BUO PILLLONZI",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 101,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YVJLC2R0",
+      "defenderName": "Ale",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 85,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YCPUU2GJ0",
+      "attackerName": "WxlfiiGOD",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 164,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YYJG0CVR9",
+      "attackerName": "Asador",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 102,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UL982QVJ",
+      "attackerName": "Evil",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2Q0JGCJVG",
+      "defenderName": "kaliber 44",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 166,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8RCVQQ09",
+      "attackerName": "frizza",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QCYJQ2Q2V",
+      "defenderName": "Jjiraya v2",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 157,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#Q98Y8RV2C",
+      "defenderName": "Fra05",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 14,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2QCGG2UR8",
+      "defenderName": "KAISER SOZE",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 174,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UQ9JC8CJ",
+      "attackerName": "A BUO PILLLONZI",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 103,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#J0L2G29C",
+      "defenderName": "Azzurro",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 176,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YCPUU2GJ0",
+      "defenderName": "WxlfiiGOD",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "Mamcorz 2.0",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#JGUQ8PJJ",
+      "defenderName": "B GiaKo 99",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#V2LGVCVJ",
+      "attackerName": "davidinho",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 99,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LUCGPJG",
+      "defenderName": "Don Leo",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YVJLC2R0",
+      "attackerName": "Ale",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QCYJQ2Q2V",
+      "attackerName": "Jjiraya v2",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8RCVQQ09",
+      "defenderName": "frizza",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 127,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0L2G29C",
+      "attackerName": "Azzurro",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 119,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q0JGCJVG",
+      "attackerName": "kaliber 44",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#UL982QVJ",
+      "defenderName": "Evil",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 28,
+      "side": "clan"
+    }
+  ]
+}

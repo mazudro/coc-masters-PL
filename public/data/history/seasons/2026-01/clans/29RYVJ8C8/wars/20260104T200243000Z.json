@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.228Z",
+  "season": "2026-01",
+  "warTag": "29RYVJ8C8-20260104T200243000Z",
+  "startTime": "20260103T200243.000Z",
+  "endTime": "20260104T200243.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 36,
+    "destructionPercentage": 85.06666666666666,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LUQGL09R",
+            "defenderName": "jug",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 152,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "jug"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "sankee"
+        }
+      },
+      {
+        "tag": "#CV8LJRLV",
+        "name": "Gucio",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#CV8LJRLV",
+            "attackerName": "Gucio",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8LLL9QLG",
+            "defenderName": "sankee",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 180,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 55,
+          "attackerName": "Rucci69;)"
+        }
+      },
+      {
+        "tag": "#RGR9RY2",
+        "name": "Dominik",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGR9RY2",
+            "attackerName": "Dominik",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#RVVC2PGU",
+            "defenderName": "Tilen",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "Miki"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#J8YYY0C",
+            "defenderName": "DenisL",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 150,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 68,
+          "attackerName": "DenisL"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#UGYVJ0V",
+            "defenderName": "Miki",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "uros0803"
+        }
+      },
+      {
+        "tag": "#QJ88YRYR8",
+        "name": "Barto19",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QJ88YRYR8",
+            "attackerName": "Barto19",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#RP2LCYC2",
+            "defenderName": "jug1",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 129,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "MisoSVR"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#J8Q0G9U",
+            "defenderName": "uros0803",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 163,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "Foxy"
+        }
+      },
+      {
+        "tag": "#9RQYYJR00",
+        "name": "~••KING••~",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYYJR00",
+            "attackerName": "~••KING••~",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#20U980980",
+            "defenderName": "MisoSVR",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "♥Julija ♥"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#9GY8V0RLY",
+            "defenderName": "Julija",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 167,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "tjasa"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#Q008JVRVR",
+            "defenderName": "hanzi",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tilen"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#U2L8UUJV",
+            "defenderName": "Metka",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "Julija"
+        }
+      },
+      {
+        "tag": "#GLUYQUCQV",
+        "name": "SlimShady",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#GLUYQUCQV",
+            "attackerName": "SlimShady",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8Y0GPVRP",
+            "defenderName": "tjasa",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 171,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "hanzi"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#22RGLG8CP",
+            "defenderName": "♥Julija ♥",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Metka"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8JLUP2CVG",
+            "defenderName": "Foxy",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "jug1"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#80RP28UC",
+    "name": "Mlada Slovenija",
+    "clanLevel": 27,
+    "stars": 30,
+    "destructionPercentage": 79,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#LUQGL09R",
+        "name": "jug",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LUQGL09R",
+            "attackerName": "jug",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 144,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#8LLL9QLG",
+        "name": "sankee",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8LLL9QLG",
+            "attackerName": "sankee",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 116,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Gucio"
+        }
+      },
+      {
+        "tag": "#PP9RJPLL9",
+        "name": "Rucci69;)",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PP9RJPLL9",
+            "attackerName": "Rucci69;)",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#CV8LJRLV",
+            "defenderName": "Gucio",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 55,
+            "duration": 87,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 55,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RVVC2PGU",
+        "name": "Tilen",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RVVC2PGU",
+            "attackerName": "Tilen",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 102,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Dominik"
+        }
+      },
+      {
+        "tag": "#J8YYY0C",
+        "name": "DenisL",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#J8YYY0C",
+            "attackerName": "DenisL",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 68,
+            "duration": 153,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#UGYVJ0V",
+        "name": "Miki",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#UGYVJ0V",
+            "attackerName": "Miki",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#RGR9RY2",
+            "defenderName": "Dominik",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 101,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#RP2LCYC2",
+        "name": "jug1",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#RP2LCYC2",
+            "attackerName": "jug1",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 102,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Barto19"
+        }
+      },
+      {
+        "tag": "#J8Q0G9U",
+        "name": "uros0803",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#J8Q0G9U",
+            "attackerName": "uros0803",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 138,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#20U980980",
+        "name": "MisoSVR",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#20U980980",
+            "attackerName": "MisoSVR",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#QJ88YRYR8",
+            "defenderName": "Barto19",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 91,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "~••KING••~"
+        }
+      },
+      {
+        "tag": "#9GY8V0RLY",
+        "name": "Julija",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9GY8V0RLY",
+            "attackerName": "Julija",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 131,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#Q008JVRVR",
+        "name": "hanzi",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Q008JVRVR",
+            "attackerName": "hanzi",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#GLUYQUCQV",
+            "defenderName": "SlimShady",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 148,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#U2L8UUJV",
+        "name": "Metka",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#U2L8UUJV",
+            "attackerName": "Metka",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 156,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#8Y0GPVRP",
+        "name": "tjasa",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8Y0GPVRP",
+            "attackerName": "tjasa",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 180,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SlimShady"
+        }
+      },
+      {
+        "tag": "#22RGLG8CP",
+        "name": "♥Julija ♥",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#22RGLG8CP",
+            "attackerName": "♥Julija ♥",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9RQYYJR00",
+            "defenderName": "~••KING••~",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 180,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#8JLUP2CVG",
+        "name": "Foxy",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#8JLUP2CVG",
+            "attackerName": "Foxy",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 180,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#22RGLG8CP",
+      "defenderName": "♥Julija ♥",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GLUYQUCQV",
+      "attackerName": "SlimShady",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8Y0GPVRP",
+      "defenderName": "tjasa",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 171,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J8YYY0C",
+      "attackerName": "DenisL",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 68,
+      "duration": 153,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9RQYYJR00",
+      "attackerName": "~••KING••~",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#20U980980",
+      "defenderName": "MisoSVR",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QJ88YRYR8",
+      "attackerName": "Barto19",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#RP2LCYC2",
+      "defenderName": "jug1",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 129,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LUQGL09R",
+      "defenderName": "jug",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 152,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LLL9QLG",
+      "attackerName": "sankee",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 116,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGR9RY2",
+      "attackerName": "Dominik",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#RVVC2PGU",
+      "defenderName": "Tilen",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CV8LJRLV",
+      "attackerName": "Gucio",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8LLL9QLG",
+      "defenderName": "sankee",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 180,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#J8Q0G9U",
+      "defenderName": "uros0803",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 163,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PP9RJPLL9",
+      "attackerName": "Rucci69;)",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#CV8LJRLV",
+      "defenderName": "Gucio",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 55,
+      "duration": 87,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#Q008JVRVR",
+      "defenderName": "hanzi",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8JLUP2CVG",
+      "defenderName": "Foxy",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#J8YYY0C",
+      "defenderName": "DenisL",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 150,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J8Q0G9U",
+      "attackerName": "uros0803",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 138,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LUQGL09R",
+      "attackerName": "jug",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 144,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#9GY8V0RLY",
+      "defenderName": "Julija",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 167,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8JLUP2CVG",
+      "attackerName": "Foxy",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 180,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UGYVJ0V",
+      "attackerName": "Miki",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#RGR9RY2",
+      "defenderName": "Dominik",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 101,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22RGLG8CP",
+      "attackerName": "♥Julija ♥",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9RQYYJR00",
+      "defenderName": "~••KING••~",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 180,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RP2LCYC2",
+      "attackerName": "jug1",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 102,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y0GPVRP",
+      "attackerName": "tjasa",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 180,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#U2L8UUJV",
+      "attackerName": "Metka",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 156,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RVVC2PGU",
+      "attackerName": "Tilen",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 102,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q008JVRVR",
+      "attackerName": "hanzi",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#GLUYQUCQV",
+      "defenderName": "SlimShady",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 148,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GY8V0RLY",
+      "attackerName": "Julija",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 131,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20U980980",
+      "attackerName": "MisoSVR",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#QJ88YRYR8",
+      "defenderName": "Barto19",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 91,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#U2L8UUJV",
+      "defenderName": "Metka",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#UGYVJ0V",
+      "defenderName": "Miki",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

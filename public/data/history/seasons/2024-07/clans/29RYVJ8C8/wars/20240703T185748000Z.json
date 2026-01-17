@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:20.975Z",
+  "season": "2024-07",
+  "warTag": "29RYVJ8C8-20240703T185748000Z",
+  "startTime": "20240702T185748.000Z",
+  "endTime": "20240703T185748.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 6,
+    "stars": 37,
+    "destructionPercentage": 92.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#8YPP02LVY",
+            "defenderName": "ABIR",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 124,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "ABIR"
+        }
+      },
+      {
+        "tag": "#GULJCRQJ",
+        "name": "Jetix",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#GULJCRQJ",
+            "attackerName": "Jetix",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#9QC9LYJJG",
+            "defenderName": "JENISH PANCHAL",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 124,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 80,
+          "attackerName": "JENISH PANCHAL"
+        }
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8LYYPYULC",
+            "defenderName": "SYED ABDUL RAB",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "SYED ABDUL RAB"
+        }
+      },
+      {
+        "tag": "#9GP08G0PC",
+        "name": "KOKS",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9GP08G0PC",
+            "attackerName": "KOKS",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#Y0CL29Y9J",
+            "defenderName": "ANIRBAN",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 101,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ANIRBAN"
+        }
+      },
+      {
+        "tag": "#UJGQGYJ8",
+        "name": "Games",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#UJGQGYJ8",
+            "attackerName": "Games",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9GUQPQJ2J",
+            "defenderName": "Rocky",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 102,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "Rocky"
+        }
+      },
+      {
+        "tag": "#2Q0JGCJVG",
+        "name": "kaliber 44",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0JGCJVG",
+            "attackerName": "kaliber 44",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9C2GJLC2U",
+            "defenderName": "DAREDEVIL ☠",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 173,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "DAREDEVIL ☠"
+        }
+      },
+      {
+        "tag": "#QRPGPYY0J",
+        "name": "AdeK2",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QRPGPYY0J",
+            "attackerName": "AdeK2",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2J8CQULR",
+            "defenderName": "ArnavASB",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "ArnavASB"
+        }
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QYQY2YY0Q",
+            "defenderName": "Rock Saheb",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 95,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Rock Saheb"
+        }
+      },
+      {
+        "tag": "#PJR8PV8P0",
+        "name": "ColManeQPL",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PJR8PV8P0",
+            "attackerName": "ColManeQPL",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#20VYJQY8L",
+            "defenderName": "»»$P€Ñ©€®««",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "»»$P€Ñ©€®««"
+        }
+      },
+      {
+        "tag": "#PJU0UL2",
+        "name": "HuTcH v",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PJU0UL2",
+            "attackerName": "HuTcH v",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2L908G0GR",
+            "defenderName": "raghuvanshi",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "raghuvanshi"
+        }
+      },
+      {
+        "tag": "#2P022Q08U",
+        "name": "#KorNiszon",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2P022Q08U",
+            "attackerName": "#KorNiszon",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#L9G280PGL",
+            "defenderName": "Yasshhh",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 66,
+          "attackerName": "Yasshhh"
+        }
+      },
+      {
+        "tag": "#QYUU0008R",
+        "name": "Vallesco",
+        "townhallLevel": 14,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QYUU0008R",
+            "attackerName": "Vallesco",
+            "attackerTH": 14,
+            "attackerMapPosition": 12,
+            "defenderTag": "#PGYJ98CYY",
+            "defenderName": "baba々jackson",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "baba々jackson"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 13,
+            "attackerMapPosition": 14,
+            "defenderTag": "#QG2GPVQ8Y",
+            "defenderName": "GEHAN",
+            "defenderTH": 13,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 101,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "GEHAN"
+        }
+      },
+      {
+        "tag": "#RR0GJJL",
+        "name": "Olivia",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#RR0GJJL",
+            "attackerName": "Olivia",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#L800PPP8U",
+            "defenderName": "optimus prime",
+            "defenderTH": 13,
+            "defenderMapPosition": 17,
+            "stars": 1,
+            "destructionPercentage": 70,
+            "duration": 86,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "optimus prime"
+        }
+      },
+      {
+        "tag": "#22VRU89L",
+        "name": "SebekG",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#22VRU89L",
+            "attackerName": "SebekG",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#PV8YQCJUV",
+            "defenderName": "FLAME EMPEROR",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 111,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "FLAME EMPEROR"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#28RQQ2QYC",
+    "name": "hindustan❤gamer",
+    "clanLevel": 21,
+    "stars": 33,
+    "destructionPercentage": 84.8,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#8YPP02LVY",
+        "name": "ABIR",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8YPP02LVY",
+            "attackerName": "ABIR",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 100,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#9QC9LYJJG",
+        "name": "JENISH PANCHAL",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9QC9LYJJG",
+            "attackerName": "JENISH PANCHAL",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#GULJCRQJ",
+            "defenderName": "Jetix",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 80,
+            "duration": 180,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Jetix"
+        }
+      },
+      {
+        "tag": "#8LYYPYULC",
+        "name": "SYED ABDUL RAB",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8LYYPYULC",
+            "attackerName": "SYED ABDUL RAB",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 166,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#Y0CL29Y9J",
+        "name": "ANIRBAN",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Y0CL29Y9J",
+            "attackerName": "ANIRBAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9GP08G0PC",
+            "defenderName": "KOKS",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "KOKS"
+        }
+      },
+      {
+        "tag": "#9GUQPQJ2J",
+        "name": "Rocky",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9GUQPQJ2J",
+            "attackerName": "Rocky",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#UJGQGYJ8",
+            "defenderName": "Games",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 99,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Games"
+        }
+      },
+      {
+        "tag": "#9C2GJLC2U",
+        "name": "DAREDEVIL ☠",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9C2GJLC2U",
+            "attackerName": "DAREDEVIL ☠",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2Q0JGCJVG",
+            "defenderName": "kaliber 44",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 95,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kaliber 44"
+        }
+      },
+      {
+        "tag": "#2J8CQULR",
+        "name": "ArnavASB",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2J8CQULR",
+            "attackerName": "ArnavASB",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QRPGPYY0J",
+            "defenderName": "AdeK2",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 93,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "AdeK2"
+        }
+      },
+      {
+        "tag": "#QYQY2YY0Q",
+        "name": "Rock Saheb",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QYQY2YY0Q",
+            "attackerName": "Rock Saheb",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#22Y9JQYJ",
+            "defenderName": "~ Yakuu ~",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 167,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#20VYJQY8L",
+        "name": "»»$P€Ñ©€®««",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#20VYJQY8L",
+            "attackerName": "»»$P€Ñ©€®««",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PJR8PV8P0",
+            "defenderName": "ColManeQPL",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 94,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ColManeQPL"
+        }
+      },
+      {
+        "tag": "#2L908G0GR",
+        "name": "raghuvanshi",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2L908G0GR",
+            "attackerName": "raghuvanshi",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#PJU0UL2",
+            "defenderName": "HuTcH v",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "HuTcH v"
+        }
+      },
+      {
+        "tag": "#L9G280PGL",
+        "name": "Yasshhh",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L9G280PGL",
+            "attackerName": "Yasshhh",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2P022Q08U",
+            "defenderName": "#KorNiszon",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 66,
+            "duration": 108,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "#KorNiszon"
+        }
+      },
+      {
+        "tag": "#PGYJ98CYY",
+        "name": "baba々jackson",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PGYJ98CYY",
+            "attackerName": "baba々jackson",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QYUU0008R",
+            "defenderName": "Vallesco",
+            "defenderTH": 14,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 74,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Vallesco"
+        }
+      },
+      {
+        "tag": "#QG2GPVQ8Y",
+        "name": "GEHAN",
+        "townhallLevel": 13,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QG2GPVQ8Y",
+            "attackerName": "GEHAN",
+            "attackerTH": 13,
+            "attackerMapPosition": 13,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 13,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#L800PPP8U",
+        "name": "optimus prime",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#L800PPP8U",
+            "attackerName": "optimus prime",
+            "attackerTH": 13,
+            "attackerMapPosition": 17,
+            "defenderTag": "#RR0GJJL",
+            "defenderName": "Olivia",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 70,
+          "attackerName": "Olivia"
+        }
+      },
+      {
+        "tag": "#PV8YQCJUV",
+        "name": "FLAME EMPEROR",
+        "townhallLevel": 13,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PV8YQCJUV",
+            "attackerName": "FLAME EMPEROR",
+            "attackerTH": 13,
+            "attackerMapPosition": 18,
+            "defenderTag": "#22VRU89L",
+            "defenderName": "SebekG",
+            "defenderTH": 12,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 93,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "SebekG"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#9C2GJLC2U",
+      "attackerName": "DAREDEVIL ☠",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2Q0JGCJVG",
+      "defenderName": "kaliber 44",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 95,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P022Q08U",
+      "attackerName": "#KorNiszon",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#L9G280PGL",
+      "defenderName": "Yasshhh",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9G280PGL",
+      "attackerName": "Yasshhh",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2P022Q08U",
+      "defenderName": "#KorNiszon",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 66,
+      "duration": 108,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8LYYPYULC",
+      "defenderName": "SYED ABDUL RAB",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QYQY2YY0Q",
+      "defenderName": "Rock Saheb",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 95,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QRPGPYY0J",
+      "attackerName": "AdeK2",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2J8CQULR",
+      "defenderName": "ArnavASB",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RR0GJJL",
+      "attackerName": "Olivia",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#L800PPP8U",
+      "defenderName": "optimus prime",
+      "defenderTH": 13,
+      "defenderMapPosition": 17,
+      "stars": 1,
+      "destructionPercentage": 70,
+      "duration": 86,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PJR8PV8P0",
+      "attackerName": "ColManeQPL",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#20VYJQY8L",
+      "defenderName": "»»$P€Ñ©€®««",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QG2GPVQ8Y",
+      "attackerName": "GEHAN",
+      "attackerTH": 13,
+      "attackerMapPosition": 13,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 13,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYQY2YY0Q",
+      "attackerName": "Rock Saheb",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#22Y9JQYJ",
+      "defenderName": "~ Yakuu ~",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 167,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PV8YQCJUV",
+      "attackerName": "FLAME EMPEROR",
+      "attackerTH": 13,
+      "attackerMapPosition": 18,
+      "defenderTag": "#22VRU89L",
+      "defenderName": "SebekG",
+      "defenderTH": 12,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 93,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9QC9LYJJG",
+      "attackerName": "JENISH PANCHAL",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#GULJCRQJ",
+      "defenderName": "Jetix",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 80,
+      "duration": 180,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GP08G0PC",
+      "attackerName": "KOKS",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#Y0CL29Y9J",
+      "defenderName": "ANIRBAN",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 101,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2J8CQULR",
+      "attackerName": "ArnavASB",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QRPGPYY0J",
+      "defenderName": "AdeK2",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 93,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GUQPQJ2J",
+      "attackerName": "Rocky",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#UJGQGYJ8",
+      "defenderName": "Games",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 99,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L800PPP8U",
+      "attackerName": "optimus prime",
+      "attackerTH": 13,
+      "attackerMapPosition": 17,
+      "defenderTag": "#RR0GJJL",
+      "defenderName": "Olivia",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYUU0008R",
+      "attackerName": "Vallesco",
+      "attackerTH": 14,
+      "attackerMapPosition": 12,
+      "defenderTag": "#PGYJ98CYY",
+      "defenderName": "baba々jackson",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2L908G0GR",
+      "attackerName": "raghuvanshi",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#PJU0UL2",
+      "defenderName": "HuTcH v",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22VRU89L",
+      "attackerName": "SebekG",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#PV8YQCJUV",
+      "defenderName": "FLAME EMPEROR",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 111,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LYYPYULC",
+      "attackerName": "SYED ABDUL RAB",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 166,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UJGQGYJ8",
+      "attackerName": "Games",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9GUQPQJ2J",
+      "defenderName": "Rocky",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 102,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q0JGCJVG",
+      "attackerName": "kaliber 44",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9C2GJLC2U",
+      "defenderName": "DAREDEVIL ☠",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 173,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PGYJ98CYY",
+      "attackerName": "baba々jackson",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QYUU0008R",
+      "defenderName": "Vallesco",
+      "defenderTH": 14,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 74,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PJU0UL2",
+      "attackerName": "HuTcH v",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2L908G0GR",
+      "defenderName": "raghuvanshi",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20VYJQY8L",
+      "attackerName": "»»$P€Ñ©€®««",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PJR8PV8P0",
+      "defenderName": "ColManeQPL",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 94,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YPP02LVY",
+      "attackerName": "ABIR",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 100,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#8YPP02LVY",
+      "defenderName": "ABIR",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 124,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GULJCRQJ",
+      "attackerName": "Jetix",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#9QC9LYJJG",
+      "defenderName": "JENISH PANCHAL",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 124,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y0CL29Y9J",
+      "attackerName": "ANIRBAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9GP08G0PC",
+      "defenderName": "KOKS",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 13,
+      "attackerMapPosition": 14,
+      "defenderTag": "#QG2GPVQ8Y",
+      "defenderName": "GEHAN",
+      "defenderTH": 13,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 101,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

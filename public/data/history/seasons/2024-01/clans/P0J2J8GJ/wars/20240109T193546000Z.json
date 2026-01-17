@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.765Z",
+  "season": "2024-01",
+  "warTag": "P0J2J8GJ-20240109T193546000Z",
+  "startTime": "20240108T193546.000Z",
+  "endTime": "20240109T193546.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 23,
+    "stars": 30,
+    "destructionPercentage": 74.26666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#Y2VUPRJJQ",
+            "defenderName": "серега 18 rus",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Alihan"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8Y9J898P9",
+            "defenderName": "Pavel",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 55,
+            "duration": 131,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "kuper"
+        }
+      },
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2PQ88JUP2",
+            "defenderName": "кирилл",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 101,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "серега 18 rus"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#20VPGJ9YL",
+            "defenderName": "Tudoran❤Nastya",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 67,
+            "duration": 134,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 67,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "Tudoran❤Nastya"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Y0090LV8",
+            "defenderName": "nike",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "nike"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8Y28QP2JY",
+            "defenderName": "ариэль",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 143,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Supreme"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y0UUQ9G29",
+            "defenderName": "Pavel",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 137,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pavel"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2YC2Q0QQ9",
+            "defenderName": "kuper",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 179,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "илья"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YYR9LJPR",
+            "defenderName": "Ram Rahmani™️",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 158,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Ram Rahmani™️"
+        }
+      },
+      {
+        "tag": "#2QYJJGP8V",
+        "name": "ROMAN",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2QYJJGP8V",
+            "attackerName": "ROMAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#20GV9UCR2",
+            "defenderName": "Evgeniy",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 85,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "Evgeniy"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8YV9L8RV",
+            "defenderName": "Dimitar 23",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 153,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Dimitar 23"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#280YYQG9Y",
+            "defenderName": "валера",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 158,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pavel"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9JGV80J0P",
+            "defenderName": "Alihan",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 115,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "кирилл"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#CU0J20QY",
+            "defenderName": "Supreme",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 1,
+            "destructionPercentage": 66,
+            "duration": 74,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ариэль"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#U9PVGPLG",
+            "defenderName": "илья",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 125,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "валера"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#LY80VCY9",
+    "name": "Минск",
+    "clanLevel": 25,
+    "stars": 34,
+    "destructionPercentage": 81.93333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#Y2VUPRJJQ",
+        "name": "серега 18 rus",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Y2VUPRJJQ",
+            "attackerName": "серега 18 rus",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 110,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#8Y9J898P9",
+        "name": "Pavel",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8Y9J898P9",
+            "attackerName": "Pavel",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 55,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#2PQ88JUP2",
+        "name": "кирилл",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2PQ88JUP2",
+            "attackerName": "кирилл",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 89,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#20VPGJ9YL",
+        "name": "Tudoran❤Nastya",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#20VPGJ9YL",
+            "attackerName": "Tudoran❤Nastya",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 145,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 67,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#Y0090LV8",
+        "name": "nike",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Y0090LV8",
+            "attackerName": "nike",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 101,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#8Y28QP2JY",
+        "name": "ариэль",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8Y28QP2JY",
+            "attackerName": "ариэль",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 94,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#Y0UUQ9G29",
+        "name": "Pavel",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Y0UUQ9G29",
+            "attackerName": "Pavel",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 81,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#2YC2Q0QQ9",
+        "name": "kuper",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2YC2Q0QQ9",
+            "attackerName": "kuper",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 96,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#YYR9LJPR",
+        "name": "Ram Rahmani™️",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YYR9LJPR",
+            "attackerName": "Ram Rahmani™️",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 165,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#20GV9UCR2",
+        "name": "Evgeniy",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#20GV9UCR2",
+            "attackerName": "Evgeniy",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2QYJJGP8V",
+            "defenderName": "ROMAN",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 150,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "ROMAN"
+        }
+      },
+      {
+        "tag": "#8YV9L8RV",
+        "name": "Dimitar 23",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8YV9L8RV",
+            "attackerName": "Dimitar 23",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 94,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#280YYQG9Y",
+        "name": "валера",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#280YYQG9Y",
+            "attackerName": "валера",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#9JGV80J0P",
+        "name": "Alihan",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#9JGV80J0P",
+            "attackerName": "Alihan",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 125,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#CU0J20QY",
+        "name": "Supreme",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#CU0J20QY",
+            "attackerName": "Supreme",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 99,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 66,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#U9PVGPLG",
+        "name": "илья",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#U9PVGPLG",
+            "attackerName": "илья",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 121,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "Martha"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YYR9LJPR",
+      "defenderName": "Ram Rahmani™️",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 158,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8Y28QP2JY",
+      "defenderName": "ариэль",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 143,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8Y9J898P9",
+      "defenderName": "Pavel",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 55,
+      "duration": 131,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y0090LV8",
+      "attackerName": "nike",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 101,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y0UUQ9G29",
+      "defenderName": "Pavel",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 137,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9JGV80J0P",
+      "defenderName": "Alihan",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 115,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#U9PVGPLG",
+      "defenderName": "илья",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 125,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9JGV80J0P",
+      "attackerName": "Alihan",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 125,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2YC2Q0QQ9",
+      "defenderName": "kuper",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 179,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QYJJGP8V",
+      "attackerName": "ROMAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#20GV9UCR2",
+      "defenderName": "Evgeniy",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 85,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#Y2VUPRJJQ",
+      "defenderName": "серега 18 rus",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#CU0J20QY",
+      "defenderName": "Supreme",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 1,
+      "destructionPercentage": 66,
+      "duration": 74,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20GV9UCR2",
+      "attackerName": "Evgeniy",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2QYJJGP8V",
+      "defenderName": "ROMAN",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 150,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#280YYQG9Y",
+      "defenderName": "валера",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 158,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2PQ88JUP2",
+      "defenderName": "кирилл",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 101,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YV9L8RV",
+      "attackerName": "Dimitar 23",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 94,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20VPGJ9YL",
+      "attackerName": "Tudoran❤Nastya",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 145,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8YV9L8RV",
+      "defenderName": "Dimitar 23",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 153,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YYR9LJPR",
+      "attackerName": "Ram Rahmani™️",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 165,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Y0090LV8",
+      "defenderName": "nike",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PQ88JUP2",
+      "attackerName": "кирилл",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 89,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y9J898P9",
+      "attackerName": "Pavel",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y28QP2JY",
+      "attackerName": "ариэль",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 94,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#280YYQG9Y",
+      "attackerName": "валера",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y0UUQ9G29",
+      "attackerName": "Pavel",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 81,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#20VPGJ9YL",
+      "defenderName": "Tudoran❤Nastya",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 67,
+      "duration": 134,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#U9PVGPLG",
+      "attackerName": "илья",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 121,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YC2Q0QQ9",
+      "attackerName": "kuper",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 96,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2VUPRJJQ",
+      "attackerName": "серега 18 rus",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 110,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CU0J20QY",
+      "attackerName": "Supreme",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 99,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

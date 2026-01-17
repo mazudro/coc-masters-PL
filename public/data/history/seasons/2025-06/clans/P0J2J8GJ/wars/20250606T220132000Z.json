@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.973Z",
+  "season": "2025-06",
+  "warTag": "P0J2J8GJ-20250606T220132000Z",
+  "startTime": "20250605T220132.000Z",
+  "endTime": "20250606T220132.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 27,
+    "stars": 31,
+    "destructionPercentage": 84.26666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tiger"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#R0VQPR22",
+            "defenderName": "Smithy",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Thorfinn"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#YJCQ8Q8G8",
+            "defenderName": "Tiger",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "GFFFT!"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#RCL89G2V",
+            "defenderName": "C2 Cook",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Daz"
+        }
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Q08P9J0C",
+            "defenderName": "GFFFT?",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 180,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fin [Rohan]"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9JYQCJUV",
+            "defenderName": "emma",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ripvenomxtrust"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#98PGVUR2",
+            "defenderName": "Kezza",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "C2 Cook"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#8P0JQLCPC",
+            "defenderName": "Ace♠️♦️♣️♥️",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 179,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "GFFFT?"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2L0U9LLJG",
+            "defenderName": "Daz",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 179,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kezza"
+        }
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#9CPQYJJY",
+            "defenderName": "Berry",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kryptonian"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#YJ0R2Q9VC",
+            "defenderName": "GFFFT!",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 161,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ace♠️♦️♣️♥️"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LJRLCPYC",
+            "defenderName": "luce",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 121,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Berry"
+        }
+      },
+      {
+        "tag": "#UUR2CJVY",
+        "name": "barteklewl",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#UUR2CJVY",
+            "attackerName": "barteklewl",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#L9LQ9998",
+            "defenderName": "Kryptonian",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 143,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "luce"
+        }
+      },
+      {
+        "tag": "#22RQLGP0R",
+        "name": "cloud",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#22RQLGP0R",
+            "attackerName": "cloud",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Y2GQRRVV0",
+            "defenderName": "ripvenomxtrust",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 1,
+            "destructionPercentage": 83,
+            "duration": 170,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Smithy"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#UQVL28Q",
+            "defenderName": "Fin [Rohan]",
+            "defenderTH": 17,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 142,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "emma"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#RRUYJQPP",
+    "name": "Brits On Tour!",
+    "clanLevel": 22,
+    "stars": 45,
+    "destructionPercentage": 100,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#RCL89G2V",
+        "name": "C2 Cook",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RCL89G2V",
+            "attackerName": "C2 Cook",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#R0VQPR22",
+        "name": "Smithy",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#R0VQPR22",
+            "attackerName": "Smithy",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#22RQLGP0R",
+            "defenderName": "cloud",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#Q08P9J0C",
+        "name": "GFFFT?",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q08P9J0C",
+            "attackerName": "GFFFT?",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 136,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#YJCQ8Q8G8",
+        "name": "Tiger",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJCQ8Q8G8",
+            "attackerName": "Tiger",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#YJ0R2Q9VC",
+        "name": "GFFFT!",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0R2Q9VC",
+            "attackerName": "GFFFT!",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#8P0JQLCPC",
+        "name": "Ace♠️♦️♣️♥️",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8P0JQLCPC",
+            "attackerName": "Ace♠️♦️♣️♥️",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#98PGVUR2",
+        "name": "Kezza",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#98PGVUR2",
+            "attackerName": "Kezza",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#LJRLCPYC",
+        "name": "luce",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LJRLCPYC",
+            "attackerName": "luce",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#UUR2CJVY",
+            "defenderName": "barteklewl",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#9CPQYJJY",
+        "name": "Berry",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9CPQYJJY",
+            "attackerName": "Berry",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#9JYQCJUV",
+        "name": "emma",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9JYQCJUV",
+            "attackerName": "emma",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#2L0U9LLJG",
+        "name": "Daz",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2L0U9LLJG",
+            "attackerName": "Daz",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#UGUPJJJV",
+        "name": "Thorfinn",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#UGUPJJJV",
+            "attackerName": "Thorfinn",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L9LQ9998",
+        "name": "Kryptonian",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#L9LQ9998",
+            "attackerName": "Kryptonian",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "barteklewl"
+        }
+      },
+      {
+        "tag": "#Y2GQRRVV0",
+        "name": "ripvenomxtrust",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Y2GQRRVV0",
+            "attackerName": "ripvenomxtrust",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 83,
+          "attackerName": "cloud"
+        }
+      },
+      {
+        "tag": "#UQVL28Q",
+        "name": "Fin [Rohan]",
+        "townhallLevel": 17,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#UQVL28Q",
+            "attackerName": "Fin [Rohan]",
+            "attackerTH": 17,
+            "attackerMapPosition": 18,
+            "defenderTag": "#22Y9JQYJ",
+            "defenderName": "~ Yakuu ~",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "inoja"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#UGUPJJJV",
+      "attackerName": "Thorfinn",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJRLCPYC",
+      "attackerName": "luce",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#UUR2CJVY",
+      "defenderName": "barteklewl",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9JYQCJUV",
+      "attackerName": "emma",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#UQVL28Q",
+      "defenderName": "Fin [Rohan]",
+      "defenderTH": 17,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 142,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#YJCQ8Q8G8",
+      "defenderName": "Tiger",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9LQ9998",
+      "attackerName": "Kryptonian",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#R0VQPR22",
+      "attackerName": "Smithy",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#22RQLGP0R",
+      "defenderName": "cloud",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22RQLGP0R",
+      "attackerName": "cloud",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Y2GQRRVV0",
+      "defenderName": "ripvenomxtrust",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 1,
+      "destructionPercentage": 83,
+      "duration": 170,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#98PGVUR2",
+      "defenderName": "Kezza",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UUR2CJVY",
+      "attackerName": "barteklewl",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#L9LQ9998",
+      "defenderName": "Kryptonian",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 143,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Q08P9J0C",
+      "defenderName": "GFFFT?",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 180,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9JYQCJUV",
+      "defenderName": "emma",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UQVL28Q",
+      "attackerName": "Fin [Rohan]",
+      "attackerTH": 17,
+      "attackerMapPosition": 18,
+      "defenderTag": "#22Y9JQYJ",
+      "defenderName": "~ Yakuu ~",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2L0U9LLJG",
+      "defenderName": "Daz",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 179,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#RCL89G2V",
+      "defenderName": "C2 Cook",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q08P9J0C",
+      "attackerName": "GFFFT?",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 136,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCL89G2V",
+      "attackerName": "C2 Cook",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98PGVUR2",
+      "attackerName": "Kezza",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJ0R2Q9VC",
+      "attackerName": "GFFFT!",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#YJ0R2Q9VC",
+      "defenderName": "GFFFT!",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 161,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2GQRRVV0",
+      "attackerName": "ripvenomxtrust",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8P0JQLCPC",
+      "attackerName": "Ace♠️♦️♣️♥️",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#8P0JQLCPC",
+      "defenderName": "Ace♠️♦️♣️♥️",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 179,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2L0U9LLJG",
+      "attackerName": "Daz",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJCQ8Q8G8",
+      "attackerName": "Tiger",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9CPQYJJY",
+      "attackerName": "Berry",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LJRLCPYC",
+      "defenderName": "luce",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 121,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#R0VQPR22",
+      "defenderName": "Smithy",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#9CPQYJJY",
+      "defenderName": "Berry",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

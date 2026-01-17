@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.927Z",
+  "season": "2025-01",
+  "warTag": "P0J2J8GJ-20250106T192315000Z",
+  "startTime": "20250105T192315.000Z",
+  "endTime": "20250106T192315.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 26,
+    "stars": 36,
+    "destructionPercentage": 89.26666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#8YCQPJYCV",
+            "defenderName": "Waleed.q8",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 180,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "♠Hâmøode♣"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LU98RUQ9Q",
+            "defenderName": "R ! S K Y",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "R ! S K Y"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#98Y88RL22",
+            "defenderName": "BARBAROSSA",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "R ! S K"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2PCG8L8YJ",
+            "defenderName": "♠Hâmøode♣",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "THË-WÖLF"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Q9GQR9UJP",
+            "defenderName": "F O D N",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "F O D N"
+        }
+      },
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#RC0R8PVQ",
+            "defenderName": "TWISTER 2,7",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 94,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 86,
+          "attackerName": "Waleed.q8"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#92PGVGY",
+            "defenderName": "سعود",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "سعود"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#L0GVVJY9",
+            "defenderName": "مجييد .!",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 155,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BARBAROSSA"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#JPVUQV0Y",
+            "defenderName": "THË-WÖLF",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 180,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "alasfar"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#C2CQQL9",
+            "defenderName": "R ! S K",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "✨Reem✨"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#80GL2CG0Y",
+            "defenderName": "Reem☆",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 164,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "TWISTER 2,7"
+        }
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8202GJY9",
+            "defenderName": "alasfar",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 88,
+            "duration": 148,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 88,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#29JGPPCJQ",
+            "defenderName": "VENOM",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "مجييد .!"
+        }
+      },
+      {
+        "tag": "#22RQLGP0R",
+        "name": "cloud",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#22RQLGP0R",
+            "attackerName": "cloud",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#92V2LJGVY",
+            "defenderName": "✨Reem✨",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "ALHARBI"
+        }
+      },
+      {
+        "tag": "#QJVGJQLRJ",
+        "name": "byczeq",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#QJVGJQLRJ",
+            "attackerName": "byczeq",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#YGLJYYJQY",
+            "defenderName": "ALHARBI",
+            "defenderTH": 16,
+            "defenderMapPosition": 26,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 92,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "VENOM"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#PJLLGQ08",
+    "name": "RCW",
+    "clanLevel": 26,
+    "stars": 32,
+    "destructionPercentage": 79.66666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#8YCQPJYCV",
+        "name": "Waleed.q8",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8YCQPJYCV",
+            "attackerName": "Waleed.q8",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 86,
+            "duration": 121,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#LU98RUQ9Q",
+        "name": "R ! S K Y",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LU98RUQ9Q",
+            "attackerName": "R ! S K Y",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#2PCG8L8YJ",
+        "name": "♠Hâmøode♣",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2PCG8L8YJ",
+            "attackerName": "♠Hâmøode♣",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#C2CQQL9",
+        "name": "R ! S K",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#C2CQQL9",
+            "attackerName": "R ! S K",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 118,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#L0GVVJY9",
+        "name": "مجييد .!",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#L0GVVJY9",
+            "attackerName": "مجييد .!",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#RC0R8PVQ",
+        "name": "TWISTER 2,7",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#RC0R8PVQ",
+            "attackerName": "TWISTER 2,7",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 158,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#92PGVGY",
+        "name": "سعود",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#92PGVGY",
+            "attackerName": "سعود",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 141,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#98Y88RL22",
+        "name": "BARBAROSSA",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#98Y88RL22",
+            "attackerName": "BARBAROSSA",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 152,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#JPVUQV0Y",
+        "name": "THË-WÖLF",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#JPVUQV0Y",
+            "attackerName": "THË-WÖLF",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#29JGPPCJQ",
+        "name": "VENOM",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#29JGPPCJQ",
+            "attackerName": "VENOM",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QJVGJQLRJ",
+            "defenderName": "byczeq",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 180,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#Q9GQR9UJP",
+        "name": "F O D N",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q9GQR9UJP",
+            "attackerName": "F O D N",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 129,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#8202GJY9",
+        "name": "alasfar",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8202GJY9",
+            "attackerName": "alasfar",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 175,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 88,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#80GL2CG0Y",
+        "name": "Reem☆",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#92V2LJGVY",
+        "name": "✨Reem✨",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#92V2LJGVY",
+            "attackerName": "✨Reem✨",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 82,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "cloud"
+        }
+      },
+      {
+        "tag": "#YGLJYYJQY",
+        "name": "ALHARBI",
+        "townhallLevel": 16,
+        "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#YGLJYYJQY",
+            "attackerName": "ALHARBI",
+            "attackerTH": 16,
+            "attackerMapPosition": 26,
+            "defenderTag": "#22RQLGP0R",
+            "defenderName": "cloud",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 122,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "byczeq"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#L0GVVJY9",
+      "defenderName": "مجييد .!",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 155,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PCG8L8YJ",
+      "attackerName": "♠Hâmøode♣",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LU98RUQ9Q",
+      "attackerName": "R ! S K Y",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#C2CQQL9",
+      "attackerName": "R ! S K",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 118,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JPVUQV0Y",
+      "attackerName": "THË-WÖLF",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LU98RUQ9Q",
+      "defenderName": "R ! S K Y",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YCQPJYCV",
+      "attackerName": "Waleed.q8",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 86,
+      "duration": 121,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#98Y88RL22",
+      "defenderName": "BARBAROSSA",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#8YCQPJYCV",
+      "defenderName": "Waleed.q8",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 180,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98Y88RL22",
+      "attackerName": "BARBAROSSA",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 152,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#C2CQQL9",
+      "defenderName": "R ! S K",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#92PGVGY",
+      "defenderName": "سعود",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#29JGPPCJQ",
+      "defenderName": "VENOM",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#92PGVGY",
+      "attackerName": "سعود",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 141,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGLJYYJQY",
+      "attackerName": "ALHARBI",
+      "attackerTH": 16,
+      "attackerMapPosition": 26,
+      "defenderTag": "#22RQLGP0R",
+      "defenderName": "cloud",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 122,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8202GJY9",
+      "defenderName": "alasfar",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 88,
+      "duration": 148,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RC0R8PVQ",
+      "attackerName": "TWISTER 2,7",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 158,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#RC0R8PVQ",
+      "defenderName": "TWISTER 2,7",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 94,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Q9GQR9UJP",
+      "defenderName": "F O D N",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QJVGJQLRJ",
+      "attackerName": "byczeq",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#YGLJYYJQY",
+      "defenderName": "ALHARBI",
+      "defenderTH": 16,
+      "defenderMapPosition": 26,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 92,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8202GJY9",
+      "attackerName": "alasfar",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 175,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q9GQR9UJP",
+      "attackerName": "F O D N",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 129,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#80GL2CG0Y",
+      "defenderName": "Reem☆",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 164,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22RQLGP0R",
+      "attackerName": "cloud",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#92V2LJGVY",
+      "defenderName": "✨Reem✨",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#92V2LJGVY",
+      "attackerName": "✨Reem✨",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 82,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L0GVVJY9",
+      "attackerName": "مجييد .!",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29JGPPCJQ",
+      "attackerName": "VENOM",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QJVGJQLRJ",
+      "defenderName": "byczeq",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 180,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2PCG8L8YJ",
+      "defenderName": "♠Hâmøode♣",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#JPVUQV0Y",
+      "defenderName": "THË-WÖLF",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 180,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

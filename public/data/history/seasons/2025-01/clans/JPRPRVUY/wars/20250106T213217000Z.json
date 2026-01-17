@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.449Z",
+  "season": "2025-01",
+  "warTag": "JPRPRVUY-20250106T213217000Z",
+  "startTime": "20250105T213217.000Z",
+  "endTime": "20250106T213217.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 21,
+    "stars": 33,
+    "destructionPercentage": 82.93333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2LUJL0LQG",
+            "defenderName": "jorgelgb",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 140,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 62,
+          "attackerName": "arturo"
+        }
+      },
+      {
+        "tag": "#2Q0CPLQYC",
+        "name": "KrisVanB",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0CPLQYC",
+            "attackerName": "KrisVanB",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#GJY09G88",
+            "defenderName": "lio51",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 79,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "jorgelgb"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9RUPV2QV",
+            "defenderName": "charly 95",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 86,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "lio51"
+        }
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2V00Y8QRL",
+            "defenderName": "DEXTERVAL22",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "charly 95"
+        }
+      },
+      {
+        "tag": "#2VPJ8G0PP",
+        "name": "fl0w",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2VPJ8G0PP",
+            "attackerName": "fl0w",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QQCV20C8",
+            "defenderName": "ka",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 155,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "DEXTERVAL22"
+        }
+      },
+      {
+        "tag": "#29LYGGPLR",
+        "name": "Zhero",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#29LYGGPLR",
+            "attackerName": "Zhero",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QRC0YV2G9",
+            "defenderName": "iTecno",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 87,
+            "duration": 134,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ka"
+        }
+      },
+      {
+        "tag": "#LLP0802P9",
+        "name": "Aigor",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LLP0802P9",
+            "attackerName": "Aigor",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#RP8GVRY",
+            "defenderName": "Chino",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 164,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 84,
+          "attackerName": "iTecno"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Y0GUYYG2",
+            "defenderName": "emilio",
+            "defenderTH": 15,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 103,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Chino"
+        }
+      },
+      {
+        "tag": "#UGLCL0",
+        "name": "Jaysaq",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#UGLCL0",
+            "attackerName": "Jaysaq",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#CGLY2RLY",
+            "defenderName": "pila",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 124,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "emilio"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 12,
+            "defenderTag": "#PPPVJ98R8",
+            "defenderName": "Tello",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pila"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#PQCJ9LL0Q",
+            "defenderName": "Bala",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 106,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "Tello"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9YC989QV9",
+            "defenderName": "Hiram",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 77,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Bala"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 14,
+            "attackerMapPosition": 15,
+            "defenderTag": "#QJ0YJRY00",
+            "defenderName": "xXLALOXx",
+            "defenderTH": 13,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Hiram"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#8LL8GJYQC",
+            "defenderName": "Estefania",
+            "defenderTH": 13,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 133,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "xXLALOXx"
+        }
+      },
+      {
+        "tag": "#PUY8YP9J2",
+        "name": "Pieczarka",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PUY8YP9J2",
+            "attackerName": "Pieczarka",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#99LGL8LU8",
+            "defenderName": "arturo",
+            "defenderTH": 13,
+            "defenderMapPosition": 24,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 125,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Estefania"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8QJ080YG",
+    "name": "INMORTAL",
+    "clanLevel": 18,
+    "stars": 30,
+    "destructionPercentage": 86.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2LUJL0LQG",
+        "name": "jorgelgb",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2LUJL0LQG",
+            "attackerName": "jorgelgb",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2Q0CPLQYC",
+            "defenderName": "KrisVanB",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#GJY09G88",
+        "name": "lio51",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#GJY09G88",
+            "attackerName": "lio51",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 138,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "KrisVanB"
+        }
+      },
+      {
+        "tag": "#9RUPV2QV",
+        "name": "charly 95",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9RUPV2QV",
+            "attackerName": "charly 95",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 171,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#2V00Y8QRL",
+        "name": "DEXTERVAL22",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2V00Y8QRL",
+            "attackerName": "DEXTERVAL22",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2VPJ8G0PP",
+            "defenderName": "fl0w",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 95,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#QQCV20C8",
+        "name": "ka",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QQCV20C8",
+            "attackerName": "ka",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#29LYGGPLR",
+            "defenderName": "Zhero",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 122,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "fl0w"
+        }
+      },
+      {
+        "tag": "#QRC0YV2G9",
+        "name": "iTecno",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QRC0YV2G9",
+            "attackerName": "iTecno",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LLP0802P9",
+            "defenderName": "Aigor",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 84,
+            "duration": 175,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 87,
+          "attackerName": "Zhero"
+        }
+      },
+      {
+        "tag": "#RP8GVRY",
+        "name": "Chino",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#RP8GVRY",
+            "attackerName": "Chino",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Aigor"
+        }
+      },
+      {
+        "tag": "#Y0GUYYG2",
+        "name": "emilio",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y0GUYYG2",
+            "attackerName": "emilio",
+            "attackerTH": 15,
+            "attackerMapPosition": 9,
+            "defenderTag": "#UGLCL0",
+            "defenderName": "Jaysaq",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 160,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#CGLY2RLY",
+        "name": "pila",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#CGLY2RLY",
+            "attackerName": "pila",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 103,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Jaysaq"
+        }
+      },
+      {
+        "tag": "#PPPVJ98R8",
+        "name": "Tello",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PPPVJ98R8",
+            "attackerName": "Tello",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 114,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#PQCJ9LL0Q",
+        "name": "Bala",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PQCJ9LL0Q",
+            "attackerName": "Bala",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#9YC989QV9",
+        "name": "Hiram",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#9YC989QV9",
+            "attackerName": "Hiram",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#QJ0YJRY00",
+        "name": "xXLALOXx",
+        "townhallLevel": 13,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QJ0YJRY00",
+            "attackerName": "xXLALOXx",
+            "attackerTH": 13,
+            "attackerMapPosition": 20,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 129,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#8LL8GJYQC",
+        "name": "Estefania",
+        "townhallLevel": 13,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#8LL8GJYQC",
+            "attackerName": "Estefania",
+            "attackerTH": 13,
+            "attackerMapPosition": 21,
+            "defenderTag": "#PUY8YP9J2",
+            "defenderName": "Pieczarka",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 111,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#99LGL8LU8",
+        "name": "arturo",
+        "townhallLevel": 13,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#99LGL8LU8",
+            "attackerName": "arturo",
+            "attackerTH": 13,
+            "attackerMapPosition": 24,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 62,
+            "duration": 117,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Pieczarka"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 14,
+      "attackerMapPosition": 15,
+      "defenderTag": "#QJ0YJRY00",
+      "defenderName": "xXLALOXx",
+      "defenderTH": 13,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2LUJL0LQG",
+      "defenderName": "jorgelgb",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 140,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PUY8YP9J2",
+      "attackerName": "Pieczarka",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#99LGL8LU8",
+      "defenderName": "arturo",
+      "defenderTH": 13,
+      "defenderMapPosition": 24,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 125,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9YC989QV9",
+      "defenderName": "Hiram",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 77,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LL8GJYQC",
+      "attackerName": "Estefania",
+      "attackerTH": 13,
+      "attackerMapPosition": 21,
+      "defenderTag": "#PUY8YP9J2",
+      "defenderName": "Pieczarka",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 111,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2V00Y8QRL",
+      "attackerName": "DEXTERVAL22",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2VPJ8G0PP",
+      "defenderName": "fl0w",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 95,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9RUPV2QV",
+      "attackerName": "charly 95",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 171,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y0GUYYG2",
+      "attackerName": "emilio",
+      "attackerTH": 15,
+      "attackerMapPosition": 9,
+      "defenderTag": "#UGLCL0",
+      "defenderName": "Jaysaq",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 160,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2LUJL0LQG",
+      "attackerName": "jorgelgb",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2Q0CPLQYC",
+      "defenderName": "KrisVanB",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UGLCL0",
+      "attackerName": "Jaysaq",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#CGLY2RLY",
+      "defenderName": "pila",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 124,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLP0802P9",
+      "attackerName": "Aigor",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#RP8GVRY",
+      "defenderName": "Chino",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 164,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9RUPV2QV",
+      "defenderName": "charly 95",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 86,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#8LL8GJYQC",
+      "defenderName": "Estefania",
+      "defenderTH": 13,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 133,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPPVJ98R8",
+      "attackerName": "Tello",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 114,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QRC0YV2G9",
+      "attackerName": "iTecno",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LLP0802P9",
+      "defenderName": "Aigor",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 84,
+      "duration": 175,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#PQCJ9LL0Q",
+      "defenderName": "Bala",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 106,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VPJ8G0PP",
+      "attackerName": "fl0w",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QQCV20C8",
+      "defenderName": "ka",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 155,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Y0GUYYG2",
+      "defenderName": "emilio",
+      "defenderTH": 15,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 103,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 12,
+      "defenderTag": "#PPPVJ98R8",
+      "defenderName": "Tello",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQCJ9LL0Q",
+      "attackerName": "Bala",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QJ0YJRY00",
+      "attackerName": "xXLALOXx",
+      "attackerTH": 13,
+      "attackerMapPosition": 20,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 129,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9YC989QV9",
+      "attackerName": "Hiram",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#99LGL8LU8",
+      "attackerName": "arturo",
+      "attackerTH": 13,
+      "attackerMapPosition": 24,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 62,
+      "duration": 117,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJY09G88",
+      "attackerName": "lio51",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 138,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2V00Y8QRL",
+      "defenderName": "DEXTERVAL22",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29LYGGPLR",
+      "attackerName": "Zhero",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QRC0YV2G9",
+      "defenderName": "iTecno",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 87,
+      "duration": 134,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CGLY2RLY",
+      "attackerName": "pila",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 103,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RP8GVRY",
+      "attackerName": "Chino",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q0CPLQYC",
+      "attackerName": "KrisVanB",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#GJY09G88",
+      "defenderName": "lio51",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 79,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQCV20C8",
+      "attackerName": "ka",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#29LYGGPLR",
+      "defenderName": "Zhero",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 122,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

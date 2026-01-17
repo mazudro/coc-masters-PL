@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.566Z",
+  "season": "2025-10",
+  "warTag": "JPRPRVUY-20251003T195146000Z",
+  "startTime": "20251002T195146.000Z",
+  "endTime": "20251003T195146.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 23,
+    "stars": 40,
+    "destructionPercentage": 96.86666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2Y2L20LGQ",
+            "defenderName": "EnnE",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "MKN"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#28P2GRLCQ",
+            "defenderName": "MKN",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 50,
+          "attackerName": "EnnE"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8GUQ2RRRU",
+            "defenderName": "bowser",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "bowser"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QRJR00V9C",
+            "defenderName": "Chris",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Chris"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QGQQ2GYVU",
+            "attackerName": "vermer",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2VR9Y0928",
+            "defenderName": "Rune",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 176,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 36,
+          "attackerName": "GEORG RIEMANN"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#80Y099UQL",
+            "defenderName": "GEORG RIEMANN",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "LegendsNeverDie"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2U0C28LG0",
+            "defenderName": "Sméagol",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Rune"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#LLCQ20QV8",
+            "defenderName": "Pl_Abdu",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "L2Lee"
+        }
+      },
+      {
+        "tag": "#RL8YC2LL",
+        "name": "Kiesl",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#RL8YC2LL",
+            "attackerName": "Kiesl",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#20YRURJ98",
+            "defenderName": "LegendsNeverDie",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "Sméagol"
+        }
+      },
+      {
+        "tag": "#YP8JCRCPG",
+        "name": "krakra",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YP8JCRCPG",
+            "attackerName": "krakra",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YJG88CLVG",
+            "defenderName": "L2Lee",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 96,
+            "duration": 173,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Pl_Abdu"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#YUVJLV0QY",
+            "defenderName": "<- EA7 ->",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 95,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 41,
+          "attackerName": "<- EA7 ->"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8QRR9JYL2",
+            "defenderName": "DonJonBaris",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "DonJonBaris"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#L008U90V",
+            "defenderName": "Dossk",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 79,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Dossk"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#28GYC8GU",
+            "defenderName": "w0ina",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "w0ina"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 22,
+            "defenderTag": "#29L09882G",
+            "defenderName": "↪️Pushless↩️",
+            "defenderTH": 15,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "↪️Pushless↩️"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#LY2QUUUG",
+    "name": "Podencos",
+    "clanLevel": 24,
+    "stars": 28,
+    "destructionPercentage": 71.6,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#28P2GRLCQ",
+        "name": "MKN",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#28P2GRLCQ",
+            "attackerName": "MKN",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 83,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#2Y2L20LGQ",
+        "name": "EnnE",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2Y2L20LGQ",
+            "attackerName": "EnnE",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 50,
+            "duration": 71,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 50,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#8GUQ2RRRU",
+        "name": "bowser",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8GUQ2RRRU",
+            "attackerName": "bowser",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 68,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#QRJR00V9C",
+        "name": "Chris",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QRJR00V9C",
+            "attackerName": "Chris",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 100,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#80Y099UQL",
+        "name": "GEORG RIEMANN",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80Y099UQL",
+            "attackerName": "GEORG RIEMANN",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 36,
+            "duration": 68,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 36,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#20YRURJ98",
+        "name": "LegendsNeverDie",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#20YRURJ98",
+            "attackerName": "LegendsNeverDie",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 148,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kiesl"
+        }
+      },
+      {
+        "tag": "#2VR9Y0928",
+        "name": "Rune",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2VR9Y0928",
+            "attackerName": "Rune",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 109,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "vermer"
+        }
+      },
+      {
+        "tag": "#YJG88CLVG",
+        "name": "L2Lee",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YJG88CLVG",
+            "attackerName": "L2Lee",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 97,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 96,
+          "attackerName": "krakra"
+        }
+      },
+      {
+        "tag": "#2U0C28LG0",
+        "name": "Sméagol",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2U0C28LG0",
+            "attackerName": "Sméagol",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#RL8YC2LL",
+            "defenderName": "Kiesl",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 71,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#LLCQ20QV8",
+        "name": "Pl_Abdu",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LLCQ20QV8",
+            "attackerName": "Pl_Abdu",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YP8JCRCPG",
+            "defenderName": "krakra",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 151,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#YUVJLV0QY",
+        "name": "<- EA7 ->",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YUVJLV0QY",
+            "attackerName": "<- EA7 ->",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 41,
+            "duration": 68,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 41,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#8QRR9JYL2",
+        "name": "DonJonBaris",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8QRR9JYL2",
+            "attackerName": "DonJonBaris",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 171,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#L008U90V",
+        "name": "Dossk",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#L008U90V",
+            "attackerName": "Dossk",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 134,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#28GYC8GU",
+        "name": "w0ina",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#28GYC8GU",
+            "attackerName": "w0ina",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#29L09882G",
+        "name": "↪️Pushless↩️",
+        "townhallLevel": 15,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#29L09882G",
+            "attackerName": "↪️Pushless↩️",
+            "attackerTH": 15,
+            "attackerMapPosition": 22,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YP8JCRCPG",
+      "attackerName": "krakra",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YJG88CLVG",
+      "defenderName": "L2Lee",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 96,
+      "duration": 173,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RL8YC2LL",
+      "attackerName": "Kiesl",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#20YRURJ98",
+      "defenderName": "LegendsNeverDie",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8QRR9JYL2",
+      "defenderName": "DonJonBaris",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L008U90V",
+      "attackerName": "Dossk",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 134,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QGQQ2GYVU",
+      "attackerName": "vermer",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2VR9Y0928",
+      "defenderName": "Rune",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 176,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#L008U90V",
+      "defenderName": "Dossk",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 79,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#80Y099UQL",
+      "defenderName": "GEORG RIEMANN",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#28GYC8GU",
+      "attackerName": "w0ina",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2VR9Y0928",
+      "attackerName": "Rune",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 109,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#28GYC8GU",
+      "defenderName": "w0ina",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80Y099UQL",
+      "attackerName": "GEORG RIEMANN",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 36,
+      "duration": 68,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8GUQ2RRRU",
+      "attackerName": "bowser",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 68,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2U0C28LG0",
+      "defenderName": "Sméagol",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YUVJLV0QY",
+      "attackerName": "<- EA7 ->",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 41,
+      "duration": 68,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2U0C28LG0",
+      "attackerName": "Sméagol",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#RL8YC2LL",
+      "defenderName": "Kiesl",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 71,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 22,
+      "defenderTag": "#29L09882G",
+      "defenderName": "↪️Pushless↩️",
+      "defenderTH": 15,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8QRR9JYL2",
+      "attackerName": "DonJonBaris",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 171,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#YUVJLV0QY",
+      "defenderName": "<- EA7 ->",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 95,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2Y2L20LGQ",
+      "defenderName": "EnnE",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#LLCQ20QV8",
+      "defenderName": "Pl_Abdu",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#28P2GRLCQ",
+      "defenderName": "MKN",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QRJR00V9C",
+      "defenderName": "Chris",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QRJR00V9C",
+      "attackerName": "Chris",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 100,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCQ20QV8",
+      "attackerName": "Pl_Abdu",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YP8JCRCPG",
+      "defenderName": "krakra",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 151,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29L09882G",
+      "attackerName": "↪️Pushless↩️",
+      "attackerTH": 15,
+      "attackerMapPosition": 22,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#28P2GRLCQ",
+      "attackerName": "MKN",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 83,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Y2L20LGQ",
+      "attackerName": "EnnE",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 50,
+      "duration": 71,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20YRURJ98",
+      "attackerName": "LegendsNeverDie",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 148,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8GUQ2RRRU",
+      "defenderName": "bowser",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJG88CLVG",
+      "attackerName": "L2Lee",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 97,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

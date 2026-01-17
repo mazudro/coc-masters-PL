@@ -1,0 +1,1298 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.312Z",
+  "season": "2024-01",
+  "warTag": "JPRPRVUY-20240109T210711000Z",
+  "startTime": "20240108T210711.000Z",
+  "endTime": "20240109T210711.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 17,
+    "destructionPercentage": 33.93333333333333,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PVLCQL9QL",
+            "defenderName": "Paulo 2.0",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 109,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Paulo 2.0"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#CQ9RQQPU",
+            "defenderName": "cevenne_paris",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 87,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "cevenne_paris"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#LYC0L9RR",
+            "defenderName": "Robmax",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 149,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Robmax"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#20CQPJCYQ",
+            "defenderName": "Minipousse",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 180,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Robmax 2.0"
+        }
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MATHEO"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QUP0VGVY",
+            "defenderName": "tom",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 44,
+            "duration": 121,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 44,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cimer_fernand"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#29YJ2J0PV",
+            "defenderName": "MiniRobmax",
+            "defenderTH": 15,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 90,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Minipousse"
+        }
+      },
+      {
+        "tag": "#9QGGLJUVU",
+        "name": "Cheese",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9QGGLJUVU",
+            "attackerName": "Cheese",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#92GYC00G",
+            "defenderName": "⚡️⭐️pierrot⭐️⚡️",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 50,
+            "duration": 109,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 50,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "⚡️⭐️pierrot⭐️⚡️"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8LGJLV899",
+            "defenderName": "㊙️.Damnation.1️",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 40,
+            "duration": 95,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 40,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "tom"
+        }
+      },
+      {
+        "tag": "#9JLVY90VL",
+        "name": "Verti",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "㊙️.Damnation.1️"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 18,
+            "defenderTag": "#22G9PCJ9Y",
+            "defenderName": "㊙️.Damnation.2️",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 1,
+            "destructionPercentage": 12,
+            "duration": 47,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 12,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "㊙️.Damnation.2️"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 20,
+            "defenderTag": "#9RGPPGYGU",
+            "defenderName": "malo",
+            "defenderTH": 16,
+            "defenderMapPosition": 17,
+            "stars": 1,
+            "destructionPercentage": 24,
+            "duration": 83,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 24,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "malo"
+        }
+      },
+      {
+        "tag": "#28GYRJV2V",
+        "name": "Bonsvif",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mikael"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 11,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 11,
+            "attackerMapPosition": 22,
+            "defenderTag": "#29YJ2J0PV",
+            "defenderName": "MiniRobmax",
+            "defenderTH": 15,
+            "defenderMapPosition": 19,
+            "stars": 0,
+            "destructionPercentage": 44,
+            "duration": 100,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 44,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MiniRobmax"
+        }
+      },
+      {
+        "tag": "#LJYU80UPV",
+        "name": "Caps",
+        "townhallLevel": 10,
+        "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LJYU80UPV",
+            "attackerName": "Caps",
+            "attackerTH": 10,
+            "attackerMapPosition": 26,
+            "defenderTag": "#20C9LJYG2",
+            "defenderName": "㊙️.Damnation.3️",
+            "defenderTH": 14,
+            "defenderMapPosition": 20,
+            "stars": 1,
+            "destructionPercentage": 28,
+            "duration": 57,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 28,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "㊙️.Damnation.3️"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#88Y2RPUP",
+    "name": "spartiate600",
+    "clanLevel": 12,
+    "stars": 45,
+    "destructionPercentage": 100,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#PVLCQL9QL",
+        "name": "Paulo 2.0",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PVLCQL9QL",
+            "attackerName": "Paulo 2.0",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 173,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#CQ9RQQPU",
+        "name": "cevenne_paris",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#CQ9RQQPU",
+            "attackerName": "cevenne_paris",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 14,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#LYC0L9RR",
+        "name": "Robmax",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LYC0L9RR",
+            "attackerName": "Robmax",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#2V8YVR0R",
+        "name": "Robmax 2.0",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2V8YVR0R",
+            "attackerName": "Robmax 2.0",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 87,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YRLGVYQV",
+        "name": "MATHEO",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YRLGVYQV",
+            "attackerName": "MATHEO",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QGJCGYJYC",
+            "defenderName": "rajko",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 93,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#222LLQRV2",
+        "name": "Cimer_fernand",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#222LLQRV2",
+            "attackerName": "Cimer_fernand",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YJ0YC229",
+            "defenderName": "andre",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 89,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#20CQPJCYQ",
+        "name": "Minipousse",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#20CQPJCYQ",
+            "attackerName": "Minipousse",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 100,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#92GYC00G",
+        "name": "⚡️⭐️pierrot⭐️⚡️",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#92GYC00G",
+            "attackerName": "⚡️⭐️pierrot⭐️⚡️",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9QGGLJUVU",
+            "defenderName": "Cheese",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 77,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 50,
+          "attackerName": "Cheese"
+        }
+      },
+      {
+        "tag": "#QUP0VGVY",
+        "name": "tom",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QUP0VGVY",
+            "attackerName": "tom",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 71,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 44,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#8LGJLV899",
+        "name": "㊙️.Damnation.1️",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8LGJLV899",
+            "attackerName": "㊙️.Damnation.1️",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#9JLVY90VL",
+            "defenderName": "Verti",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 86,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 40,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#22G9PCJ9Y",
+        "name": "㊙️.Damnation.2️",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#22G9PCJ9Y",
+            "attackerName": "㊙️.Damnation.2️",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 67,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 12,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#9RGPPGYGU",
+        "name": "malo",
+        "townhallLevel": 16,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9RGPPGYGU",
+            "attackerName": "malo",
+            "attackerTH": 16,
+            "attackerMapPosition": 17,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 69,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 24,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#2PQRVRYYG",
+        "name": "mikael",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#2PQRVRYYG",
+            "attackerName": "mikael",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#28GYRJV2V",
+            "defenderName": "Bonsvif",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#29YJ2J0PV",
+        "name": "MiniRobmax",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#29YJ2J0PV",
+            "attackerName": "MiniRobmax",
+            "attackerTH": 15,
+            "attackerMapPosition": 19,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 11,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 66,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#20C9LJYG2",
+        "name": "㊙️.Damnation.3️",
+        "townhallLevel": 14,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#20C9LJYG2",
+            "attackerName": "㊙️.Damnation.3️",
+            "attackerTH": 14,
+            "attackerMapPosition": 20,
+            "defenderTag": "#LJYU80UPV",
+            "defenderName": "Caps",
+            "defenderTH": 10,
+            "defenderMapPosition": 26,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 122,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 28,
+          "attackerName": "Caps"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#20C9LJYG2",
+      "attackerName": "㊙️.Damnation.3️",
+      "attackerTH": 14,
+      "attackerMapPosition": 20,
+      "defenderTag": "#LJYU80UPV",
+      "defenderName": "Caps",
+      "defenderTH": 10,
+      "defenderMapPosition": 26,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 122,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22G9PCJ9Y",
+      "attackerName": "㊙️.Damnation.2️",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 67,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#LYC0L9RR",
+      "defenderName": "Robmax",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 149,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#222LLQRV2",
+      "attackerName": "Cimer_fernand",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YJ0YC229",
+      "defenderName": "andre",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 89,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8LGJLV899",
+      "attackerName": "㊙️.Damnation.1️",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#9JLVY90VL",
+      "defenderName": "Verti",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 86,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 11,
+      "attackerMapPosition": 22,
+      "defenderTag": "#29YJ2J0PV",
+      "defenderName": "MiniRobmax",
+      "defenderTH": 15,
+      "defenderMapPosition": 19,
+      "stars": 0,
+      "destructionPercentage": 44,
+      "duration": 100,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YRLGVYQV",
+      "attackerName": "MATHEO",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QGJCGYJYC",
+      "defenderName": "rajko",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 93,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20CQPJCYQ",
+      "attackerName": "Minipousse",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 100,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PVLCQL9QL",
+      "defenderName": "Paulo 2.0",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 109,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QUP0VGVY",
+      "attackerName": "tom",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 71,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 20,
+      "defenderTag": "#9RGPPGYGU",
+      "defenderName": "malo",
+      "defenderTH": 16,
+      "defenderMapPosition": 17,
+      "stars": 1,
+      "destructionPercentage": 24,
+      "duration": 83,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CQ9RQQPU",
+      "attackerName": "cevenne_paris",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 14,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#92GYC00G",
+      "attackerName": "⚡️⭐️pierrot⭐️⚡️",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9QGGLJUVU",
+      "defenderName": "Cheese",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 77,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9QGGLJUVU",
+      "attackerName": "Cheese",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#92GYC00G",
+      "defenderName": "⚡️⭐️pierrot⭐️⚡️",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 50,
+      "duration": 109,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LYC0L9RR",
+      "attackerName": "Robmax",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2V8YVR0R",
+      "attackerName": "Robmax 2.0",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 87,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29YJ2J0PV",
+      "attackerName": "MiniRobmax",
+      "attackerTH": 15,
+      "attackerMapPosition": 19,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 11,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 66,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QUP0VGVY",
+      "defenderName": "tom",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 44,
+      "duration": 121,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9RGPPGYGU",
+      "attackerName": "malo",
+      "attackerTH": 16,
+      "attackerMapPosition": 17,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 69,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8LGJLV899",
+      "defenderName": "㊙️.Damnation.1️",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 40,
+      "duration": 95,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LJYU80UPV",
+      "attackerName": "Caps",
+      "attackerTH": 10,
+      "attackerMapPosition": 26,
+      "defenderTag": "#20C9LJYG2",
+      "defenderName": "㊙️.Damnation.3️",
+      "defenderTH": 14,
+      "defenderMapPosition": 20,
+      "stars": 1,
+      "destructionPercentage": 28,
+      "duration": 57,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PQRVRYYG",
+      "attackerName": "mikael",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#28GYRJV2V",
+      "defenderName": "Bonsvif",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#29YJ2J0PV",
+      "defenderName": "MiniRobmax",
+      "defenderTH": 15,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 90,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 18,
+      "defenderTag": "#22G9PCJ9Y",
+      "defenderName": "㊙️.Damnation.2️",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 1,
+      "destructionPercentage": 12,
+      "duration": 47,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#CQ9RQQPU",
+      "defenderName": "cevenne_paris",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 87,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#20CQPJCYQ",
+      "defenderName": "Minipousse",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 180,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVLCQL9QL",
+      "attackerName": "Paulo 2.0",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 173,
+      "order": 27,
+      "side": "opponent"
+    }
+  ]
+}

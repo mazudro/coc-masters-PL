@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.652Z",
+  "season": "2025-12",
+  "warTag": "JPRPRVUY-20251205T211058000Z",
+  "startTime": "20251204T211058.000Z",
+  "endTime": "20251205T211058.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 24,
+    "stars": 31,
+    "destructionPercentage": 80.86666666666666,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PP0J9LCV",
+            "defenderName": "M1key.",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 180,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "toxicity"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QGQQ2GYVU",
+            "attackerName": "vermer",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#UCLRQPQ8",
+            "defenderName": "toxicity",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "david kejejian"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Q88LGVY0",
+            "defenderName": "Mr.JorJ",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 167,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "@llush"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8RP02Q9P",
+            "defenderName": "# Dozer #",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "lord bahaa"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#C9CYQ0P",
+            "defenderName": "diane",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 55,
+            "duration": 143,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "# Dozer #"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QL8QLYQ",
+            "defenderName": "youssef",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "toxy"
+        }
+      },
+      {
+        "tag": "#RL8YC2LL",
+        "name": "Kiesl",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#RL8YC2LL",
+            "attackerName": "Kiesl",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2JRQLQ2VP",
+            "defenderName": "Shadow",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "youssef"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2J88Y2LP0",
+            "defenderName": "david kejejian",
+            "defenderTH": 16,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "M.Baghdadi"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#RQUQRGLJ",
+            "defenderName": "toxy",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 97,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "M1key."
+        }
+      },
+      {
+        "tag": "#P9UGCVQ9V",
+        "name": "maatii2901",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#P9UGCVQ9V",
+            "attackerName": "maatii2901",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PLJ2VYCP",
+            "defenderName": "M.Baghdadi",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 84,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mr.JorJ"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEOSTREET182",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEOSTREET182",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#22LRCQRVC",
+            "defenderName": "@llush",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 80,
+            "duration": 80,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "diane"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#22CP28UJP",
+            "defenderName": "palestinian",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Q2LUL8QUR",
+            "defenderName": "lord bahaa",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "palestinian"
+        }
+      },
+      {
+        "tag": "#QCYJQ2Q2V",
+        "name": "Jjiraya v2",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QCYJQ2Q2V",
+            "attackerName": "Jjiraya v2",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PR99RYCUR",
+            "defenderName": "Nemer",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "yehya"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 17,
+        "mapPosition": 20,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Nemer"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#9JCLJ9U8",
+    "name": "Fast N Loud",
+    "clanLevel": 24,
+    "stars": 36,
+    "destructionPercentage": 86.6,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#8RP02Q9P",
+        "name": "# Dozer #",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8RP02Q9P",
+            "attackerName": "# Dozer #",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#QL8QLYQ",
+        "name": "youssef",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QL8QLYQ",
+            "attackerName": "youssef",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RL8YC2LL",
+            "defenderName": "Kiesl",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#Q88LGVY0",
+        "name": "Mr.JorJ",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Q88LGVY0",
+            "attackerName": "Mr.JorJ",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P9UGCVQ9V",
+            "defenderName": "maatii2901",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#PP0J9LCV",
+        "name": "M1key.",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PP0J9LCV",
+            "attackerName": "M1key.",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 146,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#C9CYQ0P",
+        "name": "diane",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#C9CYQ0P",
+            "attackerName": "diane",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEOSTREET182",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 158,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 55,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#2JRQLQ2VP",
+        "name": "Shadow",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2JRQLQ2VP",
+            "attackerName": "Shadow",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 100,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Kiesl"
+        }
+      },
+      {
+        "tag": "#UCLRQPQ8",
+        "name": "toxicity",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#UCLRQPQ8",
+            "attackerName": "toxicity",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "vermer"
+        }
+      },
+      {
+        "tag": "#G8Q0LYY0",
+        "name": "yehya",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G8Q0LYY0",
+            "attackerName": "yehya",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QCYJQ2Q2V",
+            "defenderName": "Jjiraya v2",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 103,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RQUQRGLJ",
+        "name": "toxy",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#RQUQRGLJ",
+            "attackerName": "toxy",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 96,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#PLJ2VYCP",
+        "name": "M.Baghdadi",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PLJ2VYCP",
+            "attackerName": "M.Baghdadi",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "maatii2901"
+        }
+      },
+      {
+        "tag": "#22LRCQRVC",
+        "name": "@llush",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#22LRCQRVC",
+            "attackerName": "@llush",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 136,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 80,
+          "attackerName": "MATEOSTREET182"
+        }
+      },
+      {
+        "tag": "#22CP28UJP",
+        "name": "palestinian",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#22CP28UJP",
+            "attackerName": "palestinian",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 177,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#Q2LUL8QUR",
+        "name": "lord bahaa",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q2LUL8QUR",
+            "attackerName": "lord bahaa",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 180,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#PR99RYCUR",
+        "name": "Nemer",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PR99RYCUR",
+            "attackerName": "Nemer",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 17,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 97,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jjiraya v2"
+        }
+      },
+      {
+        "tag": "#2J88Y2LP0",
+        "name": "david kejejian",
+        "townhallLevel": 16,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#2J88Y2LP0",
+            "attackerName": "david kejejian",
+            "attackerTH": 16,
+            "attackerMapPosition": 20,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 87,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#PLJ2VYCP",
+      "attackerName": "M.Baghdadi",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RL8YC2LL",
+      "attackerName": "Kiesl",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2JRQLQ2VP",
+      "defenderName": "Shadow",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PR99RYCUR",
+      "attackerName": "Nemer",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 17,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 97,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UCLRQPQ8",
+      "attackerName": "toxicity",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8RP02Q9P",
+      "defenderName": "# Dozer #",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RQUQRGLJ",
+      "attackerName": "toxy",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 96,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q2LUL8QUR",
+      "attackerName": "lord bahaa",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 180,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9UGCVQ9V",
+      "attackerName": "maatii2901",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PLJ2VYCP",
+      "defenderName": "M.Baghdadi",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 84,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEOSTREET182",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#22LRCQRVC",
+      "defenderName": "@llush",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 80,
+      "duration": 80,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCYJQ2Q2V",
+      "attackerName": "Jjiraya v2",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PR99RYCUR",
+      "defenderName": "Nemer",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G8Q0LYY0",
+      "attackerName": "yehya",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QCYJQ2Q2V",
+      "defenderName": "Jjiraya v2",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 103,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#C9CYQ0P",
+      "defenderName": "diane",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 55,
+      "duration": 143,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Q88LGVY0",
+      "defenderName": "Mr.JorJ",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 167,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QL8QLYQ",
+      "defenderName": "youssef",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PP0J9LCV",
+      "defenderName": "M1key.",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 180,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#RQUQRGLJ",
+      "defenderName": "toxy",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 97,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PP0J9LCV",
+      "attackerName": "M1key.",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 146,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#C9CYQ0P",
+      "attackerName": "diane",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEOSTREET182",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 158,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2J88Y2LP0",
+      "attackerName": "david kejejian",
+      "attackerTH": 16,
+      "attackerMapPosition": 20,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 87,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#22CP28UJP",
+      "defenderName": "palestinian",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22CP28UJP",
+      "attackerName": "palestinian",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 177,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Q2LUL8QUR",
+      "defenderName": "lord bahaa",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22LRCQRVC",
+      "attackerName": "@llush",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 136,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q88LGVY0",
+      "attackerName": "Mr.JorJ",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P9UGCVQ9V",
+      "defenderName": "maatii2901",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2JRQLQ2VP",
+      "attackerName": "Shadow",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 100,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QL8QLYQ",
+      "attackerName": "youssef",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RL8YC2LL",
+      "defenderName": "Kiesl",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8RP02Q9P",
+      "attackerName": "# Dozer #",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QGQQ2GYVU",
+      "attackerName": "vermer",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#UCLRQPQ8",
+      "defenderName": "toxicity",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2J88Y2LP0",
+      "defenderName": "david kejejian",
+      "defenderTH": 16,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

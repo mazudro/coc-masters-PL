@@ -1,0 +1,1195 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.311Z",
+  "season": "2024-01",
+  "warTag": "JPRPRVUY-20240103T205706000Z",
+  "startTime": "20240102T205706.000Z",
+  "endTime": "20240103T205706.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 27,
+    "destructionPercentage": 74.06666666666666,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#YU88QQPQ8",
+            "defenderName": "Supersonic",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YGRJ9YUY2",
+            "defenderName": "BOWSER",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 76,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9L2RYJPGV",
+            "defenderName": "Dragon Rider",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 150,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dragon Rider"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YYJQCQG20",
+            "defenderName": "Prometheus",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 90,
+            "duration": 179,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 90,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QGJCGYJYC",
+            "attackerName": "rajko",
+            "attackerTH": 13,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8LR09PCY",
+            "defenderName": "Langen",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 172,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "BOWSER"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2GYJLV9P8",
+            "defenderName": "skoberg",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 165,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QVGUYJQP2",
+            "defenderName": "AKAJM",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 89,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Langen"
+        }
+      },
+      {
+        "tag": "#9QGGLJUVU",
+        "name": "Cheese",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9QGGLJUVU",
+            "attackerName": "Cheese",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#22VGY9RQ",
+            "defenderName": "[RaG] anton",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 1,
+            "destructionPercentage": 65,
+            "duration": 116,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Firebird"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9GYY9G882",
+            "defenderName": "Eve",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 111,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Prometheus"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 18,
+            "defenderTag": "#YU90P0P0J",
+            "defenderName": "Morpheus",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 102,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 55,
+          "attackerName": "BlackPerl"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 20,
+            "defenderTag": "#QPC0YLJ88",
+            "defenderName": "pfördi",
+            "defenderTH": 13,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 69,
+            "duration": 156,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Morpheus"
+        }
+      },
+      {
+        "tag": "#28GYRJV2V",
+        "name": "Bonsvif",
+        "townhallLevel": 11,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#28GYRJV2V",
+            "attackerName": "Bonsvif",
+            "attackerTH": 11,
+            "attackerMapPosition": 21,
+            "defenderTag": "#QJL9UQJVV",
+            "defenderName": "AJANBOSS",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 92,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "Eve"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 11,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 11,
+            "attackerMapPosition": 22,
+            "defenderTag": "#YUPQ8VUQR",
+            "defenderName": "BlackPerl",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "AKAJM"
+        }
+      },
+      {
+        "tag": "#LG8RYJYLJ",
+        "name": "uujvhj",
+        "townhallLevel": 10,
+        "mapPosition": 27,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Supersonic"
+        }
+      },
+      {
+        "tag": "#L280UQRLR",
+        "name": "Osamabinlaggin",
+        "townhallLevel": 10,
+        "mapPosition": 28,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "skoberg"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#VU228UPG",
+    "name": "Die Wuhler",
+    "clanLevel": 16,
+    "stars": 30,
+    "destructionPercentage": 65.13333333333334,
+    "attacks": 11,
+    "members": [
+      {
+        "tag": "#8CCQLCUQV",
+        "name": "Stormcrow43",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YGPPRU888",
+        "name": "Firebird",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YGPPRU888",
+            "attackerName": "Firebird",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#9QGGLJUVU",
+            "defenderName": "Cheese",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9L2RYJPGV",
+        "name": "Dragon Rider",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9L2RYJPGV",
+            "attackerName": "Dragon Rider",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#YYJQCQG20",
+        "name": "Prometheus",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YYJQCQG20",
+            "attackerName": "Prometheus",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 90,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#YGRJ9YUY2",
+        "name": "BOWSER",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YGRJ9YUY2",
+            "attackerName": "BOWSER",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QGJCGYJYC",
+            "defenderName": "rajko",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 121,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#2GYJLV9P8",
+        "name": "skoberg",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2GYJLV9P8",
+            "attackerName": "skoberg",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#L280UQRLR",
+            "defenderName": "Osamabinlaggin",
+            "defenderTH": 10,
+            "defenderMapPosition": 28,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 69,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#8LR09PCY",
+        "name": "Langen",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8LR09PCY",
+            "attackerName": "Langen",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "rajko"
+        }
+      },
+      {
+        "tag": "#22VGY9RQ",
+        "name": "[RaG] anton",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 65,
+          "attackerName": "Cheese"
+        }
+      },
+      {
+        "tag": "#YU88QQPQ8",
+        "name": "Supersonic",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YU88QQPQ8",
+            "attackerName": "Supersonic",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LG8RYJYLJ",
+            "defenderName": "uujvhj",
+            "defenderTH": 10,
+            "defenderMapPosition": 27,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 58,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#YU90P0P0J",
+        "name": "Morpheus",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YU90P0P0J",
+            "attackerName": "Morpheus",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#QPC0YLJ88",
+        "name": "pfördi",
+        "townhallLevel": 13,
+        "mapPosition": 13,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 69,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#9GYY9G882",
+        "name": "Eve",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9GYY9G882",
+            "attackerName": "Eve",
+            "attackerTH": 12,
+            "attackerMapPosition": 14,
+            "defenderTag": "#28GYRJV2V",
+            "defenderName": "Bonsvif",
+            "defenderTH": 11,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 93,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#QVGUYJQP2",
+        "name": "AKAJM",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QVGUYJQP2",
+            "attackerName": "AKAJM",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 11,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#YUPQ8VUQR",
+        "name": "BlackPerl",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YUPQ8VUQR",
+            "attackerName": "BlackPerl",
+            "attackerTH": 12,
+            "attackerMapPosition": 17,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 55,
+            "duration": 59,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#QJL9UQJVV",
+        "name": "AJANBOSS",
+        "townhallLevel": 13,
+        "mapPosition": 18,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Bonsvif"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9L2RYJPGV",
+      "defenderName": "Dragon Rider",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 150,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 20,
+      "defenderTag": "#QPC0YLJ88",
+      "defenderName": "pfördi",
+      "defenderTH": 13,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 69,
+      "duration": 156,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2GYJLV9P8",
+      "defenderName": "skoberg",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 165,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2GYJLV9P8",
+      "attackerName": "skoberg",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#L280UQRLR",
+      "defenderName": "Osamabinlaggin",
+      "defenderTH": 10,
+      "defenderMapPosition": 28,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 69,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGRJ9YUY2",
+      "attackerName": "BOWSER",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QGJCGYJYC",
+      "defenderName": "rajko",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 121,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9QGGLJUVU",
+      "attackerName": "Cheese",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#22VGY9RQ",
+      "defenderName": "[RaG] anton",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 1,
+      "destructionPercentage": 65,
+      "duration": 116,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YYJQCQG20",
+      "defenderName": "Prometheus",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 90,
+      "duration": 179,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LR09PCY",
+      "attackerName": "Langen",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GYY9G882",
+      "attackerName": "Eve",
+      "attackerTH": 12,
+      "attackerMapPosition": 14,
+      "defenderTag": "#28GYRJV2V",
+      "defenderName": "Bonsvif",
+      "defenderTH": 11,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 93,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 11,
+      "attackerMapPosition": 22,
+      "defenderTag": "#YUPQ8VUQR",
+      "defenderName": "BlackPerl",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QVGUYJQP2",
+      "attackerName": "AKAJM",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 11,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 18,
+      "defenderTag": "#YU90P0P0J",
+      "defenderName": "Morpheus",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 102,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YGRJ9YUY2",
+      "defenderName": "BOWSER",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 76,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#28GYRJV2V",
+      "attackerName": "Bonsvif",
+      "attackerTH": 11,
+      "attackerMapPosition": 21,
+      "defenderTag": "#QJL9UQJVV",
+      "defenderName": "AJANBOSS",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 92,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QGJCGYJYC",
+      "attackerName": "rajko",
+      "attackerTH": 13,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8LR09PCY",
+      "defenderName": "Langen",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 172,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YU88QQPQ8",
+      "attackerName": "Supersonic",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LG8RYJYLJ",
+      "defenderName": "uujvhj",
+      "defenderTH": 10,
+      "defenderMapPosition": 27,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 58,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YU90P0P0J",
+      "attackerName": "Morpheus",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#YU88QQPQ8",
+      "defenderName": "Supersonic",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YYJQCQG20",
+      "attackerName": "Prometheus",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGPPRU888",
+      "attackerName": "Firebird",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#9QGGLJUVU",
+      "defenderName": "Cheese",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YUPQ8VUQR",
+      "attackerName": "BlackPerl",
+      "attackerTH": 12,
+      "attackerMapPosition": 17,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 55,
+      "duration": 59,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9L2RYJPGV",
+      "attackerName": "Dragon Rider",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9GYY9G882",
+      "defenderName": "Eve",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 111,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QVGUYJQP2",
+      "defenderName": "AKAJM",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 89,
+      "order": 24,
+      "side": "clan"
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.179Z",
+  "season": "2025-10",
+  "warTag": "29RYVJ8C8-20251009T025843000Z",
+  "startTime": "20251008T025843.000Z",
+  "endTime": "20251009T025843.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 26,
+    "destructionPercentage": 72.93333333333334,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#22900PG0V",
+            "defenderName": "sangmesh",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 142,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "venkas"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8GJU2C2G9",
+            "defenderName": "venkas",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 0,
+            "destructionPercentage": 42,
+            "duration": 88,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 42,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sangmesh"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEUSZ KRÓL !!",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEUSZ KRÓL !!",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8LPVJ9V8G",
+            "defenderName": "Nilesh",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 119,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Mayur"
+        }
+      },
+      {
+        "tag": "#QCYJQ2Q2V",
+        "name": "Jjiraya v2",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QCYJQ2Q2V",
+            "attackerName": "Jjiraya v2",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2CJV2YRLR",
+            "defenderName": "Mayur",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Nilesh"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2YRQYVGUQ",
+            "defenderName": "Swapnil",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 147,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Maddy"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#28R82Q28J",
+            "defenderName": "Maddy",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 180,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Swapnil"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2VVG92VCQ",
+            "defenderName": "Ralsum",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 157,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ralsum"
+        }
+      },
+      {
+        "tag": "#2Q0JGCJVG",
+        "name": "kaliber 44",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0JGCJVG",
+            "attackerName": "kaliber 44",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#29LV0RCVU",
+            "defenderName": "***The RocK***",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "AKSHAY..(W)..!"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#QVCYVV0YV",
+            "defenderName": "STAR BEAST",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 155,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "STAR BEAST"
+        }
+      },
+      {
+        "tag": "#Y29YYQR2",
+        "name": "kamyk",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "k2"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "Mamcorz 2.0",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "Mamcorz 2.0",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#8GY0U02JQ",
+            "defenderName": "Sonu",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 164,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Sonu"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8GRR0UUR",
+            "defenderName": "AKSHAY..(W)..!",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "***The RocK***"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#2V09ULLPR",
+            "defenderName": "sumya",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 1,
+            "destructionPercentage": 47,
+            "duration": 71,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 47,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sumya"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 14,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2RGRQPPYJ",
+            "defenderName": "sahil",
+            "defenderTH": 15,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 180,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sahil"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2PL90RULU",
+            "defenderName": "Chaitanya Wagh",
+            "defenderTH": 15,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 135,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Chaitanya Wagh"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#CLYVUQ",
+    "name": "PuneKarrrrr...!",
+    "clanLevel": 24,
+    "stars": 44,
+    "destructionPercentage": 98.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#22900PG0V",
+        "name": "sangmesh",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#22900PG0V",
+            "attackerName": "sangmesh",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#8GJU2C2G9",
+        "name": "venkas",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8GJU2C2G9",
+            "attackerName": "venkas",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 42,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#8LPVJ9V8G",
+        "name": "Nilesh",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8LPVJ9V8G",
+            "attackerName": "Nilesh",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QCYJQ2Q2V",
+            "defenderName": "Jjiraya v2",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "MATEUSZ KRÓL !!"
+        }
+      },
+      {
+        "tag": "#2CJV2YRLR",
+        "name": "Mayur",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2CJV2YRLR",
+            "attackerName": "Mayur",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEUSZ KRÓL !!",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 130,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Jjiraya v2"
+        }
+      },
+      {
+        "tag": "#2YRQYVGUQ",
+        "name": "Swapnil",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2YRQYVGUQ",
+            "attackerName": "Swapnil",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 163,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#28R82Q28J",
+        "name": "Maddy",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#28R82Q28J",
+            "attackerName": "Maddy",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#2VVG92VCQ",
+        "name": "Ralsum",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2VVG92VCQ",
+            "attackerName": "Ralsum",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#29LV0RCVU",
+        "name": "***The RocK***",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#29LV0RCVU",
+            "attackerName": "***The RocK***",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 127,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kaliber 44"
+        }
+      },
+      {
+        "tag": "#QVCYVV0YV",
+        "name": "STAR BEAST",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QVCYVV0YV",
+            "attackerName": "STAR BEAST",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#8LGQGUY0C",
+        "name": "k2",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#8LGQGUY0C",
+            "attackerName": "k2",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Y29YYQR2",
+            "defenderName": "kamyk",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8GY0U02JQ",
+        "name": "Sonu",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8GY0U02JQ",
+            "attackerName": "Sonu",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "Mamcorz 2.0",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Mamcorz 2.0"
+        }
+      },
+      {
+        "tag": "#8GRR0UUR",
+        "name": "AKSHAY..(W)..!",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8GRR0UUR",
+            "attackerName": "AKSHAY..(W)..!",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2Q0JGCJVG",
+            "defenderName": "kaliber 44",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 75,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#2V09ULLPR",
+        "name": "sumya",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#2V09ULLPR",
+            "attackerName": "sumya",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 47,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#2RGRQPPYJ",
+        "name": "sahil",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#2RGRQPPYJ",
+            "attackerName": "sahil",
+            "attackerTH": 15,
+            "attackerMapPosition": 19,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#2PL90RULU",
+        "name": "Chaitanya Wagh",
+        "townhallLevel": 15,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#2PL90RULU",
+            "attackerName": "Chaitanya Wagh",
+            "attackerTH": 15,
+            "attackerMapPosition": 21,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 75,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#2V09ULLPR",
+      "attackerName": "sumya",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8GY0U02JQ",
+      "attackerName": "Sonu",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "Mamcorz 2.0",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29LV0RCVU",
+      "attackerName": "***The RocK***",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 127,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QVCYVV0YV",
+      "attackerName": "STAR BEAST",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#28R82Q28J",
+      "defenderName": "Maddy",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 180,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LGQGUY0C",
+      "attackerName": "k2",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Y29YYQR2",
+      "defenderName": "kamyk",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8GRR0UUR",
+      "defenderName": "AKSHAY..(W)..!",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEUSZ KRÓL !!",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8LPVJ9V8G",
+      "defenderName": "Nilesh",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 119,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2YRQYVGUQ",
+      "defenderName": "Swapnil",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 147,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8GJU2C2G9",
+      "attackerName": "venkas",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q0JGCJVG",
+      "attackerName": "kaliber 44",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#29LV0RCVU",
+      "defenderName": "***The RocK***",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#22900PG0V",
+      "defenderName": "sangmesh",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 142,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PL90RULU",
+      "attackerName": "Chaitanya Wagh",
+      "attackerTH": 15,
+      "attackerMapPosition": 21,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 75,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2PL90RULU",
+      "defenderName": "Chaitanya Wagh",
+      "defenderTH": 15,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 135,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8GJU2C2G9",
+      "defenderName": "venkas",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 0,
+      "destructionPercentage": 42,
+      "duration": 88,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#2V09ULLPR",
+      "defenderName": "sumya",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 1,
+      "destructionPercentage": 47,
+      "duration": 71,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 14,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2RGRQPPYJ",
+      "defenderName": "sahil",
+      "defenderTH": 15,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 180,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2VVG92VCQ",
+      "defenderName": "Ralsum",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 157,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22900PG0V",
+      "attackerName": "sangmesh",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2VVG92VCQ",
+      "attackerName": "Ralsum",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YRQYVGUQ",
+      "attackerName": "Swapnil",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 163,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#28R82Q28J",
+      "attackerName": "Maddy",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RGRQPPYJ",
+      "attackerName": "sahil",
+      "attackerTH": 15,
+      "attackerMapPosition": 19,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8LPVJ9V8G",
+      "attackerName": "Nilesh",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QCYJQ2Q2V",
+      "defenderName": "Jjiraya v2",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8GRR0UUR",
+      "attackerName": "AKSHAY..(W)..!",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2Q0JGCJVG",
+      "defenderName": "kaliber 44",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 75,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#QVCYVV0YV",
+      "defenderName": "STAR BEAST",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 155,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2CJV2YRLR",
+      "attackerName": "Mayur",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEUSZ KRÓL !!",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 130,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "Mamcorz 2.0",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#8GY0U02JQ",
+      "defenderName": "Sonu",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 164,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCYJQ2Q2V",
+      "attackerName": "Jjiraya v2",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2CJV2YRLR",
+      "defenderName": "Mayur",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

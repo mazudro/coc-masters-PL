@@ -1,0 +1,1267 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.311Z",
+  "season": "2024-01",
+  "warTag": "JPRPRVUY-20240104T205713000Z",
+  "startTime": "20240103T205713.000Z",
+  "endTime": "20240104T205713.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 22,
+    "destructionPercentage": 57.86666666666667,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#90LJUCJU",
+            "defenderName": "cem",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 0,
+            "destructionPercentage": 21,
+            "duration": 180,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 21,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#80RQYUJ90",
+            "defenderName": "Obelix",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 97,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "cem"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QGJ8YCCC",
+            "defenderName": "Yoda",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 78,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Sabisan"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#CQLLP2RC",
+            "defenderName": "Clash of Emin",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "Asterix"
+        }
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Clash of Emin"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YVUPP8Y8",
+            "defenderName": "Spraydower",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 116,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Obelix"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YR9LUJ20Q",
+            "defenderName": "Niki Lauda",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 102,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Spraydower"
+        }
+      },
+      {
+        "tag": "#9QGGLJUVU",
+        "name": "Cheese",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9QGGLJUVU",
+            "attackerName": "Cheese",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9L28CPJ29",
+            "defenderName": "Habicht",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 67,
+            "duration": 149,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 67,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 78,
+          "attackerName": "Yoda"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QC002QPRU",
+            "defenderName": "Phönixbaum",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 130,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "Phönixbaum"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 18,
+            "defenderTag": "#Y2C0LLVL9",
+            "defenderName": "Ina❤",
+            "defenderTH": 12,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 107,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ina❤"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 20,
+            "defenderTag": "#JLQLJCGU",
+            "defenderName": "-Kamalski-",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 141,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Habicht"
+        }
+      },
+      {
+        "tag": "#28GYRJV2V",
+        "name": "Bonsvif",
+        "townhallLevel": 11,
+        "mapPosition": 21,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "Niki Lauda"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 11,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 11,
+            "attackerMapPosition": 22,
+            "defenderTag": "#82088YVPJ",
+            "defenderName": "saeeid",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 144,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "-Kamalski-"
+        }
+      },
+      {
+        "tag": "#LJYU80UPV",
+        "name": "Caps",
+        "townhallLevel": 10,
+        "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LJYU80UPV",
+            "attackerName": "Caps",
+            "attackerTH": 10,
+            "attackerMapPosition": 26,
+            "defenderTag": "#P9CQ8P9J2",
+            "defenderName": "mattttt",
+            "defenderTH": 11,
+            "defenderMapPosition": 18,
+            "stars": 1,
+            "destructionPercentage": 80,
+            "duration": 111,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mattttt"
+        }
+      },
+      {
+        "tag": "#LG8RYJYLJ",
+        "name": "uujvhj",
+        "townhallLevel": 10,
+        "mapPosition": 27,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sarahnaemi"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2GPRPLL2Y",
+    "name": "Fast & Furious",
+    "clanLevel": 7,
+    "stars": 33,
+    "destructionPercentage": 85.66666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#90LJUCJU",
+        "name": "cem",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#90LJUCJU",
+            "attackerName": "cem",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 14,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 90,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 21,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#L98G8R9QP",
+        "name": "Sabisan",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L98G8R9QP",
+            "attackerName": "Sabisan",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#80RQYUJ90",
+        "name": "Obelix",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#80RQYUJ90",
+            "attackerName": "Obelix",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#YJ0YC229",
+            "defenderName": "andre",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 98,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#CQLLP2RC",
+        "name": "Clash of Emin",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#CQLLP2RC",
+            "attackerName": "Clash of Emin",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QGJCGYJYC",
+            "defenderName": "rajko",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 104,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#YVYL0VVVP",
+        "name": "Asterix",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YVYL0VVVP",
+            "attackerName": "Asterix",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 102,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YVUPP8Y8",
+        "name": "Spraydower",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YVUPP8Y8",
+            "attackerName": "Spraydower",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 165,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#QGJ8YCCC",
+        "name": "Yoda",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QGJ8YCCC",
+            "attackerName": "Yoda",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#9QGGLJUVU",
+            "defenderName": "Cheese",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 78,
+            "duration": 128,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#9L28CPJ29",
+        "name": "Habicht",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9L28CPJ29",
+            "attackerName": "Habicht",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 89,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 67,
+          "attackerName": "Cheese"
+        }
+      },
+      {
+        "tag": "#QC002QPRU",
+        "name": "Phönixbaum",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QC002QPRU",
+            "attackerName": "Phönixbaum",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 77,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#Y2C0LLVL9",
+        "name": "Ina❤",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y2C0LLVL9",
+            "attackerName": "Ina❤",
+            "attackerTH": 12,
+            "attackerMapPosition": 12,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#JLQLJCGU",
+        "name": "-Kamalski-",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#JLQLJCGU",
+            "attackerName": "-Kamalski-",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 11,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#YR9LUJ20Q",
+        "name": "Niki Lauda",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YR9LUJ20Q",
+            "attackerName": "Niki Lauda",
+            "attackerTH": 12,
+            "attackerMapPosition": 14,
+            "defenderTag": "#28GYRJV2V",
+            "defenderName": "Bonsvif",
+            "defenderTH": 11,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 132,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#82088YVPJ",
+        "name": "saeeid",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#P9CQ8P9J2",
+        "name": "mattttt",
+        "townhallLevel": 11,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#P9CQ8P9J2",
+            "attackerName": "mattttt",
+            "attackerTH": 11,
+            "attackerMapPosition": 18,
+            "defenderTag": "#LJYU80UPV",
+            "defenderName": "Caps",
+            "defenderTH": 10,
+            "defenderMapPosition": 26,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 80,
+          "attackerName": "Caps"
+        }
+      },
+      {
+        "tag": "#Q2PPV992Y",
+        "name": "sarahnaemi",
+        "townhallLevel": 10,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#Q2PPV992Y",
+            "attackerName": "sarahnaemi",
+            "attackerTH": 10,
+            "attackerMapPosition": 22,
+            "defenderTag": "#LG8RYJYLJ",
+            "defenderName": "uujvhj",
+            "defenderTH": 10,
+            "defenderMapPosition": 27,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YR9LUJ20Q",
+      "attackerName": "Niki Lauda",
+      "attackerTH": 12,
+      "attackerMapPosition": 14,
+      "defenderTag": "#28GYRJV2V",
+      "defenderName": "Bonsvif",
+      "defenderTH": 11,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 132,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJYU80UPV",
+      "attackerName": "Caps",
+      "attackerTH": 10,
+      "attackerMapPosition": 26,
+      "defenderTag": "#P9CQ8P9J2",
+      "defenderName": "mattttt",
+      "defenderTH": 11,
+      "defenderMapPosition": 18,
+      "stars": 1,
+      "destructionPercentage": 80,
+      "duration": 111,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#90LJUCJU",
+      "defenderName": "cem",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 0,
+      "destructionPercentage": 21,
+      "duration": 180,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QC002QPRU",
+      "attackerName": "Phönixbaum",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 77,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2C0LLVL9",
+      "attackerName": "Ina❤",
+      "attackerTH": 12,
+      "attackerMapPosition": 12,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 11,
+      "attackerMapPosition": 22,
+      "defenderTag": "#82088YVPJ",
+      "defenderName": "saeeid",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 144,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 20,
+      "defenderTag": "#JLQLJCGU",
+      "defenderName": "-Kamalski-",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 141,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#CQLLP2RC",
+      "defenderName": "Clash of Emin",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9L28CPJ29",
+      "attackerName": "Habicht",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 89,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9QGGLJUVU",
+      "attackerName": "Cheese",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9L28CPJ29",
+      "defenderName": "Habicht",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 67,
+      "duration": 149,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QC002QPRU",
+      "defenderName": "Phönixbaum",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 130,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#90LJUCJU",
+      "attackerName": "cem",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 14,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 90,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9CQ8P9J2",
+      "attackerName": "mattttt",
+      "attackerTH": 11,
+      "attackerMapPosition": 18,
+      "defenderTag": "#LJYU80UPV",
+      "defenderName": "Caps",
+      "defenderTH": 10,
+      "defenderMapPosition": 26,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YVUPP8Y8",
+      "defenderName": "Spraydower",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 116,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#JLQLJCGU",
+      "attackerName": "-Kamalski-",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 11,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q2PPV992Y",
+      "attackerName": "sarahnaemi",
+      "attackerTH": 10,
+      "attackerMapPosition": 22,
+      "defenderTag": "#LG8RYJYLJ",
+      "defenderName": "uujvhj",
+      "defenderTH": 10,
+      "defenderMapPosition": 27,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YVUPP8Y8",
+      "attackerName": "Spraydower",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 165,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QGJ8YCCC",
+      "defenderName": "Yoda",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 78,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QGJ8YCCC",
+      "attackerName": "Yoda",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#9QGGLJUVU",
+      "defenderName": "Cheese",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 78,
+      "duration": 128,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#80RQYUJ90",
+      "defenderName": "Obelix",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 97,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 18,
+      "defenderTag": "#Y2C0LLVL9",
+      "defenderName": "Ina❤",
+      "defenderTH": 12,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 107,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YVYL0VVVP",
+      "attackerName": "Asterix",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 102,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80RQYUJ90",
+      "attackerName": "Obelix",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#YJ0YC229",
+      "defenderName": "andre",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 98,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L98G8R9QP",
+      "attackerName": "Sabisan",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CQLLP2RC",
+      "attackerName": "Clash of Emin",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QGJCGYJYC",
+      "defenderName": "rajko",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 104,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YR9LUJ20Q",
+      "defenderName": "Niki Lauda",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 102,
+      "order": 26,
+      "side": "clan"
+    }
+  ]
+}

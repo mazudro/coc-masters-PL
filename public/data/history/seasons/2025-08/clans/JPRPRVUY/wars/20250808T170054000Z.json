@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.528Z",
+  "season": "2025-08",
+  "warTag": "JPRPRVUY-20250808T170054000Z",
+  "startTime": "20250807T170054.000Z",
+  "endTime": "20250808T170054.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 23,
+    "stars": 38,
+    "destructionPercentage": 89.86666666666666,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#Q89G0CGY",
+            "defenderName": "Romain",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 180,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Romain"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#VLVQC0YY",
+            "defenderName": "Clément",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "Clément"
+        }
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SlaYeuRz974"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#209J0GCRG",
+            "defenderName": "Balu414",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Balu414"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LLYQ90PGV",
+            "attackerName": "Zielony 2.0",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Y0C2QP8",
+            "defenderName": "ビンセント パストラナ",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 78,
+          "attackerName": "lipsy"
+        }
+      },
+      {
+        "tag": "#GJV22VC9",
+        "name": "Stary Kocur",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GJV22VC9",
+            "attackerName": "Stary Kocur",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8LRRQJJV",
+            "defenderName": "Monkey.D.Luffy",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Long Vân 2"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#29LYRV8LC",
+            "defenderName": "Bichoko974",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "Luxxie"
+        }
+      },
+      {
+        "tag": "#2JCY00LP",
+        "name": "JJ",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2JCY00LP",
+            "attackerName": "JJ",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Y2QGCV0L",
+            "defenderName": "Swann™",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "Bichoko974"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9RLUPRY2P",
+            "defenderName": "YY",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 45,
+          "attackerName": "petitbad38"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9PQ0Y9R0P",
+            "defenderName": "loulou!!!",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 161,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "loulou!!!"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#8YYQQYR9J",
+            "defenderName": "lipsy",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Monkey.D.Luffy"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Q8JJVUJUY",
+            "defenderName": "petitbad38",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ビンセント パストラナ"
+        }
+      },
+      {
+        "tag": "#YLJJYG28G",
+        "name": "byczeq",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YLJJYG28G",
+            "attackerName": "byczeq",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#UU9PY9PR",
+            "defenderName": "SlaYeuRz974",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 120,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Swann™"
+        }
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "0_Macias_0",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "0_Macias_0",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2UYRV2RC",
+            "defenderName": "Long Vân 2",
+            "defenderTH": 14,
+            "defenderMapPosition": 23,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 128,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "YY"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 27,
+            "defenderTag": "#92J0UU0Q",
+            "defenderName": "Luxxie",
+            "defenderTH": 14,
+            "defenderMapPosition": 30,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "ROM"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#9L80GQ8V",
+    "name": "New Brotherhood",
+    "clanLevel": 18,
+    "stars": 32,
+    "destructionPercentage": 80.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#Q89G0CGY",
+        "name": "Romain",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Q89G0CGY",
+            "attackerName": "Romain",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#VLVQC0YY",
+        "name": "Clément",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#VLVQC0YY",
+            "attackerName": "Clément",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#UU9PY9PR",
+        "name": "SlaYeuRz974",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UU9PY9PR",
+            "attackerName": "SlaYeuRz974",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "byczeq"
+        }
+      },
+      {
+        "tag": "#209J0GCRG",
+        "name": "Balu414",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#209J0GCRG",
+            "attackerName": "Balu414",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#Y0C2QP8",
+        "name": "ビンセント パストラナ",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Y0C2QP8",
+            "attackerName": "ビンセント パストラナ",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zielony 2.0"
+        }
+      },
+      {
+        "tag": "#8LRRQJJV",
+        "name": "Monkey.D.Luffy",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8LRRQJJV",
+            "attackerName": "Monkey.D.Luffy",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 107,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Stary Kocur"
+        }
+      },
+      {
+        "tag": "#29LYRV8LC",
+        "name": "Bichoko974",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#29LYRV8LC",
+            "attackerName": "Bichoko974",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2JCY00LP",
+            "defenderName": "JJ",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 131,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#Y2QGCV0L",
+        "name": "Swann™",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y2QGCV0L",
+            "attackerName": "Swann™",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YLJJYG28G",
+            "defenderName": "byczeq",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 133,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "JJ"
+        }
+      },
+      {
+        "tag": "#9RLUPRY2P",
+        "name": "YY",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9RLUPRY2P",
+            "attackerName": "YY",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "0_Macias_0",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 149,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#9PQ0Y9R0P",
+        "name": "loulou!!!",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9PQ0Y9R0P",
+            "attackerName": "loulou!!!",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 164,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#8YYQQYR9J",
+        "name": "lipsy",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8YYQQYR9J",
+            "attackerName": "lipsy",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 78,
+            "duration": 149,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#Q8JJVUJUY",
+        "name": "petitbad38",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q8JJVUJUY",
+            "attackerName": "petitbad38",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 45,
+            "duration": 75,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 45,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#JC8JGQ0C",
+        "name": "ROM",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#JC8JGQ0C",
+            "attackerName": "ROM",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 27,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2UYRV2RC",
+        "name": "Long Vân 2",
+        "townhallLevel": 14,
+        "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#2UYRV2RC",
+            "attackerName": "Long Vân 2",
+            "attackerTH": 14,
+            "attackerMapPosition": 23,
+            "defenderTag": "#GJV22VC9",
+            "defenderName": "Stary Kocur",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 73,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "0_Macias_0"
+        }
+      },
+      {
+        "tag": "#92J0UU0Q",
+        "name": "Luxxie",
+        "townhallLevel": 14,
+        "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#92J0UU0Q",
+            "attackerName": "Luxxie",
+            "attackerTH": 14,
+            "attackerMapPosition": 30,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 180,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9PQ0Y9R0P",
+      "defenderName": "loulou!!!",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 161,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#29LYRV8LC",
+      "defenderName": "Bichoko974",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YLJJYG28G",
+      "attackerName": "byczeq",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#UU9PY9PR",
+      "defenderName": "SlaYeuRz974",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 120,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Q8JJVUJUY",
+      "defenderName": "petitbad38",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#8YYQQYR9J",
+      "defenderName": "lipsy",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YYQQYR9J",
+      "attackerName": "lipsy",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 78,
+      "duration": 149,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#92J0UU0Q",
+      "attackerName": "Luxxie",
+      "attackerTH": 14,
+      "attackerMapPosition": 30,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 180,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2JCY00LP",
+      "attackerName": "JJ",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Y2QGCV0L",
+      "defenderName": "Swann™",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9RLUPRY2P",
+      "attackerName": "YY",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "0_Macias_0",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 149,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9PQ0Y9R0P",
+      "attackerName": "loulou!!!",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 164,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#VLVQC0YY",
+      "defenderName": "Clément",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8JJVUJUY",
+      "attackerName": "petitbad38",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 45,
+      "duration": 75,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#209J0GCRG",
+      "defenderName": "Balu414",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y0C2QP8",
+      "attackerName": "ビンセント パストラナ",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9RLUPRY2P",
+      "defenderName": "YY",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJV22VC9",
+      "attackerName": "Stary Kocur",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8LRRQJJV",
+      "defenderName": "Monkey.D.Luffy",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#209J0GCRG",
+      "attackerName": "Balu414",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VLVQC0YY",
+      "attackerName": "Clément",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2UYRV2RC",
+      "attackerName": "Long Vân 2",
+      "attackerTH": 14,
+      "attackerMapPosition": 23,
+      "defenderTag": "#GJV22VC9",
+      "defenderName": "Stary Kocur",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 73,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UU9PY9PR",
+      "attackerName": "SlaYeuRz974",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 27,
+      "defenderTag": "#92J0UU0Q",
+      "defenderName": "Luxxie",
+      "defenderTH": 14,
+      "defenderMapPosition": 30,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LRRQJJV",
+      "attackerName": "Monkey.D.Luffy",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 107,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q89G0CGY",
+      "attackerName": "Romain",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2QGCV0L",
+      "attackerName": "Swann™",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YLJJYG28G",
+      "defenderName": "byczeq",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 133,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JC8JGQ0C",
+      "attackerName": "ROM",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 27,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLYQ90PGV",
+      "attackerName": "Zielony 2.0",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Y0C2QP8",
+      "defenderName": "ビンセント パストラナ",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "0_Macias_0",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2UYRV2RC",
+      "defenderName": "Long Vân 2",
+      "defenderTH": 14,
+      "defenderMapPosition": 23,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 128,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#Q89G0CGY",
+      "defenderName": "Romain",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 180,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29LYRV8LC",
+      "attackerName": "Bichoko974",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2JCY00LP",
+      "defenderName": "JJ",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 131,
+      "order": 29,
+      "side": "opponent"
+    }
+  ]
+}

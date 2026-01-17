@@ -1,0 +1,1303 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.374Z",
+  "season": "2024-06",
+  "warTag": "JPRPRVUY-20240604T214724000Z",
+  "startTime": "20240603T214724.000Z",
+  "endTime": "20240604T214724.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 43,
+    "destructionPercentage": 97.8,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QPLU28PR9",
+            "defenderName": "sun king",
+            "defenderTH": 14,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "sun king"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#Q02PLG98J",
+            "defenderName": "ELDEEB",
+            "defenderTH": 13,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9YQ9JJYJ9",
+            "defenderName": "احسان",
+            "defenderTH": 13,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 82,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 34,
+          "attackerName": "احسان"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#G2P8J282G",
+            "defenderName": "Thorin oknsheld",
+            "defenderTH": 13,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 68,
+          "attackerName": "Thorin oknsheld"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9R2PQJVQ2",
+            "defenderName": "حبر العيون",
+            "defenderTH": 12,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "حبر العيون"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QYRU9PCLC",
+            "defenderName": "نبض مؤقت",
+            "defenderTH": 12,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 121,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "نبض مؤقت"
+        }
+      },
+      {
+        "tag": "#YVVCJUVCV",
+        "name": "Matu_CoC",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YVVCJUVCV",
+            "attackerName": "Matu_CoC",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y29Q9V8C9",
+            "defenderName": "عطر الجنة",
+            "defenderTH": 12,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "عطر الجنة"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#PJ000CG80",
+            "defenderName": "وطن النهار",
+            "defenderTH": 12,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 116,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "وطن النهار"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PR2Q2L9RG",
+            "defenderName": "مطر صيف",
+            "defenderTH": 12,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "مطر صيف"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#P0JLPU9PQ",
+            "defenderName": "المدمر",
+            "defenderTH": 12,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 92,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "المدمر"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9VLYGUPJ0",
+            "defenderName": "مالك زمانة",
+            "defenderTH": 12,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 72,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "مالك زمانة"
+        }
+      },
+      {
+        "tag": "#8JPLGG88C",
+        "name": "WarRiaT_",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8JPLGG88C",
+            "attackerName": "WarRiaT_",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#Q9LY88RQP",
+            "defenderName": "علاوي",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "علاوي"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeq-_-",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeq-_-",
+            "attackerTH": 12,
+            "attackerMapPosition": 18,
+            "defenderTag": "#Q8GPUJGGG",
+            "defenderName": "المايسترو",
+            "defenderTH": 12,
+            "defenderMapPosition": 24,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "المايسترو"
+        }
+      },
+      {
+        "tag": "#QYVJY90Q0",
+        "name": "jaśkoo",
+        "townhallLevel": 12,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QYVJY90Q0",
+            "attackerName": "jaśkoo",
+            "attackerTH": 12,
+            "attackerMapPosition": 19,
+            "defenderTag": "#QVQY9JYGV",
+            "defenderName": "abdulrhman",
+            "defenderTH": 12,
+            "defenderMapPosition": 25,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RVU0CGVR",
+        "name": "Lord Kajetan",
+        "townhallLevel": 11,
+        "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#RVU0CGVR",
+            "attackerName": "Lord Kajetan",
+            "attackerTH": 11,
+            "attackerMapPosition": 25,
+            "defenderTag": "#GY28LLYYC",
+            "defenderName": "المتملك R",
+            "defenderTH": 10,
+            "defenderMapPosition": 28,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 75,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#22JGCRJPY",
+    "name": "ابطال كلاش",
+    "clanLevel": 15,
+    "stars": 24,
+    "destructionPercentage": 59.733333333333334,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#QPLU28PR9",
+        "name": "sun king",
+        "townhallLevel": 14,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QPLU28PR9",
+            "attackerName": "sun king",
+            "attackerTH": 14,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 76,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#Q02PLG98J",
+        "name": "ELDEEB",
+        "townhallLevel": 13,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#9YQ9JJYJ9",
+        "name": "احسان",
+        "townhallLevel": 13,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9YQ9JJYJ9",
+            "attackerName": "احسان",
+            "attackerTH": 13,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 34,
+            "duration": 75,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 34,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#G2P8J282G",
+        "name": "Thorin oknsheld",
+        "townhallLevel": 13,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#G2P8J282G",
+            "attackerName": "Thorin oknsheld",
+            "attackerTH": 13,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YJ0YC229",
+            "defenderName": "andre",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 68,
+            "duration": 93,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#9R2PQJVQ2",
+        "name": "حبر العيون",
+        "townhallLevel": 12,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#9R2PQJVQ2",
+            "attackerName": "حبر العيون",
+            "attackerTH": 12,
+            "attackerMapPosition": 7,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 95,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#QYRU9PCLC",
+        "name": "نبض مؤقت",
+        "townhallLevel": 12,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QYRU9PCLC",
+            "attackerName": "نبض مؤقت",
+            "attackerTH": 12,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 94,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#Y29Q9V8C9",
+        "name": "عطر الجنة",
+        "townhallLevel": 12,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y29Q9V8C9",
+            "attackerName": "عطر الجنة",
+            "attackerTH": 12,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YVVCJUVCV",
+            "defenderName": "Matu_CoC",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 105,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Matu_CoC"
+        }
+      },
+      {
+        "tag": "#PJ000CG80",
+        "name": "وطن النهار",
+        "townhallLevel": 12,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PJ000CG80",
+            "attackerName": "وطن النهار",
+            "attackerTH": 12,
+            "attackerMapPosition": 10,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 80,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#PR2Q2L9RG",
+        "name": "مطر صيف",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PR2Q2L9RG",
+            "attackerName": "مطر صيف",
+            "attackerTH": 12,
+            "attackerMapPosition": 11,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 111,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#P0JLPU9PQ",
+        "name": "المدمر",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#P0JLPU9PQ",
+            "attackerName": "المدمر",
+            "attackerTH": 12,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 119,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#9VLYGUPJ0",
+        "name": "مالك زمانة",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#9VLYGUPJ0",
+            "attackerName": "مالك زمانة",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#Q9LY88RQP",
+        "name": "علاوي",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#Q9LY88RQP",
+            "attackerName": "علاوي",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#8JPLGG88C",
+            "defenderName": "WarRiaT_",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 117,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "WarRiaT_"
+        }
+      },
+      {
+        "tag": "#Q8GPUJGGG",
+        "name": "المايسترو",
+        "townhallLevel": 12,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#Q8GPUJGGG",
+            "attackerName": "المايسترو",
+            "attackerTH": 12,
+            "attackerMapPosition": 24,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeq-_-",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeq-_-"
+        }
+      },
+      {
+        "tag": "#QVQY9JYGV",
+        "name": "abdulrhman",
+        "townhallLevel": 12,
+        "mapPosition": 25,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "jaśkoo"
+        }
+      },
+      {
+        "tag": "#GY28LLYYC",
+        "name": "المتملك R",
+        "townhallLevel": 10,
+        "mapPosition": 28,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lord Kajetan"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeq-_-",
+      "attackerTH": 12,
+      "attackerMapPosition": 18,
+      "defenderTag": "#Q8GPUJGGG",
+      "defenderName": "المايسترو",
+      "defenderTH": 12,
+      "defenderMapPosition": 24,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PR2Q2L9RG",
+      "defenderName": "مطر صيف",
+      "defenderTH": 12,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#Q02PLG98J",
+      "defenderName": "ELDEEB",
+      "defenderTH": 13,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9R2PQJVQ2",
+      "attackerName": "حبر العيون",
+      "attackerTH": 12,
+      "attackerMapPosition": 7,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 95,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PR2Q2L9RG",
+      "attackerName": "مطر صيف",
+      "attackerTH": 12,
+      "attackerMapPosition": 11,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 111,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y29Q9V8C9",
+      "attackerName": "عطر الجنة",
+      "attackerTH": 12,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YVVCJUVCV",
+      "defenderName": "Matu_CoC",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 105,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PJ000CG80",
+      "attackerName": "وطن النهار",
+      "attackerTH": 12,
+      "attackerMapPosition": 10,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 80,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYRU9PCLC",
+      "attackerName": "نبض مؤقت",
+      "attackerTH": 12,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 94,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#G2P8J282G",
+      "defenderName": "Thorin oknsheld",
+      "defenderTH": 13,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RVU0CGVR",
+      "attackerName": "Lord Kajetan",
+      "attackerTH": 11,
+      "attackerMapPosition": 25,
+      "defenderTag": "#GY28LLYYC",
+      "defenderName": "المتملك R",
+      "defenderTH": 10,
+      "defenderMapPosition": 28,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 75,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YVVCJUVCV",
+      "attackerName": "Matu_CoC",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y29Q9V8C9",
+      "defenderName": "عطر الجنة",
+      "defenderTH": 12,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QYVJY90Q0",
+      "attackerName": "jaśkoo",
+      "attackerTH": 12,
+      "attackerMapPosition": 19,
+      "defenderTag": "#QVQY9JYGV",
+      "defenderName": "abdulrhman",
+      "defenderTH": 12,
+      "defenderMapPosition": 25,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9YQ9JJYJ9",
+      "defenderName": "احسان",
+      "defenderTH": 13,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 82,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9VLYGUPJ0",
+      "defenderName": "مالك زمانة",
+      "defenderTH": 12,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 72,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2P8J282G",
+      "attackerName": "Thorin oknsheld",
+      "attackerTH": 13,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YJ0YC229",
+      "defenderName": "andre",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 68,
+      "duration": 93,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8JPLGG88C",
+      "attackerName": "WarRiaT_",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#Q9LY88RQP",
+      "defenderName": "علاوي",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QYRU9PCLC",
+      "defenderName": "نبض مؤقت",
+      "defenderTH": 12,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 121,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#PJ000CG80",
+      "defenderName": "وطن النهار",
+      "defenderTH": 12,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 116,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QPLU28PR9",
+      "defenderName": "sun king",
+      "defenderTH": 14,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9YQ9JJYJ9",
+      "attackerName": "احسان",
+      "attackerTH": 13,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 34,
+      "duration": 75,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P0JLPU9PQ",
+      "attackerName": "المدمر",
+      "attackerTH": 12,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 119,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9VLYGUPJ0",
+      "attackerName": "مالك زمانة",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q9LY88RQP",
+      "attackerName": "علاوي",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#8JPLGG88C",
+      "defenderName": "WarRiaT_",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 117,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#P0JLPU9PQ",
+      "defenderName": "المدمر",
+      "defenderTH": 12,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 92,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8GPUJGGG",
+      "attackerName": "المايسترو",
+      "attackerTH": 12,
+      "attackerMapPosition": 24,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeq-_-",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9R2PQJVQ2",
+      "defenderName": "حبر العيون",
+      "defenderTH": 12,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QPLU28PR9",
+      "attackerName": "sun king",
+      "attackerTH": 14,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 76,
+      "order": 27,
+      "side": "opponent"
+    }
+  ]
+}

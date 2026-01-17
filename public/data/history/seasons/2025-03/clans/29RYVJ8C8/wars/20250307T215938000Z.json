@@ -1,0 +1,2575 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.086Z",
+  "season": "2025-03",
+  "warTag": "29RYVJ8C8-20250307T215938000Z",
+  "startTime": "20250306T215938.000Z",
+  "endTime": "20250307T215938.000Z",
+  "teamSize": 30,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 11,
+    "stars": 80,
+    "destructionPercentage": 96.26666666666667,
+    "attacks": 30,
+    "members": [
+      {
+        "tag": "#QCQQ9L2CQ",
+        "name": "ICEMAN",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QCQQ9L2CQ",
+            "attackerName": "ICEMAN",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#82UGJL2Q",
+            "defenderName": "いとをかし",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 180,
+            "order": 54,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 61,
+          "attackerName": "しんじ"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P2V0LG99P",
+            "defenderName": "Jin",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 165,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Jin"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9V8C2V98",
+            "defenderName": "etoile ５",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 124,
+            "order": 45,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 57,
+          "attackerName": "tomoki"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2R2VYL2RV",
+            "defenderName": "にゃんたん",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "にゃんたん"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#GPPP9RLR0",
+            "defenderName": "アンパン",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 49,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "アンパン"
+        }
+      },
+      {
+        "tag": "#ULV0LJ9C",
+        "name": "ptaqdar",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#ULV0LJ9C",
+            "attackerName": "ptaqdar",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#92PVP2L0",
+            "defenderName": "tomoki",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 99,
+            "order": 43,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 42,
+          "attackerName": "etoile ５"
+        }
+      },
+      {
+        "tag": "#GJV22VC9",
+        "name": "Stary Kocur",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#GJV22VC9",
+            "attackerName": "Stary Kocur",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P09L0RL8V",
+            "defenderName": "takato",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 138,
+            "order": 36,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "takato"
+        }
+      },
+      {
+        "tag": "#9GP08G0PC",
+        "name": "KOKS",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9GP08G0PC",
+            "attackerName": "KOKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#JJ9CL9UC",
+            "defenderName": "しんじ",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 53,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "くうにゃん"
+        }
+      },
+      {
+        "tag": "#PJR8PV8P0",
+        "name": "ColManeQPL",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PJR8PV8P0",
+            "attackerName": "ColManeQPL",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#C2V2VRUV",
+            "defenderName": "なおちゃん",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 31,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 55,
+          "attackerName": "あき"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#L89JGJ02V",
+            "defenderName": "ぽんず",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 180,
+            "order": 41,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2R9LCPY8C",
+            "defenderName": "かといち",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 180,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 60,
+          "attackerName": "かといち"
+        }
+      },
+      {
+        "tag": "#LJ2CYJJ0G",
+        "name": "ggg",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2CYJJ0G",
+            "attackerName": "ggg",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LQPULG8G8",
+            "defenderName": "ミラニスタ",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 52,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "ミラニスタ"
+        }
+      },
+      {
+        "tag": "#22CVU8U9",
+        "name": "Jjiraya",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#22CVU8U9",
+            "attackerName": "Jjiraya",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QYUURQ0UQ",
+            "defenderName": "あき",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 164,
+            "order": 42,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YP8JCRCPG",
+        "name": "krakra",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YP8JCRCPG",
+            "attackerName": "krakra",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#2PGV0LY9",
+            "defenderName": "むぎちゃ",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 35,
+          "attackerName": "むぎちゃ"
+        }
+      },
+      {
+        "tag": "#299PCL828",
+        "name": "Wybraniec",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#299PCL828",
+            "attackerName": "Wybraniec",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2LPPLV8JV",
+            "defenderName": "ぽんち",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 39,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "ぽんち"
+        }
+      },
+      {
+        "tag": "#9QJQV8PJG",
+        "name": "MrTea",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#9QJQV8PJG",
+            "attackerName": "MrTea",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#UYYRC9UG",
+            "defenderName": "くうにゃん",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "いとをかし"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 16,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 16,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9UY2RQ922",
+            "defenderName": "けけけ",
+            "defenderTH": 15,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#YRLL9R2RY",
+            "defenderName": "まさき",
+            "defenderTH": 14,
+            "defenderMapPosition": 35,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 48,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "けけけ"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 15,
+            "attackerMapPosition": 19,
+            "defenderTag": "#LGJGLPRRQ",
+            "defenderName": "クロ",
+            "defenderTH": 14,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 155,
+            "order": 44,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "クロ"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 15,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LLYQ90PGV",
+            "attackerName": "Zielony 2.0",
+            "attackerTH": 15,
+            "attackerMapPosition": 20,
+            "defenderTag": "#LRYQPG90P",
+            "defenderName": "なぎトマト",
+            "defenderTH": 14,
+            "defenderMapPosition": 24,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 179,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "なぎトマト"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 15,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 15,
+            "attackerMapPosition": 21,
+            "defenderTag": "#LU0YUJCQP",
+            "defenderName": "たちちちち",
+            "defenderTH": 14,
+            "defenderMapPosition": 25,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "たちちちち"
+        }
+      },
+      {
+        "tag": "#8GU2P28UY",
+        "name": "kozaczek987",
+        "townhallLevel": 15,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#8GU2P28UY",
+            "attackerName": "kozaczek987",
+            "attackerTH": 15,
+            "attackerMapPosition": 22,
+            "defenderTag": "#LVLUUV9R",
+            "defenderName": "よこ",
+            "defenderTH": 14,
+            "defenderMapPosition": 31,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QCYJQ2Q2V",
+        "name": "Jjiraya v2",
+        "townhallLevel": 15,
+        "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#QCYJQ2Q2V",
+            "attackerName": "Jjiraya v2",
+            "attackerTH": 15,
+            "attackerMapPosition": 23,
+            "defenderTag": "#2988CL8VY",
+            "defenderName": "しゅうごk2",
+            "defenderTH": 14,
+            "defenderMapPosition": 32,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 91,
+            "order": 46,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "しゅうごk2"
+        }
+      },
+      {
+        "tag": "#2JCY00LP",
+        "name": "JJ",
+        "townhallLevel": 15,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#2JCY00LP",
+            "attackerName": "JJ",
+            "attackerTH": 15,
+            "attackerMapPosition": 24,
+            "defenderTag": "#QRJLLV90P",
+            "defenderName": "yui",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 122,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "まさき"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 15,
+        "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 15,
+            "attackerMapPosition": 25,
+            "defenderTag": "#LPJVCLVR8",
+            "defenderName": "くろポン",
+            "defenderTH": 15,
+            "defenderMapPosition": 38,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 101,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 78,
+          "attackerName": "くろポン"
+        }
+      },
+      {
+        "tag": "#LJY8G2V2Y",
+        "name": "kowal2k1",
+        "townhallLevel": 15,
+        "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LJY8G2V2Y",
+            "attackerName": "kowal2k1",
+            "attackerTH": 15,
+            "attackerMapPosition": 26,
+            "defenderTag": "#QCV98VYRP",
+            "defenderName": "timpo",
+            "defenderTH": 13,
+            "defenderMapPosition": 41,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#U8UG9VCU",
+        "name": "Patryk1m",
+        "townhallLevel": 15,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#U8UG9VCU",
+            "attackerName": "Patryk1m",
+            "attackerTH": 15,
+            "attackerMapPosition": 27,
+            "defenderTag": "#YCQQGUGCG",
+            "defenderName": "わいでぃー",
+            "defenderTH": 13,
+            "defenderMapPosition": 42,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 34,
+          "attackerName": "わいでぃー"
+        }
+      },
+      {
+        "tag": "#29YQYUVRJ",
+        "name": "mozelll",
+        "townhallLevel": 15,
+        "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#29YQYUVRJ",
+            "attackerName": "mozelll",
+            "attackerTH": 15,
+            "attackerMapPosition": 28,
+            "defenderTag": "#Q8QR2U9V9",
+            "defenderName": "shin",
+            "defenderTH": 13,
+            "defenderMapPosition": 43,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 103,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PCGCRVG98",
+        "name": "GruchaczPL",
+        "townhallLevel": 14,
+        "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#PCGCRVG98",
+            "attackerName": "GruchaczPL",
+            "attackerTH": 14,
+            "attackerMapPosition": 32,
+            "defenderTag": "#YYPR0YCR",
+            "defenderName": "たかし",
+            "defenderTH": 13,
+            "defenderMapPosition": 44,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "たかし"
+        }
+      },
+      {
+        "tag": "#QY0C9QY2G",
+        "name": "spcony kuba",
+        "townhallLevel": 13,
+        "mapPosition": 41,
+        "attacks": [
+          {
+            "attackerTag": "#QY0C9QY2G",
+            "attackerName": "spcony kuba",
+            "attackerTH": 13,
+            "attackerMapPosition": 41,
+            "defenderTag": "#9GVC2PJJV",
+            "defenderName": "バブディオ",
+            "defenderTH": 13,
+            "defenderMapPosition": 46,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 50,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "バブディオ"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2QRLJ8CJ9",
+    "name": "にゃんにゃんパラダイス",
+    "clanLevel": 20,
+    "stars": 39,
+    "destructionPercentage": 55.1,
+    "attacks": 24,
+    "members": [
+      {
+        "tag": "#JJ9CL9UC",
+        "name": "しんじ",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#JJ9CL9UC",
+            "attackerName": "しんじ",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QCQQ9L2CQ",
+            "defenderName": "ICEMAN",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 61,
+            "duration": 146,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KOKS"
+        }
+      },
+      {
+        "tag": "#P2V0LG99P",
+        "name": "Jin",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P2V0LG99P",
+            "attackerName": "Jin",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 122,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#92PVP2L0",
+        "name": "tomoki",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#92PVP2L0",
+            "attackerName": "tomoki",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 57,
+            "duration": 56,
+            "order": 40,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "ptaqdar"
+        }
+      },
+      {
+        "tag": "#2R2VYL2RV",
+        "name": "にゃんたん",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R2VYL2RV",
+            "attackerName": "にゃんたん",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 114,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#GPPP9RLR0",
+        "name": "アンパン",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#GPPP9RLR0",
+            "attackerName": "アンパン",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 143,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#9V8C2V98",
+        "name": "etoile ５",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9V8C2V98",
+            "attackerName": "etoile ５",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#ULV0LJ9C",
+            "defenderName": "ptaqdar",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 42,
+            "duration": 96,
+            "order": 34,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 42,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#P09L0RL8V",
+        "name": "takato",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P09L0RL8V",
+            "attackerName": "takato",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#GJV22VC9",
+            "defenderName": "Stary Kocur",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 134,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Stary Kocur"
+        }
+      },
+      {
+        "tag": "#UYYRC9UG",
+        "name": "くうにゃん",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#UYYRC9UG",
+            "attackerName": "くうにゃん",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#9GP08G0PC",
+            "defenderName": "KOKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 168,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MrTea"
+        }
+      },
+      {
+        "tag": "#QYUURQ0UQ",
+        "name": "あき",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#QYUURQ0UQ",
+            "attackerName": "あき",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PJR8PV8P0",
+            "defenderName": "ColManeQPL",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 55,
+            "duration": 81,
+            "order": 35,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jjiraya"
+        }
+      },
+      {
+        "tag": "#L89JGJ02V",
+        "name": "ぽんず",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#2R9LCPY8C",
+        "name": "かといち",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2R9LCPY8C",
+            "attackerName": "かといち",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 60,
+            "duration": 180,
+            "order": 37,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#LQPULG8G8",
+        "name": "ミラニスタ",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LQPULG8G8",
+            "attackerName": "ミラニスタ",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LJ2CYJJ0G",
+            "defenderName": "ggg",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 130,
+            "order": 33,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "ggg"
+        }
+      },
+      {
+        "tag": "#C2V2VRUV",
+        "name": "なおちゃん",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ColManeQPL"
+        }
+      },
+      {
+        "tag": "#2PGV0LY9",
+        "name": "むぎちゃ",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2PGV0LY9",
+            "attackerName": "むぎちゃ",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#YP8JCRCPG",
+            "defenderName": "krakra",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 0,
+            "destructionPercentage": 35,
+            "duration": 92,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 0,
+        "destruction": 35,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "krakra"
+        }
+      },
+      {
+        "tag": "#2LPPLV8JV",
+        "name": "ぽんち",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#2LPPLV8JV",
+            "attackerName": "ぽんち",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#299PCL828",
+            "defenderName": "Wybraniec",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 72,
+            "order": 47,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wybraniec"
+        }
+      },
+      {
+        "tag": "#82UGJL2Q",
+        "name": "いとをかし",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#82UGJL2Q",
+            "attackerName": "いとをかし",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9QJQV8PJG",
+            "defenderName": "MrTea",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 128,
+            "order": 38,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "ICEMAN"
+        }
+      },
+      {
+        "tag": "#QRJLLV90P",
+        "name": "yui",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "JJ"
+        }
+      },
+      {
+        "tag": "#9UY2RQ922",
+        "name": "けけけ",
+        "townhallLevel": 15,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#9UY2RQ922",
+            "attackerName": "けけけ",
+            "attackerTH": 15,
+            "attackerMapPosition": 19,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 119,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#LGJGLPRRQ",
+        "name": "クロ",
+        "townhallLevel": 14,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#LGJGLPRRQ",
+            "attackerName": "クロ",
+            "attackerTH": 14,
+            "attackerMapPosition": 22,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 15,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 75,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#LRYQPG90P",
+        "name": "なぎトマト",
+        "townhallLevel": 14,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#LRYQPG90P",
+            "attackerName": "なぎトマト",
+            "attackerTH": 14,
+            "attackerMapPosition": 24,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 15,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 107,
+            "order": 51,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Zielony 2.0"
+        }
+      },
+      {
+        "tag": "#LU0YUJCQP",
+        "name": "たちちちち",
+        "townhallLevel": 14,
+        "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#LU0YUJCQP",
+            "attackerName": "たちちちち",
+            "attackerTH": 14,
+            "attackerMapPosition": 25,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 15,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 145,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#LVLUUV9R",
+        "name": "よこ",
+        "townhallLevel": 14,
+        "mapPosition": 31,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kozaczek987"
+        }
+      },
+      {
+        "tag": "#2988CL8VY",
+        "name": "しゅうごk2",
+        "townhallLevel": 14,
+        "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#2988CL8VY",
+            "attackerName": "しゅうごk2",
+            "attackerTH": 14,
+            "attackerMapPosition": 32,
+            "defenderTag": "#QCYJQ2Q2V",
+            "defenderName": "Jjiraya v2",
+            "defenderTH": 15,
+            "defenderMapPosition": 23,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 97,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jjiraya v2"
+        }
+      },
+      {
+        "tag": "#YRLL9R2RY",
+        "name": "まさき",
+        "townhallLevel": 14,
+        "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#YRLL9R2RY",
+            "attackerName": "まさき",
+            "attackerTH": 14,
+            "attackerMapPosition": 35,
+            "defenderTag": "#2JCY00LP",
+            "defenderName": "JJ",
+            "defenderTH": 15,
+            "defenderMapPosition": 24,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 152,
+            "order": 32,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#LPJVCLVR8",
+        "name": "くろポン",
+        "townhallLevel": 15,
+        "mapPosition": 38,
+        "attacks": [
+          {
+            "attackerTag": "#LPJVCLVR8",
+            "attackerName": "くろポン",
+            "attackerTH": 15,
+            "attackerMapPosition": 38,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 15,
+            "defenderMapPosition": 25,
+            "stars": 1,
+            "destructionPercentage": 78,
+            "duration": 142,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#QCV98VYRP",
+        "name": "timpo",
+        "townhallLevel": 13,
+        "mapPosition": 41,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kowal2k1"
+        }
+      },
+      {
+        "tag": "#YCQQGUGCG",
+        "name": "わいでぃー",
+        "townhallLevel": 13,
+        "mapPosition": 42,
+        "attacks": [
+          {
+            "attackerTag": "#YCQQGUGCG",
+            "attackerName": "わいでぃー",
+            "attackerTH": 13,
+            "attackerMapPosition": 42,
+            "defenderTag": "#U8UG9VCU",
+            "defenderName": "Patryk1m",
+            "defenderTH": 15,
+            "defenderMapPosition": 27,
+            "stars": 1,
+            "destructionPercentage": 34,
+            "duration": 92,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 34,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Patryk1m"
+        }
+      },
+      {
+        "tag": "#Q8QR2U9V9",
+        "name": "shin",
+        "townhallLevel": 13,
+        "mapPosition": 43,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mozelll"
+        }
+      },
+      {
+        "tag": "#YYPR0YCR",
+        "name": "たかし",
+        "townhallLevel": 13,
+        "mapPosition": 44,
+        "attacks": [
+          {
+            "attackerTag": "#YYPR0YCR",
+            "attackerName": "たかし",
+            "attackerTH": 13,
+            "attackerMapPosition": 44,
+            "defenderTag": "#PCGCRVG98",
+            "defenderName": "GruchaczPL",
+            "defenderTH": 14,
+            "defenderMapPosition": 32,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 136,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "GruchaczPL"
+        }
+      },
+      {
+        "tag": "#9GVC2PJJV",
+        "name": "バブディオ",
+        "townhallLevel": 13,
+        "mapPosition": 46,
+        "attacks": [
+          {
+            "attackerTag": "#9GVC2PJJV",
+            "attackerName": "バブディオ",
+            "attackerTH": 13,
+            "attackerMapPosition": 46,
+            "defenderTag": "#QY0C9QY2G",
+            "defenderName": "spcony kuba",
+            "defenderTH": 13,
+            "defenderMapPosition": 41,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 180,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "spcony kuba"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#PCGCRVG98",
+      "attackerName": "GruchaczPL",
+      "attackerTH": 14,
+      "attackerMapPosition": 32,
+      "defenderTag": "#YYPR0YCR",
+      "defenderName": "たかし",
+      "defenderTH": 13,
+      "defenderMapPosition": 44,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLYQ90PGV",
+      "attackerName": "Zielony 2.0",
+      "attackerTH": 15,
+      "attackerMapPosition": 20,
+      "defenderTag": "#LRYQPG90P",
+      "defenderName": "なぎトマト",
+      "defenderTH": 14,
+      "defenderMapPosition": 24,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 179,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2JCY00LP",
+      "attackerName": "JJ",
+      "attackerTH": 15,
+      "attackerMapPosition": 24,
+      "defenderTag": "#QRJLLV90P",
+      "defenderName": "yui",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 122,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#JJ9CL9UC",
+      "attackerName": "しんじ",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QCQQ9L2CQ",
+      "defenderName": "ICEMAN",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 61,
+      "duration": 146,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 16,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9UY2RQ922",
+      "defenderName": "けけけ",
+      "defenderTH": 15,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LPJVCLVR8",
+      "attackerName": "くろポン",
+      "attackerTH": 15,
+      "attackerMapPosition": 38,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 15,
+      "defenderMapPosition": 25,
+      "stars": 1,
+      "destructionPercentage": 78,
+      "duration": 142,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UYYRC9UG",
+      "attackerName": "くうにゃん",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#9GP08G0PC",
+      "defenderName": "KOKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 168,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 15,
+      "attackerMapPosition": 25,
+      "defenderTag": "#LPJVCLVR8",
+      "defenderName": "くろポン",
+      "defenderTH": 15,
+      "defenderMapPosition": 38,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 101,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#U8UG9VCU",
+      "attackerName": "Patryk1m",
+      "attackerTH": 15,
+      "attackerMapPosition": 27,
+      "defenderTag": "#YCQQGUGCG",
+      "defenderName": "わいでぃー",
+      "defenderTH": 13,
+      "defenderMapPosition": 42,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YP8JCRCPG",
+      "attackerName": "krakra",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#2PGV0LY9",
+      "defenderName": "むぎちゃ",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2R2VYL2RV",
+      "attackerName": "にゃんたん",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 114,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8GU2P28UY",
+      "attackerName": "kozaczek987",
+      "attackerTH": 15,
+      "attackerMapPosition": 22,
+      "defenderTag": "#LVLUUV9R",
+      "defenderName": "よこ",
+      "defenderTH": 14,
+      "defenderMapPosition": 31,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LJY8G2V2Y",
+      "attackerName": "kowal2k1",
+      "attackerTH": 15,
+      "attackerMapPosition": 26,
+      "defenderTag": "#QCV98VYRP",
+      "defenderName": "timpo",
+      "defenderTH": 13,
+      "defenderMapPosition": 41,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GPPP9RLR0",
+      "attackerName": "アンパン",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 143,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P2V0LG99P",
+      "defenderName": "Jin",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 165,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9GVC2PJJV",
+      "attackerName": "バブディオ",
+      "attackerTH": 13,
+      "attackerMapPosition": 46,
+      "defenderTag": "#QY0C9QY2G",
+      "defenderName": "spcony kuba",
+      "defenderTH": 13,
+      "defenderMapPosition": 41,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 180,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2V0LG99P",
+      "attackerName": "Jin",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 122,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YYPR0YCR",
+      "attackerName": "たかし",
+      "attackerTH": 13,
+      "attackerMapPosition": 44,
+      "defenderTag": "#PCGCRVG98",
+      "defenderName": "GruchaczPL",
+      "defenderTH": 14,
+      "defenderMapPosition": 32,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 136,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LU0YUJCQP",
+      "attackerName": "たちちちち",
+      "attackerTH": 14,
+      "attackerMapPosition": 25,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 15,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 145,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UY2RQ922",
+      "attackerName": "けけけ",
+      "attackerTH": 15,
+      "attackerMapPosition": 19,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 119,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9QJQV8PJG",
+      "attackerName": "MrTea",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#UYYRC9UG",
+      "defenderName": "くうにゃん",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29YQYUVRJ",
+      "attackerName": "mozelll",
+      "attackerTH": 15,
+      "attackerMapPosition": 28,
+      "defenderTag": "#Q8QR2U9V9",
+      "defenderName": "shin",
+      "defenderTH": 13,
+      "defenderMapPosition": 43,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 103,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2R2VYL2RV",
+      "defenderName": "にゃんたん",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2R9LCPY8C",
+      "defenderName": "かといち",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 180,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PGV0LY9",
+      "attackerName": "むぎちゃ",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#YP8JCRCPG",
+      "defenderName": "krakra",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 0,
+      "destructionPercentage": 35,
+      "duration": 92,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 15,
+      "attackerMapPosition": 21,
+      "defenderTag": "#LU0YUJCQP",
+      "defenderName": "たちちちち",
+      "defenderTH": 14,
+      "defenderMapPosition": 25,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YCQQGUGCG",
+      "attackerName": "わいでぃー",
+      "attackerTH": 13,
+      "attackerMapPosition": 42,
+      "defenderTag": "#U8UG9VCU",
+      "defenderName": "Patryk1m",
+      "defenderTH": 15,
+      "defenderMapPosition": 27,
+      "stars": 1,
+      "destructionPercentage": 34,
+      "duration": 92,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2988CL8VY",
+      "attackerName": "しゅうごk2",
+      "attackerTH": 14,
+      "attackerMapPosition": 32,
+      "defenderTag": "#QCYJQ2Q2V",
+      "defenderName": "Jjiraya v2",
+      "defenderTH": 15,
+      "defenderMapPosition": 23,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 97,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P09L0RL8V",
+      "attackerName": "takato",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#GJV22VC9",
+      "defenderName": "Stary Kocur",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 134,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LGJGLPRRQ",
+      "attackerName": "クロ",
+      "attackerTH": 14,
+      "attackerMapPosition": 22,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 15,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 75,
+      "order": 30,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PJR8PV8P0",
+      "attackerName": "ColManeQPL",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#C2V2VRUV",
+      "defenderName": "なおちゃん",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 31,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YRLL9R2RY",
+      "attackerName": "まさき",
+      "attackerTH": 14,
+      "attackerMapPosition": 35,
+      "defenderTag": "#2JCY00LP",
+      "defenderName": "JJ",
+      "defenderTH": 15,
+      "defenderMapPosition": 24,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 152,
+      "order": 32,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LQPULG8G8",
+      "attackerName": "ミラニスタ",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LJ2CYJJ0G",
+      "defenderName": "ggg",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 130,
+      "order": 33,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9V8C2V98",
+      "attackerName": "etoile ５",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#ULV0LJ9C",
+      "defenderName": "ptaqdar",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 42,
+      "duration": 96,
+      "order": 34,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYUURQ0UQ",
+      "attackerName": "あき",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PJR8PV8P0",
+      "defenderName": "ColManeQPL",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 55,
+      "duration": 81,
+      "order": 35,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJV22VC9",
+      "attackerName": "Stary Kocur",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P09L0RL8V",
+      "defenderName": "takato",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 138,
+      "order": 36,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2R9LCPY8C",
+      "attackerName": "かといち",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 60,
+      "duration": 180,
+      "order": 37,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#82UGJL2Q",
+      "attackerName": "いとをかし",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9QJQV8PJG",
+      "defenderName": "MrTea",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 128,
+      "order": 38,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#299PCL828",
+      "attackerName": "Wybraniec",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2LPPLV8JV",
+      "defenderName": "ぽんち",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 39,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#92PVP2L0",
+      "attackerName": "tomoki",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 57,
+      "duration": 56,
+      "order": 40,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#L89JGJ02V",
+      "defenderName": "ぽんず",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 180,
+      "order": 41,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22CVU8U9",
+      "attackerName": "Jjiraya",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QYUURQ0UQ",
+      "defenderName": "あき",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 164,
+      "order": 42,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#ULV0LJ9C",
+      "attackerName": "ptaqdar",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#92PVP2L0",
+      "defenderName": "tomoki",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 99,
+      "order": 43,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 15,
+      "attackerMapPosition": 19,
+      "defenderTag": "#LGJGLPRRQ",
+      "defenderName": "クロ",
+      "defenderTH": 14,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 155,
+      "order": 44,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9V8C2V98",
+      "defenderName": "etoile ５",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 124,
+      "order": 45,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCYJQ2Q2V",
+      "attackerName": "Jjiraya v2",
+      "attackerTH": 15,
+      "attackerMapPosition": 23,
+      "defenderTag": "#2988CL8VY",
+      "defenderName": "しゅうごk2",
+      "defenderTH": 14,
+      "defenderMapPosition": 32,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 91,
+      "order": 46,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2LPPLV8JV",
+      "attackerName": "ぽんち",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#299PCL828",
+      "defenderName": "Wybraniec",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 72,
+      "order": 47,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#YRLL9R2RY",
+      "defenderName": "まさき",
+      "defenderTH": 14,
+      "defenderMapPosition": 35,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 48,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#GPPP9RLR0",
+      "defenderName": "アンパン",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 49,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QY0C9QY2G",
+      "attackerName": "spcony kuba",
+      "attackerTH": 13,
+      "attackerMapPosition": 41,
+      "defenderTag": "#9GVC2PJJV",
+      "defenderName": "バブディオ",
+      "defenderTH": 13,
+      "defenderMapPosition": 46,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 50,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LRYQPG90P",
+      "attackerName": "なぎトマト",
+      "attackerTH": 14,
+      "attackerMapPosition": 24,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 15,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 107,
+      "order": 51,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ2CYJJ0G",
+      "attackerName": "ggg",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LQPULG8G8",
+      "defenderName": "ミラニスタ",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 52,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9GP08G0PC",
+      "attackerName": "KOKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#JJ9CL9UC",
+      "defenderName": "しんじ",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 53,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCQQ9L2CQ",
+      "attackerName": "ICEMAN",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#82UGJL2Q",
+      "defenderName": "いとをかし",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 180,
+      "order": 54,
+      "side": "clan"
+    }
+  ]
+}

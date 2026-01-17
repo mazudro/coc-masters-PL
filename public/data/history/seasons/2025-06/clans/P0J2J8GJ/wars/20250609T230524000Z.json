@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.973Z",
+  "season": "2025-06",
+  "warTag": "P0J2J8GJ-20250609T230524000Z",
+  "startTime": "20250608T221051.000Z",
+  "endTime": "20250609T230524.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 27,
+    "stars": 34,
+    "destructionPercentage": 87.93333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LG8Q9QYR",
+            "defenderName": "Bladerslayer",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Sam X"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#GLJ9LJU9",
+            "defenderName": "Ronnie X",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "A Blak Powerade"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8CL89L8C",
+            "defenderName": "iZeus X",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Omaxiu X"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#29RJ2L0GQ",
+            "defenderName": "Oblivion",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 157,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "iZeus X"
+        }
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#JGRP8RJ0",
+            "defenderName": "Panda X",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 160,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ronnie X"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#J8JY9U90",
+            "defenderName": "Big.Chris",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 138,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Bladerslayer"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#8UGPQQQC",
+            "defenderName": "CORSO X",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "CORSO X"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2JQCUVUQY",
+            "defenderName": "Sam X",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 152,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Panda X"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#V8CJG8J9",
+            "defenderName": "T King X",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 149,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "YJlTumeuT"
+        }
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#J8PV8CR",
+            "defenderName": "A Blak Powerade",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Oblivion"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2R2G0GVUC",
+            "defenderName": "Loki X",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 146,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Loki X"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QYRRC2PC",
+            "defenderName": "Omaxiu X",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 125,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Headshots"
+        }
+      },
+      {
+        "tag": "#UUR2CJVY",
+        "name": "barteklewl",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#UUR2CJVY",
+            "attackerName": "barteklewl",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#P29UV0PL",
+            "defenderName": "Headshots",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 139,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Big.Chris"
+        }
+      },
+      {
+        "tag": "#22RQLGP0R",
+        "name": "cloud",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#22RQLGP0R",
+            "attackerName": "cloud",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#2P2CPG09C",
+            "defenderName": "Rey X",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 125,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Rey X"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#JUUU9QYG",
+            "defenderName": "YJlTumeuT",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "T King X"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#YYP08GP8",
+    "name": "Sons of Thunder",
+    "clanLevel": 31,
+    "stars": 41,
+    "destructionPercentage": 96.73333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#8CL89L8C",
+        "name": "iZeus X",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8CL89L8C",
+            "attackerName": "iZeus X",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 163,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#2JQCUVUQY",
+        "name": "Sam X",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2JQCUVUQY",
+            "attackerName": "Sam X",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#QYRRC2PC",
+        "name": "Omaxiu X",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QYRRC2PC",
+            "attackerName": "Omaxiu X",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 163,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#2R2G0GVUC",
+        "name": "Loki X",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R2G0GVUC",
+            "attackerName": "Loki X",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 137,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#JGRP8RJ0",
+        "name": "Panda X",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#JGRP8RJ0",
+            "attackerName": "Panda X",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#GLJ9LJU9",
+        "name": "Ronnie X",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GLJ9LJU9",
+            "attackerName": "Ronnie X",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#22Y9JQYJ",
+            "defenderName": "~ Yakuu ~",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#8UGPQQQC",
+        "name": "CORSO X",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8UGPQQQC",
+            "attackerName": "CORSO X",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#V8CJG8J9",
+        "name": "T King X",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#V8CJG8J9",
+            "attackerName": "T King X",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#29RJ2L0GQ",
+        "name": "Oblivion",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#29RJ2L0GQ",
+            "attackerName": "Oblivion",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#J8PV8CR",
+        "name": "A Blak Powerade",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#J8PV8CR",
+            "attackerName": "A Blak Powerade",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 180,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#J8JY9U90",
+        "name": "Big.Chris",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#J8JY9U90",
+            "attackerName": "Big.Chris",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#UUR2CJVY",
+            "defenderName": "barteklewl",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#2P2CPG09C",
+        "name": "Rey X",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2P2CPG09C",
+            "attackerName": "Rey X",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#22RQLGP0R",
+            "defenderName": "cloud",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "cloud"
+        }
+      },
+      {
+        "tag": "#P29UV0PL",
+        "name": "Headshots",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#P29UV0PL",
+            "attackerName": "Headshots",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "barteklewl"
+        }
+      },
+      {
+        "tag": "#LG8Q9QYR",
+        "name": "Bladerslayer",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LG8Q9QYR",
+            "attackerName": "Bladerslayer",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 166,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#JUUU9QYG",
+        "name": "YJlTumeuT",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#JUUU9QYG",
+            "attackerName": "YJlTumeuT",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 135,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inoja"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#JUUU9QYG",
+      "attackerName": "YJlTumeuT",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 135,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29RJ2L0GQ",
+      "attackerName": "Oblivion",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P2CPG09C",
+      "attackerName": "Rey X",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#22RQLGP0R",
+      "defenderName": "cloud",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LG8Q9QYR",
+      "attackerName": "Bladerslayer",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 166,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J8JY9U90",
+      "attackerName": "Big.Chris",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#UUR2CJVY",
+      "defenderName": "barteklewl",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J8PV8CR",
+      "attackerName": "A Blak Powerade",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 180,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYRRC2PC",
+      "attackerName": "Omaxiu X",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 163,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2JQCUVUQY",
+      "attackerName": "Sam X",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P29UV0PL",
+      "attackerName": "Headshots",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LG8Q9QYR",
+      "defenderName": "Bladerslayer",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GLJ9LJU9",
+      "attackerName": "Ronnie X",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#22Y9JQYJ",
+      "defenderName": "~ Yakuu ~",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8CL89L8C",
+      "attackerName": "iZeus X",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 163,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#GLJ9LJU9",
+      "defenderName": "Ronnie X",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UGPQQQC",
+      "attackerName": "CORSO X",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#JUUU9QYG",
+      "defenderName": "YJlTumeuT",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UUR2CJVY",
+      "attackerName": "barteklewl",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#P29UV0PL",
+      "defenderName": "Headshots",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 139,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22RQLGP0R",
+      "attackerName": "cloud",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#2P2CPG09C",
+      "defenderName": "Rey X",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 125,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2R2G0GVUC",
+      "attackerName": "Loki X",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 137,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#8UGPQQQC",
+      "defenderName": "CORSO X",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#V8CJG8J9",
+      "defenderName": "T King X",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 149,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#J8JY9U90",
+      "defenderName": "Big.Chris",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 138,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#JGRP8RJ0",
+      "defenderName": "Panda X",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 160,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#JGRP8RJ0",
+      "attackerName": "Panda X",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QYRRC2PC",
+      "defenderName": "Omaxiu X",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 125,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2R2G0GVUC",
+      "defenderName": "Loki X",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 146,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8CL89L8C",
+      "defenderName": "iZeus X",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2JQCUVUQY",
+      "defenderName": "Sam X",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 152,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#J8PV8CR",
+      "defenderName": "A Blak Powerade",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#29RJ2L0GQ",
+      "defenderName": "Oblivion",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 157,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#V8CJG8J9",
+      "attackerName": "T King X",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

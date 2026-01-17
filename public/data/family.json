@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-01-17T15:28:18.186Z",
+  "currentSeason": "2026-01",
+  "totalPlayers": 185,
+  "totalWars": 1764,
+  "totalStars": 62035,
+  "totalAttacks": 26994,
+  "clans": [
+    {
+      "name": "coc masters PL",
+      "tag": "#P0J2J8GJ",
+      "rank": 1,
+      "stars": 26572,
+      "destruction": 57307.67,
+      "attacks": 11364,
+      "wars": 672,
+      "warsWon": 341,
+      "warsLost": 289,
+      "warsTied": 42,
+      "playerCount": 43,
+      "winRate": 50.74,
+      "league": {
+        "tier": "Champion League III",
+        "group": 1
+      }
+    },
+    {
+      "name": "Akademia CoC PL",
+      "tag": "#JPRPRVUY",
+      "rank": 2,
+      "stars": 19744,
+      "destruction": 48758.47,
+      "attacks": 8640,
+      "wars": 672,
+      "warsWon": 365,
+      "warsLost": 282,
+      "warsTied": 25,
+      "playerCount": 64,
+      "winRate": 54.32,
+      "league": {
+        "tier": "Master League III",
+        "group": 1
+      }
+    },
+    {
+      "name": "Psychole!",
+      "tag": "#29RYVJ8C8",
+      "rank": 3,
+      "stars": 15719,
+      "destruction": 32539.8,
+      "attacks": 6990,
+      "wars": 420,
+      "warsWon": 210,
+      "warsLost": 195,
+      "warsTied": 15,
+      "playerCount": 78,
+      "winRate": 50,
+      "league": {
+        "tier": "Crystal League I",
+        "group": 1
+      }
+    }
+  ]
+}

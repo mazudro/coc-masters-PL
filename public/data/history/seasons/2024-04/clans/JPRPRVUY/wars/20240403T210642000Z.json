@@ -1,0 +1,1123 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.344Z",
+  "season": "2024-04",
+  "warTag": "JPRPRVUY-20240403T210642000Z",
+  "startTime": "20240402T210642.000Z",
+  "endTime": "20240403T210642.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 30,
+    "destructionPercentage": 67.73333333333333,
+    "attacks": 11,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P9PPRRJ",
+            "defenderName": "Mafoo",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BigChief"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#G890C8VQ9",
+            "defenderName": "roadclosed12345",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 56,
+            "duration": 127,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 56,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BigChief2"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#PRJY890G0",
+            "defenderName": "Redbeard",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 69,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "roadclosed12345"
+        }
+      },
+      {
+        "tag": "#8CUCL29JJ",
+        "name": "SayorexiK",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QR2R0R9C8",
+            "defenderName": "uraverageasian",
+            "defenderTH": 12,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 62,
+          "attackerName": "Redbeard"
+        }
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Mafoo"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y0RLJ2JJ0",
+            "defenderName": "TaterTot",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 49,
+          "attackerName": "TaterTot"
+        }
+      },
+      {
+        "tag": "#8YLVCCG9C",
+        "name": "tomek",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8YLVCCG9C",
+            "attackerName": "tomek",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QVPQ20PC2",
+            "defenderName": "satoshi",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 60,
+            "duration": 115,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "satoshi"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#GPCUQ2QQJ",
+            "defenderName": "HAHAHA",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QCUCV98R",
+        "name": "NAFIZ",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 67,
+          "attackerName": "IssaFatTony"
+        }
+      },
+      {
+        "tag": "#YUCGJ0JPC",
+        "name": "ONCE",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "Tsunami"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#G2YVYUY99",
+            "defenderName": "Dhanee",
+            "defenderTH": 11,
+            "defenderMapPosition": 27,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#L2J9L20LL",
+            "defenderName": "jonathan",
+            "defenderTH": 11,
+            "defenderMapPosition": 32,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 55,
+          "attackerName": "dharanee n"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#G9P0QPQ00",
+            "defenderName": "dharanee n",
+            "defenderTH": 11,
+            "defenderMapPosition": 33,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 63,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeq-_-",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeq-_-",
+            "attackerTH": 12,
+            "attackerMapPosition": 17,
+            "defenderTag": "#LR0U9CYP8",
+            "defenderName": "tatertot2",
+            "defenderTH": 9,
+            "defenderMapPosition": 35,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dhanee"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2YPVQQV0U",
+    "name": "NO MAN'S LAND",
+    "clanLevel": 10,
+    "stars": 22,
+    "destructionPercentage": 58.266666666666666,
+    "attacks": 11,
+    "members": [
+      {
+        "tag": "#9QYJ9J0R",
+        "name": "BigChief",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9QYJ9J0R",
+            "attackerName": "BigChief",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#UJ8JCG8U",
+        "name": "BigChief2",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#UJ8JCG8U",
+            "attackerName": "BigChief2",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 14,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G890C8VQ9",
+        "name": "roadclosed12345",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#G890C8VQ9",
+            "attackerName": "roadclosed12345",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 168,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 56,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#P9PPRRJ",
+        "name": "Mafoo",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P9PPRRJ",
+            "attackerName": "Mafoo",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QGJCGYJYC",
+            "defenderName": "rajko",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 157,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#PRJY890G0",
+        "name": "Redbeard",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PRJY890G0",
+            "attackerName": "Redbeard",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#YJ0YC229",
+            "defenderName": "andre",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 62,
+            "duration": 80,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#QR2R0R9C8",
+        "name": "uraverageasian",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#Y0RLJ2JJ0",
+        "name": "TaterTot",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#Y0RLJ2JJ0",
+            "attackerName": "TaterTot",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 0,
+            "destructionPercentage": 49,
+            "duration": 99,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 0,
+        "destruction": 49,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#QVPQ20PC2",
+        "name": "satoshi",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QVPQ20PC2",
+            "attackerName": "satoshi",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8YLVCCG9C",
+            "defenderName": "tomek",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 60,
+          "attackerName": "tomek"
+        }
+      },
+      {
+        "tag": "#GPCUQ2QQJ",
+        "name": "HAHAHA",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#GL2URY2C0",
+        "name": "IssaFatTony",
+        "townhallLevel": 11,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#GL2URY2C0",
+            "attackerName": "IssaFatTony",
+            "attackerTH": 11,
+            "attackerMapPosition": 24,
+            "defenderTag": "#2QCUCV98R",
+            "defenderName": "NAFIZ",
+            "defenderTH": 12,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 67,
+            "duration": 104,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 67,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QC89QLRVL",
+        "name": "Tsunami",
+        "townhallLevel": 11,
+        "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#QC89QLRVL",
+            "attackerName": "Tsunami",
+            "attackerTH": 11,
+            "attackerMapPosition": 26,
+            "defenderTag": "#YUCGJ0JPC",
+            "defenderName": "ONCE",
+            "defenderTH": 12,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 100,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G2YVYUY99",
+        "name": "Dhanee",
+        "townhallLevel": 11,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#G2YVYUY99",
+            "attackerName": "Dhanee",
+            "attackerTH": 11,
+            "attackerMapPosition": 27,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeq-_-",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#L2J9L20LL",
+        "name": "jonathan",
+        "townhallLevel": 11,
+        "mapPosition": 32,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#G9P0QPQ00",
+        "name": "dharanee n",
+        "townhallLevel": 11,
+        "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#G9P0QPQ00",
+            "attackerName": "dharanee n",
+            "attackerTH": 11,
+            "attackerMapPosition": 33,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 55,
+            "duration": 114,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#LR0U9CYP8",
+        "name": "tatertot2",
+        "townhallLevel": 9,
+        "mapPosition": 35,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeq-_-"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#Y0RLJ2JJ0",
+      "attackerName": "TaterTot",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 0,
+      "destructionPercentage": 49,
+      "duration": 99,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G890C8VQ9",
+      "attackerName": "roadclosed12345",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 168,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GL2URY2C0",
+      "attackerName": "IssaFatTony",
+      "attackerTH": 11,
+      "attackerMapPosition": 24,
+      "defenderTag": "#2QCUCV98R",
+      "defenderName": "NAFIZ",
+      "defenderTH": 12,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 67,
+      "duration": 104,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#L2J9L20LL",
+      "defenderName": "jonathan",
+      "defenderTH": 11,
+      "defenderMapPosition": 32,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9QYJ9J0R",
+      "attackerName": "BigChief",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UJ8JCG8U",
+      "attackerName": "BigChief2",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 14,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PRJY890G0",
+      "attackerName": "Redbeard",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#YJ0YC229",
+      "defenderName": "andre",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 62,
+      "duration": 80,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G2YVYUY99",
+      "attackerName": "Dhanee",
+      "attackerTH": 11,
+      "attackerMapPosition": 27,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeq-_-",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G9P0QPQ00",
+      "attackerName": "dharanee n",
+      "attackerTH": 11,
+      "attackerMapPosition": 33,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 55,
+      "duration": 114,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeq-_-",
+      "attackerTH": 12,
+      "attackerMapPosition": 17,
+      "defenderTag": "#LR0U9CYP8",
+      "defenderName": "tatertot2",
+      "defenderTH": 9,
+      "defenderMapPosition": 35,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QC89QLRVL",
+      "attackerName": "Tsunami",
+      "attackerTH": 11,
+      "attackerMapPosition": 26,
+      "defenderTag": "#YUCGJ0JPC",
+      "defenderName": "ONCE",
+      "defenderTH": 12,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 100,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#GPCUQ2QQJ",
+      "defenderName": "HAHAHA",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#PRJY890G0",
+      "defenderName": "Redbeard",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 69,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QR2R0R9C8",
+      "defenderName": "uraverageasian",
+      "defenderTH": 12,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#G890C8VQ9",
+      "defenderName": "roadclosed12345",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 56,
+      "duration": 127,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#G2YVYUY99",
+      "defenderName": "Dhanee",
+      "defenderTH": 11,
+      "defenderMapPosition": 27,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YLVCCG9C",
+      "attackerName": "tomek",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QVPQ20PC2",
+      "defenderName": "satoshi",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 60,
+      "duration": 115,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y0RLJ2JJ0",
+      "defenderName": "TaterTot",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QVPQ20PC2",
+      "attackerName": "satoshi",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8YLVCCG9C",
+      "defenderName": "tomek",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#G9P0QPQ00",
+      "defenderName": "dharanee n",
+      "defenderTH": 11,
+      "defenderMapPosition": 33,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 63,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9PPRRJ",
+      "attackerName": "Mafoo",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QGJCGYJYC",
+      "defenderName": "rajko",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 157,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P9PPRRJ",
+      "defenderName": "Mafoo",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 22,
+      "side": "clan"
+    }
+  ]
+}

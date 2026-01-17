@@ -1,0 +1,1267 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.389Z",
+  "season": "2024-07",
+  "warTag": "JPRPRVUY-20240707T214739000Z",
+  "startTime": "20240706T214739.000Z",
+  "endTime": "20240707T214739.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 20,
+    "stars": 19,
+    "destructionPercentage": 61.666666666666664,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#URC00VL2",
+            "defenderName": "太田胃散 50",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 48,
+            "duration": 109,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 48,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "太田胃散 50"
+        }
+      },
+      {
+        "tag": "#QY8GQ0LP9",
+        "name": "Anonymusss2",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QY8GQ0LP9",
+            "attackerName": "Anonymusss2",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#29R9GLQ9",
+            "defenderName": "RYOTA",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "茶熊"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#82CRJQYV2",
+            "defenderName": "Hikaru",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 160,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Hikaru"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2PGJYVJ08",
+            "defenderName": "オルフェ",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 92,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "オルフェ"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2RJ0PYYUQ",
+            "defenderName": "茶熊",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 38,
+            "duration": 104,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 38,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "RYOTA"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "麻心～"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#22VVC0PV",
+            "defenderName": "A＆R",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 52,
+            "duration": 76,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 52,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2Y0JR0RQQ",
+        "name": "♧ShAdOw♧",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2Y0JR0RQQ",
+            "attackerName": "♧ShAdOw♧",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YL999JGQR",
+            "defenderName": "ワイルド熊茶ん",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 100,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ワイルド熊茶ん"
+        }
+      },
+      {
+        "tag": "#YVVCJUVCV",
+        "name": "Matu_CoC",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YVVCJUVCV",
+            "attackerName": "Matu_CoC",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#22UGP2PR2",
+            "defenderName": "ヤス",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 52,
+            "duration": 73,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 52,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ヤス"
+        }
+      },
+      {
+        "tag": "#90GV02P0L",
+        "name": "JOHN PATRICK-08",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#90GV02P0L",
+            "attackerName": "JOHN PATRICK-08",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#99YUV8L0R",
+            "defenderName": "太田胃散分包A",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 94,
+            "duration": 109,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "太田胃散分包A"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#8U2QJ8PL",
+            "defenderName": "miffy",
+            "defenderTH": 14,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 63,
+            "duration": 106,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "miffy"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LU28098QU",
+            "defenderName": "ヒロ",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 131,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 13,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "☆RYOTA☆!!サブ垢!!"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 19,
+            "defenderTag": "#2QPJJ2GQ9",
+            "defenderName": "simo",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 128,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "simo"
+        }
+      },
+      {
+        "tag": "#RVU0CGVR",
+        "name": "Lord Kajetan",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#RVU0CGVR",
+            "attackerName": "Lord Kajetan",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#Y9GPVUUQG",
+            "defenderName": "ren6279",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "A＆R"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#9V82RG9G",
+    "name": "❤Pink house❤",
+    "clanLevel": 22,
+    "stars": 38,
+    "destructionPercentage": 85.53333333333333,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#URC00VL2",
+        "name": "太田胃散 50",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#URC00VL2",
+            "attackerName": "太田胃散 50",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 48,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#2RJ0PYYUQ",
+        "name": "茶熊",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2RJ0PYYUQ",
+            "attackerName": "茶熊",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#QY8GQ0LP9",
+            "defenderName": "Anonymusss2",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 38,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#82CRJQYV2",
+        "name": "Hikaru",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#82CRJQYV2",
+            "attackerName": "Hikaru",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#2PGJYVJ08",
+        "name": "オルフェ",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2PGJYVJ08",
+            "attackerName": "オルフェ",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 146,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#29R9GLQ9",
+        "name": "RYOTA",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#29R9GLQ9",
+            "attackerName": "RYOTA",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YJ0YC229",
+            "defenderName": "andre",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 91,
+          "attackerName": "Anonymusss2"
+        }
+      },
+      {
+        "tag": "#29R8CRGPQ",
+        "name": "麻心～",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#29R8CRGPQ",
+            "attackerName": "麻心～",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 76,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#22VVC0PV",
+        "name": "A＆R",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#22VVC0PV",
+            "attackerName": "A＆R",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#RVU0CGVR",
+            "defenderName": "Lord Kajetan",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 107,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 52,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#YL999JGQR",
+        "name": "ワイルド熊茶ん",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YL999JGQR",
+            "attackerName": "ワイルド熊茶ん",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2Y0JR0RQQ",
+            "defenderName": "♧ShAdOw♧",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "♧ShAdOw♧"
+        }
+      },
+      {
+        "tag": "#22UGP2PR2",
+        "name": "ヤス",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#22UGP2PR2",
+            "attackerName": "ヤス",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YVVCJUVCV",
+            "defenderName": "Matu_CoC",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 52,
+          "attackerName": "Matu_CoC"
+        }
+      },
+      {
+        "tag": "#99YUV8L0R",
+        "name": "太田胃散分包A",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#99YUV8L0R",
+            "attackerName": "太田胃散分包A",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#90GV02P0L",
+            "defenderName": "JOHN PATRICK-08",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 94,
+          "attackerName": "JOHN PATRICK-08"
+        }
+      },
+      {
+        "tag": "#8U2QJ8PL",
+        "name": "miffy",
+        "townhallLevel": 14,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8U2QJ8PL",
+            "attackerName": "miffy",
+            "attackerTH": 14,
+            "attackerMapPosition": 12,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 63,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#LU28098QU",
+        "name": "ヒロ",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#922Y2VQLL",
+        "name": "☆RYOTA☆!!サブ垢!!",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#922Y2VQLL",
+            "attackerName": "☆RYOTA☆!!サブ垢!!",
+            "attackerTH": 13,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 74,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QPJJ2GQ9",
+        "name": "simo",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2QPJJ2GQ9",
+            "attackerName": "simo",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#Y9GPVUUQG",
+        "name": "ren6279",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lord Kajetan"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#29R8CRGPQ",
+      "attackerName": "麻心～",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 76,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RJ0PYYUQ",
+      "attackerName": "茶熊",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#QY8GQ0LP9",
+      "defenderName": "Anonymusss2",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YL999JGQR",
+      "attackerName": "ワイルド熊茶ん",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2Y0JR0RQQ",
+      "defenderName": "♧ShAdOw♧",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#URC00VL2",
+      "defenderName": "太田胃散 50",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 48,
+      "duration": 109,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29R9GLQ9",
+      "attackerName": "RYOTA",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YJ0YC229",
+      "defenderName": "andre",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#922Y2VQLL",
+      "attackerName": "☆RYOTA☆!!サブ垢!!",
+      "attackerTH": 13,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 74,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2QPJJ2GQ9",
+      "attackerName": "simo",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#82CRJQYV2",
+      "attackerName": "Hikaru",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RVU0CGVR",
+      "attackerName": "Lord Kajetan",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#Y9GPVUUQG",
+      "defenderName": "ren6279",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#URC00VL2",
+      "attackerName": "太田胃散 50",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#90GV02P0L",
+      "attackerName": "JOHN PATRICK-08",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#99YUV8L0R",
+      "defenderName": "太田胃散分包A",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 94,
+      "duration": 109,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#99YUV8L0R",
+      "attackerName": "太田胃散分包A",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#90GV02P0L",
+      "defenderName": "JOHN PATRICK-08",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QY8GQ0LP9",
+      "attackerName": "Anonymusss2",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#29R9GLQ9",
+      "defenderName": "RYOTA",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2RJ0PYYUQ",
+      "defenderName": "茶熊",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 38,
+      "duration": 104,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8U2QJ8PL",
+      "attackerName": "miffy",
+      "attackerTH": 14,
+      "attackerMapPosition": 12,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22UGP2PR2",
+      "attackerName": "ヤス",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YVVCJUVCV",
+      "defenderName": "Matu_CoC",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PGJYVJ08",
+      "attackerName": "オルフェ",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 146,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Y0JR0RQQ",
+      "attackerName": "♧ShAdOw♧",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YL999JGQR",
+      "defenderName": "ワイルド熊茶ん",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 100,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YVVCJUVCV",
+      "attackerName": "Matu_CoC",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#22UGP2PR2",
+      "defenderName": "ヤス",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 52,
+      "duration": 73,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LU28098QU",
+      "defenderName": "ヒロ",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 131,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2PGJYVJ08",
+      "defenderName": "オルフェ",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 92,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#8U2QJ8PL",
+      "defenderName": "miffy",
+      "defenderTH": 14,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 63,
+      "duration": 106,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 19,
+      "defenderTag": "#2QPJJ2GQ9",
+      "defenderName": "simo",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 128,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#22VVC0PV",
+      "defenderName": "A＆R",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 52,
+      "duration": 76,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#82CRJQYV2",
+      "defenderName": "Hikaru",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 160,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22VVC0PV",
+      "attackerName": "A＆R",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#RVU0CGVR",
+      "defenderName": "Lord Kajetan",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 107,
+      "order": 26,
+      "side": "opponent"
+    }
+  ]
+}

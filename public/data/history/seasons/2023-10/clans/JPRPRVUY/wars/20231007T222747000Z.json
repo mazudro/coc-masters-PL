@@ -1,0 +1,1226 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.260Z",
+  "season": "2023-10",
+  "warTag": "JPRPRVUY-20231007T222747000Z",
+  "startTime": "20231006T222747.000Z",
+  "endTime": "20231007T222747.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 18,
+    "stars": 21,
+    "destructionPercentage": 54.53333333333333,
+    "attacks": 10,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#80R8YUU8P",
+            "defenderName": "Rafinha",
+            "defenderTH": 14,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 62,
+            "duration": 100,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Rafinha"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "BLACK CLOVER"
+        }
+      },
+      {
+        "tag": "#8CUCL29JJ",
+        "name": "SayorexiK",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "Maauro Luuan"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QUVRG8V2J",
+            "defenderName": "Bernardo.22",
+            "defenderTH": 11,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 79,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "TORRE"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#LLCP9QRUG",
+            "defenderName": "BLACK",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 113,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 55,
+          "attackerName": "BLACK"
+        }
+      },
+      {
+        "tag": "#QVYV0G8U",
+        "name": "Lucyfer",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "RODRIGO"
+        }
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "TIO BLACK"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LCYJJ02YP",
+            "defenderName": "RACIONAIS",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 67,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "NUNES"
+        }
+      },
+      {
+        "tag": "#L8L29RC",
+        "name": "Leon",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#L8L29RC",
+            "attackerName": "Leon",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#G0LGQYYUU",
+            "defenderName": "HELDER",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 67,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "HELDER"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LUU9YPC0L",
+            "defenderName": "P.E.K.K.A",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 179,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 69,
+          "attackerName": "P.E.K.K.A"
+        }
+      },
+      {
+        "tag": "#L8CL82YGV",
+        "name": "Bojson",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#L8CL82YGV",
+            "attackerName": "Bojson",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LV899LCVL",
+            "defenderName": "CORINGA",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 91,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "CORINGA"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 69,
+          "attackerName": "RACIONAIS"
+        }
+      },
+      {
+        "tag": "#PQP9UGPJ0",
+        "name": "1wf_",
+        "townhallLevel": 12,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#PQP9UGPJ0",
+            "attackerName": "1wf_",
+            "attackerTH": 12,
+            "attackerMapPosition": 22,
+            "defenderTag": "#QLPJYURUR",
+            "defenderName": "❤TREV0 NEGR0❤",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 82,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "❤TREV0 NEGR0❤"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 11,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 11,
+            "attackerMapPosition": 24,
+            "defenderTag": "#QUVRG8V2J",
+            "defenderName": "Bernardo.22",
+            "defenderTH": 11,
+            "defenderMapPosition": 15,
+            "stars": 0,
+            "destructionPercentage": 45,
+            "duration": 137,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 45,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Bernardo.22"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 11,
+        "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 11,
+            "attackerMapPosition": 25,
+            "defenderTag": "#G2LGYVC0L",
+            "defenderName": "Rafinha 2",
+            "defenderTH": 11,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Rafinha 2"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#C9J92JVL",
+    "name": "cla de guerra",
+    "clanLevel": 15,
+    "stars": 29,
+    "destructionPercentage": 71.86666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#80R8YUU8P",
+        "name": "Rafinha",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#80R8YUU8P",
+            "attackerName": "Rafinha",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 88,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 62,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#9VV80G8G0",
+        "name": "BLACK CLOVER",
+        "townhallLevel": 13,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9VV80G8G0",
+            "attackerName": "BLACK CLOVER",
+            "attackerTH": 13,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 14,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 111,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2R9UUQJ0R",
+        "name": "Maauro Luuan",
+        "townhallLevel": 13,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R9UUQJ0R",
+            "attackerName": "Maauro Luuan",
+            "attackerTH": 13,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8CUCL29JJ",
+            "defenderName": "SayorexiK",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 109,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PV0L8JU0Y",
+        "name": "TORRE",
+        "townhallLevel": 13,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PV0L8JU0Y",
+            "attackerName": "TORRE",
+            "attackerTH": 13,
+            "attackerMapPosition": 5,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 70,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LLCP9QRUG",
+        "name": "BLACK",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9QRUG",
+            "attackerName": "BLACK",
+            "attackerTH": 13,
+            "attackerMapPosition": 6,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 55,
+            "duration": 61,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#PUGVVJGJ8",
+        "name": "RODRIGO",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PUGVVJGJ8",
+            "attackerName": "RODRIGO",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QVYV0G8U",
+            "defenderName": "Lucyfer",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 76,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#LV80P0LG2",
+        "name": "TIO BLACK",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LV80P0LG2",
+            "attackerName": "TIO BLACK",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QGJCGYJYC",
+            "defenderName": "rajko",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 63,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PUC2QJLPR",
+        "name": "NUNES",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PUC2QJLPR",
+            "attackerName": "NUNES",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 120,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G0LGQYYUU",
+        "name": "HELDER",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#G0LGQYYUU",
+            "attackerName": "HELDER",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#L8L29RC",
+            "defenderName": "Leon",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 81,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Leon"
+        }
+      },
+      {
+        "tag": "#LUU9YPC0L",
+        "name": "P.E.K.K.A",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LUU9YPC0L",
+            "attackerName": "P.E.K.K.A",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 69,
+            "duration": 72,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#LV899LCVL",
+        "name": "CORINGA",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LV899LCVL",
+            "attackerName": "CORINGA",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#L8CL82YGV",
+            "defenderName": "Bojson",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 129,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Bojson"
+        }
+      },
+      {
+        "tag": "#LCYJJ02YP",
+        "name": "RACIONAIS",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LCYJJ02YP",
+            "attackerName": "RACIONAIS",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 1,
+            "destructionPercentage": 69,
+            "duration": 72,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#QLPJYURUR",
+        "name": "❤TREV0 NEGR0❤",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QLPJYURUR",
+            "attackerName": "❤TREV0 NEGR0❤",
+            "attackerTH": 12,
+            "attackerMapPosition": 14,
+            "defenderTag": "#PQP9UGPJ0",
+            "defenderName": "1wf_",
+            "defenderTH": 12,
+            "defenderMapPosition": 22,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 52,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "1wf_"
+        }
+      },
+      {
+        "tag": "#QUVRG8V2J",
+        "name": "Bernardo.22",
+        "townhallLevel": 11,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QUVRG8V2J",
+            "attackerName": "Bernardo.22",
+            "attackerTH": 11,
+            "attackerMapPosition": 15,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 11,
+            "defenderMapPosition": 24,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#G2LGYVC0L",
+        "name": "Rafinha 2",
+        "townhallLevel": 11,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#G2LGYVC0L",
+            "attackerName": "Rafinha 2",
+            "attackerTH": 11,
+            "attackerMapPosition": 16,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 11,
+            "defenderMapPosition": 25,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jonas"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#80R8YUU8P",
+      "defenderName": "Rafinha",
+      "defenderTH": 14,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 62,
+      "duration": 100,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G0LGQYYUU",
+      "attackerName": "HELDER",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#L8L29RC",
+      "defenderName": "Leon",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 81,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2R9UUQJ0R",
+      "attackerName": "Maauro Luuan",
+      "attackerTH": 13,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8CUCL29JJ",
+      "defenderName": "SayorexiK",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 109,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QUVRG8V2J",
+      "attackerName": "Bernardo.22",
+      "attackerTH": 11,
+      "attackerMapPosition": 15,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 11,
+      "defenderMapPosition": 24,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LUU9YPC0L",
+      "defenderName": "P.E.K.K.A",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 179,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 11,
+      "attackerMapPosition": 25,
+      "defenderTag": "#G2LGYVC0L",
+      "defenderName": "Rafinha 2",
+      "defenderTH": 11,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 11,
+      "attackerMapPosition": 24,
+      "defenderTag": "#QUVRG8V2J",
+      "defenderName": "Bernardo.22",
+      "defenderTH": 11,
+      "defenderMapPosition": 15,
+      "stars": 0,
+      "destructionPercentage": 45,
+      "duration": 137,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8CL82YGV",
+      "attackerName": "Bojson",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LV899LCVL",
+      "defenderName": "CORINGA",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 91,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8L29RC",
+      "attackerName": "Leon",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#G0LGQYYUU",
+      "defenderName": "HELDER",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 67,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQP9UGPJ0",
+      "attackerName": "1wf_",
+      "attackerTH": 12,
+      "attackerMapPosition": 22,
+      "defenderTag": "#QLPJYURUR",
+      "defenderName": "❤TREV0 NEGR0❤",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 82,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2LGYVC0L",
+      "attackerName": "Rafinha 2",
+      "attackerTH": 11,
+      "attackerMapPosition": 16,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 11,
+      "defenderMapPosition": 25,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PV0L8JU0Y",
+      "attackerName": "TORRE",
+      "attackerTH": 13,
+      "attackerMapPosition": 5,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 70,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9VV80G8G0",
+      "attackerName": "BLACK CLOVER",
+      "attackerTH": 13,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 14,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 111,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9QRUG",
+      "attackerName": "BLACK",
+      "attackerTH": 13,
+      "attackerMapPosition": 6,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 55,
+      "duration": 61,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PUGVVJGJ8",
+      "attackerName": "RODRIGO",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QVYV0G8U",
+      "defenderName": "Lucyfer",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 76,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LV80P0LG2",
+      "attackerName": "TIO BLACK",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QGJCGYJYC",
+      "defenderName": "rajko",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 63,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LUU9YPC0L",
+      "attackerName": "P.E.K.K.A",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 69,
+      "duration": 72,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LV899LCVL",
+      "attackerName": "CORINGA",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#L8CL82YGV",
+      "defenderName": "Bojson",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 129,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LCYJJ02YP",
+      "attackerName": "RACIONAIS",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 1,
+      "destructionPercentage": 69,
+      "duration": 72,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QLPJYURUR",
+      "attackerName": "❤TREV0 NEGR0❤",
+      "attackerTH": 12,
+      "attackerMapPosition": 14,
+      "defenderTag": "#PQP9UGPJ0",
+      "defenderName": "1wf_",
+      "defenderTH": 12,
+      "defenderMapPosition": 22,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 52,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PUC2QJLPR",
+      "attackerName": "NUNES",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 120,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80R8YUU8P",
+      "attackerName": "Rafinha",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 88,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#LLCP9QRUG",
+      "defenderName": "BLACK",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 113,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LCYJJ02YP",
+      "defenderName": "RACIONAIS",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 67,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QUVRG8V2J",
+      "defenderName": "Bernardo.22",
+      "defenderTH": 11,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 79,
+      "order": 25,
+      "side": "clan"
+    }
+  ]
+}

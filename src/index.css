@@ -1,0 +1,515 @@
+@import 'tailwindcss';
+@import "tw-animate-css";
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+}
+
+:root {
+  --background: oklch(0.12 0.015 250);
+  --foreground: oklch(0.95 0 0);
+
+  --card: oklch(0.16 0.015 250);
+  --card-foreground: oklch(0.95 0 0);
+
+  --popover: oklch(0.16 0.015 250);
+  --popover-foreground: oklch(0.95 0 0);
+
+  --primary: oklch(0.55 0.25 250);
+  --primary-foreground: oklch(1 0 0);
+
+  --secondary: oklch(0.82 0.24 135);
+  --secondary-foreground: oklch(0.12 0.015 250);
+
+  --muted: oklch(0.25 0.01 250);
+  --muted-foreground: oklch(0.72 0.01 250);
+
+  --accent: oklch(0.60 0.28 340);
+  --accent-foreground: oklch(1 0 0);
+
+  --destructive: oklch(0.55 0.25 25);
+  --destructive-foreground: oklch(1 0 0);
+
+  --border: oklch(0.25 0.01 250);
+  --input: oklch(0.25 0.01 250);
+  --ring: oklch(0.55 0.25 250);
+
+  --radius: 1rem;
+}
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: calc(var(--radius) * 0.5);
+  --radius-md: var(--radius);
+  --radius-lg: calc(var(--radius) * 1.5);
+  --radius-xl: calc(var(--radius) * 2);
+  --radius-2xl: calc(var(--radius) * 3);
+  --radius-full: 9999px;
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-feature-settings: 'tnum' 1;
+  background: linear-gradient(210deg, oklch(0.32 0.02 250 / 0.65), oklch(0.4 0.07 280 / 0.55));
+  min-height: 100vh;
+}
+
+.glow-primary {
+  box-shadow: 0 0 20px oklch(0.55 0.25 250 / 0.3);
+}
+
+.glow-secondary {
+  box-shadow: 0 0 20px oklch(0.82 0.24 135 / 0.3);
+}
+
+.glow-accent {
+  box-shadow: 0 0 20px oklch(0.60 0.28 340 / 0.3);
+}
+
+/* Logo background utilities */
+.brand-bg-logo {
+  background-size: min(120vw, 820px);
+  background-repeat: no-repeat;
+  background-position: center 4rem;
+  opacity: 0.30;
+}
+
+.brand-bg-fixed {
+  background-attachment: fixed;
+}
+
+@media (max-width: 768px) {
+  .brand-bg-fixed {
+    background-attachment: scroll;
+  }
+}
+
+/* ===== Animations ===== */
+
+/* Fade in from below */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.5s ease-out forwards;
+}
+
+/* Fade in */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.4s ease-out forwards;
+}
+
+/* Scale in */
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-scale-in {
+  animation: scale-in 0.3s ease-out forwards;
+}
+
+/* Stagger children animation delays */
+.stagger-1 {
+  animation-delay: 0.05s;
+}
+
+.stagger-2 {
+  animation-delay: 0.1s;
+}
+
+.stagger-3 {
+  animation-delay: 0.15s;
+}
+
+.stagger-4 {
+  animation-delay: 0.2s;
+}
+
+.stagger-5 {
+  animation-delay: 0.25s;
+}
+
+.stagger-6 {
+  animation-delay: 0.3s;
+}
+
+.stagger-7 {
+  animation-delay: 0.35s;
+}
+
+.stagger-8 {
+  animation-delay: 0.4s;
+}
+
+/* Table row staggered animation */
+@keyframes row-fade-in {
+  from {
+    opacity: 0;
+    transform: translateX(-8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-row-in {
+  animation: row-fade-in 0.3s ease-out forwards;
+  opacity: 0;
+}
+
+/* Card hover lift effect */
+.card-hover-lift {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -8px oklch(0 0 0 / 0.4);
+}
+
+/* Shimmer loading effect */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(90deg,
+      oklch(0.25 0.01 250) 0%,
+      oklch(0.30 0.01 250) 50%,
+      oklch(0.25 0.01 250) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Pulse glow for important numbers */
+@keyframes pulse-glow {
+
+  0%,
+  100% {
+    text-shadow: 0 0 4px currentColor;
+  }
+
+  50% {
+    text-shadow: 0 0 12px currentColor, 0 0 20px currentColor;
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Spin animation for loading */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 2s linear infinite;
+}
+
+/* ========== RESPONSIVE & MOBILE OPTIMIZATIONS ========== */
+
+/* Base responsive typography */
+html {
+  font-size: clamp(14px, 1.6vw, 16px);
+  scroll-behavior: smooth;
+}
+
+/* Mobile portrait: reduce base font size */
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Mobile landscape: further reduce and enable compact mode */
+@media (orientation: landscape) and (max-height: 500px) {
+  html {
+    font-size: 12px;
+  }
+
+  /* Auto-apply compact header for landscape on small screens */
+  body.auto-compact-landscape nav {
+    --nav-py: 0.25rem;
+    --nav-px: 0.5rem;
+  }
+}
+
+/* Disable pinch-zoom only for specific elements (inputs remain zoomable) */
+input:not([type="range"]),
+select,
+textarea {
+  font-size: 16px;
+  /* Prevents zoom on iOS when focusing input */
+}
+
+/* Smooth scrolling for mobile */
+body {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+/* Main content area responsive spacing */
+main {
+  margin-top: var(--header-height, 0);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Container responsive padding */
+.container {
+  transition: padding 0.18s ease;
+}
+
+@media (max-width: 640px) {
+  .container {
+    @apply px-3;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    @apply px-2;
+  }
+}
+
+/* Responsive heading sizes using clamp */
+h1 {
+  font-size: clamp(1.25rem, 2.5vw, 2rem);
+}
+
+h2 {
+  font-size: clamp(1.1rem, 2vw, 1.75rem);
+}
+
+h3 {
+  font-size: clamp(1rem, 1.8vw, 1.5rem);
+}
+
+h4 {
+  font-size: clamp(0.95rem, 1.6vw, 1.25rem);
+}
+
+/* Make tables responsive on small screens */
+@media (max-width: 640px) {
+  table {
+    font-size: clamp(12px, 2.5vw, 14px);
+  }
+
+  th,
+  td {
+    padding: clamp(0.25rem, 1vw, 0.5rem);
+  }
+}
+
+/* Ensure buttons remain tappable (min 44px height) */
+button,
+[role="button"],
+input[type="button"],
+input[type="submit"] {
+  min-height: 44px;
+  min-width: 44px;
+  touch-action: manipulation;
+}
+
+/* Reduce button padding on small screens */
+@media (max-width: 640px) {
+
+  button,
+  [role="button"] {
+    padding: clamp(0.4rem, 1.5vw, 0.75rem) clamp(0.5rem, 2vw, 1rem);
+    font-size: clamp(12px, 2vw, 14px);
+  }
+}
+
+/* Navigation compact mode toggle */
+nav.compact {
+  --nav-py: 0.25rem;
+  --nav-px: 0.5rem;
+}
+
+nav.compact h1 {
+  font-size: 1rem;
+}
+
+nav.compact p {
+  font-size: 0.6rem;
+  line-height: 1;
+}
+
+nav.compact [class*="Trophy"] {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+nav.compact .header-nav-buttons {
+  gap: 0.25rem;
+}
+
+nav.compact .header-nav-buttons button {
+  padding: 0.4rem 0.5rem;
+  min-width: auto;
+  font-size: 0.75rem;
+}
+
+nav.compact .header-nav-buttons button>span {
+  display: none;
+}
+
+nav.compact .header-nav-buttons button svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* Compact mode button */
+button[aria-label*="compact"],
+button[aria-label*="Compact"] {
+  display: inline-flex;
+  min-height: 36px;
+  min-width: 36px;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+button[aria-label*="compact"]:hover,
+button[aria-label*="Compact"]:hover {
+  transform: scale(1.05);
+}
+
+button[aria-label*="compact"]:active,
+button[aria-label*="Compact"]:active {
+  transform: scale(0.95);
+}
+
+/* Viewport-specific text adjustments */
+@media (max-width: 480px) {
+  .text-sm {
+    font-size: 0.8125rem;
+  }
+
+  .text-xs {
+    font-size: 0.6875rem;
+  }
+
+  .text-base {
+    font-size: 0.9375rem;
+  }
+}
+
+/* Improve touch targets on mobile */
+@media (max-width: 640px) {
+  .gap-2 {
+    gap: clamp(0.25rem, 1vw, 0.5rem);
+  }
+
+  .gap-3 {
+    gap: clamp(0.4rem, 1.5vw, 0.75rem);
+  }
+
+  .gap-4 {
+    gap: clamp(0.5rem, 2vw, 1rem);
+  }
+}
+
+/* ========== SAFARI COMPATIBILITY FIXES ========== */
+
+/* Fix: user-select not supported by Safari 3+ without -webkit prefix */
+[data-sonner-toast][data-swiped="true"] {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* ========== ACCESSIBILITY IMPROVEMENTS ========== */
+
+/* Enhanced focus states for interactive elements */
+.focus-visible-ring {
+  outline: none;
+}
+
+.focus-visible-ring:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+/* Improved focus states for season cards and clickable elements */
+button:focus-visible,
+[role="button"]:focus-visible,
+a:focus-visible {
+  outline: 2px solid hsl(var(--primary));
+  outline-offset: 2px;
+}
+
+/* High contrast text for improved readability */
+.text-high-contrast {
+  color: oklch(0.90 0 0);
+}
+
+/* Improved muted text contrast for dark mode */
+.text-muted-high {
+  color: oklch(0.75 0.01 250);
+}

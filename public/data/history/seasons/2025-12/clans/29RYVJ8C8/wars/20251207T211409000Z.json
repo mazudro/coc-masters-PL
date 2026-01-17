@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.212Z",
+  "season": "2025-12",
+  "warTag": "29RYVJ8C8-20251207T211409000Z",
+  "startTime": "20251206T211409.000Z",
+  "endTime": "20251207T211409.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 35,
+    "destructionPercentage": 83.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2L0GG2R0R",
+            "defenderName": "NIKSAN",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 139,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "NIKSAN"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#R8ULV9JL",
+            "defenderName": "wudu",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 123,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wudu"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#J9VVJQU8",
+            "defenderName": "Helen",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 151,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "дон 1"
+        }
+      },
+      {
+        "tag": "#L8GG2R0GV",
+        "name": "Bartosz4255",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L8GG2R0GV",
+            "attackerName": "Bartosz4255",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y8QGPC8L",
+            "defenderName": "Silverin",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 91,
+            "duration": 110,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Silverin"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QGPLUPCVU",
+            "defenderName": "Wudu144",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2LCQPVP0",
+            "defenderName": "дон 1",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 173,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "shmel"
+        }
+      },
+      {
+        "tag": "#L9L20YG2",
+        "name": "IMPERATOR",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#L9L20YG2",
+            "attackerName": "IMPERATOR",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#92JGCP28",
+            "defenderName": "SilverinIphone",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "SilverinIphone"
+        }
+      },
+      {
+        "tag": "#2P022Q08U",
+        "name": "#KorNiszon",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2P022Q08U",
+            "attackerName": "#KorNiszon",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2GJLQGYR",
+            "defenderName": "shmel",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 51,
+            "duration": 87,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 51,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Helen"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QGVGG28PP",
+            "defenderName": "Wudu744",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Wudu744"
+        }
+      },
+      {
+        "tag": "#LPY0YR2PG",
+        "name": "Profesor",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LPY0YR2PG",
+            "attackerName": "Profesor",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QQG8RGUJR",
+            "defenderName": "Wudu244",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 91,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wudu344"
+        }
+      },
+      {
+        "tag": "#9CQC8YRVY",
+        "name": "-DYKTATOR-",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9CQC8YRVY",
+            "attackerName": "-DYKTATOR-",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#QRPLGJGGC",
+            "defenderName": "Wudu344",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Wudu244"
+        }
+      },
+      {
+        "tag": "#LVU2L9VQ9",
+        "name": "warior",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LVU2L9VQ9",
+            "attackerName": "warior",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#QQPL8902G",
+            "defenderName": "Wudu44",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 75,
+            "duration": 130,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wudu44"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#88LLGPPC",
+            "defenderName": "anika",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "anika"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#22GJ2Q9Q0",
+            "defenderName": "molot",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 128,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "molot"
+        }
+      },
+      {
+        "tag": "#8VYL0G8VY",
+        "name": "Dawid2",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#8VYL0G8VY",
+            "attackerName": "Dawid2",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#89RQPRC82",
+            "defenderName": "molot44",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 87,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "molot44"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8VV9PPYC",
+    "name": "Bears Pro",
+    "clanLevel": 27,
+    "stars": 33,
+    "destructionPercentage": 83.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2L0GG2R0R",
+        "name": "NIKSAN",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2L0GG2R0R",
+            "attackerName": "NIKSAN",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#R8ULV9JL",
+        "name": "wudu",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#R8ULV9JL",
+            "attackerName": "wudu",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#2LCQPVP0",
+        "name": "дон 1",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2LCQPVP0",
+            "attackerName": "дон 1",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 120,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#Y8QGPC8L",
+        "name": "Silverin",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Y8QGPC8L",
+            "attackerName": "Silverin",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#L8GG2R0GV",
+            "defenderName": "Bartosz4255",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 91,
+          "attackerName": "Bartosz4255"
+        }
+      },
+      {
+        "tag": "#QGPLUPCVU",
+        "name": "Wudu144",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QGPLUPCVU",
+            "attackerName": "Wudu144",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#L9L20YG2",
+            "defenderName": "IMPERATOR",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 92,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#2GJLQGYR",
+        "name": "shmel",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2GJLQGYR",
+            "attackerName": "shmel",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 145,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 51,
+          "attackerName": "#KorNiszon"
+        }
+      },
+      {
+        "tag": "#92JGCP28",
+        "name": "SilverinIphone",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#92JGCP28",
+            "attackerName": "SilverinIphone",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#L9L20YG2",
+            "defenderName": "IMPERATOR",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 180,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "IMPERATOR"
+        }
+      },
+      {
+        "tag": "#J9VVJQU8",
+        "name": "Helen",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#J9VVJQU8",
+            "attackerName": "Helen",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2P022Q08U",
+            "defenderName": "#KorNiszon",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 124,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#QGVGG28PP",
+        "name": "Wudu744",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QGVGG28PP",
+            "attackerName": "Wudu744",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 110,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#QRPLGJGGC",
+        "name": "Wudu344",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QRPLGJGGC",
+            "attackerName": "Wudu344",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LPY0YR2PG",
+            "defenderName": "Profesor",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "-DYKTATOR-"
+        }
+      },
+      {
+        "tag": "#QQG8RGUJR",
+        "name": "Wudu244",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QQG8RGUJR",
+            "attackerName": "Wudu244",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9CQC8YRVY",
+            "defenderName": "-DYKTATOR-",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 97,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "Profesor"
+        }
+      },
+      {
+        "tag": "#QQPL8902G",
+        "name": "Wudu44",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QQPL8902G",
+            "attackerName": "Wudu44",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#LVU2L9VQ9",
+            "defenderName": "warior",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 75,
+          "attackerName": "warior"
+        }
+      },
+      {
+        "tag": "#88LLGPPC",
+        "name": "anika",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#88LLGPPC",
+            "attackerName": "anika",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#22GJ2Q9Q0",
+        "name": "molot",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#22GJ2Q9Q0",
+            "attackerName": "molot",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 118,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Miki 07"
+        }
+      },
+      {
+        "tag": "#89RQPRC82",
+        "name": "molot44",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#89RQPRC82",
+            "attackerName": "molot44",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#8VYL0G8VY",
+            "defenderName": "Dawid2",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 78,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "Dawid2"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#92JGCP28",
+      "attackerName": "SilverinIphone",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#L9L20YG2",
+      "defenderName": "IMPERATOR",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 180,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y8QGPC8L",
+      "attackerName": "Silverin",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#L8GG2R0GV",
+      "defenderName": "Bartosz4255",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#88LLGPPC",
+      "defenderName": "anika",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LVU2L9VQ9",
+      "attackerName": "warior",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#QQPL8902G",
+      "defenderName": "Wudu44",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 75,
+      "duration": 130,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#J9VVJQU8",
+      "defenderName": "Helen",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 151,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8VYL0G8VY",
+      "attackerName": "Dawid2",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#89RQPRC82",
+      "defenderName": "molot44",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 87,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2L0GG2R0R",
+      "attackerName": "NIKSAN",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2L0GG2R0R",
+      "defenderName": "NIKSAN",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 139,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QGVGG28PP",
+      "defenderName": "Wudu744",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2LCQPVP0",
+      "attackerName": "дон 1",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 120,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#22GJ2Q9Q0",
+      "defenderName": "molot",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 128,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LPY0YR2PG",
+      "attackerName": "Profesor",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QQG8RGUJR",
+      "defenderName": "Wudu244",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 91,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9L20YG2",
+      "attackerName": "IMPERATOR",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#92JGCP28",
+      "defenderName": "SilverinIphone",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CQC8YRVY",
+      "attackerName": "-DYKTATOR-",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#QRPLGJGGC",
+      "defenderName": "Wudu344",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQPL8902G",
+      "attackerName": "Wudu44",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#LVU2L9VQ9",
+      "defenderName": "warior",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QGPLUPCVU",
+      "attackerName": "Wudu144",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#L9L20YG2",
+      "defenderName": "IMPERATOR",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 92,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#R8ULV9JL",
+      "attackerName": "wudu",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QRPLGJGGC",
+      "attackerName": "Wudu344",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LPY0YR2PG",
+      "defenderName": "Profesor",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L8GG2R0GV",
+      "attackerName": "Bartosz4255",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y8QGPC8L",
+      "defenderName": "Silverin",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 91,
+      "duration": 110,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QGVGG28PP",
+      "attackerName": "Wudu744",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 110,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2GJLQGYR",
+      "attackerName": "shmel",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 145,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J9VVJQU8",
+      "attackerName": "Helen",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2P022Q08U",
+      "defenderName": "#KorNiszon",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 124,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQG8RGUJR",
+      "attackerName": "Wudu244",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9CQC8YRVY",
+      "defenderName": "-DYKTATOR-",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 97,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P022Q08U",
+      "attackerName": "#KorNiszon",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2GJLQGYR",
+      "defenderName": "shmel",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 51,
+      "duration": 87,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#88LLGPPC",
+      "attackerName": "anika",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22GJ2Q9Q0",
+      "attackerName": "molot",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 118,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#89RQPRC82",
+      "attackerName": "molot44",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#8VYL0G8VY",
+      "defenderName": "Dawid2",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 78,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QGPLUPCVU",
+      "defenderName": "Wudu144",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#R8ULV9JL",
+      "defenderName": "wudu",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 123,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2LCQPVP0",
+      "defenderName": "дон 1",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 173,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

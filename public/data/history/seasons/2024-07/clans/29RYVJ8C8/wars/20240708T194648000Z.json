@@ -1,0 +1,1190 @@
+{
+  "generatedAt": "2026-01-17T15:28:20.976Z",
+  "season": "2024-07",
+  "warTag": "29RYVJ8C8-20240708T194648000Z",
+  "startTime": "20240707T194648.000Z",
+  "endTime": "20240708T194648.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 6,
+    "stars": 40,
+    "destructionPercentage": 91.46666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LJLYPVYV0",
+            "defenderName": "LilDottie",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#GULJCRQJ",
+        "name": "Jetix",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#GULJCRQJ",
+            "attackerName": "Jetix",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P2VRYGJUG",
+            "defenderName": "cam",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "cam"
+        }
+      },
+      {
+        "tag": "#PL20280R8",
+        "name": "Marcin :-)",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PL20280R8",
+            "attackerName": "Marcin :-)",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2Y8RC8PPY",
+            "defenderName": "kerr",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "LilDottie"
+        }
+      },
+      {
+        "tag": "#9GP08G0PC",
+        "name": "KOKS",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9GP08G0PC",
+            "attackerName": "KOKS",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#20C92G9CQ",
+            "defenderName": "PapiFrijole",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#UJGQGYJ8",
+        "name": "Games",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#UJGQGYJ8",
+            "attackerName": "Games",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#GC9PJLC2",
+            "defenderName": "Nate The Great",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 95,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2Q0JGCJVG",
+        "name": "kaliber 44",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0JGCJVG",
+            "attackerName": "kaliber 44",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#PL2LQV8PQ",
+            "defenderName": "°RAIN°",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QRPGPYY0J",
+        "name": "AdeK2",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QRPGPYY0J",
+            "attackerName": "AdeK2",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#889RG8RUL",
+            "defenderName": "Braannn",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 109,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#22Y9JQYJ",
+        "name": "~ Yakuu ~",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#22Y9JQYJ",
+            "attackerName": "~ Yakuu ~",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#JL8YQGYG",
+            "defenderName": "sways",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "sways"
+        }
+      },
+      {
+        "tag": "#PJR8PV8P0",
+        "name": "ColManeQPL",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PJR8PV8P0",
+            "attackerName": "ColManeQPL",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YGJQ8GQQY",
+            "defenderName": "Jallford24",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 101,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 52,
+          "attackerName": "Jallford24"
+        }
+      },
+      {
+        "tag": "#PJU0UL2",
+        "name": "HuTcH v",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PJU0UL2",
+            "attackerName": "HuTcH v",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2CYLGVVL0",
+            "defenderName": "MTNDEW",
+            "defenderTH": 14,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2P022Q08U",
+        "name": "#KorNiszon",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2P022Q08U",
+            "attackerName": "#KorNiszon",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#22Q9C02UL",
+            "defenderName": "ayala210",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 111,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "°RAIN°"
+        }
+      },
+      {
+        "tag": "#QYUU0008R",
+        "name": "Vallesco",
+        "townhallLevel": 14,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QYUU0008R",
+            "attackerName": "Vallesco",
+            "attackerTH": 14,
+            "attackerMapPosition": 12,
+            "defenderTag": "#L0VJ9RLVJ",
+            "defenderName": "TheGoat23",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 97,
+          "attackerName": "PapiFrijole"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MTNDEW"
+        }
+      },
+      {
+        "tag": "#RR0GJJL",
+        "name": "Olivia",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#RR0GJJL",
+            "attackerName": "Olivia",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#9JUP9J2CR",
+            "defenderName": "PrettyRicky",
+            "defenderTH": 13,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 79,
+          "attackerName": "PrettyRicky"
+        }
+      },
+      {
+        "tag": "#22VRU89L",
+        "name": "SebekG",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#22VRU89L",
+            "attackerName": "SebekG",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#QPUPGR0JL",
+            "defenderName": "kylieD",
+            "defenderTH": 12,
+            "defenderMapPosition": 27,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kylieD"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2LPCYJ2LU",
+    "name": "feminists",
+    "clanLevel": 14,
+    "stars": 19,
+    "destructionPercentage": 51.93333333333333,
+    "attacks": 10,
+    "members": [
+      {
+        "tag": "#LJLYPVYV0",
+        "name": "LilDottie",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LJLYPVYV0",
+            "attackerName": "LilDottie",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PL20280R8",
+            "defenderName": "Marcin :-)",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 111,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#P2VRYGJUG",
+        "name": "cam",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P2VRYGJUG",
+            "attackerName": "cam",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#GULJCRQJ",
+            "defenderName": "Jetix",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 80,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jetix"
+        }
+      },
+      {
+        "tag": "#2Y8RC8PPY",
+        "name": "kerr",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Marcin :-)"
+        }
+      },
+      {
+        "tag": "#20C92G9CQ",
+        "name": "PapiFrijole",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#20C92G9CQ",
+            "attackerName": "PapiFrijole",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QYUU0008R",
+            "defenderName": "Vallesco",
+            "defenderTH": 14,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 97,
+            "duration": 142,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KOKS"
+        }
+      },
+      {
+        "tag": "#GC9PJLC2",
+        "name": "Nate The Great",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Games"
+        }
+      },
+      {
+        "tag": "#PL2LQV8PQ",
+        "name": "°RAIN°",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PL2LQV8PQ",
+            "attackerName": "°RAIN°",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2P022Q08U",
+            "defenderName": "#KorNiszon",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 97,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "kaliber 44"
+        }
+      },
+      {
+        "tag": "#889RG8RUL",
+        "name": "Braannn",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "AdeK2"
+        }
+      },
+      {
+        "tag": "#JL8YQGYG",
+        "name": "sways",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#JL8YQGYG",
+            "attackerName": "sways",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#22Y9JQYJ",
+            "defenderName": "~ Yakuu ~",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 133,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "~ Yakuu ~"
+        }
+      },
+      {
+        "tag": "#YGJQ8GQQY",
+        "name": "Jallford24",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YGJQ8GQQY",
+            "attackerName": "Jallford24",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PJR8PV8P0",
+            "defenderName": "ColManeQPL",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 52,
+            "duration": 101,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 52,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ColManeQPL"
+        }
+      },
+      {
+        "tag": "#2CYLGVVL0",
+        "name": "MTNDEW",
+        "townhallLevel": 14,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2CYLGVVL0",
+            "attackerName": "MTNDEW",
+            "attackerTH": 14,
+            "attackerMapPosition": 12,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 13,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 122,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "HuTcH v"
+        }
+      },
+      {
+        "tag": "#22Q9C02UL",
+        "name": "ayala210",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "#KorNiszon"
+        }
+      },
+      {
+        "tag": "#L0VJ9RLVJ",
+        "name": "TheGoat23",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Vallesco"
+        }
+      },
+      {
+        "tag": "#QP9JPJVU",
+        "name": "Cmedi01",
+        "townhallLevel": 13,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QP9JPJVU",
+            "attackerName": "Cmedi01",
+            "attackerTH": 13,
+            "attackerMapPosition": 18,
+            "defenderTag": "#RR0GJJL",
+            "defenderName": "Olivia",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 76,
+            "duration": 102,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 76,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9JUP9J2CR",
+        "name": "PrettyRicky",
+        "townhallLevel": 13,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#9JUP9J2CR",
+            "attackerName": "PrettyRicky",
+            "attackerTH": 13,
+            "attackerMapPosition": 19,
+            "defenderTag": "#RR0GJJL",
+            "defenderName": "Olivia",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 79,
+            "duration": 170,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Olivia"
+        }
+      },
+      {
+        "tag": "#QPUPGR0JL",
+        "name": "kylieD",
+        "townhallLevel": 12,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#QPUPGR0JL",
+            "attackerName": "kylieD",
+            "attackerTH": 12,
+            "attackerMapPosition": 27,
+            "defenderTag": "#22VRU89L",
+            "defenderName": "SebekG",
+            "defenderTH": 12,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SebekG"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#QRPGPYY0J",
+      "attackerName": "AdeK2",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#889RG8RUL",
+      "defenderName": "Braannn",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 109,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YGJQ8GQQY",
+      "attackerName": "Jallford24",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PJR8PV8P0",
+      "defenderName": "ColManeQPL",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 52,
+      "duration": 101,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P022Q08U",
+      "attackerName": "#KorNiszon",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#22Q9C02UL",
+      "defenderName": "ayala210",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 111,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RR0GJJL",
+      "attackerName": "Olivia",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#9JUP9J2CR",
+      "defenderName": "PrettyRicky",
+      "defenderTH": 13,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PJR8PV8P0",
+      "attackerName": "ColManeQPL",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YGJQ8GQQY",
+      "defenderName": "Jallford24",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 101,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22Y9JQYJ",
+      "attackerName": "~ Yakuu ~",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#JL8YQGYG",
+      "defenderName": "sways",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P2VRYGJUG",
+      "attackerName": "cam",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#GULJCRQJ",
+      "defenderName": "Jetix",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 80,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYUU0008R",
+      "attackerName": "Vallesco",
+      "attackerTH": 14,
+      "attackerMapPosition": 12,
+      "defenderTag": "#L0VJ9RLVJ",
+      "defenderName": "TheGoat23",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q0JGCJVG",
+      "attackerName": "kaliber 44",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#PL2LQV8PQ",
+      "defenderName": "°RAIN°",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL2LQV8PQ",
+      "attackerName": "°RAIN°",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2P022Q08U",
+      "defenderName": "#KorNiszon",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 97,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2CYLGVVL0",
+      "attackerName": "MTNDEW",
+      "attackerTH": 14,
+      "attackerMapPosition": 12,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 13,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 122,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20C92G9CQ",
+      "attackerName": "PapiFrijole",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QYUU0008R",
+      "defenderName": "Vallesco",
+      "defenderTH": 14,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 97,
+      "duration": 142,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJLYPVYV0",
+      "attackerName": "LilDottie",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PL20280R8",
+      "defenderName": "Marcin :-)",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 111,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QPUPGR0JL",
+      "attackerName": "kylieD",
+      "attackerTH": 12,
+      "attackerMapPosition": 27,
+      "defenderTag": "#22VRU89L",
+      "defenderName": "SebekG",
+      "defenderTH": 12,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9JUP9J2CR",
+      "attackerName": "PrettyRicky",
+      "attackerTH": 13,
+      "attackerMapPosition": 19,
+      "defenderTag": "#RR0GJJL",
+      "defenderName": "Olivia",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 79,
+      "duration": 170,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GULJCRQJ",
+      "attackerName": "Jetix",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P2VRYGJUG",
+      "defenderName": "cam",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LJLYPVYV0",
+      "defenderName": "LilDottie",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22VRU89L",
+      "attackerName": "SebekG",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#QPUPGR0JL",
+      "defenderName": "kylieD",
+      "defenderTH": 12,
+      "defenderMapPosition": 27,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PL20280R8",
+      "attackerName": "Marcin :-)",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2Y8RC8PPY",
+      "defenderName": "kerr",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PJU0UL2",
+      "attackerName": "HuTcH v",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2CYLGVVL0",
+      "defenderName": "MTNDEW",
+      "defenderTH": 14,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#JL8YQGYG",
+      "attackerName": "sways",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#22Y9JQYJ",
+      "defenderName": "~ Yakuu ~",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 133,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UJGQGYJ8",
+      "attackerName": "Games",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#GC9PJLC2",
+      "defenderName": "Nate The Great",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 95,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9GP08G0PC",
+      "attackerName": "KOKS",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#20C92G9CQ",
+      "defenderName": "PapiFrijole",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QP9JPJVU",
+      "attackerName": "Cmedi01",
+      "attackerTH": 13,
+      "attackerMapPosition": 18,
+      "defenderTag": "#RR0GJJL",
+      "defenderName": "Olivia",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 76,
+      "duration": 102,
+      "order": 24,
+      "side": "opponent"
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.868Z",
+  "season": "2024-07",
+  "warTag": "P0J2J8GJ-20240703T190720000Z",
+  "startTime": "20240702T190720.000Z",
+  "endTime": "20240703T190720.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 24,
+    "stars": 40,
+    "destructionPercentage": 94.6,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#YPL9PJUQU",
+            "defenderName": "BUSTINCHOPS!",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 131,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BUSTINCHOPS!"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YYR9RCGY",
+            "defenderName": "VIPER",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "APEX"
+        }
+      },
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9VYYQJ0RL",
+            "defenderName": "thunderstorm",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 119,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 35,
+          "attackerName": "thunderstorm"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#VPU8QR0R",
+            "defenderName": "Tony",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 100,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 82,
+          "attackerName": "Tony"
+        }
+      },
+      {
+        "tag": "#2UJ99QGJG",
+        "name": "013",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2UJ99QGJG",
+            "attackerName": "013",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8PLQ9C99C",
+            "defenderName": "GRIMM",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 152,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "VIPER"
+        }
+      },
+      {
+        "tag": "#2P9J8CCQY",
+        "name": "Drax90",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2P9J8CCQY",
+            "attackerName": "Drax90",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#YGJR08JCR",
+            "defenderName": "Brookie?",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 46,
+          "attackerName": "tripled again!!"
+        }
+      },
+      {
+        "tag": "#2082CJJYV",
+        "name": "AdeK",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2082CJJYV",
+            "attackerName": "AdeK",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#GG0R0UYP",
+            "defenderName": "CloneTrooper",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "CloneTrooper"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#L0G0JVJRU",
+            "defenderName": "Capt Confused",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Brookie?"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LPVU090G9",
+            "defenderName": "APEX",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "GRIMM"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Q9CU0QULU",
+            "defenderName": "SANDEEP",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#28P929JJQ",
+            "defenderName": "kristie",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "kristie"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#9QQ8CYGV9",
+            "defenderName": "Rohan",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "Rohan"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LR0QGLQYR",
+            "defenderName": "tripled again!!",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Capt Confused"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#9RGLQJLYC",
+            "defenderName": "RANJESH BOSS",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 111,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 49,
+          "attackerName": "RANJESH BOSS"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 16,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 16,
+            "attackerMapPosition": 17,
+            "defenderTag": "#QY9LLLCCP",
+            "defenderName": "Tony II",
+            "defenderTH": 13,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Tony II"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2L88QJLRC",
+    "name": "EXCILIUM",
+    "clanLevel": 15,
+    "stars": 26,
+    "destructionPercentage": 68.2,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#YPL9PJUQU",
+        "name": "BUSTINCHOPS!",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YPL9PJUQU",
+            "attackerName": "BUSTINCHOPS!",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 119,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#YYR9RCGY",
+        "name": "VIPER",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YYR9RCGY",
+            "attackerName": "VIPER",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2UJ99QGJG",
+            "defenderName": "013",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#9VYYQJ0RL",
+        "name": "thunderstorm",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9VYYQJ0RL",
+            "attackerName": "thunderstorm",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 35,
+            "duration": 94,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 35,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#VPU8QR0R",
+        "name": "Tony",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#VPU8QR0R",
+            "attackerName": "Tony",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 82,
+            "duration": 122,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#8PLQ9C99C",
+        "name": "GRIMM",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8PLQ9C99C",
+            "attackerName": "GRIMM",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 161,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "013"
+        }
+      },
+      {
+        "tag": "#YGJR08JCR",
+        "name": "Brookie?",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YGJR08JCR",
+            "attackerName": "Brookie?",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Drax90"
+        }
+      },
+      {
+        "tag": "#GG0R0UYP",
+        "name": "CloneTrooper",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#GG0R0UYP",
+            "attackerName": "CloneTrooper",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2082CJJYV",
+            "defenderName": "AdeK",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 103,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "AdeK"
+        }
+      },
+      {
+        "tag": "#L0G0JVJRU",
+        "name": "Capt Confused",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#L0G0JVJRU",
+            "attackerName": "Capt Confused",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 169,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#LPVU090G9",
+        "name": "APEX",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LPVU090G9",
+            "attackerName": "APEX",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 107,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#Q9CU0QULU",
+        "name": "SANDEEP",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#28P929JJQ",
+        "name": "kristie",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#28P929JJQ",
+            "attackerName": "kristie",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 132,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#9QQ8CYGV9",
+        "name": "Rohan",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9QQ8CYGV9",
+            "attackerName": "Rohan",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 111,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#LR0QGLQYR",
+        "name": "tripled again!!",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LR0QGLQYR",
+            "attackerName": "tripled again!!",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2P9J8CCQY",
+            "defenderName": "Drax90",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 0,
+            "destructionPercentage": 46,
+            "duration": 113,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 0,
+        "destruction": 46,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#9RGLQJLYC",
+        "name": "RANJESH BOSS",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9RGLQJLYC",
+            "attackerName": "RANJESH BOSS",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 1,
+            "destructionPercentage": 49,
+            "duration": 87,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 49,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#QY9LLLCCP",
+        "name": "Tony II",
+        "townhallLevel": 13,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#QY9LLLCCP",
+            "attackerName": "Tony II",
+            "attackerTH": 13,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 16,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 165,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zzlevo"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#28P929JJQ",
+      "defenderName": "kristie",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9VYYQJ0RL",
+      "defenderName": "thunderstorm",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 119,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L0G0JVJRU",
+      "attackerName": "Capt Confused",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 169,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPL9PJUQU",
+      "attackerName": "BUSTINCHOPS!",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 119,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGJR08JCR",
+      "attackerName": "Brookie?",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2082CJJYV",
+      "attackerName": "AdeK",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#GG0R0UYP",
+      "defenderName": "CloneTrooper",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YYR9RCGY",
+      "defenderName": "VIPER",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9VYYQJ0RL",
+      "attackerName": "thunderstorm",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 35,
+      "duration": 94,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LR0QGLQYR",
+      "attackerName": "tripled again!!",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2P9J8CCQY",
+      "defenderName": "Drax90",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 0,
+      "destructionPercentage": 46,
+      "duration": 113,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#VPU8QR0R",
+      "defenderName": "Tony",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 100,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LPVU090G9",
+      "defenderName": "APEX",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LR0QGLQYR",
+      "defenderName": "tripled again!!",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2P9J8CCQY",
+      "attackerName": "Drax90",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#YGJR08JCR",
+      "defenderName": "Brookie?",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#L0G0JVJRU",
+      "defenderName": "Capt Confused",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2UJ99QGJG",
+      "attackerName": "013",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8PLQ9C99C",
+      "defenderName": "GRIMM",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 152,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#9QQ8CYGV9",
+      "defenderName": "Rohan",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GG0R0UYP",
+      "attackerName": "CloneTrooper",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2082CJJYV",
+      "defenderName": "AdeK",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 103,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Q9CU0QULU",
+      "defenderName": "SANDEEP",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 16,
+      "attackerMapPosition": 17,
+      "defenderTag": "#QY9LLLCCP",
+      "defenderName": "Tony II",
+      "defenderTH": 13,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9QQ8CYGV9",
+      "attackerName": "Rohan",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 111,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9RGLQJLYC",
+      "attackerName": "RANJESH BOSS",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 1,
+      "destructionPercentage": 49,
+      "duration": 87,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#YPL9PJUQU",
+      "defenderName": "BUSTINCHOPS!",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 131,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QY9LLLCCP",
+      "attackerName": "Tony II",
+      "attackerTH": 13,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 16,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 165,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPVU090G9",
+      "attackerName": "APEX",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 107,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#9RGLQJLYC",
+      "defenderName": "RANJESH BOSS",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 111,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8PLQ9C99C",
+      "attackerName": "GRIMM",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 161,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YYR9RCGY",
+      "attackerName": "VIPER",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2UJ99QGJG",
+      "defenderName": "013",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#28P929JJQ",
+      "attackerName": "kristie",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 132,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VPU8QR0R",
+      "attackerName": "Tony",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 82,
+      "duration": 122,
+      "order": 29,
+      "side": "opponent"
+    }
+  ]
+}

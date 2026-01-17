@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.764Z",
+  "season": "2024-01",
+  "warTag": "P0J2J8GJ-20240105T192610000Z",
+  "startTime": "20240104T192610.000Z",
+  "endTime": "20240105T192610.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 23,
+    "stars": 39,
+    "destructionPercentage": 90.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#89G0Q89UQ",
+            "defenderName": "Rinjani",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 64,
+            "duration": 115,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "lvl.4 Frosty"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YYU0URQ0G",
+            "defenderName": "Mezzaluna",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 159,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "lvl.5 Frosty"
+        }
+      },
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2CL2J2UUQ",
+            "defenderName": "hobarul",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 110,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "lvl.2 Frosty"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#892VVLLQQ",
+            "defenderName": "TRUE BLUES",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "lvl.1 Frosty"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#22V2UY2L0",
+            "defenderName": "Axl Rose",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 174,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "lvl.3 Frosty"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QYJ2J8LCC",
+            "defenderName": "Danger line 7.0",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 147,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "hobarul"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LL0LCCVQ8",
+            "defenderName": "Tiger",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "WAHAHA"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LPCV0JPV0",
+            "defenderName": "Eliminator",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 175,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "Axl Rose"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#QYULR29VV",
+            "defenderName": "WAHAHA",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Danger line 7.0"
+        }
+      },
+      {
+        "tag": "#2QYJJGP8V",
+        "name": "ROMAN",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2QYJJGP8V",
+            "attackerName": "ROMAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#QLPYC2P9Q",
+            "defenderName": "lvl.4 Frosty",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 86,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Eliminator"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QU9C99RCR",
+            "defenderName": "lvl.3 Frosty",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "PawangKangguru4"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QRQUC082C",
+            "defenderName": "lvl.5 Frosty",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Rinjani"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#QQRVV8UVR",
+            "defenderName": "lvl.1 Frosty",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mezzaluna"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#QJ0VGGVJV",
+            "defenderName": "lvl.2 Frosty",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 78,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "TRUE BLUES"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#QU9J2CGRL",
+            "defenderName": "PawangKangguru4",
+            "defenderTH": 15,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 95,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tiger"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#29YVCUQQU",
+    "name": "A Lalala Long",
+    "clanLevel": 12,
+    "stars": 36,
+    "destructionPercentage": 89.26666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#89G0Q89UQ",
+        "name": "Rinjani",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#89G0Q89UQ",
+            "attackerName": "Rinjani",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 64,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#YYU0URQ0G",
+        "name": "Mezzaluna",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YYU0URQ0G",
+            "attackerName": "Mezzaluna",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#2CL2J2UUQ",
+        "name": "hobarul",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2CL2J2UUQ",
+            "attackerName": "hobarul",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 175,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#892VVLLQQ",
+        "name": "TRUE BLUES",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#892VVLLQQ",
+            "attackerName": "TRUE BLUES",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#22V2UY2L0",
+        "name": "Axl Rose",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#22V2UY2L0",
+            "attackerName": "Axl Rose",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 67,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#QYJ2J8LCC",
+        "name": "Danger line 7.0",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QYJ2J8LCC",
+            "attackerName": "Danger line 7.0",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#LL0LCCVQ8",
+        "name": "Tiger",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LL0LCCVQ8",
+            "attackerName": "Tiger",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#LPCV0JPV0",
+        "name": "Eliminator",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LPCV0JPV0",
+            "attackerName": "Eliminator",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2QYJJGP8V",
+            "defenderName": "ROMAN",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#QYULR29VV",
+        "name": "WAHAHA",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#QYULR29VV",
+            "attackerName": "WAHAHA",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 140,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#QLPYC2P9Q",
+        "name": "lvl.4 Frosty",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QLPYC2P9Q",
+            "attackerName": "lvl.4 Frosty",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 130,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ROMAN"
+        }
+      },
+      {
+        "tag": "#QU9C99RCR",
+        "name": "lvl.3 Frosty",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QU9C99RCR",
+            "attackerName": "lvl.3 Frosty",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 161,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#QRQUC082C",
+        "name": "lvl.5 Frosty",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QRQUC082C",
+            "attackerName": "lvl.5 Frosty",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 144,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#QQRVV8UVR",
+        "name": "lvl.1 Frosty",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QQRVV8UVR",
+            "attackerName": "lvl.1 Frosty",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 168,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#QJ0VGGVJV",
+        "name": "lvl.2 Frosty",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QJ0VGGVJV",
+            "attackerName": "lvl.2 Frosty",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 170,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#QU9J2CGRL",
+        "name": "PawangKangguru4",
+        "townhallLevel": 15,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QU9J2CGRL",
+            "attackerName": "PawangKangguru4",
+            "attackerTH": 15,
+            "attackerMapPosition": 18,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 157,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Martha"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LL0LCCVQ8",
+      "defenderName": "Tiger",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QYJ2J8LCC",
+      "defenderName": "Danger line 7.0",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 147,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#QJ0VGGVJV",
+      "defenderName": "lvl.2 Frosty",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 78,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#QU9J2CGRL",
+      "defenderName": "PawangKangguru4",
+      "defenderTH": 15,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 95,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#89G0Q89UQ",
+      "defenderName": "Rinjani",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 64,
+      "duration": 115,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QRQUC082C",
+      "defenderName": "lvl.5 Frosty",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#22V2UY2L0",
+      "defenderName": "Axl Rose",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 174,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2CL2J2UUQ",
+      "attackerName": "hobarul",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 175,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YYU0URQ0G",
+      "defenderName": "Mezzaluna",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 159,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2CL2J2UUQ",
+      "defenderName": "hobarul",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 110,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QYJJGP8V",
+      "attackerName": "ROMAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#QLPYC2P9Q",
+      "defenderName": "lvl.4 Frosty",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 86,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#QQRVV8UVR",
+      "defenderName": "lvl.1 Frosty",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QU9J2CGRL",
+      "attackerName": "PawangKangguru4",
+      "attackerTH": 15,
+      "attackerMapPosition": 18,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 157,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LPCV0JPV0",
+      "defenderName": "Eliminator",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 175,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QU9C99RCR",
+      "defenderName": "lvl.3 Frosty",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QLPYC2P9Q",
+      "attackerName": "lvl.4 Frosty",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 130,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QRQUC082C",
+      "attackerName": "lvl.5 Frosty",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 144,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QJ0VGGVJV",
+      "attackerName": "lvl.2 Frosty",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 170,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQRVV8UVR",
+      "attackerName": "lvl.1 Frosty",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 168,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QU9C99RCR",
+      "attackerName": "lvl.3 Frosty",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 161,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22V2UY2L0",
+      "attackerName": "Axl Rose",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 67,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL0LCCVQ8",
+      "attackerName": "Tiger",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPCV0JPV0",
+      "attackerName": "Eliminator",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2QYJJGP8V",
+      "defenderName": "ROMAN",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#892VVLLQQ",
+      "attackerName": "TRUE BLUES",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYULR29VV",
+      "attackerName": "WAHAHA",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 140,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYJ2J8LCC",
+      "attackerName": "Danger line 7.0",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YYU0URQ0G",
+      "attackerName": "Mezzaluna",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#89G0Q89UQ",
+      "attackerName": "Rinjani",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#QYULR29VV",
+      "defenderName": "WAHAHA",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#892VVLLQQ",
+      "defenderName": "TRUE BLUES",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

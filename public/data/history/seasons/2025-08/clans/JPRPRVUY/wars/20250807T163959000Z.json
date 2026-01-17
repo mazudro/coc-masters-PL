@@ -1,0 +1,1339 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.528Z",
+  "season": "2025-08",
+  "warTag": "JPRPRVUY-20250807T163959000Z",
+  "startTime": "20250806T163959.000Z",
+  "endTime": "20250807T163959.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 23,
+    "stars": 36,
+    "destructionPercentage": 82.66666666666667,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#8C98PGP2R",
+            "defenderName": "Masum",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 56,
+          "attackerName": "Shameem Jr."
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2RQ2CPPGJ",
+            "defenderName": "ShAHPORAN",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "SHAMEEM 2"
+        }
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "SAIKA SADIA"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#L92QQGJLV",
+            "defenderName": "Minhazul Islam",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 56,
+          "attackerName": "SHAMEEM Mini"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 57,
+          "attackerName": "SHAMEEM"
+        }
+      },
+      {
+        "tag": "#GJV22VC9",
+        "name": "Stary Kocur",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GJV22VC9",
+            "attackerName": "Stary Kocur",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2VLUGY0QV",
+            "defenderName": "sp",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "SHAMEEM Rocks"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LJRV29YL8",
+            "defenderName": "Khan Maeen",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 138,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "New Kingdom"
+        }
+      },
+      {
+        "tag": "#2JCY00LP",
+        "name": "JJ",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2JCY00LP",
+            "attackerName": "JJ",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#8820LQC90",
+            "defenderName": "SHAMEEM Rocks",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "MD hasan"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PPPR2VY8J",
+            "defenderName": "DEAR PORAN",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 110,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Minhazul Islam"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#V8RLRGR8",
+            "defenderName": "MD hasan",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "DEAR PORAN"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#298222QYG",
+            "defenderName": "SHAMEEM Mini",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Masum"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8YQRRRCJC",
+            "defenderName": "SAIKA SADIA",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "Khan Maeen"
+        }
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "0_Macias_0",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "0_Macias_0",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PP8VRQGUQ",
+            "defenderName": "SHAMEEM 2",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 94,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MB"
+        }
+      },
+      {
+        "tag": "#YLJJYG28G",
+        "name": "byczeq",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YLJJYG28G",
+            "attackerName": "byczeq",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8Y2VPUU20",
+            "defenderName": "SHAMEEM",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "sp"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 27,
+            "defenderTag": "#Y9RCUR0RU",
+            "defenderName": "Shameem Jr.",
+            "defenderTH": 16,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ShAHPORAN"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#Y0UPQR2P",
+    "name": "BD TIGERS",
+    "clanLevel": 23,
+    "stars": 33,
+    "destructionPercentage": 77.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#8C98PGP2R",
+        "name": "Masum",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8C98PGP2R",
+            "attackerName": "Masum",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 100,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#2RQ2CPPGJ",
+        "name": "ShAHPORAN",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2RQ2CPPGJ",
+            "attackerName": "ShAHPORAN",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 27,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 101,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#8C0CR88C0",
+        "name": "New Kingdom",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8C0CR88C0",
+            "attackerName": "New Kingdom",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 82,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L92QQGJLV",
+        "name": "Minhazul Islam",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L92QQGJLV",
+            "attackerName": "Minhazul Islam",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 102,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#QC9LYJU2C",
+        "name": "MB",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QC9LYJU2C",
+            "attackerName": "MB",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "0_Macias_0",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 75,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2VLUGY0QV",
+        "name": "sp",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2VLUGY0QV",
+            "attackerName": "sp",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YLJJYG28G",
+            "defenderName": "byczeq",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 126,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Stary Kocur"
+        }
+      },
+      {
+        "tag": "#LJRV29YL8",
+        "name": "Khan Maeen",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LJRV29YL8",
+            "attackerName": "Khan Maeen",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 61,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#8820LQC90",
+        "name": "SHAMEEM Rocks",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8820LQC90",
+            "attackerName": "SHAMEEM Rocks",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#GJV22VC9",
+            "defenderName": "Stary Kocur",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 106,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "JJ"
+        }
+      },
+      {
+        "tag": "#PPPR2VY8J",
+        "name": "DEAR PORAN",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PPPR2VY8J",
+            "attackerName": "DEAR PORAN",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 100,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#V8RLRGR8",
+        "name": "MD hasan",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#V8RLRGR8",
+            "attackerName": "MD hasan",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2JCY00LP",
+            "defenderName": "JJ",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 114,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#298222QYG",
+        "name": "SHAMEEM Mini",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#298222QYG",
+            "attackerName": "SHAMEEM Mini",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 56,
+            "duration": 83,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 56,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#8YQRRRCJC",
+        "name": "SAIKA SADIA",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8YQRRRCJC",
+            "attackerName": "SAIKA SADIA",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 103,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#PP8VRQGUQ",
+        "name": "SHAMEEM 2",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PP8VRQGUQ",
+            "attackerName": "SHAMEEM 2",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 149,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "0_Macias_0"
+        }
+      },
+      {
+        "tag": "#8Y2VPUU20",
+        "name": "SHAMEEM",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8Y2VPUU20",
+            "attackerName": "SHAMEEM",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 57,
+            "duration": 108,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "byczeq"
+        }
+      },
+      {
+        "tag": "#Y9RCUR0RU",
+        "name": "Shameem Jr.",
+        "townhallLevel": 16,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Y9RCUR0RU",
+            "attackerName": "Shameem Jr.",
+            "attackerTH": 16,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 56,
+            "duration": 82,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 56,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YLJJYG28G",
+      "attackerName": "byczeq",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8Y2VPUU20",
+      "defenderName": "SHAMEEM",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LJRV29YL8",
+      "defenderName": "Khan Maeen",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2RQ2CPPGJ",
+      "defenderName": "ShAHPORAN",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 138,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y9RCUR0RU",
+      "attackerName": "Shameem Jr.",
+      "attackerTH": 16,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 56,
+      "duration": 82,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PP8VRQGUQ",
+      "attackerName": "SHAMEEM 2",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 149,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YQRRRCJC",
+      "attackerName": "SAIKA SADIA",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 103,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#298222QYG",
+      "attackerName": "SHAMEEM Mini",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 56,
+      "duration": 83,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y2VPUU20",
+      "attackerName": "SHAMEEM",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 57,
+      "duration": 108,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8820LQC90",
+      "attackerName": "SHAMEEM Rocks",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#GJV22VC9",
+      "defenderName": "Stary Kocur",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 106,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8YQRRRCJC",
+      "defenderName": "SAIKA SADIA",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#298222QYG",
+      "defenderName": "SHAMEEM Mini",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#L92QQGJLV",
+      "defenderName": "Minhazul Islam",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#V8RLRGR8",
+      "defenderName": "MD hasan",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#8C98PGP2R",
+      "defenderName": "Masum",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2JCY00LP",
+      "attackerName": "JJ",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#8820LQC90",
+      "defenderName": "SHAMEEM Rocks",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RQ2CPPGJ",
+      "attackerName": "ShAHPORAN",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 27,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 101,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2VLUGY0QV",
+      "attackerName": "sp",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YLJJYG28G",
+      "defenderName": "byczeq",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 126,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QC9LYJU2C",
+      "attackerName": "MB",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "0_Macias_0",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 75,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#V8RLRGR8",
+      "attackerName": "MD hasan",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2JCY00LP",
+      "defenderName": "JJ",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 114,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPPR2VY8J",
+      "attackerName": "DEAR PORAN",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 100,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJRV29YL8",
+      "attackerName": "Khan Maeen",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 61,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L92QQGJLV",
+      "attackerName": "Minhazul Islam",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 102,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJV22VC9",
+      "attackerName": "Stary Kocur",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2VLUGY0QV",
+      "defenderName": "sp",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 27,
+      "defenderTag": "#Y9RCUR0RU",
+      "defenderName": "Shameem Jr.",
+      "defenderTH": 16,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PPPR2VY8J",
+      "defenderName": "DEAR PORAN",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 110,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8C98PGP2R",
+      "attackerName": "Masum",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 100,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C0CR88C0",
+      "attackerName": "New Kingdom",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 82,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "0_Macias_0",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PP8VRQGUQ",
+      "defenderName": "SHAMEEM 2",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 94,
+      "order": 28,
+      "side": "clan"
+    }
+  ]
+}

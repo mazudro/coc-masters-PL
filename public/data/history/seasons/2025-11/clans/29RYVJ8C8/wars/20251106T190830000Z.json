@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.194Z",
+  "season": "2025-11",
+  "warTag": "29RYVJ8C8-20251106T190830000Z",
+  "startTime": "20251105T190830.000Z",
+  "endTime": "20251106T190830.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 32,
+    "destructionPercentage": 79.46666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2RVLRRP8C",
+        "name": "Fiona",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2RVLRRP8C",
+            "attackerName": "Fiona",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9GRL0V98C",
+            "defenderName": "inaxeb",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 113,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "⭐tHe réféRenT ⭐"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#Q8YLJLCY",
+            "defenderName": "Pt'it cow-boy",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 131,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 73,
+          "attackerName": "ajim"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QGQQ2GYVU",
+            "attackerName": "vermer",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#J2VVVUP",
+            "defenderName": "ajim",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 172,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "inaxeb"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2RRQUY9CU",
+            "defenderName": "⭐tHe réféRenT ⭐",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 180,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Swann"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#V08LR08P",
+            "defenderName": "Swann",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 99,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Benou"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEUSZ KRÓL !!",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEUSZ KRÓL !!",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#V8CR8Q0R",
+            "defenderName": "Benou",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 105,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P9UGCVQ9V",
+        "name": "maatii2901",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P9UGCVQ9V",
+            "attackerName": "maatii2901",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#22892JVYU",
+            "defenderName": "le grogneur",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 146,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "le grogneur"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#892PLR9U",
+            "defenderName": "cyril71300",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "cyril71300"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#CJUCQLPJ",
+            "defenderName": "DЯДGФИ",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "DЯДGФИ"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#U0YYGC99",
+            "defenderName": "Grogneur 2",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 57,
+            "duration": 158,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Grogneur 2"
+        }
+      },
+      {
+        "tag": "#2Q0JGCJVG",
+        "name": "kaliber 44",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0JGCJVG",
+            "attackerName": "kaliber 44",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#LRY2YCLR",
+            "defenderName": "Grogneur 4",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 125,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Grogneur 4"
+        }
+      },
+      {
+        "tag": "#L8GG2R0GV",
+        "name": "Bartosz4255",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#L8GG2R0GV",
+            "attackerName": "Bartosz4255",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#82UCGJ0RC",
+            "defenderName": "theopolitain",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 80,
+            "duration": 148,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "theopolitain"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#2RJ0GCQGP",
+            "defenderName": "Soune",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 161,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "uLtrA inStinCt"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#CR9PJJCL",
+            "defenderName": "uLtrA inStinCt",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Soune"
+        }
+      },
+      {
+        "tag": "#GYQRCULPJ",
+        "name": "altkongo",
+        "townhallLevel": 16,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#GYQRCULPJ",
+            "attackerName": "altkongo",
+            "attackerTH": 16,
+            "attackerMapPosition": 18,
+            "defenderTag": "#LCJJ0JYGG",
+            "defenderName": "inaxebTABLE",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 118,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "inaxebTABLE"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8Y888L0G",
+    "name": "Black Pearl",
+    "clanLevel": 28,
+    "stars": 30,
+    "destructionPercentage": 77.8,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#9GRL0V98C",
+        "name": "inaxeb",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9GRL0V98C",
+            "attackerName": "inaxeb",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "Fiona"
+        }
+      },
+      {
+        "tag": "#Q8YLJLCY",
+        "name": "Pt'it cow-boy",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#J2VVVUP",
+        "name": "ajim",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#J2VVVUP",
+            "attackerName": "ajim",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 73,
+            "duration": 101,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "vermer"
+        }
+      },
+      {
+        "tag": "#2RRQUY9CU",
+        "name": "⭐tHe réféRenT ⭐",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2RRQUY9CU",
+            "attackerName": "⭐tHe réféRenT ⭐",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2RVLRRP8C",
+            "defenderName": "Fiona",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#V08LR08P",
+        "name": "Swann",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#V08LR08P",
+            "attackerName": "Swann",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 102,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#V8CR8Q0R",
+        "name": "Benou",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#V8CR8Q0R",
+            "attackerName": "Benou",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "MATEUSZ KRÓL !!"
+        }
+      },
+      {
+        "tag": "#22892JVYU",
+        "name": "le grogneur",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#22892JVYU",
+            "attackerName": "le grogneur",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P9UGCVQ9V",
+            "defenderName": "maatii2901",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 99,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "maatii2901"
+        }
+      },
+      {
+        "tag": "#892PLR9U",
+        "name": "cyril71300",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#892PLR9U",
+            "attackerName": "cyril71300",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 85,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#CJUCQLPJ",
+        "name": "DЯДGФИ",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#CJUCQLPJ",
+            "attackerName": "DЯДGФИ",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 94,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#U0YYGC99",
+        "name": "Grogneur 2",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#U0YYGC99",
+            "attackerName": "Grogneur 2",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 98,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 57,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#LRY2YCLR",
+        "name": "Grogneur 4",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LRY2YCLR",
+            "attackerName": "Grogneur 4",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2Q0JGCJVG",
+            "defenderName": "kaliber 44",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "kaliber 44"
+        }
+      },
+      {
+        "tag": "#82UCGJ0RC",
+        "name": "theopolitain",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#82UCGJ0RC",
+            "attackerName": "theopolitain",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#L8GG2R0GV",
+            "defenderName": "Bartosz4255",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 96,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 80,
+          "attackerName": "Bartosz4255"
+        }
+      },
+      {
+        "tag": "#2RJ0GCQGP",
+        "name": "Soune",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2RJ0GCQGP",
+            "attackerName": "Soune",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 142,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#CR9PJJCL",
+        "name": "uLtrA inStinCt",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#CR9PJJCL",
+            "attackerName": "uLtrA inStinCt",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 172,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#LCJJ0JYGG",
+        "name": "inaxebTABLE",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LCJJ0JYGG",
+            "attackerName": "inaxebTABLE",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#GYQRCULPJ",
+            "defenderName": "altkongo",
+            "defenderTH": 16,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "altkongo"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#GYQRCULPJ",
+      "attackerName": "altkongo",
+      "attackerTH": 16,
+      "attackerMapPosition": 18,
+      "defenderTag": "#LCJJ0JYGG",
+      "defenderName": "inaxebTABLE",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 118,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#V08LR08P",
+      "attackerName": "Swann",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 102,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RRQUY9CU",
+      "attackerName": "⭐tHe réféRenT ⭐",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2RVLRRP8C",
+      "defenderName": "Fiona",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#V8CR8Q0R",
+      "attackerName": "Benou",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#CJUCQLPJ",
+      "defenderName": "DЯДGФИ",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RJ0GCQGP",
+      "attackerName": "Soune",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 142,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CR9PJJCL",
+      "attackerName": "uLtrA inStinCt",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 172,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#892PLR9U",
+      "attackerName": "cyril71300",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 85,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J2VVVUP",
+      "attackerName": "ajim",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 73,
+      "duration": 101,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QGQQ2GYVU",
+      "attackerName": "vermer",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#J2VVVUP",
+      "defenderName": "ajim",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 172,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#82UCGJ0RC",
+      "attackerName": "theopolitain",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#L8GG2R0GV",
+      "defenderName": "Bartosz4255",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 96,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#2RJ0GCQGP",
+      "defenderName": "Soune",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 161,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2RRQUY9CU",
+      "defenderName": "⭐tHe réféRenT ⭐",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 180,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RVLRRP8C",
+      "attackerName": "Fiona",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9GRL0V98C",
+      "defenderName": "inaxeb",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 113,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CJUCQLPJ",
+      "attackerName": "DЯДGФИ",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 94,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L8GG2R0GV",
+      "attackerName": "Bartosz4255",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#82UCGJ0RC",
+      "defenderName": "theopolitain",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 80,
+      "duration": 148,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9UGCVQ9V",
+      "attackerName": "maatii2901",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#22892JVYU",
+      "defenderName": "le grogneur",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 146,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9GRL0V98C",
+      "attackerName": "inaxeb",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LCJJ0JYGG",
+      "attackerName": "inaxebTABLE",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#GYQRCULPJ",
+      "defenderName": "altkongo",
+      "defenderTH": 16,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LRY2YCLR",
+      "attackerName": "Grogneur 4",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2Q0JGCJVG",
+      "defenderName": "kaliber 44",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22892JVYU",
+      "attackerName": "le grogneur",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P9UGCVQ9V",
+      "defenderName": "maatii2901",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 99,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#U0YYGC99",
+      "attackerName": "Grogneur 2",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 98,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#892PLR9U",
+      "defenderName": "cyril71300",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEUSZ KRÓL !!",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#V8CR8Q0R",
+      "defenderName": "Benou",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 105,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q0JGCJVG",
+      "attackerName": "kaliber 44",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#LRY2YCLR",
+      "defenderName": "Grogneur 4",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 125,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#CR9PJJCL",
+      "defenderName": "uLtrA inStinCt",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#U0YYGC99",
+      "defenderName": "Grogneur 2",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 57,
+      "duration": 158,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#Q8YLJLCY",
+      "defenderName": "Pt'it cow-boy",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 131,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#V08LR08P",
+      "defenderName": "Swann",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 99,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

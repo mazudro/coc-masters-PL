@@ -1,0 +1,1123 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.406Z",
+  "season": "2024-08",
+  "warTag": "JPRPRVUY-20240809T220149000Z",
+  "startTime": "20240808T220149.000Z",
+  "endTime": "20240809T220149.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 20,
+    "stars": 30,
+    "destructionPercentage": 76.8,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PGCQUPQR",
+            "defenderName": "سيف السديري",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "سيف السديري"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#Q2RU9VPLG",
+            "defenderName": "großer Skorpion",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 180,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 86,
+          "attackerName": "großer Skorpion"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Q2C2VYYVU",
+            "defenderName": "THE SCORPION",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "THE SCORPION"
+        }
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "_ الرأإأيق _"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 83,
+          "attackerName": "Oday q"
+        }
+      },
+      {
+        "tag": "#UGLCL0",
+        "name": "Jaysaq",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#UGLCL0",
+            "attackerName": "Jaysaq",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YCQR90Y22",
+            "defenderName": "•• ❤ ••",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 79,
+            "duration": 135,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "•• ❤ ••"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#PVRYUYRU0",
+            "defenderName": "فـخـم",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "moh_khir"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#8JVVYYQPC",
+            "defenderName": "_ghost_",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 93,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "_ghost_"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#90GQLQPUJ",
+            "defenderName": "ابو بكر",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 71,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QYQY2Q82U",
+        "name": "Waker",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QYQY2Q82U",
+            "attackerName": "Waker",
+            "attackerTH": 13,
+            "attackerMapPosition": 14,
+            "defenderTag": "#G2VC22Y9Q",
+            "defenderName": "Abdullah1",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 151,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#29LYGGPLR",
+        "name": "Zhero",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#29LYGGPLR",
+            "attackerName": "Zhero",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#QQQ2LP0VY",
+            "defenderName": "◥ ツ الجلادツ ◤",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 153,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "◥ ツ الجلادツ ◤"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 13,
+            "attackerMapPosition": 17,
+            "defenderTag": "#G22UL9Q0C",
+            "defenderName": "Rahoof",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#20RPY89QV",
+        "name": "Kuba",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 13,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 13,
+            "attackerMapPosition": 22,
+            "defenderTag": "#PUYP98VVJ",
+            "defenderName": "moh_khir",
+            "defenderTH": 13,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "فـخـم"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 13,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 13,
+            "attackerMapPosition": 27,
+            "defenderTag": "#9R8JGPJGV",
+            "defenderName": "Alking",
+            "defenderTH": 12,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2QC9QGCUC",
+    "name": "die monster",
+    "clanLevel": 14,
+    "stars": 21,
+    "destructionPercentage": 58.266666666666666,
+    "attacks": 10,
+    "members": [
+      {
+        "tag": "#PGCQUPQR",
+        "name": "سيف السديري",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PGCQUPQR",
+            "attackerName": "سيف السديري",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 100,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#Q2RU9VPLG",
+        "name": "großer Skorpion",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Q2RU9VPLG",
+            "attackerName": "großer Skorpion",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 86,
+            "duration": 144,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#Q2C2VYYVU",
+        "name": "THE SCORPION",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q2C2VYYVU",
+            "attackerName": "THE SCORPION",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 125,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#9RC89L2VV",
+        "name": "_ الرأإأيق _",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9RC89L2VV",
+            "attackerName": "_ الرأإأيق _",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Q98C8QLVL",
+        "name": "Oday q",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q98C8QLVL",
+            "attackerName": "Oday q",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 83,
+            "duration": 140,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 83,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YCQR90Y22",
+        "name": "•• ❤ ••",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YCQR90Y22",
+            "attackerName": "•• ❤ ••",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#UGLCL0",
+            "defenderName": "Jaysaq",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 81,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 79,
+          "attackerName": "Jaysaq"
+        }
+      },
+      {
+        "tag": "#PVRYUYRU0",
+        "name": "فـخـم",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PVRYUYRU0",
+            "attackerName": "فـخـم",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 13,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 72,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#8JVVYYQPC",
+        "name": "_ghost_",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8JVVYYQPC",
+            "attackerName": "_ghost_",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#90GQLQPUJ",
+        "name": "ابو بكر",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#G2VC22Y9Q",
+        "name": "Abdullah1",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "Waker"
+        }
+      },
+      {
+        "tag": "#QQQ2LP0VY",
+        "name": "◥ ツ الجلادツ ◤",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QQQ2LP0VY",
+            "attackerName": "◥ ツ الجلادツ ◤",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#29LYGGPLR",
+            "defenderName": "Zhero",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 158,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Zhero"
+        }
+      },
+      {
+        "tag": "#G22UL9Q0C",
+        "name": "Rahoof",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#QJRQPJGQ2",
+        "name": "محمد",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PUYP98VVJ",
+        "name": "moh_khir",
+        "townhallLevel": 13,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#PUYP98VVJ",
+            "attackerName": "moh_khir",
+            "attackerTH": 13,
+            "attackerMapPosition": 19,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 134,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#9R8JGPJGV",
+        "name": "Alking",
+        "townhallLevel": 12,
+        "mapPosition": 20,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#8JVVYYQPC",
+      "defenderName": "_ghost_",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 93,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UGLCL0",
+      "attackerName": "Jaysaq",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YCQR90Y22",
+      "defenderName": "•• ❤ ••",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 79,
+      "duration": 135,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 13,
+      "attackerMapPosition": 27,
+      "defenderTag": "#9R8JGPJGV",
+      "defenderName": "Alking",
+      "defenderTH": 12,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#Q2RU9VPLG",
+      "defenderName": "großer Skorpion",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 180,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QYQY2Q82U",
+      "attackerName": "Waker",
+      "attackerTH": 13,
+      "attackerMapPosition": 14,
+      "defenderTag": "#G2VC22Y9Q",
+      "defenderName": "Abdullah1",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 151,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#PVRYUYRU0",
+      "defenderName": "فـخـم",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 13,
+      "attackerMapPosition": 22,
+      "defenderTag": "#PUYP98VVJ",
+      "defenderName": "moh_khir",
+      "defenderTH": 13,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29LYGGPLR",
+      "attackerName": "Zhero",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#QQQ2LP0VY",
+      "defenderName": "◥ ツ الجلادツ ◤",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 153,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 13,
+      "attackerMapPosition": 17,
+      "defenderTag": "#G22UL9Q0C",
+      "defenderName": "Rahoof",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q98C8QLVL",
+      "attackerName": "Oday q",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 83,
+      "duration": 140,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PGCQUPQR",
+      "attackerName": "سيف السديري",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 100,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Q2C2VYYVU",
+      "defenderName": "THE SCORPION",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9RC89L2VV",
+      "attackerName": "_ الرأإأيق _",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8JVVYYQPC",
+      "attackerName": "_ghost_",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q2C2VYYVU",
+      "attackerName": "THE SCORPION",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 125,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q2RU9VPLG",
+      "attackerName": "großer Skorpion",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 86,
+      "duration": 144,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PUYP98VVJ",
+      "attackerName": "moh_khir",
+      "attackerTH": 13,
+      "attackerMapPosition": 19,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 134,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVRYUYRU0",
+      "attackerName": "فـخـم",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 13,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 72,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PGCQUPQR",
+      "defenderName": "سيف السديري",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#90GQLQPUJ",
+      "defenderName": "ابو بكر",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 71,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQQ2LP0VY",
+      "attackerName": "◥ ツ الجلادツ ◤",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#29LYGGPLR",
+      "defenderName": "Zhero",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 158,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YCQR90Y22",
+      "attackerName": "•• ❤ ••",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#UGLCL0",
+      "defenderName": "Jaysaq",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 81,
+      "order": 22,
+      "side": "opponent"
+    }
+  ]
+}

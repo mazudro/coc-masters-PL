@@ -1,0 +1,35 @@
+node_modules/
+dist/
+.DS_Store
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.vite/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.vercel
+.env*.local
+
+# Playwright artifacts (screenshots, PDFs)
+.playwright-mcp/
+.playwright-mcp/*.png
+.playwright-mcp/*.jpeg
+.playwright-mcp/*.pdf
+
+# Large binary docs generated locally (keep Markdown sources)
+docs/**/*.pdf
+docs/**/*.docx

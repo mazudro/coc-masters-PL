@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.132Z",
+  "season": "2025-07",
+  "warTag": "29RYVJ8C8-20250710T220611000Z",
+  "startTime": "20250709T220611.000Z",
+  "endTime": "20250710T220611.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 13,
+    "stars": 35,
+    "destructionPercentage": 91.93333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#UCC29UG2",
+            "defenderName": "AliReza",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 150,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "AliReza"
+        }
+      },
+      {
+        "tag": "#22CVU8U9",
+        "name": "Jjiraya",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#22CVU8U9",
+            "attackerName": "Jjiraya",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#QYQPC02C",
+            "defenderName": "hiva.yas",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "hiva.yas"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#88Y8U9PQ",
+            "defenderName": "mohammad-ap",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "mohammad-ap"
+        }
+      },
+      {
+        "tag": "#299PCL828",
+        "name": "Wybraniec",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#299PCL828",
+            "attackerName": "Wybraniec",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2PPCQL9JL",
+            "defenderName": "اوین",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "اوین"
+        }
+      },
+      {
+        "tag": "#GJV22VC9",
+        "name": "Stary Kocur",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#GJV22VC9",
+            "attackerName": "Stary Kocur",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8QGCLVRGV",
+            "defenderName": "مهدی",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 123,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "مهدی"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#89VYLCUV9",
+            "defenderName": "alireza",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "alireza"
+        }
+      },
+      {
+        "tag": "#2JCY00LP",
+        "name": "JJ",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2JCY00LP",
+            "attackerName": "JJ",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P2QG8VQ99",
+            "defenderName": "newid.sa",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "newid.sa"
+        }
+      },
+      {
+        "tag": "#YP8JCRCPG",
+        "name": "krakra",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YP8JCRCPG",
+            "attackerName": "krakra",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2R0LYP8CG",
+            "defenderName": "soltane war",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "soltane war"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#28JC29Y0L",
+            "defenderName": "jOker",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 50,
+          "attackerName": "jOker"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#UPL2Y09P",
+            "defenderName": "Mohammad.AP",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 135,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 67,
+          "attackerName": "Mohammad.AP"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEUSZ KRÓL !!",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEUSZ KRÓL !!",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#L2RUPGQQJ",
+            "defenderName": "7ama shirko",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "7ama shirko"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QQGQ802C",
+            "defenderName": "Mohammad.Ap",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Mohammad.Ap"
+        }
+      },
+      {
+        "tag": "#YLJJYG28G",
+        "name": "byczeq",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YLJJYG28G",
+            "attackerName": "byczeq",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9VQ9VCL99",
+            "defenderName": "rolo 2",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 96,
+            "duration": 116,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "rolo 2"
+        }
+      },
+      {
+        "tag": "#29YQYUVRJ",
+        "name": "mozelll",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#29YQYUVRJ",
+            "attackerName": "mozelll",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8GRV8LG",
+            "defenderName": "ممد",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 83,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "ممد"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 18,
+            "defenderTag": "#22GJQ8JJR",
+            "defenderName": "Mohammad-banei",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 180,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "Mohammad-banei"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2LLVP0GVC",
+    "name": "God of war2",
+    "clanLevel": 11,
+    "stars": 30,
+    "destructionPercentage": 69.26666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#UCC29UG2",
+        "name": "AliReza",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#UCC29UG2",
+            "attackerName": "AliReza",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 96,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#QYQPC02C",
+        "name": "hiva.yas",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QYQPC02C",
+            "attackerName": "hiva.yas",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#22CVU8U9",
+            "defenderName": "Jjiraya",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 104,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jjiraya"
+        }
+      },
+      {
+        "tag": "#88Y8U9PQ",
+        "name": "mohammad-ap",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#88Y8U9PQ",
+            "attackerName": "mohammad-ap",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 144,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#2PPCQL9JL",
+        "name": "اوین",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2PPCQL9JL",
+            "attackerName": "اوین",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#299PCL828",
+            "defenderName": "Wybraniec",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 118,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wybraniec"
+        }
+      },
+      {
+        "tag": "#8QGCLVRGV",
+        "name": "مهدی",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8QGCLVRGV",
+            "attackerName": "مهدی",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#GJV22VC9",
+            "defenderName": "Stary Kocur",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 91,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Stary Kocur"
+        }
+      },
+      {
+        "tag": "#89VYLCUV9",
+        "name": "alireza",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#89VYLCUV9",
+            "attackerName": "alireza",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 78,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#P2QG8VQ99",
+        "name": "newid.sa",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P2QG8VQ99",
+            "attackerName": "newid.sa",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2JCY00LP",
+            "defenderName": "JJ",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 152,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "JJ"
+        }
+      },
+      {
+        "tag": "#2R0LYP8CG",
+        "name": "soltane war",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2R0LYP8CG",
+            "attackerName": "soltane war",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YP8JCRCPG",
+            "defenderName": "krakra",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 75,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "krakra"
+        }
+      },
+      {
+        "tag": "#28JC29Y0L",
+        "name": "jOker",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#28JC29Y0L",
+            "attackerName": "jOker",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 50,
+            "duration": 131,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 50,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#UPL2Y09P",
+        "name": "Mohammad.AP",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#UPL2Y09P",
+            "attackerName": "Mohammad.AP",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 67,
+            "duration": 131,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 67,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#L2RUPGQQJ",
+        "name": "7ama shirko",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L2RUPGQQJ",
+            "attackerName": "7ama shirko",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEUSZ KRÓL !!",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 115,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MATEUSZ KRÓL !!"
+        }
+      },
+      {
+        "tag": "#QQGQ802C",
+        "name": "Mohammad.Ap",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QQGQ802C",
+            "attackerName": "Mohammad.Ap",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 167,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#9VQ9VCL99",
+        "name": "rolo 2",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9VQ9VCL99",
+            "attackerName": "rolo 2",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#YLJJYG28G",
+            "defenderName": "byczeq",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 125,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 96,
+          "attackerName": "byczeq"
+        }
+      },
+      {
+        "tag": "#8GRV8LG",
+        "name": "ممد",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8GRV8LG",
+            "attackerName": "ممد",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#29YQYUVRJ",
+            "defenderName": "mozelll",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 118,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "mozelll"
+        }
+      },
+      {
+        "tag": "#22GJQ8JJR",
+        "name": "Mohammad-banei",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#22GJQ8JJR",
+            "attackerName": "Mohammad-banei",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 134,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "xyz@"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#YP8JCRCPG",
+      "attackerName": "krakra",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2R0LYP8CG",
+      "defenderName": "soltane war",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#89VYLCUV9",
+      "defenderName": "alireza",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22GJQ8JJR",
+      "attackerName": "Mohammad-banei",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 134,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8GRV8LG",
+      "attackerName": "ممد",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#29YQYUVRJ",
+      "defenderName": "mozelll",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 118,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9VQ9VCL99",
+      "attackerName": "rolo 2",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#YLJJYG28G",
+      "defenderName": "byczeq",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 125,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQGQ802C",
+      "attackerName": "Mohammad.Ap",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 167,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UPL2Y09P",
+      "attackerName": "Mohammad.AP",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 67,
+      "duration": 131,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#28JC29Y0L",
+      "attackerName": "jOker",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 50,
+      "duration": 131,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2QG8VQ99",
+      "attackerName": "newid.sa",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2JCY00LP",
+      "defenderName": "JJ",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 152,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8QGCLVRGV",
+      "attackerName": "مهدی",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#GJV22VC9",
+      "defenderName": "Stary Kocur",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 91,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#88Y8U9PQ",
+      "attackerName": "mohammad-ap",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 144,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEUSZ KRÓL !!",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#L2RUPGQQJ",
+      "defenderName": "7ama shirko",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29YQYUVRJ",
+      "attackerName": "mozelll",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8GRV8LG",
+      "defenderName": "ممد",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 83,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YLJJYG28G",
+      "attackerName": "byczeq",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9VQ9VCL99",
+      "defenderName": "rolo 2",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 96,
+      "duration": 116,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22CVU8U9",
+      "attackerName": "Jjiraya",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#QYQPC02C",
+      "defenderName": "hiva.yas",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L2RUPGQQJ",
+      "attackerName": "7ama shirko",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEUSZ KRÓL !!",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 115,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#UPL2Y09P",
+      "defenderName": "Mohammad.AP",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 135,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#28JC29Y0L",
+      "defenderName": "jOker",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2R0LYP8CG",
+      "attackerName": "soltane war",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YP8JCRCPG",
+      "defenderName": "krakra",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 75,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QQGQ802C",
+      "defenderName": "Mohammad.Ap",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#299PCL828",
+      "attackerName": "Wybraniec",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2PPCQL9JL",
+      "defenderName": "اوین",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJV22VC9",
+      "attackerName": "Stary Kocur",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8QGCLVRGV",
+      "defenderName": "مهدی",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 123,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 18,
+      "defenderTag": "#22GJQ8JJR",
+      "defenderName": "Mohammad-banei",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 180,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#89VYLCUV9",
+      "attackerName": "alireza",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 78,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UCC29UG2",
+      "attackerName": "AliReza",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 96,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#UCC29UG2",
+      "defenderName": "AliReza",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 150,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PPCQL9JL",
+      "attackerName": "اوین",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#299PCL828",
+      "defenderName": "Wybraniec",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 118,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYQPC02C",
+      "attackerName": "hiva.yas",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#22CVU8U9",
+      "defenderName": "Jjiraya",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 104,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#88Y8U9PQ",
+      "defenderName": "mohammad-ap",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2JCY00LP",
+      "attackerName": "JJ",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P2QG8VQ99",
+      "defenderName": "newid.sa",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

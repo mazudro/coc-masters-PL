@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.748Z",
+  "season": "2023-12",
+  "warTag": "P0J2J8GJ-20231209T191832000Z",
+  "startTime": "20231208T191832.000Z",
+  "endTime": "20231209T191832.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 22,
+    "stars": 35,
+    "destructionPercentage": 82.6,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LC8QCRY2",
+            "defenderName": "Cy_44",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 87,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 56,
+          "attackerName": "Cy_44"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#222JY09Q",
+            "defenderName": "傻瓜村庄",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "傻瓜村庄"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8V2GG0UP",
+            "defenderName": "枫之谜",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 165,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "枫之谜"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9JYCPP0C",
+            "defenderName": "sysy",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 57,
+          "attackerName": "sysy"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#220GL9R8Y",
+            "defenderName": "小白",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 148,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "小白"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#20Q8R99RQ",
+            "defenderName": "jessie319",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 179,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 59,
+          "attackerName": "jessie319"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P9C9Q0G0",
+            "defenderName": "魔兽",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 112,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 48,
+          "attackerName": "Jasonwoon"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#LC0Q880U",
+            "defenderName": "lee",
+            "defenderTH": 15,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 114,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "lee"
+        }
+      },
+      {
+        "tag": "#2QYJJGP8V",
+        "name": "ROMAN",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2QYJJGP8V",
+            "attackerName": "ROMAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Q2RC9QPLU",
+            "defenderName": "重礼村",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 107,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "重礼村"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#RQ0QP2UP",
+            "defenderName": "lucas",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 47,
+          "attackerName": "lucas"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#JP98VU2P",
+            "defenderName": "小义",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "小义"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#LL2GLQRU",
+            "defenderName": "龙宫·往生の桜",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 154,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "龙宫·往生の桜"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LCVQ9LUUC",
+            "defenderName": "Jasonwoon",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 100,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "魔兽"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#2YYU90PJG",
+            "defenderName": "八神",
+            "defenderTH": 14,
+            "defenderMapPosition": 23,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 67,
+          "attackerName": "八神"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#UPGG82CY",
+            "defenderName": "♀死神的羁绊♂",
+            "defenderTH": 14,
+            "defenderMapPosition": 24,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 139,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "♀死神的羁绊♂"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#V9QY9VYC",
+    "name": "第一OMG",
+    "clanLevel": 22,
+    "stars": 28,
+    "destructionPercentage": 69.86666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#LC8QCRY2",
+        "name": "Cy_44",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LC8QCRY2",
+            "attackerName": "Cy_44",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 56,
+            "duration": 103,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 56,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#222JY09Q",
+        "name": "傻瓜村庄",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#222JY09Q",
+            "attackerName": "傻瓜村庄",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 124,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#8V2GG0UP",
+        "name": "枫之谜",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8V2GG0UP",
+            "attackerName": "枫之谜",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 175,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#9JYCPP0C",
+        "name": "sysy",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9JYCPP0C",
+            "attackerName": "sysy",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 57,
+            "duration": 179,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#220GL9R8Y",
+        "name": "小白",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#220GL9R8Y",
+            "attackerName": "小白",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 133,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#20Q8R99RQ",
+        "name": "jessie319",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#20Q8R99RQ",
+            "attackerName": "jessie319",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 1,
+            "destructionPercentage": 59,
+            "duration": 85,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#P9C9Q0G0",
+        "name": "魔兽",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P9C9Q0G0",
+            "attackerName": "魔兽",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#LC0Q880U",
+        "name": "lee",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LC0Q880U",
+            "attackerName": "lee",
+            "attackerTH": 15,
+            "attackerMapPosition": 9,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 85,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#Q2RC9QPLU",
+        "name": "重礼村",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#Q2RC9QPLU",
+            "attackerName": "重礼村",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2QYJJGP8V",
+            "defenderName": "ROMAN",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 75,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "ROMAN"
+        }
+      },
+      {
+        "tag": "#RQ0QP2UP",
+        "name": "lucas",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#RQ0QP2UP",
+            "attackerName": "lucas",
+            "attackerTH": 14,
+            "attackerMapPosition": 15,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 47,
+            "duration": 100,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 47,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#JP98VU2P",
+        "name": "小义",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#JP98VU2P",
+            "attackerName": "小义",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 78,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#LL2GLQRU",
+        "name": "龙宫·往生の桜",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LL2GLQRU",
+            "attackerName": "龙宫·往生の桜",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 151,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#LCVQ9LUUC",
+        "name": "Jasonwoon",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LCVQ9LUUC",
+            "attackerName": "Jasonwoon",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 48,
+            "duration": 74,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 48,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#2YYU90PJG",
+        "name": "八神",
+        "townhallLevel": 14,
+        "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#2YYU90PJG",
+            "attackerName": "八神",
+            "attackerTH": 14,
+            "attackerMapPosition": 23,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 67,
+            "duration": 96,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 67,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#UPGG82CY",
+        "name": "♀死神的羁绊♂",
+        "townhallLevel": 14,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#UPGG82CY",
+            "attackerName": "♀死神的羁绊♂",
+            "attackerTH": 14,
+            "attackerMapPosition": 24,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 138,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "Martha"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#UPGG82CY",
+      "attackerName": "♀死神的羁绊♂",
+      "attackerTH": 14,
+      "attackerMapPosition": 24,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 138,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#RQ0QP2UP",
+      "defenderName": "lucas",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P9C9Q0G0",
+      "defenderName": "魔兽",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 112,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#JP98VU2P",
+      "defenderName": "小义",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9C9Q0G0",
+      "attackerName": "魔兽",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#LL2GLQRU",
+      "defenderName": "龙宫·往生の桜",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 154,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LCVQ9LUUC",
+      "defenderName": "Jasonwoon",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 100,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#220GL9R8Y",
+      "defenderName": "小白",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 148,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QYJJGP8V",
+      "attackerName": "ROMAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Q2RC9QPLU",
+      "defenderName": "重礼村",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 107,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#222JY09Q",
+      "attackerName": "傻瓜村庄",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 124,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#220GL9R8Y",
+      "attackerName": "小白",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 133,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20Q8R99RQ",
+      "attackerName": "jessie319",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 1,
+      "destructionPercentage": 59,
+      "duration": 85,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL2GLQRU",
+      "attackerName": "龙宫·往生の桜",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 151,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#2YYU90PJG",
+      "defenderName": "八神",
+      "defenderTH": 14,
+      "defenderMapPosition": 23,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LCVQ9LUUC",
+      "attackerName": "Jasonwoon",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 48,
+      "duration": 74,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YYU90PJG",
+      "attackerName": "八神",
+      "attackerTH": 14,
+      "attackerMapPosition": 23,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 67,
+      "duration": 96,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LC8QCRY2",
+      "defenderName": "Cy_44",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 87,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#UPGG82CY",
+      "defenderName": "♀死神的羁绊♂",
+      "defenderTH": 14,
+      "defenderMapPosition": 24,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 139,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q2RC9QPLU",
+      "attackerName": "重礼村",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2QYJJGP8V",
+      "defenderName": "ROMAN",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 75,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#20Q8R99RQ",
+      "defenderName": "jessie319",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 179,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#LC0Q880U",
+      "defenderName": "lee",
+      "defenderTH": 15,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 114,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RQ0QP2UP",
+      "attackerName": "lucas",
+      "attackerTH": 14,
+      "attackerMapPosition": 15,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 47,
+      "duration": 100,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JP98VU2P",
+      "attackerName": "小义",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 78,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LC0Q880U",
+      "attackerName": "lee",
+      "attackerTH": 15,
+      "attackerMapPosition": 9,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 85,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#222JY09Q",
+      "defenderName": "傻瓜村庄",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9JYCPP0C",
+      "attackerName": "sysy",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 57,
+      "duration": 179,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9JYCPP0C",
+      "defenderName": "sysy",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8V2GG0UP",
+      "attackerName": "枫之谜",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 175,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LC8QCRY2",
+      "attackerName": "Cy_44",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 56,
+      "duration": 103,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8V2GG0UP",
+      "defenderName": "枫之谜",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 165,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

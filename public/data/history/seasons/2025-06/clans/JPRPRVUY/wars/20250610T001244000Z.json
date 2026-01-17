@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.497Z",
+  "season": "2025-06",
+  "warTag": "JPRPRVUY-20250610T001244000Z",
+  "startTime": "20250608T231702.000Z",
+  "endTime": "20250610T001244.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 22,
+    "stars": 26,
+    "destructionPercentage": 67.73333333333333,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#RGCU8L8U",
+            "defenderName": "Nobody",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 130,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Nobody"
+        }
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#UJJJP8VU",
+            "defenderName": "ute",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 114,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Sven's Flake"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Q8UGRJVRC",
+            "defenderName": "Ute 2",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 149,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Ute 2"
+        }
+      },
+      {
+        "tag": "#2VPJ8G0PP",
+        "name": "fl0w",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2VPJ8G0PP",
+            "attackerName": "fl0w",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#Q8G29CRQ9",
+            "defenderName": "Ute 1",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 107,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 52,
+          "attackerName": "Ute 1"
+        }
+      },
+      {
+        "tag": "#2Q0CPLQYC",
+        "name": "KrisVanB",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0CPLQYC",
+            "attackerName": "KrisVanB",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#QVGCRJPQ2",
+            "defenderName": "Nanni",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 122,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 68,
+          "attackerName": "Nanni"
+        }
+      },
+      {
+        "tag": "#PJVPY2V0",
+        "name": "Karton-Gips",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PJVPY2V0",
+            "attackerName": "Karton-Gips",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9LUQ8VYCR",
+            "defenderName": "jackson",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 1,
+            "destructionPercentage": 62,
+            "duration": 110,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "kriegs gott"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LLYQ90PGV",
+            "attackerName": "Zielony 2.0",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YCP8LLLG",
+            "defenderName": "Big Bone",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Big Bone"
+        }
+      },
+      {
+        "tag": "#29LYGGPLR",
+        "name": "Zhero",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 96,
+          "attackerName": "Bulli"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2P0GCYL0",
+            "defenderName": "Tiger",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 166,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 65,
+          "attackerName": "Tiger"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#20VRUPRRU",
+            "defenderName": "kriegs gott",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 89,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "jackson"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YL2ULV9R0",
+            "defenderName": "Knax Till",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 108,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Knax Till"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#YR82Y2VGY",
+            "defenderName": "Bulli",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 163,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "ute"
+        }
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "0_Macias_0",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "0_Macias_0",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#PRG9Q9GGQ",
+            "defenderName": "Knax Tino",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Knax Tino"
+        }
+      },
+      {
+        "tag": "#Q92L0YL8Y",
+        "name": "ćorny",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q92L0YL8Y",
+            "attackerName": "ćorny",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PG89YVRQ",
+            "defenderName": "Kuschi",
+            "defenderTH": 16,
+            "defenderMapPosition": 18,
+            "stars": 0,
+            "destructionPercentage": 42,
+            "duration": 153,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 42,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "Kuschi"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2GVR9C0Y",
+            "defenderName": "Ertan",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 1,
+            "destructionPercentage": 61,
+            "duration": 125,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Ertan"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#P28VPUPL",
+    "name": "Viking Fighters",
+    "clanLevel": 25,
+    "stars": 29,
+    "destructionPercentage": 80.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#RGCU8L8U",
+        "name": "Nobody",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#RGCU8L8U",
+            "attackerName": "Nobody",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#UJJJP8VU",
+        "name": "ute",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#UJJJP8VU",
+            "attackerName": "ute",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 104,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#Q8UGRJVRC",
+        "name": "Ute 2",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Q8UGRJVRC",
+            "attackerName": "Ute 2",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 146,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#Q8G29CRQ9",
+        "name": "Ute 1",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q8G29CRQ9",
+            "attackerName": "Ute 1",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2VPJ8G0PP",
+            "defenderName": "fl0w",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 52,
+            "duration": 115,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 52,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "fl0w"
+        }
+      },
+      {
+        "tag": "#QVGCRJPQ2",
+        "name": "Nanni",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QVGCRJPQ2",
+            "attackerName": "Nanni",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2Q0CPLQYC",
+            "defenderName": "KrisVanB",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 68,
+            "duration": 130,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "KrisVanB"
+        }
+      },
+      {
+        "tag": "#20VRUPRRU",
+        "name": "kriegs gott",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#20VRUPRRU",
+            "attackerName": "kriegs gott",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#PJVPY2V0",
+            "defenderName": "Karton-Gips",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 152,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#YCP8LLLG",
+        "name": "Big Bone",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YCP8LLLG",
+            "attackerName": "Big Bone",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 126,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zielony 2.0"
+        }
+      },
+      {
+        "tag": "#GJRLCVCP",
+        "name": "Sven's Flake",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJRLCVCP",
+            "attackerName": "Sven's Flake",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 147,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2P0GCYL0",
+        "name": "Tiger",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2P0GCYL0",
+            "attackerName": "Tiger",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 65,
+            "duration": 72,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#9LUQ8VYCR",
+        "name": "jackson",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9LUQ8VYCR",
+            "attackerName": "jackson",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 62,
+          "attackerName": "Karton-Gips"
+        }
+      },
+      {
+        "tag": "#YL2ULV9R0",
+        "name": "Knax Till",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YL2ULV9R0",
+            "attackerName": "Knax Till",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#YR82Y2VGY",
+        "name": "Bulli",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YR82Y2VGY",
+            "attackerName": "Bulli",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#29LYGGPLR",
+            "defenderName": "Zhero",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 96,
+            "duration": 143,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#PRG9Q9GGQ",
+        "name": "Knax Tino",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PRG9Q9GGQ",
+            "attackerName": "Knax Tino",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "0_Macias_0",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 158,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "0_Macias_0"
+        }
+      },
+      {
+        "tag": "#PG89YVRQ",
+        "name": "Kuschi",
+        "townhallLevel": 16,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PG89YVRQ",
+            "attackerName": "Kuschi",
+            "attackerTH": 16,
+            "attackerMapPosition": 18,
+            "defenderTag": "#Q92L0YL8Y",
+            "defenderName": "ćorny",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 102,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 42,
+          "attackerName": "ćorny"
+        }
+      },
+      {
+        "tag": "#2GVR9C0Y",
+        "name": "Ertan",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#2GVR9C0Y",
+            "attackerName": "Ertan",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 148,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 61,
+          "attackerName": "Kmmanutd"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2P0GCYL0",
+      "defenderName": "Tiger",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 166,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2P0GCYL0",
+      "attackerName": "Tiger",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 65,
+      "duration": 72,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Q8UGRJVRC",
+      "defenderName": "Ute 2",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 149,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#RGCU8L8U",
+      "defenderName": "Nobody",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 130,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2GVR9C0Y",
+      "defenderName": "Ertan",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 1,
+      "destructionPercentage": 61,
+      "duration": 125,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PG89YVRQ",
+      "attackerName": "Kuschi",
+      "attackerTH": 16,
+      "attackerMapPosition": 18,
+      "defenderTag": "#Q92L0YL8Y",
+      "defenderName": "ćorny",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 102,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#20VRUPRRU",
+      "defenderName": "kriegs gott",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 89,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJRLCVCP",
+      "attackerName": "Sven's Flake",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 147,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR82Y2VGY",
+      "attackerName": "Bulli",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#29LYGGPLR",
+      "defenderName": "Zhero",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 96,
+      "duration": 143,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLYQ90PGV",
+      "attackerName": "Zielony 2.0",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YCP8LLLG",
+      "defenderName": "Big Bone",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGCU8L8U",
+      "attackerName": "Nobody",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9LUQ8VYCR",
+      "attackerName": "jackson",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2GVR9C0Y",
+      "attackerName": "Ertan",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 148,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#UJJJP8VU",
+      "defenderName": "ute",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 114,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PRG9Q9GGQ",
+      "attackerName": "Knax Tino",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "0_Macias_0",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 158,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#YR82Y2VGY",
+      "defenderName": "Bulli",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 163,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QVGCRJPQ2",
+      "attackerName": "Nanni",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2Q0CPLQYC",
+      "defenderName": "KrisVanB",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 68,
+      "duration": 130,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8G29CRQ9",
+      "attackerName": "Ute 1",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2VPJ8G0PP",
+      "defenderName": "fl0w",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 52,
+      "duration": 115,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8UGRJVRC",
+      "attackerName": "Ute 2",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 146,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UJJJP8VU",
+      "attackerName": "ute",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 104,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2VPJ8G0PP",
+      "attackerName": "fl0w",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#Q8G29CRQ9",
+      "defenderName": "Ute 1",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 107,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "0_Macias_0",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#PRG9Q9GGQ",
+      "defenderName": "Knax Tino",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YL2ULV9R0",
+      "defenderName": "Knax Till",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 108,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q92L0YL8Y",
+      "attackerName": "ćorny",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PG89YVRQ",
+      "defenderName": "Kuschi",
+      "defenderTH": 16,
+      "defenderMapPosition": 18,
+      "stars": 0,
+      "destructionPercentage": 42,
+      "duration": 153,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20VRUPRRU",
+      "attackerName": "kriegs gott",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#PJVPY2V0",
+      "defenderName": "Karton-Gips",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 152,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YL2ULV9R0",
+      "attackerName": "Knax Till",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q0CPLQYC",
+      "attackerName": "KrisVanB",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#QVGCRJPQ2",
+      "defenderName": "Nanni",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 122,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PJVPY2V0",
+      "attackerName": "Karton-Gips",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9LUQ8VYCR",
+      "defenderName": "jackson",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 1,
+      "destructionPercentage": 62,
+      "duration": 110,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YCP8LLLG",
+      "attackerName": "Big Bone",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 126,
+      "order": 29,
+      "side": "opponent"
+    }
+  ]
+}

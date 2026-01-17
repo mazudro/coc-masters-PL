@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.405Z",
+  "season": "2024-08",
+  "warTag": "JPRPRVUY-20240806T214437000Z",
+  "startTime": "20240805T214437.000Z",
+  "endTime": "20240806T214437.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 20,
+    "stars": 41,
+    "destructionPercentage": 96.66666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#98PC2JLV0",
+            "defenderName": "A1-IV",
+            "defenderTH": 14,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "A1-IV"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2C20GUCVP",
+            "defenderName": "v: kaneki",
+            "defenderTH": 13,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 168,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 77,
+          "attackerName": "Ricardo Ferreti"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8CJVRJLLU",
+            "defenderName": "YAMORI",
+            "defenderTH": 13,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 93,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2QRP2L82Y",
+            "defenderName": "XDragonSlayer",
+            "defenderTH": 13,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 100,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "XDragonSlayer"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#L9R8J9UU0",
+            "defenderName": "Ricardo Ferreti",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 71,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "GIGNAC"
+        }
+      },
+      {
+        "tag": "#9UQQ0QCVQ",
+        "name": "ivanooo",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#9UQQ0QCVQ",
+            "attackerName": "ivanooo",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#L9GUU88R9",
+            "defenderName": "GIGNAC",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "YAMORI"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#Q0Y0L0RCY",
+            "defenderName": "Yugi Amane",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Yugi Amane"
+        }
+      },
+      {
+        "tag": "#UGLCL0",
+        "name": "Jaysaq",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#UGLCL0",
+            "attackerName": "Jaysaq",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#G2Y9YLP2L",
+            "defenderName": "el navajas",
+            "defenderTH": 11,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "JOSE TREVIÑO"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#G90RQ89VY",
+            "defenderName": "Vega",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Vega"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YR092PP2J",
+            "defenderName": "Monra21",
+            "defenderTH": 12,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 66,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "Monra21"
+        }
+      },
+      {
+        "tag": "#QYQY2Q82U",
+        "name": "Waker",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QYQY2Q82U",
+            "attackerName": "Waker",
+            "attackerTH": 13,
+            "attackerMapPosition": 14,
+            "defenderTag": "#GQVJ2QQYR",
+            "defenderName": "Speakerman",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 106,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Speakerman"
+        }
+      },
+      {
+        "tag": "#29LYGGPLR",
+        "name": "Zhero",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#29LYGGPLR",
+            "attackerName": "Zhero",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PC9PPQY99",
+            "defenderName": "JOSE TREVIÑO",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 95,
+            "duration": 151,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "el navajas"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 13,
+            "attackerMapPosition": 17,
+            "defenderTag": "#G280UUL9L",
+            "defenderName": "JoseTC97",
+            "defenderTH": 11,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 81,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "JoseTC97"
+        }
+      },
+      {
+        "tag": "#20RPY89QV",
+        "name": "Kuba",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#20RPY89QV",
+            "attackerName": "Kuba",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#QU09VYRLC",
+            "defenderName": "Nahuel \"Patón\"",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 62,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Nahuel \"Patón\""
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 13,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 13,
+            "attackerMapPosition": 22,
+            "defenderTag": "#GG029GC0C",
+            "defenderName": "Tv Man",
+            "defenderTH": 11,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 84,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tv Man"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2QCJJYLPJ",
+    "name": "Club Necaxa",
+    "clanLevel": 10,
+    "stars": 34,
+    "destructionPercentage": 86.66666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#98PC2JLV0",
+        "name": "A1-IV",
+        "townhallLevel": 14,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#98PC2JLV0",
+            "attackerName": "A1-IV",
+            "attackerTH": 14,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#2C20GUCVP",
+        "name": "v: kaneki",
+        "townhallLevel": 13,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#8CJVRJLLU",
+        "name": "YAMORI",
+        "townhallLevel": 13,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8CJVRJLLU",
+            "attackerName": "YAMORI",
+            "attackerTH": 13,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9UQQ0QCVQ",
+            "defenderName": "ivanooo",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#2QRP2L82Y",
+        "name": "XDragonSlayer",
+        "townhallLevel": 13,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2QRP2L82Y",
+            "attackerName": "XDragonSlayer",
+            "attackerTH": 13,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 124,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#L9GUU88R9",
+        "name": "GIGNAC",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#L9GUU88R9",
+            "attackerName": "GIGNAC",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 141,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ivanooo"
+        }
+      },
+      {
+        "tag": "#L9R8J9UU0",
+        "name": "Ricardo Ferreti",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#L9R8J9UU0",
+            "attackerName": "Ricardo Ferreti",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 77,
+            "duration": 109,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#Q0Y0L0RCY",
+        "name": "Yugi Amane",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Q0Y0L0RCY",
+            "attackerName": "Yugi Amane",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#PC9PPQY99",
+        "name": "JOSE TREVIÑO",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PC9PPQY99",
+            "attackerName": "JOSE TREVIÑO",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#UGLCL0",
+            "defenderName": "Jaysaq",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 95,
+          "attackerName": "Zhero"
+        }
+      },
+      {
+        "tag": "#G90RQ89VY",
+        "name": "Vega",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#G90RQ89VY",
+            "attackerName": "Vega",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#YR092PP2J",
+        "name": "Monra21",
+        "townhallLevel": 12,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YR092PP2J",
+            "attackerName": "Monra21",
+            "attackerTH": 12,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 180,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#GQVJ2QQYR",
+        "name": "Speakerman",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GQVJ2QQYR",
+            "attackerName": "Speakerman",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QYQY2Q82U",
+            "defenderName": "Waker",
+            "defenderTH": 13,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Waker"
+        }
+      },
+      {
+        "tag": "#G2Y9YLP2L",
+        "name": "el navajas",
+        "townhallLevel": 11,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y9YLP2L",
+            "attackerName": "el navajas",
+            "attackerTH": 11,
+            "attackerMapPosition": 13,
+            "defenderTag": "#29LYGGPLR",
+            "defenderName": "Zhero",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 143,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jaysaq"
+        }
+      },
+      {
+        "tag": "#G280UUL9L",
+        "name": "JoseTC97",
+        "townhallLevel": 11,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#G280UUL9L",
+            "attackerName": "JoseTC97",
+            "attackerTH": 11,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 13,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 124,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#QU09VYRLC",
+        "name": "Nahuel \"Patón\"",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QU09VYRLC",
+            "attackerName": "Nahuel \"Patón\"",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#20RPY89QV",
+            "defenderName": "Kuba",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 176,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kuba"
+        }
+      },
+      {
+        "tag": "#GG029GC0C",
+        "name": "Tv Man",
+        "townhallLevel": 11,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#GG029GC0C",
+            "attackerName": "Tv Man",
+            "attackerTH": 11,
+            "attackerMapPosition": 17,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 13,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#29LYGGPLR",
+      "attackerName": "Zhero",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PC9PPQY99",
+      "defenderName": "JOSE TREVIÑO",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 95,
+      "duration": 151,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QRP2L82Y",
+      "attackerName": "XDragonSlayer",
+      "attackerTH": 13,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 124,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QYQY2Q82U",
+      "attackerName": "Waker",
+      "attackerTH": 13,
+      "attackerMapPosition": 14,
+      "defenderTag": "#GQVJ2QQYR",
+      "defenderName": "Speakerman",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#Q0Y0L0RCY",
+      "defenderName": "Yugi Amane",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20RPY89QV",
+      "attackerName": "Kuba",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#QU09VYRLC",
+      "defenderName": "Nahuel \"Patón\"",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 62,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR092PP2J",
+      "attackerName": "Monra21",
+      "attackerTH": 12,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 180,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98PC2JLV0",
+      "attackerName": "A1-IV",
+      "attackerTH": 14,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L9R8J9UU0",
+      "attackerName": "Ricardo Ferreti",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 77,
+      "duration": 109,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#G90RQ89VY",
+      "defenderName": "Vega",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9GUU88R9",
+      "attackerName": "GIGNAC",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 141,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0Y0L0RCY",
+      "attackerName": "Yugi Amane",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G90RQ89VY",
+      "attackerName": "Vega",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GQVJ2QQYR",
+      "attackerName": "Speakerman",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QYQY2Q82U",
+      "defenderName": "Waker",
+      "defenderTH": 13,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G2Y9YLP2L",
+      "attackerName": "el navajas",
+      "attackerTH": 11,
+      "attackerMapPosition": 13,
+      "defenderTag": "#29LYGGPLR",
+      "defenderName": "Zhero",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 143,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GG029GC0C",
+      "attackerName": "Tv Man",
+      "attackerTH": 11,
+      "attackerMapPosition": 17,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 13,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2C20GUCVP",
+      "defenderName": "v: kaneki",
+      "defenderTH": 13,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 168,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8CJVRJLLU",
+      "defenderName": "YAMORI",
+      "defenderTH": 13,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 93,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YR092PP2J",
+      "defenderName": "Monra21",
+      "defenderTH": 12,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 66,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UGLCL0",
+      "attackerName": "Jaysaq",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#G2Y9YLP2L",
+      "defenderName": "el navajas",
+      "defenderTH": 11,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 106,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 13,
+      "attackerMapPosition": 22,
+      "defenderTag": "#GG029GC0C",
+      "defenderName": "Tv Man",
+      "defenderTH": 11,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 84,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#98PC2JLV0",
+      "defenderName": "A1-IV",
+      "defenderTH": 14,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PC9PPQY99",
+      "attackerName": "JOSE TREVIÑO",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#UGLCL0",
+      "defenderName": "Jaysaq",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G280UUL9L",
+      "attackerName": "JoseTC97",
+      "attackerTH": 11,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 13,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 124,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 13,
+      "attackerMapPosition": 17,
+      "defenderTag": "#G280UUL9L",
+      "defenderName": "JoseTC97",
+      "defenderTH": 11,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 81,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2QRP2L82Y",
+      "defenderName": "XDragonSlayer",
+      "defenderTH": 13,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 100,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8CJVRJLLU",
+      "attackerName": "YAMORI",
+      "attackerTH": 13,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9UQQ0QCVQ",
+      "defenderName": "ivanooo",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QU09VYRLC",
+      "attackerName": "Nahuel \"Patón\"",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#20RPY89QV",
+      "defenderName": "Kuba",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 176,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#L9R8J9UU0",
+      "defenderName": "Ricardo Ferreti",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 71,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9UQQ0QCVQ",
+      "attackerName": "ivanooo",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#L9GUU88R9",
+      "defenderName": "GIGNAC",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

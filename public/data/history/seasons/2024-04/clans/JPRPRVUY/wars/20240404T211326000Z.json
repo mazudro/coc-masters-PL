@@ -1,0 +1,969 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.344Z",
+  "season": "2024-04",
+  "warTag": "JPRPRVUY-20240404T211326000Z",
+  "startTime": "20240403T211326.000Z",
+  "endTime": "20240404T211326.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 36,
+    "destructionPercentage": 80,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#88VYJ9J8L",
+            "defenderName": "sakaryalı5461",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LPRJ0RL29",
+            "defenderName": "HÂYALET",
+            "defenderTH": 13,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 91,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#88VYJ9J8L",
+            "defenderName": "sakaryalı5461",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 77,
+            "duration": 115,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "#MEHMET.BEY#"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#LQPPUGJ0R",
+            "defenderName": "savaşçı68",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 82,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QGJCGYJYC",
+        "name": "rajko",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#80VQG9VLY",
+            "defenderName": "#MEHMET.BEY#",
+            "defenderTH": 12,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 90,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8YLVCCG9C",
+        "name": "tomek",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8YLVCCG9C",
+            "attackerName": "tomek",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Q0JRLCUYQ",
+            "defenderName": "Kazıklı Voyvoda",
+            "defenderTH": 11,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#280VVLPV2",
+            "defenderName": "#AngelOfDeath#",
+            "defenderTH": 12,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8L9J9U0V",
+        "name": "gaMobmoT",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8L9J9U0V",
+            "attackerName": "gaMobmoT",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Q802G8Q0R",
+            "defenderName": "bevat",
+            "defenderTH": 12,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 91,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2QCUCV98R",
+        "name": "NAFIZ",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QLY2U2RJ2",
+            "defenderName": "((AlPhA))",
+            "defenderTH": 11,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 117,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#G8RLG8LYP",
+            "defenderName": "Ali efe",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 76,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "#MEHMET.BEY#"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#9VPYV0VJL",
+            "defenderName": "Enes",
+            "defenderTH": 11,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "HÂYALET"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeq-_-",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeq-_-",
+            "attackerTH": 12,
+            "attackerMapPosition": 17,
+            "defenderTag": "#2LUVGLJ90",
+            "defenderName": "sLayer",
+            "defenderTH": 12,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 76,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "Maciaspopskhr_",
+        "townhallLevel": 11,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "Maciaspopskhr_",
+            "attackerTH": 11,
+            "attackerMapPosition": 20,
+            "defenderTag": "#G8JCPRRQQ",
+            "defenderName": "Uchiha-Obito",
+            "defenderTH": 11,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "((AlPhA))"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2R0QPY0UQ",
+    "name": "Ottoman Empire",
+    "clanLevel": 4,
+    "stars": 9,
+    "destructionPercentage": 20.066666666666666,
+    "attacks": 5,
+    "members": [
+      {
+        "tag": "#2G2C92GPJ",
+        "name": "by_sagosan1903",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#890CUCC8Q",
+        "name": "#GENERAL#",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2VLJRPRPR",
+        "name": "#MEHMET.BEY#",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2VLJRPRPR",
+            "attackerName": "#MEHMET.BEY#",
+            "attackerTH": 14,
+            "attackerMapPosition": 3,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 75,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#88VYJ9J8L",
+        "name": "sakaryalı5461",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#LQPPUGJ0R",
+        "name": "savaşçı68",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#80VQG9VLY",
+        "name": "#MEHMET.BEY#",
+        "townhallLevel": 12,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80VQG9VLY",
+            "attackerName": "#MEHMET.BEY#",
+            "attackerTH": 12,
+            "attackerMapPosition": 6,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 12,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 62,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#LPRJ0RL29",
+        "name": "HÂYALET",
+        "townhallLevel": 13,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LPRJ0RL29",
+            "attackerName": "HÂYALET",
+            "attackerTH": 13,
+            "attackerMapPosition": 7,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 65,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#280VVLPV2",
+        "name": "#AngelOfDeath#",
+        "townhallLevel": 12,
+        "mapPosition": 8,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#Q802G8Q0R",
+        "name": "bevat",
+        "townhallLevel": 12,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "gaMobmoT"
+        }
+      },
+      {
+        "tag": "#2LUVGLJ90",
+        "name": "sLayer",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeq-_-"
+        }
+      },
+      {
+        "tag": "#QLY2U2RJ2",
+        "name": "((AlPhA))",
+        "townhallLevel": 11,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QLY2U2RJ2",
+            "attackerName": "((AlPhA))",
+            "attackerTH": 11,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "Maciaspopskhr_",
+            "defenderTH": 11,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#G8RLG8LYP",
+        "name": "Ali efe",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#9VPYV0VJL",
+        "name": "Enes",
+        "townhallLevel": 11,
+        "mapPosition": 16,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#Q0JRLCUYQ",
+        "name": "Kazıklı Voyvoda",
+        "townhallLevel": 11,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "tomek"
+        }
+      },
+      {
+        "tag": "#G8JCPRRQQ",
+        "name": "Uchiha-Obito",
+        "townhallLevel": 11,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#G8JCPRRQQ",
+            "attackerName": "Uchiha-Obito",
+            "attackerTH": 11,
+            "attackerMapPosition": 22,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "Maciaspopskhr_",
+            "defenderTH": 11,
+            "defenderMapPosition": 20,
+            "stars": 1,
+            "destructionPercentage": 81,
+            "duration": 123,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Maciaspopskhr_"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#280VVLPV2",
+      "defenderName": "#AngelOfDeath#",
+      "defenderTH": 12,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L9J9U0V",
+      "attackerName": "gaMobmoT",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Q802G8Q0R",
+      "defenderName": "bevat",
+      "defenderTH": 12,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 91,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#LQPPUGJ0R",
+      "defenderName": "savaşçı68",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 82,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#G8RLG8LYP",
+      "defenderName": "Ali efe",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 76,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G8JCPRRQQ",
+      "attackerName": "Uchiha-Obito",
+      "attackerTH": 11,
+      "attackerMapPosition": 22,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "Maciaspopskhr_",
+      "defenderTH": 11,
+      "defenderMapPosition": 20,
+      "stars": 1,
+      "destructionPercentage": 81,
+      "duration": 123,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#9VPYV0VJL",
+      "defenderName": "Enes",
+      "defenderTH": 11,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#88VYJ9J8L",
+      "defenderName": "sakaryalı5461",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 77,
+      "duration": 115,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QLY2U2RJ2",
+      "attackerName": "((AlPhA))",
+      "attackerTH": 11,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "Maciaspopskhr_",
+      "defenderTH": 11,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "Maciaspopskhr_",
+      "attackerTH": 11,
+      "attackerMapPosition": 20,
+      "defenderTag": "#G8JCPRRQQ",
+      "defenderName": "Uchiha-Obito",
+      "defenderTH": 11,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#80VQG9VLY",
+      "defenderName": "#MEHMET.BEY#",
+      "defenderTH": 12,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 90,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VLJRPRPR",
+      "attackerName": "#MEHMET.BEY#",
+      "attackerTH": 14,
+      "attackerMapPosition": 3,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 75,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80VQG9VLY",
+      "attackerName": "#MEHMET.BEY#",
+      "attackerTH": 12,
+      "attackerMapPosition": 6,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 12,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 62,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPRJ0RL29",
+      "attackerName": "HÂYALET",
+      "attackerTH": 13,
+      "attackerMapPosition": 7,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 65,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YLVCCG9C",
+      "attackerName": "tomek",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Q0JRLCUYQ",
+      "defenderName": "Kazıklı Voyvoda",
+      "defenderTH": 11,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QLY2U2RJ2",
+      "defenderName": "((AlPhA))",
+      "defenderTH": 11,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 117,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#88VYJ9J8L",
+      "defenderName": "sakaryalı5461",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeq-_-",
+      "attackerTH": 12,
+      "attackerMapPosition": 17,
+      "defenderTag": "#2LUVGLJ90",
+      "defenderName": "sLayer",
+      "defenderTH": 12,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 76,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LPRJ0RL29",
+      "defenderName": "HÂYALET",
+      "defenderTH": 13,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 91,
+      "order": 18,
+      "side": "clan"
+    }
+  ]
+}

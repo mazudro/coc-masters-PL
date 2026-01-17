@@ -1,0 +1,1293 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.389Z",
+  "season": "2024-07",
+  "warTag": "JPRPRVUY-20240705T214352000Z",
+  "startTime": "20240704T214352.000Z",
+  "endTime": "20240705T214352.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 20,
+    "stars": 26,
+    "destructionPercentage": 73,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2PPQ2J9L",
+            "defenderName": "the Dude",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 1,
+            "destructionPercentage": 82,
+            "duration": 119,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 82,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QY8GQ0LP9",
+        "name": "Anonymusss2",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QY8GQ0LP9",
+            "attackerName": "Anonymusss2",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#PC8LRJPL",
+            "defenderName": "pic",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "the Dude"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#YGC8UG2",
+            "defenderName": "bleskimo",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 153,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pic"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8GJGP29YJ",
+            "defenderName": "SD Trex",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "bleskimo"
+        }
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2LP2G9QG",
+            "defenderName": "avatar_marco",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2LP2G9QG",
+            "defenderName": "avatar_marco",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Milan"
+        }
+      },
+      {
+        "tag": "#2Y0JR0RQQ",
+        "name": "♧ShAdOw♧",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2Y0JR0RQQ",
+            "attackerName": "♧ShAdOw♧",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2PY8QJUQU",
+            "defenderName": "jaspergekkeboy",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 144,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YVVCJUVCV",
+        "name": "Matu_CoC",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YVVCJUVCV",
+            "attackerName": "Matu_CoC",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PQJCR0QP",
+            "defenderName": "banaan!",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 115,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SD Trex"
+        }
+      },
+      {
+        "tag": "#90GV02P0L",
+        "name": "JOHN PATRICK-08",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#90GV02P0L",
+            "attackerName": "JOHN PATRICK-08",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8L0GC02U",
+            "defenderName": "ramonblack",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 1,
+            "destructionPercentage": 61,
+            "duration": 85,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "ramonblack"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 13,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 13,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2LQ8VGYY",
+            "defenderName": "Tibe333",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 1,
+            "destructionPercentage": 57,
+            "duration": 97,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Tibe333"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 13,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 13,
+            "attackerMapPosition": 12,
+            "defenderTag": "#QV08U8J2Y",
+            "defenderName": "Bram",
+            "defenderTH": 13,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 129,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 73,
+          "attackerName": "avatar_marco"
+        }
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2LP2G9QG",
+            "defenderName": "avatar_marco",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 1,
+            "destructionPercentage": 87,
+            "duration": 135,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Storthoop"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 19,
+            "defenderTag": "#2QVC0L0GV",
+            "defenderName": "Wanhoop",
+            "defenderTH": 13,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 124,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wanhoop"
+        }
+      },
+      {
+        "tag": "#RVU0CGVR",
+        "name": "Lord Kajetan",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#RVU0CGVR",
+            "attackerName": "Lord Kajetan",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#JQL2QCC8",
+            "defenderName": "jesper",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 132,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "adrie"
+        }
+      },
+      {
+        "tag": "#QP9RP00LC",
+        "name": "Polska górą",
+        "townhallLevel": 12,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#QP9RP00LC",
+            "attackerName": "Polska górą",
+            "attackerTH": 12,
+            "attackerMapPosition": 22,
+            "defenderTag": "#2UVCYGVY",
+            "defenderName": "adrie",
+            "defenderTH": 12,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "jesper"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#PQRVPURR",
+    "name": "de gekste",
+    "clanLevel": 21,
+    "stars": 31,
+    "destructionPercentage": 73.73333333333333,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#2PPQ2J9L",
+        "name": "the Dude",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2PPQ2J9L",
+            "attackerName": "the Dude",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#QY8GQ0LP9",
+            "defenderName": "Anonymusss2",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 79,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 82,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#PC8LRJPL",
+        "name": "pic",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PC8LRJPL",
+            "attackerName": "pic",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Anonymusss2"
+        }
+      },
+      {
+        "tag": "#YGC8UG2",
+        "name": "bleskimo",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#YGC8UG2",
+            "attackerName": "bleskimo",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 97,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#8GJGP29YJ",
+        "name": "SD Trex",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8GJGP29YJ",
+            "attackerName": "SD Trex",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YVVCJUVCV",
+            "defenderName": "Matu_CoC",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 98,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#QVV80CQ",
+        "name": "Storthoop",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QVV80CQ",
+            "attackerName": "Storthoop",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 58,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L9YYQ9PY",
+        "name": "Milan",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L9YYQ9PY",
+            "attackerName": "Milan",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2PY8QJUQU",
+        "name": "jaspergekkeboy",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "♧ShAdOw♧"
+        }
+      },
+      {
+        "tag": "#PQJCR0QP",
+        "name": "banaan!",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Matu_CoC"
+        }
+      },
+      {
+        "tag": "#8L0GC02U",
+        "name": "ramonblack",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8L0GC02U",
+            "attackerName": "ramonblack",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#90GV02P0L",
+            "defenderName": "JOHN PATRICK-08",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 154,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 61,
+          "attackerName": "JOHN PATRICK-08"
+        }
+      },
+      {
+        "tag": "#2LQ8VGYY",
+        "name": "Tibe333",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2LQ8VGYY",
+            "attackerName": "Tibe333",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#G98Q9VC0L",
+            "defenderName": "floymaster",
+            "defenderTH": 13,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 72,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 57,
+          "attackerName": "floymaster"
+        }
+      },
+      {
+        "tag": "#QV08U8J2Y",
+        "name": "Bram",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#2LP2G9QG",
+        "name": "avatar_marco",
+        "townhallLevel": 13,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#2LP2G9QG",
+            "attackerName": "avatar_marco",
+            "attackerTH": 13,
+            "attackerMapPosition": 18,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 13,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 73,
+            "duration": 95,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 73,
+        "opponentAttacks": 3,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#2QVC0L0GV",
+        "name": "Wanhoop",
+        "townhallLevel": 13,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#2QVC0L0GV",
+            "attackerName": "Wanhoop",
+            "attackerTH": 13,
+            "attackerMapPosition": 20,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 94,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#JQL2QCC8",
+        "name": "jesper",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#JQL2QCC8",
+            "attackerName": "jesper",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#QP9RP00LC",
+            "defenderName": "Polska górą",
+            "defenderTH": 12,
+            "defenderMapPosition": 22,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 91,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Lord Kajetan"
+        }
+      },
+      {
+        "tag": "#2UVCYGVY",
+        "name": "adrie",
+        "townhallLevel": 12,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#2UVCYGVY",
+            "attackerName": "adrie",
+            "attackerTH": 12,
+            "attackerMapPosition": 22,
+            "defenderTag": "#RVU0CGVR",
+            "defenderName": "Lord Kajetan",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 80,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polska górą"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2PPQ2J9L",
+      "defenderName": "the Dude",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 1,
+      "destructionPercentage": 82,
+      "duration": 119,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Y0JR0RQQ",
+      "attackerName": "♧ShAdOw♧",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2PY8QJUQU",
+      "defenderName": "jaspergekkeboy",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 144,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#90GV02P0L",
+      "attackerName": "JOHN PATRICK-08",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8L0GC02U",
+      "defenderName": "ramonblack",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 1,
+      "destructionPercentage": 61,
+      "duration": 85,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YVVCJUVCV",
+      "attackerName": "Matu_CoC",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PQJCR0QP",
+      "defenderName": "banaan!",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 115,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L0GC02U",
+      "attackerName": "ramonblack",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#90GV02P0L",
+      "defenderName": "JOHN PATRICK-08",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 154,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PC8LRJPL",
+      "attackerName": "pic",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QP9RP00LC",
+      "attackerName": "Polska górą",
+      "attackerTH": 12,
+      "attackerMapPosition": 22,
+      "defenderTag": "#2UVCYGVY",
+      "defenderName": "adrie",
+      "defenderTH": 12,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RVU0CGVR",
+      "attackerName": "Lord Kajetan",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#JQL2QCC8",
+      "defenderName": "jesper",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 132,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 13,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2LQ8VGYY",
+      "defenderName": "Tibe333",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 1,
+      "destructionPercentage": 57,
+      "duration": 97,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8GJGP29YJ",
+      "defenderName": "SD Trex",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 19,
+      "defenderTag": "#2QVC0L0GV",
+      "defenderName": "Wanhoop",
+      "defenderTH": 13,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 124,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2LQ8VGYY",
+      "attackerName": "Tibe333",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#G98Q9VC0L",
+      "defenderName": "floymaster",
+      "defenderTH": 13,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 72,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2LP2G9QG",
+      "attackerName": "avatar_marco",
+      "attackerTH": 13,
+      "attackerMapPosition": 18,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 13,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 73,
+      "duration": 95,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JQL2QCC8",
+      "attackerName": "jesper",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#QP9RP00LC",
+      "defenderName": "Polska górą",
+      "defenderTH": 12,
+      "defenderMapPosition": 22,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 91,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PPQ2J9L",
+      "attackerName": "the Dude",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#QY8GQ0LP9",
+      "defenderName": "Anonymusss2",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 79,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 13,
+      "attackerMapPosition": 12,
+      "defenderTag": "#QV08U8J2Y",
+      "defenderName": "Bram",
+      "defenderTH": 13,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 129,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2LP2G9QG",
+      "defenderName": "avatar_marco",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 1,
+      "destructionPercentage": 87,
+      "duration": 135,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#YGC8UG2",
+      "defenderName": "bleskimo",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 153,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9YYQ9PY",
+      "attackerName": "Milan",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2LP2G9QG",
+      "defenderName": "avatar_marco",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YGC8UG2",
+      "attackerName": "bleskimo",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 97,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2LP2G9QG",
+      "defenderName": "avatar_marco",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8GJGP29YJ",
+      "attackerName": "SD Trex",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YVVCJUVCV",
+      "defenderName": "Matu_CoC",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QY8GQ0LP9",
+      "attackerName": "Anonymusss2",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#PC8LRJPL",
+      "defenderName": "pic",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2UVCYGVY",
+      "attackerName": "adrie",
+      "attackerTH": 12,
+      "attackerMapPosition": 22,
+      "defenderTag": "#RVU0CGVR",
+      "defenderName": "Lord Kajetan",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 80,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2QVC0L0GV",
+      "attackerName": "Wanhoop",
+      "attackerTH": 13,
+      "attackerMapPosition": 20,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 94,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QVV80CQ",
+      "attackerName": "Storthoop",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 58,
+      "order": 27,
+      "side": "opponent"
+    }
+  ]
+}

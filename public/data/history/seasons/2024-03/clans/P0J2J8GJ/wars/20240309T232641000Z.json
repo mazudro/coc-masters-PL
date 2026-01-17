@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.781Z",
+  "season": "2024-03",
+  "warTag": "P0J2J8GJ-20240309T232641000Z",
+  "startTime": "20240308T232641.000Z",
+  "endTime": "20240309T232641.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 23,
+    "stars": 28,
+    "destructionPercentage": 72.26666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2VG8Y0JQ",
+            "defenderName": "olli",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 140,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "leonnel"
+        }
+      },
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2PJ9PVVR",
+            "defenderName": "Jeppepupu",
+            "defenderTH": 16,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 57,
+            "duration": 70,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 57,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 90,
+          "attackerName": "pikku kakkonen"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2922UU0R",
+            "defenderName": "Pasu",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "Pasu"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LRJPRPP2",
+            "defenderName": "leonnel",
+            "defenderTH": 16,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 128,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "RITARIäSSä"
+        }
+      },
+      {
+        "tag": "#ULV0LJ9C",
+        "name": "ptaqdar",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#ULV0LJ9C",
+            "attackerName": "ptaqdar",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2GQYYRUG",
+            "defenderName": "Kurja",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 65,
+            "duration": 180,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Lemmensoturi"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YC2Y2JY8",
+            "defenderName": "RITARIäSSä",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 171,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "bumbaa"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#UJVPPRV",
+            "defenderName": "bumbaa",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 59,
+            "duration": 111,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kurja"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8GC0Y9V8J",
+            "defenderName": "pikku kakkonen",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 153,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "olli"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LQL2RVGPG",
+            "defenderName": "Jala74",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Jala74"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Y200YGJ0",
+            "defenderName": "hogi",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 96,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jeppepupu"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8L9VYYUQ",
+            "defenderName": "Luigi",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 118,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "VEXI"
+        }
+      },
+      {
+        "tag": "#PPRLRRUGU",
+        "name": "inoja",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PPRLRRUGU",
+            "attackerName": "inoja",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#J22JVG8",
+            "defenderName": "Lemmensoturi",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 142,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Luigi"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#J20QCRRV",
+            "defenderName": "HC",
+            "defenderTH": 15,
+            "defenderMapPosition": 24,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 156,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "jabaa"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#LQPVCLU",
+            "defenderName": "jabaa",
+            "defenderTH": 15,
+            "defenderMapPosition": 27,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 127,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "HC"
+        }
+      },
+      {
+        "tag": "#9GP08G0PC",
+        "name": "KOKS",
+        "townhallLevel": 14,
+        "mapPosition": 20,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "hogi"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#8QJ09UPY",
+    "name": "Helsinki Siipi",
+    "clanLevel": 23,
+    "stars": 35,
+    "destructionPercentage": 88.8,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2VG8Y0JQ",
+        "name": "olli",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2VG8Y0JQ",
+            "attackerName": "olli",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#2PJ9PVVR",
+        "name": "Jeppepupu",
+        "townhallLevel": 16,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2PJ9PVVR",
+            "attackerName": "Jeppepupu",
+            "attackerTH": 16,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 105,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 57,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#2922UU0R",
+        "name": "Pasu",
+        "townhallLevel": 16,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2922UU0R",
+            "attackerName": "Pasu",
+            "attackerTH": 16,
+            "attackerMapPosition": 3,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 16,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 175,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#LRJPRPP2",
+        "name": "leonnel",
+        "townhallLevel": 16,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LRJPRPP2",
+            "attackerName": "leonnel",
+            "attackerTH": 16,
+            "attackerMapPosition": 4,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 180,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#2GQYYRUG",
+        "name": "Kurja",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2GQYYRUG",
+            "attackerName": "Kurja",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 65,
+          "attackerName": "ptaqdar"
+        }
+      },
+      {
+        "tag": "#YC2Y2JY8",
+        "name": "RITARIäSSä",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YC2Y2JY8",
+            "attackerName": "RITARIäSSä",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 180,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#UJVPPRV",
+        "name": "bumbaa",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#UJVPPRV",
+            "attackerName": "bumbaa",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 128,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 59,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#8GC0Y9V8J",
+        "name": "pikku kakkonen",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8GC0Y9V8J",
+            "attackerName": "pikku kakkonen",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 16,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 90,
+            "duration": 122,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 90,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#LQL2RVGPG",
+        "name": "Jala74",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LQL2RVGPG",
+            "attackerName": "Jala74",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 157,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#Y200YGJ0",
+        "name": "hogi",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y200YGJ0",
+            "attackerName": "hogi",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9GP08G0PC",
+            "defenderName": "KOKS",
+            "defenderTH": 14,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 125,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#8L9VYYUQ",
+        "name": "Luigi",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8L9VYYUQ",
+            "attackerName": "Luigi",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#PPRLRRUGU",
+            "defenderName": "inoja",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#J22JVG8",
+        "name": "Lemmensoturi",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#J22JVG8",
+            "attackerName": "Lemmensoturi",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#ULV0LJ9C",
+            "defenderName": "ptaqdar",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 114,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "inoja"
+        }
+      },
+      {
+        "tag": "#J20QCRRV",
+        "name": "HC",
+        "townhallLevel": 15,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#J20QCRRV",
+            "attackerName": "HC",
+            "attackerTH": 15,
+            "attackerMapPosition": 24,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 100,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#LQPVCLU",
+        "name": "jabaa",
+        "townhallLevel": 15,
+        "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#LQPVCLU",
+            "attackerName": "jabaa",
+            "attackerTH": 15,
+            "attackerMapPosition": 27,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 98,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Martha"
+        }
+      },
+      {
+        "tag": "#P9YGCYP92",
+        "name": "VEXI",
+        "townhallLevel": 15,
+        "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#P9YGCYP92",
+            "attackerName": "VEXI",
+            "attackerTH": 15,
+            "attackerMapPosition": 29,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 180,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 0
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#UJVPPRV",
+      "defenderName": "bumbaa",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 59,
+      "duration": 111,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Y200YGJ0",
+      "defenderName": "hogi",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 96,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YC2Y2JY8",
+      "attackerName": "RITARIäSSä",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 180,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8L9VYYUQ",
+      "defenderName": "Luigi",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 118,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2922UU0R",
+      "attackerName": "Pasu",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 175,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UJVPPRV",
+      "attackerName": "bumbaa",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 128,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y200YGJ0",
+      "attackerName": "hogi",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9GP08G0PC",
+      "defenderName": "KOKS",
+      "defenderTH": 14,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 125,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9VYYUQ",
+      "attackerName": "Luigi",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#PPRLRRUGU",
+      "defenderName": "inoja",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPRLRRUGU",
+      "attackerName": "inoja",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#J22JVG8",
+      "defenderName": "Lemmensoturi",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 142,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VG8Y0JQ",
+      "attackerName": "olli",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LRJPRPP2",
+      "defenderName": "leonnel",
+      "defenderTH": 16,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 128,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LQPVCLU",
+      "attackerName": "jabaa",
+      "attackerTH": 15,
+      "attackerMapPosition": 27,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 98,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J20QCRRV",
+      "attackerName": "HC",
+      "attackerTH": 15,
+      "attackerMapPosition": 24,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 100,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LRJPRPP2",
+      "attackerName": "leonnel",
+      "attackerTH": 16,
+      "attackerMapPosition": 4,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 180,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YC2Y2JY8",
+      "defenderName": "RITARIäSSä",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 171,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8GC0Y9V8J",
+      "attackerName": "pikku kakkonen",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 90,
+      "duration": 122,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9YGCYP92",
+      "attackerName": "VEXI",
+      "attackerTH": 15,
+      "attackerMapPosition": 29,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 180,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2GQYYRUG",
+      "attackerName": "Kurja",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LQL2RVGPG",
+      "attackerName": "Jala74",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 157,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 16,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2PJ9PVVR",
+      "defenderName": "Jeppepupu",
+      "defenderTH": 16,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 57,
+      "duration": 70,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#ULV0LJ9C",
+      "attackerName": "ptaqdar",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2GQYYRUG",
+      "defenderName": "Kurja",
+      "defenderTH": 16,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 65,
+      "duration": 180,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#LQPVCLU",
+      "defenderName": "jabaa",
+      "defenderTH": 15,
+      "defenderMapPosition": 27,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 127,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J22JVG8",
+      "attackerName": "Lemmensoturi",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#ULV0LJ9C",
+      "defenderName": "ptaqdar",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 114,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PJ9PVVR",
+      "attackerName": "Jeppepupu",
+      "attackerTH": 16,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 105,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#J20QCRRV",
+      "defenderName": "HC",
+      "defenderTH": 15,
+      "defenderMapPosition": 24,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 156,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2922UU0R",
+      "defenderName": "Pasu",
+      "defenderTH": 16,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2VG8Y0JQ",
+      "defenderName": "olli",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 140,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LQL2RVGPG",
+      "defenderName": "Jala74",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8GC0Y9V8J",
+      "defenderName": "pikku kakkonen",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 153,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

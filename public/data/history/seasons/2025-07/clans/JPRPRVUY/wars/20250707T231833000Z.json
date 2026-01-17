@@ -1,0 +1,1231 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.513Z",
+  "season": "2025-07",
+  "warTag": "JPRPRVUY-20250707T231833000Z",
+  "startTime": "20250706T224651.000Z",
+  "endTime": "20250707T231833.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 23,
+    "stars": 36,
+    "destructionPercentage": 85.93333333333334,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2YYLVG990",
+            "defenderName": "༻ᗰᗩ᙭༉࿐",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ظافر"
+        }
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P2L8R8JC",
+            "defenderName": "مخاوي الليل",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "ثرثرة آروآح"
+        }
+      },
+      {
+        "tag": "#2VPJ8G0PP",
+        "name": "fl0w",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2VPJ8G0PP",
+            "attackerName": "fl0w",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YGYJ2JPV2",
+            "defenderName": "♡نشوان♡",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 67,
+            "duration": 153,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 67,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "♡نشوان♡"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LLYQ90PGV",
+            "attackerName": "Zielony 2.0",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#JY2JYUR2",
+            "defenderName": "sul-87",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 152,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "sul-87"
+        }
+      },
+      {
+        "tag": "#PJVPY2V0",
+        "name": "Karton-Gips",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PJVPY2V0",
+            "attackerName": "Karton-Gips",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#CJCRG0QL",
+            "defenderName": "كايد العذال",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 120,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "كايد العذال"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#28VQ2809R",
+            "defenderName": "ساهر الليل",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 163,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2PVYUV0YL",
+            "defenderName": "،جابر الغزواني،",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9PCQQGLJL",
+            "defenderName": "ثرثرة آروآح",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "،جابر الغزواني،"
+        }
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "0_Macias_0",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "0_Macias_0",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#8L0RL08YU",
+            "defenderName": "⭐λßΘĵλώλɖ⭐",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 109,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "⭐λßΘĵλώλɖ⭐"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#92YLL8JJ0",
+            "defenderName": "⭐λßΘ ĵλώλ∂⭐",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "⭐λßΘ ĵλώλ∂⭐"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8C2LPG2JV",
+            "defenderName": "✌✌ابوحسن✌✌",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 174,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "✌✌ابوحسن✌✌"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#PCJ928V9G",
+            "defenderName": "اسير العيون",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 173,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "مخاوي الليل"
+        }
+      },
+      {
+        "tag": "#Q92L0YL8Y",
+        "name": "ćorny",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Q92L0YL8Y",
+            "attackerName": "ćorny",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9JLRPY9VP",
+            "defenderName": "ملك الظلام",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 178,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#9U98802UG",
+            "defenderName": "❤️الامير❤️",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 108,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "༻ᗰᗩ᙭༉࿐"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#GC2GYUY0",
+    "name": "جده",
+    "clanLevel": 16,
+    "stars": 28,
+    "destructionPercentage": 65.53333333333333,
+    "attacks": 11,
+    "members": [
+      {
+        "tag": "#2YYLVG990",
+        "name": "༻ᗰᗩ᙭༉࿐",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2YYLVG990",
+            "attackerName": "༻ᗰᗩ᙭༉࿐",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 87,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#P0CQ0PGLP",
+        "name": "ظافر",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P0CQ0PGLP",
+            "attackerName": "ظافر",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#QQJ0GRRG",
+            "defenderName": "Skz",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#P2L8R8JC",
+        "name": "مخاوي الليل",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#P2L8R8JC",
+            "attackerName": "مخاوي الليل",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#YGYJ2JPV2",
+        "name": "♡نشوان♡",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YGYJ2JPV2",
+            "attackerName": "♡نشوان♡",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#2VPJ8G0PP",
+            "defenderName": "fl0w",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 116,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 67,
+          "attackerName": "fl0w"
+        }
+      },
+      {
+        "tag": "#JY2JYUR2",
+        "name": "sul-87",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#JY2JYUR2",
+            "attackerName": "sul-87",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 124,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zielony 2.0"
+        }
+      },
+      {
+        "tag": "#CJCRG0QL",
+        "name": "كايد العذال",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#CJCRG0QL",
+            "attackerName": "كايد العذال",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#PJVPY2V0",
+            "defenderName": "Karton-Gips",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "Karton-Gips"
+        }
+      },
+      {
+        "tag": "#28VQ2809R",
+        "name": "ساهر الليل",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#2PVYUV0YL",
+        "name": "،جابر الغزواني،",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2PVYUV0YL",
+            "attackerName": "،جابر الغزواني،",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#9PCQQGLJL",
+        "name": "ثرثرة آروآح",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9PCQQGLJL",
+            "attackerName": "ثرثرة آروآح",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#8L0RL08YU",
+        "name": "⭐λßΘĵλώλɖ⭐",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8L0RL08YU",
+            "attackerName": "⭐λßΘĵλώλɖ⭐",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "0_Macias_0",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "0_Macias_0"
+        }
+      },
+      {
+        "tag": "#92YLL8JJ0",
+        "name": "⭐λßΘ ĵλώλ∂⭐",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#92YLL8JJ0",
+            "attackerName": "⭐λßΘ ĵλώλ∂⭐",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#8C2LPG2JV",
+        "name": "✌✌ابوحسن✌✌",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#8C2LPG2JV",
+            "attackerName": "✌✌ابوحسن✌✌",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 109,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#PCJ928V9G",
+        "name": "اسير العيون",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#9JLRPY9VP",
+        "name": "ملك الظلام",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "ćorny"
+        }
+      },
+      {
+        "tag": "#9U98802UG",
+        "name": "❤️الامير❤️",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "0_Macias_0",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#8L0RL08YU",
+      "defenderName": "⭐λßΘĵλώλɖ⭐",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 109,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P0CQ0PGLP",
+      "attackerName": "ظافر",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#QQJ0GRRG",
+      "defenderName": "Skz",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9PCQQGLJL",
+      "attackerName": "ثرثرة آروآح",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CJCRG0QL",
+      "attackerName": "كايد العذال",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#PJVPY2V0",
+      "defenderName": "Karton-Gips",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2PVYUV0YL",
+      "defenderName": "،جابر الغزواني،",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#28VQ2809R",
+      "defenderName": "ساهر الليل",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 163,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLYQ90PGV",
+      "attackerName": "Zielony 2.0",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#JY2JYUR2",
+      "defenderName": "sul-87",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 152,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P2L8R8JC",
+      "defenderName": "مخاوي الليل",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VPJ8G0PP",
+      "attackerName": "fl0w",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YGYJ2JPV2",
+      "defenderName": "♡نشوان♡",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 67,
+      "duration": 153,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2YYLVG990",
+      "defenderName": "༻ᗰᗩ᙭༉࿐",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8C2LPG2JV",
+      "attackerName": "✌✌ابوحسن✌✌",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 109,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#PCJ928V9G",
+      "defenderName": "اسير العيون",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 173,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#9U98802UG",
+      "defenderName": "❤️الامير❤️",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 108,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9PCQQGLJL",
+      "defenderName": "ثرثرة آروآح",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8C2LPG2JV",
+      "defenderName": "✌✌ابوحسن✌✌",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 174,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q92L0YL8Y",
+      "attackerName": "ćorny",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9JLRPY9VP",
+      "defenderName": "ملك الظلام",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 178,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#92YLL8JJ0",
+      "defenderName": "⭐λßΘ ĵλώλ∂⭐",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PJVPY2V0",
+      "attackerName": "Karton-Gips",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#CJCRG0QL",
+      "defenderName": "كايد العذال",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 120,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YGYJ2JPV2",
+      "attackerName": "♡نشوان♡",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#2VPJ8G0PP",
+      "defenderName": "fl0w",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 116,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L0RL08YU",
+      "attackerName": "⭐λßΘĵλώλɖ⭐",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "0_Macias_0",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#92YLL8JJ0",
+      "attackerName": "⭐λßΘ ĵλώλ∂⭐",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#JY2JYUR2",
+      "attackerName": "sul-87",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 124,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PVYUV0YL",
+      "attackerName": "،جابر الغزواني،",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2L8R8JC",
+      "attackerName": "مخاوي الليل",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2YYLVG990",
+      "attackerName": "༻ᗰᗩ᙭༉࿐",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 87,
+      "order": 25,
+      "side": "opponent"
+    }
+  ]
+}

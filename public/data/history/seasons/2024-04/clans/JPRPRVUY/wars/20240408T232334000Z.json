@@ -1,0 +1,1046 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.344Z",
+  "season": "2024-04",
+  "warTag": "JPRPRVUY-20240408T232334000Z",
+  "startTime": "20240407T232334.000Z",
+  "endTime": "20240408T232334.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 19,
+    "stars": 25,
+    "destructionPercentage": 63.2,
+    "attacks": 12,
+    "members": [
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#UYVJQQQU",
+            "defenderName": "☆고니☆",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 14,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 14,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2RC9992Q",
+            "defenderName": "양군",
+            "defenderTH": 14,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 147,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YJ0YC229",
+        "name": "andre",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YJ0YC229",
+            "attackerName": "andre",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Q0LV2L8YU",
+            "defenderName": "오븐에구운도넛",
+            "defenderTH": 14,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YY0JU98Q0",
+        "name": "DEADPOOL",
+        "townhallLevel": 13,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YY0JU98Q0",
+            "attackerName": "DEADPOOL",
+            "attackerTH": 13,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2LY2QGQV",
+            "defenderName": "Chris-ReinerS",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "simply sammie"
+        }
+      },
+      {
+        "tag": "#8YLVCCG9C",
+        "name": "tomek",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8YLVCCG9C",
+            "attackerName": "tomek",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#9YU0VCV29",
+            "defenderName": "파란 사이다",
+            "defenderTH": 13,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 56,
+            "duration": 81,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 56,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9UC8RQ02",
+        "name": "Tombo",
+        "townhallLevel": 13,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9UC8RQ02",
+            "attackerName": "Tombo",
+            "attackerTH": 13,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PV0P08URR",
+            "defenderName": "Partait",
+            "defenderTH": 12,
+            "defenderMapPosition": 11,
+            "stars": 1,
+            "destructionPercentage": 89,
+            "duration": 138,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "팥쥐"
+        }
+      },
+      {
+        "tag": "#8L9J9U0V",
+        "name": "gaMobmoT",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8L9J9U0V",
+            "attackerName": "gaMobmoT",
+            "attackerTH": 13,
+            "attackerMapPosition": 10,
+            "defenderTag": "#P2RJPYQQV",
+            "defenderName": "비니티리시",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 113,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "양군"
+        }
+      },
+      {
+        "tag": "#G2Y820Q92",
+        "name": "Jonas",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y820Q92",
+            "attackerName": "Jonas",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2RJY2VYJL",
+            "defenderName": "Mr.Sweet",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "파란 사이다"
+        }
+      },
+      {
+        "tag": "#QQJP2G8PP",
+        "name": "MagicWeeD",
+        "townhallLevel": 12,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "오븐에구운도넛"
+        }
+      },
+      {
+        "tag": "#G98Q9VC0L",
+        "name": "floymaster",
+        "townhallLevel": 12,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G98Q9VC0L",
+            "attackerName": "floymaster",
+            "attackerTH": 12,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LPLUQG0Q",
+            "defenderName": "대서니",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 117,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "mamcorz1",
+        "townhallLevel": 12,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "mamcorz1",
+            "attackerTH": 12,
+            "attackerMapPosition": 16,
+            "defenderTag": "#2PCJPVJR0",
+            "defenderName": "김모씨",
+            "defenderTH": 12,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 153,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BoBos"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeq-_-",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeq-_-",
+            "attackerTH": 12,
+            "attackerMapPosition": 17,
+            "defenderTag": "#P02YP2CPV",
+            "defenderName": "국경",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 117,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "S1000R"
+        }
+      },
+      {
+        "tag": "#9VQGPY2G0",
+        "name": "Kuba 2",
+        "townhallLevel": 11,
+        "mapPosition": 19,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "Maciaspopskhr_",
+        "townhallLevel": 11,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "Maciaspopskhr_",
+            "attackerTH": 11,
+            "attackerMapPosition": 20,
+            "defenderTag": "#LPLUQG0Q",
+            "defenderName": "대서니",
+            "defenderTH": 12,
+            "defenderMapPosition": 18,
+            "stars": 0,
+            "destructionPercentage": 44,
+            "duration": 102,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 44,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "비니티리시"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#29V0VG9VR",
+    "name": "프리",
+    "clanLevel": 10,
+    "stars": 23,
+    "destructionPercentage": 51,
+    "attacks": 8,
+    "members": [
+      {
+        "tag": "#2080GJCQJ",
+        "name": "S1000R",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2080GJCQJ",
+            "attackerName": "S1000R",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeq-_-",
+            "defenderTH": 12,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#J0VCUUYG",
+        "name": "simply sammie",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#J0VCUUYG",
+            "attackerName": "simply sammie",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YY0JU98Q0",
+            "defenderName": "DEADPOOL",
+            "defenderTH": 13,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 169,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9VJCP000",
+        "name": "BoBos",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9VJCP000",
+            "attackerName": "BoBos",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "mamcorz1",
+            "defenderTH": 12,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#Q0LV2L8YU",
+        "name": "오븐에구운도넛",
+        "townhallLevel": 14,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Q0LV2L8YU",
+            "attackerName": "오븐에구운도넛",
+            "attackerTH": 14,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QQJP2G8PP",
+            "defenderName": "MagicWeeD",
+            "defenderTH": 12,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "andre"
+        }
+      },
+      {
+        "tag": "#2RC9992Q",
+        "name": "양군",
+        "townhallLevel": 14,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2RC9992Q",
+            "attackerName": "양군",
+            "attackerTH": 14,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8L9J9U0V",
+            "defenderName": "gaMobmoT",
+            "defenderTH": 13,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#UYVJQQQU",
+        "name": "☆고니☆",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#GP9PQ8UQ",
+        "name": "팥쥐",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#GP9PQ8UQ",
+            "attackerName": "팥쥐",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#9UC8RQ02",
+            "defenderName": "Tombo",
+            "defenderTH": 13,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 95,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9YU0VCV29",
+        "name": "파란 사이다",
+        "townhallLevel": 13,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9YU0VCV29",
+            "attackerName": "파란 사이다",
+            "attackerTH": 13,
+            "attackerMapPosition": 8,
+            "defenderTag": "#G2Y820Q92",
+            "defenderName": "Jonas",
+            "defenderTH": 12,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 108,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 56,
+          "attackerName": "tomek"
+        }
+      },
+      {
+        "tag": "#2RJY2VYJL",
+        "name": "Mr.Sweet",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Jonas"
+        }
+      },
+      {
+        "tag": "#2LY2QGQV",
+        "name": "Chris-ReinerS",
+        "townhallLevel": 13,
+        "mapPosition": 10,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DEADPOOL"
+        }
+      },
+      {
+        "tag": "#PV0P08URR",
+        "name": "Partait",
+        "townhallLevel": 12,
+        "mapPosition": 11,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 89,
+          "attackerName": "Tombo"
+        }
+      },
+      {
+        "tag": "#2PCJPVJR0",
+        "name": "김모씨",
+        "townhallLevel": 12,
+        "mapPosition": 12,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "mamcorz1"
+        }
+      },
+      {
+        "tag": "#P2RJPYQQV",
+        "name": "비니티리시",
+        "townhallLevel": 12,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#P2RJPYQQV",
+            "attackerName": "비니티리시",
+            "attackerTH": 12,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "Maciaspopskhr_",
+            "defenderTH": 11,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "gaMobmoT"
+        }
+      },
+      {
+        "tag": "#P02YP2CPV",
+        "name": "국경",
+        "townhallLevel": 12,
+        "mapPosition": 17,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "Fi3ipeq-_-"
+        }
+      },
+      {
+        "tag": "#LPLUQG0Q",
+        "name": "대서니",
+        "townhallLevel": 12,
+        "mapPosition": 18,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "floymaster"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#GP9PQ8UQ",
+      "attackerName": "팥쥐",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#9UC8RQ02",
+      "defenderName": "Tombo",
+      "defenderTH": 13,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 95,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2RJPYQQV",
+      "attackerName": "비니티리시",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "Maciaspopskhr_",
+      "defenderTH": 11,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0LV2L8YU",
+      "attackerName": "오븐에구운도넛",
+      "attackerTH": 14,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QQJP2G8PP",
+      "defenderName": "MagicWeeD",
+      "defenderTH": 12,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2080GJCQJ",
+      "attackerName": "S1000R",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeq-_-",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9VJCP000",
+      "attackerName": "BoBos",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "mamcorz1",
+      "defenderTH": 12,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9YU0VCV29",
+      "attackerName": "파란 사이다",
+      "attackerTH": 13,
+      "attackerMapPosition": 8,
+      "defenderTag": "#G2Y820Q92",
+      "defenderName": "Jonas",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 108,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RC9992Q",
+      "attackerName": "양군",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8L9J9U0V",
+      "defenderName": "gaMobmoT",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J0VCUUYG",
+      "attackerName": "simply sammie",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YY0JU98Q0",
+      "defenderName": "DEADPOOL",
+      "defenderTH": 13,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 169,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "Maciaspopskhr_",
+      "attackerTH": 11,
+      "attackerMapPosition": 20,
+      "defenderTag": "#LPLUQG0Q",
+      "defenderName": "대서니",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 0,
+      "destructionPercentage": 44,
+      "duration": 102,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G98Q9VC0L",
+      "attackerName": "floymaster",
+      "attackerTH": 12,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LPLUQG0Q",
+      "defenderName": "대서니",
+      "defenderTH": 12,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 117,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeq-_-",
+      "attackerTH": 12,
+      "attackerMapPosition": 17,
+      "defenderTag": "#P02YP2CPV",
+      "defenderName": "국경",
+      "defenderTH": 12,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 117,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YJ0YC229",
+      "attackerName": "andre",
+      "attackerTH": 14,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Q0LV2L8YU",
+      "defenderName": "오븐에구운도넛",
+      "defenderTH": 14,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY0JU98Q0",
+      "attackerName": "DEADPOOL",
+      "attackerTH": 13,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2LY2QGQV",
+      "defenderName": "Chris-ReinerS",
+      "defenderTH": 13,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 14,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2RC9992Q",
+      "defenderName": "양군",
+      "defenderTH": 14,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 147,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "mamcorz1",
+      "attackerTH": 12,
+      "attackerMapPosition": 16,
+      "defenderTag": "#2PCJPVJR0",
+      "defenderName": "김모씨",
+      "defenderTH": 12,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 153,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8L9J9U0V",
+      "attackerName": "gaMobmoT",
+      "attackerTH": 13,
+      "attackerMapPosition": 10,
+      "defenderTag": "#P2RJPYQQV",
+      "defenderName": "비니티리시",
+      "defenderTH": 12,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 113,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YLVCCG9C",
+      "attackerName": "tomek",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#9YU0VCV29",
+      "defenderName": "파란 사이다",
+      "defenderTH": 13,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 56,
+      "duration": 81,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9UC8RQ02",
+      "attackerName": "Tombo",
+      "attackerTH": 13,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PV0P08URR",
+      "defenderName": "Partait",
+      "defenderTH": 12,
+      "defenderMapPosition": 11,
+      "stars": 1,
+      "destructionPercentage": 89,
+      "duration": 138,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G2Y820Q92",
+      "attackerName": "Jonas",
+      "attackerTH": 12,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2RJY2VYJL",
+      "defenderName": "Mr.Sweet",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#UYVJQQQU",
+      "defenderName": "☆고니☆",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 20,
+      "side": "clan"
+    }
+  ]
+}

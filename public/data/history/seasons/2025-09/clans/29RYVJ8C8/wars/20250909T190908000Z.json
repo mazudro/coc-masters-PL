@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.162Z",
+  "season": "2025-09",
+  "warTag": "29RYVJ8C8-20250909T190908000Z",
+  "startTime": "20250908T190908.000Z",
+  "endTime": "20250909T190908.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 25,
+    "destructionPercentage": 65.4,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#Q02P00C0L",
+        "name": "BarchRushToMax",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#Q02P00C0L",
+            "attackerName": "BarchRushToMax",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#VPU9RYVV",
+            "defenderName": "Veckett!",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 145,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Veckett!"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#PV0JLLVYV",
+            "defenderName": "tomwolf",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 152,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "tomwolf"
+        }
+      },
+      {
+        "tag": "#GJV22VC9",
+        "name": "Stary Kocur",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#GJV22VC9",
+            "attackerName": "Stary Kocur",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#PLGRC28GQ",
+            "defenderName": "HAPPY",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 111,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "HAPPY"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEUSZ KRÓL !!",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEUSZ KRÓL !!",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2Q2QJCGRG",
+            "defenderName": "Jasper Kiel",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 44,
+            "duration": 57,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 44,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "Jasper Kiel"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 16,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 16,
+            "attackerMapPosition": 5,
+            "defenderTag": "#YRY20LJVL",
+            "defenderName": "JasperHD4",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 179,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 6,
+            "defenderTag": "#PPLRYPC2J",
+            "defenderName": "Jasper HD",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 136,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Jasper HD"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P0UP2YQU9",
+            "defenderName": "MaxKiel",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 62,
+            "duration": 140,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 62,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MaxKiel"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YR2CRPP9R",
+            "defenderName": "Strothy109",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Strothy109"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 15,
+            "attackerMapPosition": 9,
+            "defenderTag": "#CG2GRJ88",
+            "defenderName": "stomping",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 68,
+            "duration": 104,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "stomping"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "Mamcorz 2.0",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "Mamcorz 2.0",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8LCR2Y2PV",
+            "defenderName": "Davidosch",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 123,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Davidosch"
+        }
+      },
+      {
+        "tag": "#292QYUVYC",
+        "name": "bielik",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#292QYUVYC",
+            "attackerName": "bielik",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PPCQYQ2Q",
+            "defenderName": "...hh",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 180,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "...hh"
+        }
+      },
+      {
+        "tag": "#LVU2L9VQ9",
+        "name": "warior",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LVU2L9VQ9",
+            "attackerName": "warior",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#29Y8U88G",
+            "defenderName": "santiago",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 130,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "santiago"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#JVCJG02Y",
+            "defenderName": "max_msl",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 48,
+            "duration": 102,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 48,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "max_msl"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 13,
+            "attackerMapPosition": 17,
+            "defenderTag": "#GJPVY9YG",
+            "defenderName": "riffa",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 1,
+            "destructionPercentage": 59,
+            "duration": 146,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "riffa"
+        }
+      },
+      {
+        "tag": "#PV9U0RLPP",
+        "name": "delareq",
+        "townhallLevel": 13,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PV9U0RLPP",
+            "attackerName": "delareq",
+            "attackerTH": 13,
+            "attackerMapPosition": 18,
+            "defenderTag": "#8Y9LQGRGL",
+            "defenderName": "Yolo_boy",
+            "defenderTH": 17,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 55,
+            "duration": 92,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 55,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Yolo_boy"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#P8LYJY82",
+    "name": "KILER 007",
+    "clanLevel": 24,
+    "stars": 35,
+    "destructionPercentage": 83.46666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#VPU9RYVV",
+        "name": "Veckett!",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#VPU9RYVV",
+            "attackerName": "Veckett!",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#Q02P00C0L",
+            "defenderName": "BarchRushToMax",
+            "defenderTH": 17,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 137,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "BarchRushToMax"
+        }
+      },
+      {
+        "tag": "#PV0JLLVYV",
+        "name": "tomwolf",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PV0JLLVYV",
+            "attackerName": "tomwolf",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 152,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#PLGRC28GQ",
+        "name": "HAPPY",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PLGRC28GQ",
+            "attackerName": "HAPPY",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#GJV22VC9",
+            "defenderName": "Stary Kocur",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 151,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "Stary Kocur"
+        }
+      },
+      {
+        "tag": "#2Q2QJCGRG",
+        "name": "Jasper Kiel",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2QJCGRG",
+            "attackerName": "Jasper Kiel",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEUSZ KRÓL !!",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 94,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 44,
+          "attackerName": "MATEUSZ KRÓL !!"
+        }
+      },
+      {
+        "tag": "#YRY20LJVL",
+        "name": "JasperHD4",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YRY20LJVL",
+            "attackerName": "JasperHD4",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#PPLRYPC2J",
+        "name": "Jasper HD",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PPLRYPC2J",
+            "attackerName": "Jasper HD",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 16,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 108,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#P0UP2YQU9",
+        "name": "MaxKiel",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P0UP2YQU9",
+            "attackerName": "MaxKiel",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 84,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 62,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#YR2CRPP9R",
+        "name": "Strothy109",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YR2CRPP9R",
+            "attackerName": "Strothy109",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#CG2GRJ88",
+        "name": "stomping",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#CG2GRJ88",
+            "attackerName": "stomping",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 15,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 125,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 68,
+          "attackerName": "Fi3ipeQ"
+        }
+      },
+      {
+        "tag": "#8LCR2Y2PV",
+        "name": "Davidosch",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8LCR2Y2PV",
+            "attackerName": "Davidosch",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "Mamcorz 2.0",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "Mamcorz 2.0"
+        }
+      },
+      {
+        "tag": "#PPCQYQ2Q",
+        "name": "...hh",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PPCQYQ2Q",
+            "attackerName": "...hh",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#292QYUVYC",
+            "defenderName": "bielik",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "bielik"
+        }
+      },
+      {
+        "tag": "#29Y8U88G",
+        "name": "santiago",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#29Y8U88G",
+            "attackerName": "santiago",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#LVU2L9VQ9",
+            "defenderName": "warior",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 140,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "warior"
+        }
+      },
+      {
+        "tag": "#JVCJG02Y",
+        "name": "max_msl",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#JVCJG02Y",
+            "attackerName": "max_msl",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 48,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#GJPVY9YG",
+        "name": "riffa",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#GJPVY9YG",
+            "attackerName": "riffa",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 13,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 59,
+          "attackerName": "Miki 07"
+        }
+      },
+      {
+        "tag": "#8Y9LQGRGL",
+        "name": "Yolo_boy",
+        "townhallLevel": 17,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#8Y9LQGRGL",
+            "attackerName": "Yolo_boy",
+            "attackerTH": 17,
+            "attackerMapPosition": 20,
+            "defenderTag": "#PV9U0RLPP",
+            "defenderName": "delareq",
+            "defenderTH": 13,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 55,
+          "attackerName": "delareq"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YR2CRPP9R",
+      "defenderName": "Strothy109",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#292QYUVYC",
+      "attackerName": "bielik",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PPCQYQ2Q",
+      "defenderName": "...hh",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 180,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q02P00C0L",
+      "attackerName": "BarchRushToMax",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#VPU9RYVV",
+      "defenderName": "Veckett!",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 145,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEUSZ KRÓL !!",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2Q2QJCGRG",
+      "defenderName": "Jasper Kiel",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 44,
+      "duration": 57,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8Y9LQGRGL",
+      "attackerName": "Yolo_boy",
+      "attackerTH": 17,
+      "attackerMapPosition": 20,
+      "defenderTag": "#PV9U0RLPP",
+      "defenderName": "delareq",
+      "defenderTH": 13,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PLGRC28GQ",
+      "attackerName": "HAPPY",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#GJV22VC9",
+      "defenderName": "Stary Kocur",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 151,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#JVCJG02Y",
+      "defenderName": "max_msl",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 48,
+      "duration": 102,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 15,
+      "attackerMapPosition": 9,
+      "defenderTag": "#CG2GRJ88",
+      "defenderName": "stomping",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 68,
+      "duration": 104,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#JVCJG02Y",
+      "attackerName": "max_msl",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GJPVY9YG",
+      "attackerName": "riffa",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 13,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PV0JLLVYV",
+      "attackerName": "tomwolf",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 152,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VPU9RYVV",
+      "attackerName": "Veckett!",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#Q02P00C0L",
+      "defenderName": "BarchRushToMax",
+      "defenderTH": 17,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 137,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P0UP2YQU9",
+      "defenderName": "MaxKiel",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 62,
+      "duration": 140,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LCR2Y2PV",
+      "attackerName": "Davidosch",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "Mamcorz 2.0",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YR2CRPP9R",
+      "attackerName": "Strothy109",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 6,
+      "defenderTag": "#PPLRYPC2J",
+      "defenderName": "Jasper HD",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 136,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PV9U0RLPP",
+      "attackerName": "delareq",
+      "attackerTH": 13,
+      "attackerMapPosition": 18,
+      "defenderTag": "#8Y9LQGRGL",
+      "defenderName": "Yolo_boy",
+      "defenderTH": 17,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 55,
+      "duration": 92,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LVU2L9VQ9",
+      "attackerName": "warior",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#29Y8U88G",
+      "defenderName": "santiago",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 130,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPCQYQ2Q",
+      "attackerName": "...hh",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#292QYUVYC",
+      "defenderName": "bielik",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CG2GRJ88",
+      "attackerName": "stomping",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 15,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 125,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "Mamcorz 2.0",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8LCR2Y2PV",
+      "defenderName": "Davidosch",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 123,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 16,
+      "attackerMapPosition": 5,
+      "defenderTag": "#YRY20LJVL",
+      "defenderName": "JasperHD4",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 179,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJV22VC9",
+      "attackerName": "Stary Kocur",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#PLGRC28GQ",
+      "defenderName": "HAPPY",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 111,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 13,
+      "attackerMapPosition": 17,
+      "defenderTag": "#GJPVY9YG",
+      "defenderName": "riffa",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 1,
+      "destructionPercentage": 59,
+      "duration": 146,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2QJCGRG",
+      "attackerName": "Jasper Kiel",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEUSZ KRÓL !!",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 94,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PPLRYPC2J",
+      "attackerName": "Jasper HD",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 16,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 108,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P0UP2YQU9",
+      "attackerName": "MaxKiel",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 84,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#PV0JLLVYV",
+      "defenderName": "tomwolf",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 152,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YRY20LJVL",
+      "attackerName": "JasperHD4",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29Y8U88G",
+      "attackerName": "santiago",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#LVU2L9VQ9",
+      "defenderName": "warior",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 140,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.748Z",
+  "season": "2023-12",
+  "warTag": "P0J2J8GJ-20231208T191343000Z",
+  "startTime": "20231207T191343.000Z",
+  "endTime": "20231208T191343.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 22,
+    "stars": 35,
+    "destructionPercentage": 92.73333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9L92CQ22Y",
+            "defenderName": "Father Of COC",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 130,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "md faysal l♥U"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8V09L022J",
+            "defenderName": "md faysal l♥U",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 100,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 58,
+          "attackerName": "The Beast"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9P0CVPR2P",
+            "defenderName": "Ah Tanbir",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 158,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "Rabiul Islam"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#9LU9C0PVC",
+            "defenderName": "Raju",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 152,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "md faysal"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9CL2J0UJR",
+            "defenderName": "SP SoUrAv vAyA",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 96,
+            "duration": 179,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "Father Of COC"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LYJLUGPLC",
+            "defenderName": "md faysal",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 54,
+          "attackerName": "SP SoUrAv vAyA"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#8LG0GVRRG",
+            "defenderName": "Brother",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 153,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Raju"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#PVGRUCY9U",
+            "defenderName": "imran khan 2",
+            "defenderTH": 14,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 145,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 78,
+          "attackerName": "MD Arif"
+        }
+      },
+      {
+        "tag": "#2QYJJGP8V",
+        "name": "ROMAN",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2QYJJGP8V",
+            "attackerName": "ROMAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#8JRJ80P8U",
+            "defenderName": "Rabiul Islam",
+            "defenderTH": 14,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Kn!GhT_K!nG"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PYYQQYRQL",
+            "defenderName": "MD Arif",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "imran khan 2"
+        }
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9Q8L0GRPU",
+            "defenderName": "Kn!GhT_K!nG",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 1,
+            "destructionPercentage": 97,
+            "duration": 154,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Brother"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#98QPYY9C9",
+            "defenderName": "Şuper Ķíļļèr",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "Şuper Ķíļļèr"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8V2GRV9Y9",
+            "defenderName": "A.A.Fadak",
+            "defenderTH": 14,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 129,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "A.A.Fadak"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#Q88U2029J",
+            "defenderName": "The Beast",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ah Tanbir"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#8CQURY8VP",
+            "defenderName": "BD KING IMRAN",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 130,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BD KING IMRAN"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#R2222Y0G",
+    "name": "**JUST FOR U***",
+    "clanLevel": 17,
+    "stars": 34,
+    "destructionPercentage": 85.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#9L92CQ22Y",
+        "name": "Father Of COC",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9L92CQ22Y",
+            "attackerName": "Father Of COC",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 145,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#8V09L022J",
+        "name": "md faysal l♥U",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8V09L022J",
+            "attackerName": "md faysal l♥U",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 171,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#9P0CVPR2P",
+        "name": "Ah Tanbir",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9P0CVPR2P",
+            "attackerName": "Ah Tanbir",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#9LU9C0PVC",
+        "name": "Raju",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9LU9C0PVC",
+            "attackerName": "Raju",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#9CL2J0UJR",
+        "name": "SP SoUrAv vAyA",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9CL2J0UJR",
+            "attackerName": "SP SoUrAv vAyA",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 54,
+            "duration": 92,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 54,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 96,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#LYJLUGPLC",
+        "name": "md faysal",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LYJLUGPLC",
+            "attackerName": "md faysal",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#8LG0GVRRG",
+        "name": "Brother",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8LG0GVRRG",
+            "attackerName": "Brother",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 164,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#PVGRUCY9U",
+        "name": "imran khan 2",
+        "townhallLevel": 14,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PVGRUCY9U",
+            "attackerName": "imran khan 2",
+            "attackerTH": 14,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 139,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#8JRJ80P8U",
+        "name": "Rabiul Islam",
+        "townhallLevel": 14,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8JRJ80P8U",
+            "attackerName": "Rabiul Islam",
+            "attackerTH": 14,
+            "attackerMapPosition": 11,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 107,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ROMAN"
+        }
+      },
+      {
+        "tag": "#PYYQQYRQL",
+        "name": "MD Arif",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PYYQQYRQL",
+            "attackerName": "MD Arif",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 1,
+            "destructionPercentage": 78,
+            "duration": 157,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#9Q8L0GRPU",
+        "name": "Kn!GhT_K!nG",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9Q8L0GRPU",
+            "attackerName": "Kn!GhT_K!nG",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2QYJJGP8V",
+            "defenderName": "ROMAN",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 156,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 97,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#98QPYY9C9",
+        "name": "Şuper Ķíļļèr",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#98QPYY9C9",
+            "attackerName": "Şuper Ķíļļèr",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 130,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#8V2GRV9Y9",
+        "name": "A.A.Fadak",
+        "townhallLevel": 14,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8V2GRV9Y9",
+            "attackerName": "A.A.Fadak",
+            "attackerTH": 14,
+            "attackerMapPosition": 15,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 131,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#Q88U2029J",
+        "name": "The Beast",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q88U2029J",
+            "attackerName": "The Beast",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 58,
+            "duration": 108,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#8CQURY8VP",
+        "name": "BD KING IMRAN",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8CQURY8VP",
+            "attackerName": "BD KING IMRAN",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 114,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Martha"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8V09L022J",
+      "attackerName": "md faysal l♥U",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 171,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LYJLUGPLC",
+      "attackerName": "md faysal",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#8LG0GVRRG",
+      "defenderName": "Brother",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 153,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9LU9C0PVC",
+      "attackerName": "Raju",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8V2GRV9Y9",
+      "attackerName": "A.A.Fadak",
+      "attackerTH": 14,
+      "attackerMapPosition": 15,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 131,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9Q8L0GRPU",
+      "defenderName": "Kn!GhT_K!nG",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 1,
+      "destructionPercentage": 97,
+      "duration": 154,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#PVGRUCY9U",
+      "defenderName": "imran khan 2",
+      "defenderTH": 14,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 145,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PYYQQYRQL",
+      "attackerName": "MD Arif",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 1,
+      "destructionPercentage": 78,
+      "duration": 157,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98QPYY9C9",
+      "attackerName": "Şuper Ķíļļèr",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 130,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#98QPYY9C9",
+      "defenderName": "Şuper Ķíļļèr",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9L92CQ22Y",
+      "attackerName": "Father Of COC",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 145,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8CQURY8VP",
+      "attackerName": "BD KING IMRAN",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 114,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8V2GRV9Y9",
+      "defenderName": "A.A.Fadak",
+      "defenderTH": 14,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 129,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9CL2J0UJR",
+      "defenderName": "SP SoUrAv vAyA",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 96,
+      "duration": 179,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVGRUCY9U",
+      "attackerName": "imran khan 2",
+      "attackerTH": 14,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#Q88U2029J",
+      "defenderName": "The Beast",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8LG0GVRRG",
+      "attackerName": "Brother",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 164,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LYJLUGPLC",
+      "defenderName": "md faysal",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9L92CQ22Y",
+      "defenderName": "Father Of COC",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 130,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9P0CVPR2P",
+      "defenderName": "Ah Tanbir",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 158,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#8CQURY8VP",
+      "defenderName": "BD KING IMRAN",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 130,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QYJJGP8V",
+      "attackerName": "ROMAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#8JRJ80P8U",
+      "defenderName": "Rabiul Islam",
+      "defenderTH": 14,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 139,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CL2J0UJR",
+      "attackerName": "SP SoUrAv vAyA",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 54,
+      "duration": 92,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8V09L022J",
+      "defenderName": "md faysal l♥U",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 100,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q88U2029J",
+      "attackerName": "The Beast",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 58,
+      "duration": 108,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#9LU9C0PVC",
+      "defenderName": "Raju",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 152,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8JRJ80P8U",
+      "attackerName": "Rabiul Islam",
+      "attackerTH": 14,
+      "attackerMapPosition": 11,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 107,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9P0CVPR2P",
+      "attackerName": "Ah Tanbir",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9Q8L0GRPU",
+      "attackerName": "Kn!GhT_K!nG",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2QYJJGP8V",
+      "defenderName": "ROMAN",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 156,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PYYQQYRQL",
+      "defenderName": "MD Arif",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

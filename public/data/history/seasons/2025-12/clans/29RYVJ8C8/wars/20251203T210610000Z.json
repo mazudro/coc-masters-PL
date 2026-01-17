@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.212Z",
+  "season": "2025-12",
+  "warTag": "29RYVJ8C8-20251203T210610000Z",
+  "startTime": "20251202T200538.000Z",
+  "endTime": "20251203T210610.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 26,
+    "destructionPercentage": 72.46666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#88QQJLVPG",
+            "defenderName": "المدمره هدئ",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 124,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "المدمره هدئ"
+        }
+      },
+      {
+        "tag": "#LL80CV9PC",
+        "name": "EdWards",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LL80CV9PC",
+            "attackerName": "EdWards",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#PC0QL8CGV",
+            "defenderName": "الاوراس",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 180,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "الاوراس"
+        }
+      },
+      {
+        "tag": "#8L9P2P8R9",
+        "name": "MAKS",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8L9P2P8R9",
+            "attackerName": "MAKS",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9Y0CVU99J",
+            "defenderName": "اﻷسدالنداوي",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 180,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "أبو سمره 1"
+        }
+      },
+      {
+        "tag": "#L8GG2R0GV",
+        "name": "Bartosz4255",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L8GG2R0GV",
+            "attackerName": "Bartosz4255",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#28GRCY2QP",
+            "defenderName": "حسين الاسد 22",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 1,
+            "destructionPercentage": 74,
+            "duration": 113,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "المنتقيم"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QCLLPVRCP",
+            "defenderName": "أبو سمره 1",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "حسين الاسد 22"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PCGYCUCJP",
+            "defenderName": "دموع الورد",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 178,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "دموع الورد"
+        }
+      },
+      {
+        "tag": "#2P022Q08U",
+        "name": "#KorNiszon",
+        "townhallLevel": 16,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2P022Q08U",
+            "attackerName": "#KorNiszon",
+            "attackerTH": 16,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YRQVR2Y9",
+            "defenderName": "البرنس",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 108,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "عباس العزاوي"
+        }
+      },
+      {
+        "tag": "#LPY0YR2PG",
+        "name": "Profesor",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LPY0YR2PG",
+            "attackerName": "Profesor",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#Y28RRYLCQ",
+            "defenderName": "عباس العزاوي",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 1,
+            "destructionPercentage": 60,
+            "duration": 80,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "الاسد"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#98UJ8LP2C",
+            "defenderName": "الاسد",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 36,
+          "attackerName": "القياده"
+        }
+      },
+      {
+        "tag": "#L9L20YG2",
+        "name": "IMPERATOR",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#L9L20YG2",
+            "attackerName": "IMPERATOR",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QVYQYJJ9Y",
+            "defenderName": "Heil of IRAQ",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 106,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "اﻷسدالنداوي"
+        }
+      },
+      {
+        "tag": "#9CQC8YRVY",
+        "name": "-DYKTATOR-",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9CQC8YRVY",
+            "attackerName": "-DYKTATOR-",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#Y0PLLCRCQ",
+            "defenderName": "حسوني التركي",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "حسوني التركي"
+        }
+      },
+      {
+        "tag": "#LVU2L9VQ9",
+        "name": "warior",
+        "townhallLevel": 16,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LVU2L9VQ9",
+            "attackerName": "warior",
+            "attackerTH": 16,
+            "attackerMapPosition": 15,
+            "defenderTag": "#800QV0Q0R",
+            "defenderName": "القياده",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 155,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "عباس المنتقم"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#20YC8V29V",
+            "defenderName": "كمال2",
+            "defenderTH": 16,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 169,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "كمال2"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#P0VLCVPCP",
+            "defenderName": "عباس المنتقم",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 1,
+            "destructionPercentage": 71,
+            "duration": 162,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Heil of IRAQ"
+        }
+      },
+      {
+        "tag": "#8VYL0G8VY",
+        "name": "Dawid2",
+        "townhallLevel": 12,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#8VYL0G8VY",
+            "attackerName": "Dawid2",
+            "attackerTH": 12,
+            "attackerMapPosition": 21,
+            "defenderTag": "#YRQVR2Y9",
+            "defenderName": "البرنس",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 1,
+            "destructionPercentage": 34,
+            "duration": 81,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 34,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "البرنس"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2V0G98LG",
+    "name": "قبيله الئسود",
+    "clanLevel": 25,
+    "stars": 37,
+    "destructionPercentage": 91.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#88QQJLVPG",
+        "name": "المدمره هدئ",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#88QQJLVPG",
+            "attackerName": "المدمره هدئ",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#PC0QL8CGV",
+        "name": "الاوراس",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#PC0QL8CGV",
+            "attackerName": "الاوراس",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LL80CV9PC",
+            "defenderName": "EdWards",
+            "defenderTH": 17,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 180,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "EdWards"
+        }
+      },
+      {
+        "tag": "#9YU08UQGC",
+        "name": "المنتقيم",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9YU08UQGC",
+            "attackerName": "المنتقيم",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L8GG2R0GV",
+            "defenderName": "Bartosz4255",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#28GRCY2QP",
+        "name": "حسين الاسد 22",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#28GRCY2QP",
+            "attackerName": "حسين الاسد 22",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 168,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 74,
+          "attackerName": "Bartosz4255"
+        }
+      },
+      {
+        "tag": "#QCLLPVRCP",
+        "name": "أبو سمره 1",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QCLLPVRCP",
+            "attackerName": "أبو سمره 1",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8L9P2P8R9",
+            "defenderName": "MAKS",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#PCGYCUCJP",
+        "name": "دموع الورد",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PCGYCUCJP",
+            "attackerName": "دموع الورد",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 113,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#Y28RRYLCQ",
+        "name": "عباس العزاوي",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Y28RRYLCQ",
+            "attackerName": "عباس العزاوي",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2P022Q08U",
+            "defenderName": "#KorNiszon",
+            "defenderTH": 16,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 60,
+          "attackerName": "Profesor"
+        }
+      },
+      {
+        "tag": "#9Y0CVU99J",
+        "name": "اﻷسدالنداوي",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9Y0CVU99J",
+            "attackerName": "اﻷسدالنداوي",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#L9L20YG2",
+            "defenderName": "IMPERATOR",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "MAKS"
+        }
+      },
+      {
+        "tag": "#98UJ8LP2C",
+        "name": "الاسد",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#98UJ8LP2C",
+            "attackerName": "الاسد",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LPY0YR2PG",
+            "defenderName": "Profesor",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#QVYQYJJ9Y",
+        "name": "Heil of IRAQ",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QVYQYJJ9Y",
+            "attackerName": "Heil of IRAQ",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 95,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "IMPERATOR"
+        }
+      },
+      {
+        "tag": "#Y0PLLCRCQ",
+        "name": "حسوني التركي",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y0PLLCRCQ",
+            "attackerName": "حسوني التركي",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#9CQC8YRVY",
+            "defenderName": "-DYKTATOR-",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "-DYKTATOR-"
+        }
+      },
+      {
+        "tag": "#800QV0Q0R",
+        "name": "القياده",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#800QV0Q0R",
+            "attackerName": "القياده",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 36,
+            "duration": 102,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 36,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "warior"
+        }
+      },
+      {
+        "tag": "#20YC8V29V",
+        "name": "كمال2",
+        "townhallLevel": 16,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#20YC8V29V",
+            "attackerName": "كمال2",
+            "attackerTH": 16,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 112,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#P0VLCVPCP",
+        "name": "عباس المنتقم",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#P0VLCVPCP",
+            "attackerName": "عباس المنتقم",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LVU2L9VQ9",
+            "defenderName": "warior",
+            "defenderTH": 16,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 71,
+          "attackerName": "Miki 07"
+        }
+      },
+      {
+        "tag": "#YRQVR2Y9",
+        "name": "البرنس",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YRQVR2Y9",
+            "attackerName": "البرنس",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8VYL0G8VY",
+            "defenderName": "Dawid2",
+            "defenderTH": 12,
+            "defenderMapPosition": 21,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 72,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "#KorNiszon"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#PCGYCUCJP",
+      "attackerName": "دموع الورد",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 113,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#P0VLCVPCP",
+      "defenderName": "عباس المنتقم",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 1,
+      "destructionPercentage": 71,
+      "duration": 162,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#20YC8V29V",
+      "attackerName": "كمال2",
+      "attackerTH": 16,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 112,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9CQC8YRVY",
+      "attackerName": "-DYKTATOR-",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#Y0PLLCRCQ",
+      "defenderName": "حسوني التركي",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L9L20YG2",
+      "attackerName": "IMPERATOR",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QVYQYJJ9Y",
+      "defenderName": "Heil of IRAQ",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 106,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#98UJ8LP2C",
+      "defenderName": "الاسد",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#88QQJLVPG",
+      "attackerName": "المدمره هدئ",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PC0QL8CGV",
+      "attackerName": "الاوراس",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LL80CV9PC",
+      "defenderName": "EdWards",
+      "defenderTH": 17,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 180,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YRQVR2Y9",
+      "attackerName": "البرنس",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8VYL0G8VY",
+      "defenderName": "Dawid2",
+      "defenderTH": 12,
+      "defenderMapPosition": 21,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 72,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8L9P2P8R9",
+      "attackerName": "MAKS",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9Y0CVU99J",
+      "defenderName": "اﻷسدالنداوي",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 180,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8VYL0G8VY",
+      "attackerName": "Dawid2",
+      "attackerTH": 12,
+      "attackerMapPosition": 21,
+      "defenderTag": "#YRQVR2Y9",
+      "defenderName": "البرنس",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 1,
+      "destructionPercentage": 34,
+      "duration": 81,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#88QQJLVPG",
+      "defenderName": "المدمره هدئ",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 124,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QCLLPVRCP",
+      "attackerName": "أبو سمره 1",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8L9P2P8R9",
+      "defenderName": "MAKS",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9YU08UQGC",
+      "attackerName": "المنتقيم",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L8GG2R0GV",
+      "defenderName": "Bartosz4255",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L8GG2R0GV",
+      "attackerName": "Bartosz4255",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#28GRCY2QP",
+      "defenderName": "حسين الاسد 22",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 1,
+      "destructionPercentage": 74,
+      "duration": 113,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#20YC8V29V",
+      "defenderName": "كمال2",
+      "defenderTH": 16,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 169,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y28RRYLCQ",
+      "attackerName": "عباس العزاوي",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2P022Q08U",
+      "defenderName": "#KorNiszon",
+      "defenderTH": 16,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LVU2L9VQ9",
+      "attackerName": "warior",
+      "attackerTH": 16,
+      "attackerMapPosition": 15,
+      "defenderTag": "#800QV0Q0R",
+      "defenderName": "القياده",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 155,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#800QV0Q0R",
+      "attackerName": "القياده",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 36,
+      "duration": 102,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPY0YR2PG",
+      "attackerName": "Profesor",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#Y28RRYLCQ",
+      "defenderName": "عباس العزاوي",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 1,
+      "destructionPercentage": 60,
+      "duration": 80,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LL80CV9PC",
+      "attackerName": "EdWards",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#PC0QL8CGV",
+      "defenderName": "الاوراس",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 180,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QCLLPVRCP",
+      "defenderName": "أبو سمره 1",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#28GRCY2QP",
+      "attackerName": "حسين الاسد 22",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 168,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9Y0CVU99J",
+      "attackerName": "اﻷسدالنداوي",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#L9L20YG2",
+      "defenderName": "IMPERATOR",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P022Q08U",
+      "attackerName": "#KorNiszon",
+      "attackerTH": 16,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YRQVR2Y9",
+      "defenderName": "البرنس",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 108,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98UJ8LP2C",
+      "attackerName": "الاسد",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LPY0YR2PG",
+      "defenderName": "Profesor",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y0PLLCRCQ",
+      "attackerName": "حسوني التركي",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#9CQC8YRVY",
+      "defenderName": "-DYKTATOR-",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PCGYCUCJP",
+      "defenderName": "دموع الورد",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 178,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P0VLCVPCP",
+      "attackerName": "عباس المنتقم",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LVU2L9VQ9",
+      "defenderName": "warior",
+      "defenderTH": 16,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QVYQYJJ9Y",
+      "attackerName": "Heil of IRAQ",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 95,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

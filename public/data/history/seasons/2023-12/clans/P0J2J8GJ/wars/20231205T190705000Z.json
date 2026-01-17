@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.748Z",
+  "season": "2023-12",
+  "warTag": "P0J2J8GJ-20231205T190705000Z",
+  "startTime": "20231204T190705.000Z",
+  "endTime": "20231205T190705.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#P0J2J8GJ",
+    "name": "coc masters PL",
+    "clanLevel": 22,
+    "stars": 29,
+    "destructionPercentage": 74.26666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#PVG0Y0PP0",
+        "name": "ArturLic32",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PVG0Y0PP0",
+            "attackerName": "ArturLic32",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#YGCCYUCLV",
+            "defenderName": "Pumike",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 109,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "Niklas"
+        }
+      },
+      {
+        "tag": "#LP2P2L002",
+        "name": "wscielky bili",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LP2P2L002",
+            "attackerName": "wscielky bili",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#2LYVQGRGJ",
+            "defenderName": "Max",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 0,
+            "destructionPercentage": 49,
+            "duration": 120,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 49,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Emre 2.0"
+        }
+      },
+      {
+        "tag": "#L999C9G8",
+        "name": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#L999C9G8",
+            "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Y08QLJU8",
+            "defenderName": "puma 2",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 176,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 48,
+          "attackerName": "LUK"
+        }
+      },
+      {
+        "tag": "#802R9V99J",
+        "name": "Pedro",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#802R9V99J",
+            "attackerName": "Pedro",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2GU8VL00",
+            "defenderName": "NOBODY",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "NOBODY"
+        }
+      },
+      {
+        "tag": "#20QRJRPR2",
+        "name": "Mejdej",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#20QRJRPR2",
+            "attackerName": "Mejdej",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#9CLYGGGR8",
+            "defenderName": "alex2503",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 88,
+            "duration": 134,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "alex2503"
+        }
+      },
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2QR98Q2",
+            "defenderName": "Emre",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 174,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 48,
+          "attackerName": "ndy"
+        }
+      },
+      {
+        "tag": "#902RJR00V",
+        "name": "MikeW",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#902RJR00V",
+            "attackerName": "MikeW",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#PLP08ULV2",
+            "defenderName": "puma 3",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 141,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "puma 3"
+        }
+      },
+      {
+        "tag": "#GJ20LVR",
+        "name": "Shadow",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJ20LVR",
+            "attackerName": "Shadow",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#YR80VRV2G",
+            "defenderName": "Puma 1",
+            "defenderTH": 15,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 153,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 82,
+          "attackerName": "Max"
+        }
+      },
+      {
+        "tag": "#2QYJJGP8V",
+        "name": "ROMAN",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2QYJJGP8V",
+            "attackerName": "ROMAN",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#YUGQQRP02",
+            "defenderName": "Niklas",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 100,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#2RGGCQY8J",
+        "name": "Legend",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2RGGCQY8J",
+            "attackerName": "Legend",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#Y98UPP0UQ",
+            "defenderName": "jonas",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 118,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "jonas"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#82VCP0Q0L",
+            "defenderName": "Lars",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 44,
+          "attackerName": "Puma"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 14,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 14,
+            "attackerMapPosition": 13,
+            "defenderTag": "#GQQRCV0U",
+            "defenderName": "ndy",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 99,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Lars"
+        }
+      },
+      {
+        "tag": "#YPG8QQ280",
+        "name": "King Motyl",
+        "townhallLevel": 14,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YPG8QQ280",
+            "attackerName": "King Motyl",
+            "attackerTH": 14,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LVU0G8C9Y",
+            "defenderName": "Puma",
+            "defenderTH": 14,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 109,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "puma 2"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#YGRR9JR9",
+            "defenderName": "LUK",
+            "defenderTH": 14,
+            "defenderMapPosition": 20,
+            "stars": 1,
+            "destructionPercentage": 88,
+            "duration": 130,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 88,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pumike"
+        }
+      },
+      {
+        "tag": "#9V2QJUV0V",
+        "name": "Martha",
+        "townhallLevel": 14,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#9V2QJUV0V",
+            "attackerName": "Martha",
+            "attackerTH": 14,
+            "attackerMapPosition": 18,
+            "defenderTag": "#YVJ9CC09",
+            "defenderName": "Emre 2.0",
+            "defenderTH": 14,
+            "defenderMapPosition": 22,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 106,
+            "order": 13,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Emre"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#22YVGRYPC",
+    "name": "The Pumaniens",
+    "clanLevel": 21,
+    "stars": 29,
+    "destructionPercentage": 71.2,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#YGCCYUCLV",
+        "name": "Pumike",
+        "townhallLevel": 15,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YGCCYUCLV",
+            "attackerName": "Pumike",
+            "attackerTH": 15,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 86,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "ArturLic32"
+        }
+      },
+      {
+        "tag": "#2LYVQGRGJ",
+        "name": "Max",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2LYVQGRGJ",
+            "attackerName": "Max",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#GJ20LVR",
+            "defenderName": "Shadow",
+            "defenderTH": 15,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 82,
+            "duration": 179,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 82,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 0,
+          "destructionPercentage": 49,
+          "attackerName": "wscielky bili"
+        }
+      },
+      {
+        "tag": "#Y08QLJU8",
+        "name": "puma 2",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Y08QLJU8",
+            "attackerName": "puma 2",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#YPG8QQ280",
+            "defenderName": "King Motyl",
+            "defenderTH": 14,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ"
+        }
+      },
+      {
+        "tag": "#2GU8VL00",
+        "name": "NOBODY",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2GU8VL00",
+            "attackerName": "NOBODY",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#802R9V99J",
+            "defenderName": "Pedro",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 133,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pedro"
+        }
+      },
+      {
+        "tag": "#9CLYGGGR8",
+        "name": "alex2503",
+        "townhallLevel": 15,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9CLYGGGR8",
+            "attackerName": "alex2503",
+            "attackerTH": 15,
+            "attackerMapPosition": 6,
+            "defenderTag": "#20QRJRPR2",
+            "defenderName": "Mejdej",
+            "defenderTH": 15,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 88,
+          "attackerName": "Mejdej"
+        }
+      },
+      {
+        "tag": "#2QR98Q2",
+        "name": "Emre",
+        "townhallLevel": 15,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2QR98Q2",
+            "attackerName": "Emre",
+            "attackerTH": 15,
+            "attackerMapPosition": 7,
+            "defenderTag": "#9V2QJUV0V",
+            "defenderName": "Martha",
+            "defenderTH": 14,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#PLP08ULV2",
+        "name": "puma 3",
+        "townhallLevel": 15,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PLP08ULV2",
+            "attackerName": "puma 3",
+            "attackerTH": 15,
+            "attackerMapPosition": 8,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "MikeW"
+        }
+      },
+      {
+        "tag": "#YR80VRV2G",
+        "name": "Puma 1",
+        "townhallLevel": 15,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#YR80VRV2G",
+            "attackerName": "Puma 1",
+            "attackerTH": 15,
+            "attackerMapPosition": 9,
+            "defenderTag": "#902RJR00V",
+            "defenderName": "MikeW",
+            "defenderTH": 15,
+            "defenderMapPosition": 7,
+            "stars": 0,
+            "destructionPercentage": 43,
+            "duration": 98,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 0,
+        "destruction": 43,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Shadow"
+        }
+      },
+      {
+        "tag": "#YUGQQRP02",
+        "name": "Niklas",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YUGQQRP02",
+            "attackerName": "Niklas",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#PVG0Y0PP0",
+            "defenderName": "ArturLic32",
+            "defenderTH": 15,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 88,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "ROMAN"
+        }
+      },
+      {
+        "tag": "#Y98UPP0UQ",
+        "name": "jonas",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Y98UPP0UQ",
+            "attackerName": "jonas",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2RGGCQY8J",
+            "defenderName": "Legend",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 107,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Legend"
+        }
+      },
+      {
+        "tag": "#82VCP0Q0L",
+        "name": "Lars",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#82VCP0Q0L",
+            "attackerName": "Lars",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 14,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 75,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#GQQRCV0U",
+        "name": "ndy",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#GQQRCV0U",
+            "attackerName": "ndy",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 15,
+            "defenderMapPosition": 6,
+            "stars": 0,
+            "destructionPercentage": 48,
+            "duration": 76,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 0,
+        "destruction": 48,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#LVU0G8C9Y",
+        "name": "Puma",
+        "townhallLevel": 14,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LVU0G8C9Y",
+            "attackerName": "Puma",
+            "attackerTH": 14,
+            "attackerMapPosition": 19,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 44,
+            "duration": 69,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 44,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "King Motyl"
+        }
+      },
+      {
+        "tag": "#YGRR9JR9",
+        "name": "LUK",
+        "townhallLevel": 14,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YGRR9JR9",
+            "attackerName": "LUK",
+            "attackerTH": 14,
+            "attackerMapPosition": 20,
+            "defenderTag": "#L999C9G8",
+            "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 48,
+            "duration": 72,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 48,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 88,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#YVJ9CC09",
+        "name": "Emre 2.0",
+        "townhallLevel": 14,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#YVJ9CC09",
+            "attackerName": "Emre 2.0",
+            "attackerTH": 14,
+            "attackerMapPosition": 22,
+            "defenderTag": "#LP2P2L002",
+            "defenderName": "wscielky bili",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 103,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "Martha"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#2GU8VL00",
+      "attackerName": "NOBODY",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#802R9V99J",
+      "defenderName": "Pedro",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 133,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#902RJR00V",
+      "attackerName": "MikeW",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#PLP08ULV2",
+      "defenderName": "puma 3",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 141,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CLYGGGR8",
+      "attackerName": "alex2503",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#20QRJRPR2",
+      "defenderName": "Mejdej",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGRR9JR9",
+      "attackerName": "LUK",
+      "attackerTH": 14,
+      "attackerMapPosition": 20,
+      "defenderTag": "#L999C9G8",
+      "defenderName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 48,
+      "duration": 72,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y98UPP0UQ",
+      "attackerName": "jonas",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2RGGCQY8J",
+      "defenderName": "Legend",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 107,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YUGQQRP02",
+      "attackerName": "Niklas",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#PVG0Y0PP0",
+      "defenderName": "ArturLic32",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 88,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YGCCYUCLV",
+      "attackerName": "Pumike",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 86,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2QR98Q2",
+      "attackerName": "Emre",
+      "attackerTH": 15,
+      "attackerMapPosition": 7,
+      "defenderTag": "#9V2QJUV0V",
+      "defenderName": "Martha",
+      "defenderTH": 14,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YVJ9CC09",
+      "attackerName": "Emre 2.0",
+      "attackerTH": 14,
+      "attackerMapPosition": 22,
+      "defenderTag": "#LP2P2L002",
+      "defenderName": "wscielky bili",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 103,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 14,
+      "attackerMapPosition": 13,
+      "defenderTag": "#GQQRCV0U",
+      "defenderName": "ndy",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 99,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#82VCP0Q0L",
+      "attackerName": "Lars",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 14,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 75,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y08QLJU8",
+      "attackerName": "puma 2",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#YPG8QQ280",
+      "defenderName": "King Motyl",
+      "defenderTH": 14,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9V2QJUV0V",
+      "attackerName": "Martha",
+      "attackerTH": 14,
+      "attackerMapPosition": 18,
+      "defenderTag": "#YVJ9CC09",
+      "defenderName": "Emre 2.0",
+      "defenderTH": 14,
+      "defenderMapPosition": 22,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 106,
+      "order": 13,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LP2P2L002",
+      "attackerName": "wscielky bili",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#2LYVQGRGJ",
+      "defenderName": "Max",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 0,
+      "destructionPercentage": 49,
+      "duration": 120,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2QYJJGP8V",
+      "attackerName": "ROMAN",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#YUGQQRP02",
+      "defenderName": "Niklas",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 100,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPG8QQ280",
+      "attackerName": "King Motyl",
+      "attackerTH": 14,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LVU0G8C9Y",
+      "defenderName": "Puma",
+      "defenderTH": 14,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 109,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR80VRV2G",
+      "attackerName": "Puma 1",
+      "attackerTH": 15,
+      "attackerMapPosition": 9,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 0,
+      "destructionPercentage": 43,
+      "duration": 98,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LVU0G8C9Y",
+      "attackerName": "Puma",
+      "attackerTH": 14,
+      "attackerMapPosition": 19,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 44,
+      "duration": 69,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PLP08ULV2",
+      "attackerName": "puma 3",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#902RJR00V",
+      "defenderName": "MikeW",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVG0Y0PP0",
+      "attackerName": "ArturLic32",
+      "attackerTH": 15,
+      "attackerMapPosition": 1,
+      "defenderTag": "#YGCCYUCLV",
+      "defenderName": "Pumike",
+      "defenderTH": 15,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 109,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#YGRR9JR9",
+      "defenderName": "LUK",
+      "defenderTH": 14,
+      "defenderMapPosition": 20,
+      "stars": 1,
+      "destructionPercentage": 88,
+      "duration": 130,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GQQRCV0U",
+      "attackerName": "ndy",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 0,
+      "destructionPercentage": 48,
+      "duration": 76,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2LYVQGRGJ",
+      "attackerName": "Max",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#GJ20LVR",
+      "defenderName": "Shadow",
+      "defenderTH": 15,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 82,
+      "duration": 179,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20QRJRPR2",
+      "attackerName": "Mejdej",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#9CLYGGGR8",
+      "defenderName": "alex2503",
+      "defenderTH": 15,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 88,
+      "duration": 134,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 15,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2QR98Q2",
+      "defenderName": "Emre",
+      "defenderTH": 15,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 174,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ20LVR",
+      "attackerName": "Shadow",
+      "attackerTH": 15,
+      "attackerMapPosition": 8,
+      "defenderTag": "#YR80VRV2G",
+      "defenderName": "Puma 1",
+      "defenderTH": 15,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 153,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RGGCQY8J",
+      "attackerName": "Legend",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#Y98UPP0UQ",
+      "defenderName": "jonas",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 118,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#802R9V99J",
+      "attackerName": "Pedro",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2GU8VL00",
+      "defenderName": "NOBODY",
+      "defenderTH": 15,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#82VCP0Q0L",
+      "defenderName": "Lars",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L999C9G8",
+      "attackerName": "ツ꧁༺ʟᴜɪɢɪ༻꧂ツ",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Y08QLJU8",
+      "defenderName": "puma 2",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 176,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

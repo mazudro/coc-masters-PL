@@ -1,0 +1,1396 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.497Z",
+  "season": "2025-06",
+  "warTag": "JPRPRVUY-20250606T213722000Z",
+  "startTime": "20250605T213722.000Z",
+  "endTime": "20250606T213722.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 22,
+    "stars": 40,
+    "destructionPercentage": 92.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 17,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 17,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2Y80VY0U8",
+            "defenderName": "Akbal 001",
+            "defenderTH": 16,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 131,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#QQJ0GRRG",
+        "name": "Skz",
+        "townhallLevel": 17,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QQJ0GRRG",
+            "attackerName": "Skz",
+            "attackerTH": 17,
+            "attackerMapPosition": 2,
+            "defenderTag": "#80Y92GPYL",
+            "defenderName": "Akbal 002",
+            "defenderTH": 15,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#RGGG99UJ",
+        "name": "Voga",
+        "townhallLevel": 17,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#RGGG99UJ",
+            "attackerName": "Voga",
+            "attackerTH": 17,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2VU9LR2J0",
+            "defenderName": "sultan ZRG",
+            "defenderTH": 15,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Hawk"
+        }
+      },
+      {
+        "tag": "#2VPJ8G0PP",
+        "name": "fl0w",
+        "townhallLevel": 17,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2VPJ8G0PP",
+            "attackerName": "fl0w",
+            "attackerTH": 17,
+            "attackerMapPosition": 4,
+            "defenderTag": "#P2CGQG8YG",
+            "defenderName": "Akbal 003",
+            "defenderTH": 15,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 61,
+          "attackerName": "Akbal 001"
+        }
+      },
+      {
+        "tag": "#2Q0CPLQYC",
+        "name": "KrisVanB",
+        "townhallLevel": 17,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2Q0CPLQYC",
+            "attackerName": "KrisVanB",
+            "attackerTH": 17,
+            "attackerMapPosition": 5,
+            "defenderTag": "#LQ8GQPCQU",
+            "defenderName": "Hawk",
+            "defenderTH": 15,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 69,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Akbal 003"
+        }
+      },
+      {
+        "tag": "#PJVPY2V0",
+        "name": "Karton-Gips",
+        "townhallLevel": 17,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PJVPY2V0",
+            "attackerName": "Karton-Gips",
+            "attackerTH": 17,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9GJCJCPR2",
+            "defenderName": "Akbal 005",
+            "defenderTH": 14,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 136,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 65,
+          "attackerName": "Akbal 004"
+        }
+      },
+      {
+        "tag": "#LLYQ90PGV",
+        "name": "Zielony 2.0",
+        "townhallLevel": 16,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LLYQ90PGV",
+            "attackerName": "Zielony 2.0",
+            "attackerTH": 16,
+            "attackerMapPosition": 7,
+            "defenderTag": "#P28LJ2Q2R",
+            "defenderName": "Akbal 006",
+            "defenderTH": 14,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Akbal 005"
+        }
+      },
+      {
+        "tag": "#29LYGGPLR",
+        "name": "Zhero",
+        "townhallLevel": 16,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#29LYGGPLR",
+            "attackerName": "Zhero",
+            "attackerTH": 16,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QJ928Q0QU",
+            "defenderName": "Mr • Chal",
+            "defenderTH": 14,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 60,
+          "attackerName": "Mr • Chal"
+        }
+      },
+      {
+        "tag": "#L8GVJ2JCC",
+        "name": "Zestrzelony",
+        "townhallLevel": 16,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#L8GVJ2JCC",
+            "attackerName": "Zestrzelony",
+            "attackerTH": 16,
+            "attackerMapPosition": 9,
+            "defenderTag": "#Q2PJRJJLP",
+            "defenderName": "Akbal 007",
+            "defenderTH": 14,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 157,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "sultan ZRG"
+        }
+      },
+      {
+        "tag": "#YR8YQ02GL",
+        "name": "Fi3ipeQ",
+        "townhallLevel": 15,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YR8YQ02GL",
+            "attackerName": "Fi3ipeQ",
+            "attackerTH": 15,
+            "attackerMapPosition": 10,
+            "defenderTag": "#QQUCJR9J9",
+            "defenderName": "Mr • Chal 02",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 85,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Akbal 002"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 15,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 15,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LPC0J029V",
+            "defenderName": "Let Jen Dragon",
+            "defenderTH": 13,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "Akbal 006"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#QQUCJR9J9",
+            "defenderName": "Mr • Chal 02",
+            "defenderTH": 13,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 127,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Dr • Donatur"
+        }
+      },
+      {
+        "tag": "#QLJ20JYUR",
+        "name": "0_Macias_0",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ20JYUR",
+            "attackerName": "0_Macias_0",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8QVGYQ2P9",
+            "defenderName": "Asdar ZRG",
+            "defenderTH": 13,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 87,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "S Chelsea ZRG"
+        }
+      },
+      {
+        "tag": "#RCVCYVYJ",
+        "name": "Kmmanutd",
+        "townhallLevel": 14,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#RCVCYVYJ",
+            "attackerName": "Kmmanutd",
+            "attackerTH": 14,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8JY2YR8U9",
+            "defenderName": "S Chelsea ZRG",
+            "defenderTH": 13,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 81,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Akbal 007"
+        }
+      },
+      {
+        "tag": "#Y2LPGCV9",
+        "name": "Mamcorz 2.0",
+        "townhallLevel": 14,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Y2LPGCV9",
+            "attackerName": "Mamcorz 2.0",
+            "attackerTH": 14,
+            "attackerMapPosition": 17,
+            "defenderTag": "#QJPV9QGQ0",
+            "defenderName": "Dr • Donatur",
+            "defenderTH": 14,
+            "defenderMapPosition": 24,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 120,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mr • Chal 02"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#YVV22CUU",
+    "name": "INDO BOLZA XY",
+    "clanLevel": 19,
+    "stars": 30,
+    "destructionPercentage": 69,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#2Y80VY0U8",
+        "name": "Akbal 001",
+        "townhallLevel": 16,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#2Y80VY0U8",
+            "attackerName": "Akbal 001",
+            "attackerTH": 16,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2VPJ8G0PP",
+            "defenderName": "fl0w",
+            "defenderTH": 17,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 61,
+            "duration": 131,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#80Y92GPYL",
+        "name": "Akbal 002",
+        "townhallLevel": 15,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#80Y92GPYL",
+            "attackerName": "Akbal 002",
+            "attackerTH": 15,
+            "attackerMapPosition": 2,
+            "defenderTag": "#YR8YQ02GL",
+            "defenderName": "Fi3ipeQ",
+            "defenderTH": 15,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Skz"
+        }
+      },
+      {
+        "tag": "#2VU9LR2J0",
+        "name": "sultan ZRG",
+        "townhallLevel": 15,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2VU9LR2J0",
+            "attackerName": "sultan ZRG",
+            "attackerTH": 15,
+            "attackerMapPosition": 3,
+            "defenderTag": "#L8GVJ2JCC",
+            "defenderName": "Zestrzelony",
+            "defenderTH": 16,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Voga"
+        }
+      },
+      {
+        "tag": "#P2CGQG8YG",
+        "name": "Akbal 003",
+        "townhallLevel": 15,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#P2CGQG8YG",
+            "attackerName": "Akbal 003",
+            "attackerTH": 15,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2Q0CPLQYC",
+            "defenderName": "KrisVanB",
+            "defenderTH": 17,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 168,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "fl0w"
+        }
+      },
+      {
+        "tag": "#9VYC029V8",
+        "name": "Akbal 004",
+        "townhallLevel": 15,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9VYC029V8",
+            "attackerName": "Akbal 004",
+            "attackerTH": 15,
+            "attackerMapPosition": 5,
+            "defenderTag": "#PJVPY2V0",
+            "defenderName": "Karton-Gips",
+            "defenderTH": 17,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 65,
+            "duration": 144,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 65,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#9GJCJCPR2",
+        "name": "Akbal 005",
+        "townhallLevel": 14,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9GJCJCPR2",
+            "attackerName": "Akbal 005",
+            "attackerTH": 14,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LLYQ90PGV",
+            "defenderName": "Zielony 2.0",
+            "defenderTH": 16,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 126,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Karton-Gips"
+        }
+      },
+      {
+        "tag": "#P28LJ2Q2R",
+        "name": "Akbal 006",
+        "townhallLevel": 14,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#P28LJ2Q2R",
+            "attackerName": "Akbal 006",
+            "attackerTH": 14,
+            "attackerMapPosition": 7,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 131,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zielony 2.0"
+        }
+      },
+      {
+        "tag": "#QJ928Q0QU",
+        "name": "Mr • Chal",
+        "townhallLevel": 14,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QJ928Q0QU",
+            "attackerName": "Mr • Chal",
+            "attackerTH": 14,
+            "attackerMapPosition": 8,
+            "defenderTag": "#29LYGGPLR",
+            "defenderName": "Zhero",
+            "defenderTH": 16,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 60,
+            "duration": 74,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Zhero"
+        }
+      },
+      {
+        "tag": "#Q2PJRJJLP",
+        "name": "Akbal 007",
+        "townhallLevel": 14,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Q2PJRJJLP",
+            "attackerName": "Akbal 007",
+            "attackerTH": 14,
+            "attackerMapPosition": 10,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zestrzelony"
+        }
+      },
+      {
+        "tag": "#LQ8GQPCQU",
+        "name": "Hawk",
+        "townhallLevel": 15,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LQ8GQPCQU",
+            "attackerName": "Hawk",
+            "attackerTH": 15,
+            "attackerMapPosition": 11,
+            "defenderTag": "#RGGG99UJ",
+            "defenderName": "Voga",
+            "defenderTH": 17,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 95,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KrisVanB"
+        }
+      },
+      {
+        "tag": "#LPC0J029V",
+        "name": "Let Jen Dragon",
+        "townhallLevel": 13,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LPC0J029V",
+            "attackerName": "Let Jen Dragon",
+            "attackerTH": 13,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 15,
+            "defenderMapPosition": 12,
+            "stars": 1,
+            "destructionPercentage": 59,
+            "duration": 83,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#QQUCJR9J9",
+        "name": "Mr • Chal 02",
+        "townhallLevel": 13,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QQUCJR9J9",
+            "attackerName": "Mr • Chal 02",
+            "attackerTH": 13,
+            "attackerMapPosition": 15,
+            "defenderTag": "#Y2LPGCV9",
+            "defenderName": "Mamcorz 2.0",
+            "defenderTH": 14,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#8QVGYQ2P9",
+        "name": "Asdar ZRG",
+        "townhallLevel": 13,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#8QVGYQ2P9",
+            "attackerName": "Asdar ZRG",
+            "attackerTH": 13,
+            "attackerMapPosition": 17,
+            "defenderTag": "#RCVCYVYJ",
+            "defenderName": "Kmmanutd",
+            "defenderTH": 14,
+            "defenderMapPosition": 16,
+            "stars": 1,
+            "destructionPercentage": 63,
+            "duration": 158,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "0_Macias_0"
+        }
+      },
+      {
+        "tag": "#8JY2YR8U9",
+        "name": "S Chelsea ZRG",
+        "townhallLevel": 13,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#8JY2YR8U9",
+            "attackerName": "S Chelsea ZRG",
+            "attackerTH": 13,
+            "attackerMapPosition": 19,
+            "defenderTag": "#QLJ20JYUR",
+            "defenderName": "0_Macias_0",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 107,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Kmmanutd"
+        }
+      },
+      {
+        "tag": "#QJPV9QGQ0",
+        "name": "Dr • Donatur",
+        "townhallLevel": 14,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QJPV9QGQ0",
+            "attackerName": "Dr • Donatur",
+            "attackerTH": 14,
+            "attackerMapPosition": 24,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 67,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz 2.0"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 15,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LPC0J029V",
+      "defenderName": "Let Jen Dragon",
+      "defenderTH": 13,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGGG99UJ",
+      "attackerName": "Voga",
+      "attackerTH": 17,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2VU9LR2J0",
+      "defenderName": "sultan ZRG",
+      "defenderTH": 15,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 17,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2Y80VY0U8",
+      "defenderName": "Akbal 001",
+      "defenderTH": 16,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 131,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L8GVJ2JCC",
+      "attackerName": "Zestrzelony",
+      "attackerTH": 16,
+      "attackerMapPosition": 9,
+      "defenderTag": "#Q2PJRJJLP",
+      "defenderName": "Akbal 007",
+      "defenderTH": 14,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 157,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#QQUCJR9J9",
+      "defenderName": "Mr • Chal 02",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 127,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLYQ90PGV",
+      "attackerName": "Zielony 2.0",
+      "attackerTH": 16,
+      "attackerMapPosition": 7,
+      "defenderTag": "#P28LJ2Q2R",
+      "defenderName": "Akbal 006",
+      "defenderTH": 14,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YR8YQ02GL",
+      "attackerName": "Fi3ipeQ",
+      "attackerTH": 15,
+      "attackerMapPosition": 10,
+      "defenderTag": "#QQUCJR9J9",
+      "defenderName": "Mr • Chal 02",
+      "defenderTH": 13,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 85,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LQ8GQPCQU",
+      "attackerName": "Hawk",
+      "attackerTH": 15,
+      "attackerMapPosition": 11,
+      "defenderTag": "#RGGG99UJ",
+      "defenderName": "Voga",
+      "defenderTH": 17,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 95,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2VU9LR2J0",
+      "attackerName": "sultan ZRG",
+      "attackerTH": 15,
+      "attackerMapPosition": 3,
+      "defenderTag": "#L8GVJ2JCC",
+      "defenderName": "Zestrzelony",
+      "defenderTH": 16,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8JY2YR8U9",
+      "attackerName": "S Chelsea ZRG",
+      "attackerTH": 13,
+      "attackerMapPosition": 19,
+      "defenderTag": "#QLJ20JYUR",
+      "defenderName": "0_Macias_0",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 107,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8QVGYQ2P9",
+      "attackerName": "Asdar ZRG",
+      "attackerTH": 13,
+      "attackerMapPosition": 17,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 1,
+      "destructionPercentage": 63,
+      "duration": 158,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPC0J029V",
+      "attackerName": "Let Jen Dragon",
+      "attackerTH": 13,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 1,
+      "destructionPercentage": 59,
+      "duration": 83,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q2PJRJJLP",
+      "attackerName": "Akbal 007",
+      "attackerTH": 14,
+      "attackerMapPosition": 10,
+      "defenderTag": "#RCVCYVYJ",
+      "defenderName": "Kmmanutd",
+      "defenderTH": 14,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RCVCYVYJ",
+      "attackerName": "Kmmanutd",
+      "attackerTH": 14,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8JY2YR8U9",
+      "defenderName": "S Chelsea ZRG",
+      "defenderTH": 13,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 81,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P28LJ2Q2R",
+      "attackerName": "Akbal 006",
+      "attackerTH": 14,
+      "attackerMapPosition": 7,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 15,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 131,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GJCJCPR2",
+      "attackerName": "Akbal 005",
+      "attackerTH": 14,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LLYQ90PGV",
+      "defenderName": "Zielony 2.0",
+      "defenderTH": 16,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 126,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9VYC029V8",
+      "attackerName": "Akbal 004",
+      "attackerTH": 15,
+      "attackerMapPosition": 5,
+      "defenderTag": "#PJVPY2V0",
+      "defenderName": "Karton-Gips",
+      "defenderTH": 17,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 65,
+      "duration": 144,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P2CGQG8YG",
+      "attackerName": "Akbal 003",
+      "attackerTH": 15,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2Q0CPLQYC",
+      "defenderName": "KrisVanB",
+      "defenderTH": 17,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 168,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80Y92GPYL",
+      "attackerName": "Akbal 002",
+      "attackerTH": 15,
+      "attackerMapPosition": 2,
+      "defenderTag": "#YR8YQ02GL",
+      "defenderName": "Fi3ipeQ",
+      "defenderTH": 15,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Y80VY0U8",
+      "attackerName": "Akbal 001",
+      "attackerTH": 16,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2VPJ8G0PP",
+      "defenderName": "fl0w",
+      "defenderTH": 17,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 61,
+      "duration": 131,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QJ928Q0QU",
+      "attackerName": "Mr • Chal",
+      "attackerTH": 14,
+      "attackerMapPosition": 8,
+      "defenderTag": "#29LYGGPLR",
+      "defenderName": "Zhero",
+      "defenderTH": 16,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 60,
+      "duration": 74,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQUCJR9J9",
+      "attackerName": "Mr • Chal 02",
+      "attackerTH": 13,
+      "attackerMapPosition": 15,
+      "defenderTag": "#Y2LPGCV9",
+      "defenderName": "Mamcorz 2.0",
+      "defenderTH": 14,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QJPV9QGQ0",
+      "attackerName": "Dr • Donatur",
+      "attackerTH": 14,
+      "attackerMapPosition": 24,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 67,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PJVPY2V0",
+      "attackerName": "Karton-Gips",
+      "attackerTH": 17,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9GJCJCPR2",
+      "defenderName": "Akbal 005",
+      "defenderTH": 14,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 136,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2LPGCV9",
+      "attackerName": "Mamcorz 2.0",
+      "attackerTH": 14,
+      "attackerMapPosition": 17,
+      "defenderTag": "#QJPV9QGQ0",
+      "defenderName": "Dr • Donatur",
+      "defenderTH": 14,
+      "defenderMapPosition": 24,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 120,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QLJ20JYUR",
+      "attackerName": "0_Macias_0",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8QVGYQ2P9",
+      "defenderName": "Asdar ZRG",
+      "defenderTH": 13,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 87,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#29LYGGPLR",
+      "attackerName": "Zhero",
+      "attackerTH": 16,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QJ928Q0QU",
+      "defenderName": "Mr • Chal",
+      "defenderTH": 14,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q0CPLQYC",
+      "attackerName": "KrisVanB",
+      "attackerTH": 17,
+      "attackerMapPosition": 5,
+      "defenderTag": "#LQ8GQPCQU",
+      "defenderName": "Hawk",
+      "defenderTH": 15,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 69,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QQJ0GRRG",
+      "attackerName": "Skz",
+      "attackerTH": 17,
+      "attackerMapPosition": 2,
+      "defenderTag": "#80Y92GPYL",
+      "defenderName": "Akbal 002",
+      "defenderTH": 15,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2VPJ8G0PP",
+      "attackerName": "fl0w",
+      "attackerTH": 17,
+      "attackerMapPosition": 4,
+      "defenderTag": "#P2CGQG8YG",
+      "defenderName": "Akbal 003",
+      "defenderTH": 15,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

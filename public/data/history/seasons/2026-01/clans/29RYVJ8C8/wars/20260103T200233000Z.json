@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-01-17T15:28:21.228Z",
+  "season": "2026-01",
+  "warTag": "29RYVJ8C8-20260103T200233000Z",
+  "startTime": "20260102T200233.000Z",
+  "endTime": "20260103T200233.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 34,
+    "destructionPercentage": 84.6,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LPGURGU2",
+            "defenderName": "harry1537",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 64,
+            "duration": 162,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 64,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 71,
+          "attackerName": "harry1537"
+        }
+      },
+      {
+        "tag": "#QGQQ2GYVU",
+        "name": "vermer",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QGQQ2GYVU",
+            "attackerName": "vermer",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#VRC2QULU",
+            "defenderName": "Paul",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 180,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "Paul"
+        }
+      },
+      {
+        "tag": "#CV8LJRLV",
+        "name": "Gucio",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#CV8LJRLV",
+            "attackerName": "Gucio",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#YJVPGCJGV",
+            "defenderName": "stormcloud",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "Lord Power"
+        }
+      },
+      {
+        "tag": "#RGR9RY2",
+        "name": "Dominik",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGR9RY2",
+            "attackerName": "Dominik",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#P28GJ0Q98",
+            "defenderName": "Baby Power",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 66,
+            "duration": 107,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "tannybabes"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#Y8GUPGGP",
+            "defenderName": "argo",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 71,
+          "attackerName": "argo"
+        }
+      },
+      {
+        "tag": "#9J22L9GRC",
+        "name": "Cezar",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9J22L9GRC",
+            "attackerName": "Cezar",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#Q8U0U022",
+            "defenderName": "awesome",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 157,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 56,
+          "attackerName": "awesome"
+        }
+      },
+      {
+        "tag": "#QJ88YRYR8",
+        "name": "Barto19",
+        "townhallLevel": 17,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QJ88YRYR8",
+            "attackerName": "Barto19",
+            "attackerTH": 17,
+            "attackerMapPosition": 7,
+            "defenderTag": "#YRCRQRJ",
+            "defenderName": "MiloBrown",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "MiloBrown"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#J8J98G2U",
+            "defenderName": "bugbear",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 0,
+            "destructionPercentage": 0,
+            "duration": 180,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "bugbear"
+        }
+      },
+      {
+        "tag": "#9RQYYJR00",
+        "name": "~••KING••~",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYYJR00",
+            "attackerName": "~••KING••~",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#8G20C92C",
+            "defenderName": "tannybabes",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 153,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "Baby Power"
+        }
+      },
+      {
+        "tag": "#8PVPQGLU9",
+        "name": "Lemoniadek",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8PVPQGLU9",
+            "attackerName": "Lemoniadek",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#2PY2C8JPJ",
+            "defenderName": "the covenant",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 53,
+          "attackerName": "the covenant"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#9LVQLLY80",
+            "defenderName": "little bugbear",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "little bugbear"
+        }
+      },
+      {
+        "tag": "#GLUYQUCQV",
+        "name": "SlimShady",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GLUYQUCQV",
+            "attackerName": "SlimShady",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#8J8U0C0L9",
+            "defenderName": "Corinthian",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Corinthian"
+        }
+      },
+      {
+        "tag": "#Y92GQ9PCL",
+        "name": "Waluś",
+        "townhallLevel": 16,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Y92GQ9PCL",
+            "attackerName": "Waluś",
+            "attackerTH": 16,
+            "attackerMapPosition": 14,
+            "defenderTag": "#J8J98G2U",
+            "defenderName": "bugbear",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 180,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "stormcloud"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#GJ9P8GPP",
+            "defenderName": "Wisp",
+            "defenderTH": 16,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 84,
+          "attackerName": "Wisp"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 15,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 15,
+            "attackerMapPosition": 16,
+            "defenderTag": "#9J9RPV29G",
+            "defenderName": "maximus",
+            "defenderTH": 16,
+            "defenderMapPosition": 19,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 180,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "maximus"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#PGR200YP",
+    "name": "MADE IN UK 2",
+    "clanLevel": 23,
+    "stars": 31,
+    "destructionPercentage": 77.8,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#LPGURGU2",
+        "name": "harry1537",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LPGURGU2",
+            "attackerName": "harry1537",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 71,
+            "duration": 148,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 64,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#VRC2QULU",
+        "name": "Paul",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#VRC2QULU",
+            "attackerName": "Paul",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#QGQQ2GYVU",
+            "defenderName": "vermer",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 119,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "vermer"
+        }
+      },
+      {
+        "tag": "#R99Y8RJG",
+        "name": "Lord Power",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#R99Y8RJG",
+            "attackerName": "Lord Power",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#CV8LJRLV",
+            "defenderName": "Gucio",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 166,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#8G20C92C",
+        "name": "tannybabes",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8G20C92C",
+            "attackerName": "tannybabes",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#RGR9RY2",
+            "defenderName": "Dominik",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 148,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "~••KING••~"
+        }
+      },
+      {
+        "tag": "#Y8GUPGGP",
+        "name": "argo",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#Y8GUPGGP",
+            "attackerName": "argo",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 71,
+            "duration": 150,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 71,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#Q8U0U022",
+        "name": "awesome",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q8U0U022",
+            "attackerName": "awesome",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9J22L9GRC",
+            "defenderName": "Cezar",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 56,
+            "duration": 103,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 56,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Cezar"
+        }
+      },
+      {
+        "tag": "#YRCRQRJ",
+        "name": "MiloBrown",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YRCRQRJ",
+            "attackerName": "MiloBrown",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#QJ88YRYR8",
+            "defenderName": "Barto19",
+            "defenderTH": 17,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 160,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Barto19"
+        }
+      },
+      {
+        "tag": "#J8J98G2U",
+        "name": "bugbear",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#J8J98G2U",
+            "attackerName": "bugbear",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 102,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Waluś"
+        }
+      },
+      {
+        "tag": "#P28GJ0Q98",
+        "name": "Baby Power",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P28GJ0Q98",
+            "attackerName": "Baby Power",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#9RQYYJR00",
+            "defenderName": "~••KING••~",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 147,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 66,
+          "attackerName": "Dominik"
+        }
+      },
+      {
+        "tag": "#2PY2C8JPJ",
+        "name": "the covenant",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2PY2C8JPJ",
+            "attackerName": "the covenant",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8PVPQGLU9",
+            "defenderName": "Lemoniadek",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 53,
+            "duration": 119,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 53,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Lemoniadek"
+        }
+      },
+      {
+        "tag": "#9LVQLLY80",
+        "name": "little bugbear",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9LVQLLY80",
+            "attackerName": "little bugbear",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 122,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#8J8U0C0L9",
+        "name": "Corinthian",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#8J8U0C0L9",
+            "attackerName": "Corinthian",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#GLUYQUCQV",
+            "defenderName": "SlimShady",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 83,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SlimShady"
+        }
+      },
+      {
+        "tag": "#YJVPGCJGV",
+        "name": "stormcloud",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YJVPGCJGV",
+            "attackerName": "stormcloud",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#Y92GQ9PCL",
+            "defenderName": "Waluś",
+            "defenderTH": 16,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 104,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gucio"
+        }
+      },
+      {
+        "tag": "#GJ9P8GPP",
+        "name": "Wisp",
+        "townhallLevel": 16,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#GJ9P8GPP",
+            "attackerName": "Wisp",
+            "attackerTH": 16,
+            "attackerMapPosition": 17,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 84,
+            "duration": 128,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 84,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#9J9RPV29G",
+        "name": "maximus",
+        "townhallLevel": 16,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#9J9RPV29G",
+            "attackerName": "maximus",
+            "attackerTH": 16,
+            "attackerMapPosition": 19,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 15,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 123,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#GLUYQUCQV",
+      "attackerName": "SlimShady",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#8J8U0C0L9",
+      "defenderName": "Corinthian",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2PY2C8JPJ",
+      "attackerName": "the covenant",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8PVPQGLU9",
+      "defenderName": "Lemoniadek",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 53,
+      "duration": 119,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#R99Y8RJG",
+      "attackerName": "Lord Power",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#CV8LJRLV",
+      "defenderName": "Gucio",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 166,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#GJ9P8GPP",
+      "defenderName": "Wisp",
+      "defenderTH": 16,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CV8LJRLV",
+      "attackerName": "Gucio",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#YJVPGCJGV",
+      "defenderName": "stormcloud",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 15,
+      "attackerMapPosition": 16,
+      "defenderTag": "#9J9RPV29G",
+      "defenderName": "maximus",
+      "defenderTH": 16,
+      "defenderMapPosition": 19,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 180,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#Y8GUPGGP",
+      "defenderName": "argo",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9RQYYJR00",
+      "attackerName": "~••KING••~",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#8G20C92C",
+      "defenderName": "tannybabes",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 153,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QJ88YRYR8",
+      "attackerName": "Barto19",
+      "attackerTH": 17,
+      "attackerMapPosition": 7,
+      "defenderTag": "#YRCRQRJ",
+      "defenderName": "MiloBrown",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QGQQ2GYVU",
+      "attackerName": "vermer",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#VRC2QULU",
+      "defenderName": "Paul",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 180,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8PVPQGLU9",
+      "attackerName": "Lemoniadek",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#2PY2C8JPJ",
+      "defenderName": "the covenant",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YRCRQRJ",
+      "attackerName": "MiloBrown",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#QJ88YRYR8",
+      "defenderName": "Barto19",
+      "defenderTH": 17,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 160,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y8GUPGGP",
+      "attackerName": "argo",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 71,
+      "duration": 150,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#J8J98G2U",
+      "defenderName": "bugbear",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 0,
+      "destructionPercentage": 0,
+      "duration": 180,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9J9RPV29G",
+      "attackerName": "maximus",
+      "attackerTH": 16,
+      "attackerMapPosition": 19,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 15,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 123,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGR9RY2",
+      "attackerName": "Dominik",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#P28GJ0Q98",
+      "defenderName": "Baby Power",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 66,
+      "duration": 107,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8G20C92C",
+      "attackerName": "tannybabes",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#RGR9RY2",
+      "defenderName": "Dominik",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 148,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P28GJ0Q98",
+      "attackerName": "Baby Power",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#9RQYYJR00",
+      "defenderName": "~••KING••~",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 147,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LPGURGU2",
+      "defenderName": "harry1537",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 64,
+      "duration": 162,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#9LVQLLY80",
+      "defenderName": "little bugbear",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJ9P8GPP",
+      "attackerName": "Wisp",
+      "attackerTH": 16,
+      "attackerMapPosition": 17,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 128,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VRC2QULU",
+      "attackerName": "Paul",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#QGQQ2GYVU",
+      "defenderName": "vermer",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 119,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J8J98G2U",
+      "attackerName": "bugbear",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 102,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9LVQLLY80",
+      "attackerName": "little bugbear",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 84,
+      "duration": 122,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YJVPGCJGV",
+      "attackerName": "stormcloud",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#Y92GQ9PCL",
+      "defenderName": "Waluś",
+      "defenderTH": 16,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 104,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8J8U0C0L9",
+      "attackerName": "Corinthian",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#GLUYQUCQV",
+      "defenderName": "SlimShady",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 83,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8U0U022",
+      "attackerName": "awesome",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9J22L9GRC",
+      "defenderName": "Cezar",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 56,
+      "duration": 103,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Y92GQ9PCL",
+      "attackerName": "Waluś",
+      "attackerTH": 16,
+      "attackerMapPosition": 14,
+      "defenderTag": "#J8J98G2U",
+      "defenderName": "bugbear",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 180,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LPGURGU2",
+      "attackerName": "harry1537",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 71,
+      "duration": 148,
+      "order": 29,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9J22L9GRC",
+      "attackerName": "Cezar",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#Q8U0U022",
+      "defenderName": "awesome",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 157,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}
