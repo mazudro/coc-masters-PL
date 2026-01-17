@@ -150,7 +150,7 @@ async function fetchCurrentLeague(tag: string): Promise<string | null> {
     
     const data = await response.json();
     return data.warLeague?.name || null;
-  } catch (error) {
+  } catch {
     console.log(`    ⚠️  CoC API fetch failed - using fallback`);
     return null;
   }
@@ -162,12 +162,13 @@ function calculateStarCounts(cacheData: CWLCacheData, clanTag: string): { threeS
   
   // Find clan in data
   const clan = cacheData.clans?.find(c => c.tag === clanTag);
-  if (!clan || !(clan as any).rounds) {
+  const clanWithRounds = clan as { rounds?: Array<{ attacks?: Array<{ stars?: number }> }> };
+  if (!clan || !clanWithRounds.rounds) {
     return { threeStars: 0, twoStars: 0, oneStar: 0, zeroStars: 0 };
   }
   
   // Iterate through rounds/wars to count stars
-  for (const round of (clan as any).rounds || []) {
+  for (const round of clanWithRounds.rounds || []) {
     if (!round.attacks) continue;
     for (const attack of round.attacks) {
       const stars = attack.stars || 0;
@@ -273,7 +274,7 @@ async function main() {
       
       // Determine league name
       // Use current API league for most recent season, otherwise use last known or infer
-      let leagueName = currentLeague || existingData.lastLeague || 'Crystal League I';
+      const leagueName = currentLeague || existingData.lastLeague || 'Crystal League I';
       
       // For older missing seasons, we'd need to infer from position changes
       // Position 1 = promoted, Position 7-8 = demoted (typically)

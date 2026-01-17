@@ -10,7 +10,6 @@
     "check": "npm run lint && npm run build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "optimize": "vite optimize",
     "fetch": "tsx scripts/aggregate-all-seasons.ts --refresh-current --start=2019-07",
     "fetch:all": "tsx scripts/aggregate-all-seasons.ts --refresh --start=2019-07",
     "csv:update": "tsx scripts/update-league-csv.ts",

@@ -62,7 +62,7 @@ async function main() {
           season: s.season,
           clanTag: (s.clanTag || ''),
           clanName: s.clanName,
-          th: (s as any).th || p.th || 0,
+          th: (s as { th?: number }).th || p.th || 0,
           warsParticipated: s.warsParticipated || 0,
           attacks: s.attacks || 0,
           stars: s.stars || 0,
@@ -94,7 +94,7 @@ async function main() {
       };
     })
     .filter(Boolean)
-    .sort((a: any, b: any) => b.totals.stars - a.totals.stars);
+    .sort((a, b) => (b?.totals?.stars ?? 0) - (a?.totals?.stars ?? 0));
 
   const outPath = path.join(__dirname, '../public/data/players-full.json');
   fs.writeFileSync(outPath, JSON.stringify(consolidated, null, 2));
