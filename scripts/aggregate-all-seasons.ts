@@ -1381,6 +1381,64 @@ async function aggregateAllData(
   log(`  - Player-season records: ${totalPlayersProcessed}`);
 
   // ============================================================================
+  // Enrich TH from Season Clan Details (fallback for missing TH from API)
+  // ============================================================================
+
+  log("\nEnriching TH from season clan detail files...");
+
+  const SEASONS_DIR = path.join(OUTPUT_DIR, "history", "seasons");
+  let thEnrichedCount = 0;
+
+  // Build a map of playerTag -> latest TH from season clan details
+  const thFromSeasonDetails = new Map<string, { th: number; season: string }>();
+
+  if (fs.existsSync(SEASONS_DIR)) {
+    const seasonDirs = fs.readdirSync(SEASONS_DIR)
+      .filter((d) => fs.statSync(path.join(SEASONS_DIR, d)).isDirectory())
+      .sort(); // chronological order, so latest season will overwrite earlier ones
+
+    for (const season of seasonDirs) {
+      const clansDir = path.join(SEASONS_DIR, season, "clans");
+      if (!fs.existsSync(clansDir)) continue;
+
+      for (const clanTag of Object.values(FAMILY_CLANS).map((t) => t.replace("#", "").toUpperCase())) {
+        const detailPath = path.join(clansDir, `${clanTag}.json`);
+        if (!fs.existsSync(detailPath)) continue;
+
+        try {
+          const detail = JSON.parse(fs.readFileSync(detailPath, "utf8"));
+          if (!detail.roster) continue;
+
+          for (const player of detail.roster) {
+            const tag = normalizeTag(player.tag ?? "");
+            const th = player.townHallLevel;
+            if (tag && th && th > 0) {
+              thFromSeasonDetails.set(tag, { th, season });
+            }
+          }
+        } catch {
+          // Ignore parse errors
+        }
+      }
+    }
+  }
+
+  log(`  Loaded TH for ${thFromSeasonDetails.size} players from season details`);
+
+  // Enrich players with missing TH
+  for (const player of playerMap.values()) {
+    if (player.th === null || player.th === 0) {
+      const thData = thFromSeasonDetails.get(player.tag);
+      if (thData) {
+        player.th = thData.th;
+        thEnrichedCount++;
+      }
+    }
+  }
+
+  log(`  ✓ Enriched TH for ${thEnrichedCount} players`);
+
+  // ============================================================================
   // Write Output Files
   // ============================================================================
 
