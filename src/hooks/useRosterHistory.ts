@@ -48,14 +48,22 @@ export function useRosterHistory() {
       // Keep only the last MAX_HISTORY_SIZE states
       if (newHistory.length > MAX_HISTORY_SIZE) {
         newHistory.shift()
-        setCurrentIndex(MAX_HISTORY_SIZE - 1)
-      } else {
-        setCurrentIndex(newHistory.length - 1)
+        return newHistory
       }
       
       return newHistory
     })
-  }, [currentIndex, cloneState])
+    
+    // Update index after history is updated
+    setCurrentIndex(prev => {
+      const newHistory = history.slice(0, currentIndex + 1)
+      newHistory.push(state)
+      if (newHistory.length > MAX_HISTORY_SIZE) {
+        return MAX_HISTORY_SIZE - 1
+      }
+      return newHistory.length - 1
+    })
+  }, [currentIndex, cloneState, history])
 
   /**
    * Undo to the previous state
