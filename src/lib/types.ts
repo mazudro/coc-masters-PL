@@ -14,6 +14,19 @@ export interface ClanSummary {
   league?: LeagueInfo | null
 }
 
+// Custom clan type for roster builder (external/guest clans)
+export interface CustomClan {
+  name: string
+  tag: string
+  league: string
+  minTH: number
+  color: string
+  bgColor: string
+  borderColor: string
+  leagueIcon: string
+  isCustom: boolean
+}
+
 // App-level navigation pages
 export type Page = 'home' | 'clan' | 'players' | 'about' | 'history' | 'roster-builder'
 
