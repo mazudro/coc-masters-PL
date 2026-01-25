@@ -13,7 +13,7 @@ import {
   getLeagueAdjustedProjection
 } from '@/lib/rosterCalculations'
 import type { ManualPlayerEntry, RosterMode, RosterPlayerStats } from '@/lib/types'
-import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Plus, Sparkle, Users, Warning, X } from '@phosphor-icons/react'
+import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Plus, Question, Sparkle, Users, Warning, X } from '@phosphor-icons/react'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { RosterDndContext } from '@/components/roster-builder/RosterDndContext'
