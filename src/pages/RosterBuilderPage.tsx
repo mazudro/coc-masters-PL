@@ -8,6 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 import { useLeagueProjections } from '@/hooks/useLeagueProjections'
+import { useRosterHistory } from '@/hooks/useRosterHistory'
 import { getPlayerHistory, getRecentPlayerPool } from '@/lib/data'
 import {
   ATTACKS_PER_SEASON,
@@ -17,10 +18,14 @@ import {
 } from '@/lib/rosterCalculations'
 import type { ManualPlayerEntry, RosterMode, RosterPlayerStats } from '@/lib/types'
 import { cn } from '@/lib/utils'
-import { ArrowDown, ArrowUp, CircleNotch, Download, Image, Info, Lock, LockOpen, Plus, Question, Sparkle, TrendUp, Users, Warning, Wrench, X } from '@phosphor-icons/react'
+import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Lock, LockOpen, Plus, Question, Sparkle, TrendUp, Users, Warning, Wrench, X } from '@phosphor-icons/react'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useNavigate } from 'react-router-dom'
+import { RosterDndContext } from '@/components/roster-builder/RosterDndContext'
+import { DraggablePlayerRow } from '@/components/roster-builder/DraggablePlayerRow'
+import { DroppableClanCard } from '@/components/roster-builder/DroppableClanCard'
+import { toast } from 'sonner'
 
 // Custom clan type for external/guest clans
 interface CustomClan {
@@ -172,6 +177,9 @@ export function RosterBuilderPage() {
 
   // League projections hook for player tooltips
   const { getProjection, prefetchPlayer } = useLeagueProjections()
+
+  // Undo/Redo history hook
+  const rosterHistory = useRosterHistory()
 
   // All clans (built-in + custom)
   const allClans = useMemo(() => [...CLAN_TIERS, ...customClans], [customClans])
@@ -494,6 +502,13 @@ export function RosterBuilderPage() {
 
   // Multi-clan mode: assign player to specific clan
   const assignPlayerToClan = (playerTag: string, clanTag: string | 'none') => {
+    // Push current state to history before making changes
+    rosterHistory.push({
+      clanRosters: new Map(clanRosters),
+      lockedClans: new Set(lockedClans),
+      excludedPlayers: new Set(excludedPlayers)
+    })
+
     const newRosters = new Map(clanRosters)
 
     // Remove from any current assignment
@@ -540,6 +555,30 @@ export function RosterBuilderPage() {
       if (roster.has(playerTag)) return clanTag
     }
     return null
+  }
+
+  // Undo/Redo handlers
+  const handleUndo = () => {
+    const previousState = rosterHistory.undo()
+    if (previousState) {
+      setClanRosters(previousState.clanRosters)
+      setLockedClans(previousState.lockedClans)
+      setExcludedPlayers(previousState.excludedPlayers)
+    }
+  }
+
+  const handleRedo = () => {
+    const nextState = rosterHistory.redo()
+    if (nextState) {
+      setClanRosters(nextState.clanRosters)
+      setLockedClans(nextState.lockedClans)
+      setExcludedPlayers(nextState.excludedPlayers)
+    }
+  }
+
+  // Validation message handler for DnD
+  const handleValidationMessage = (message: string) => {
+    toast.error(message)
   }
 
   // Clear all rosters
@@ -974,7 +1013,17 @@ export function RosterBuilderPage() {
   }
 
   return (
-    <div className="space-y-6">
+    <RosterDndContext
+      clanRosters={clanRosters}
+      lockedClans={lockedClans}
+      excludedPlayers={excludedPlayers}
+      allClans={allClans}
+      players={sortedPlayers}
+      onAssignPlayer={assignPlayerToClan}
+      getMaxCapacity={getMaxCapacity}
+      onValidationMessage={handleValidationMessage}
+    >
+      <div className="space-y-6">
       {/* Header */}
       <div>
         <h1 className="text-4xl font-bold tracking-tight mb-2">{t('rosterBuilder.title')}</h1>
@@ -1152,6 +1201,39 @@ export function RosterBuilderPage() {
               <p className="text-xs mt-1 text-amber-300">{t('rosterBuilder.guide.autoDistributeWarning')}</p>
             </TooltipContent>
           </Tooltip>
+          
+          {/* Undo/Redo Buttons */}
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button
+                onClick={handleUndo}
+                variant="outline"
+                size="icon"
+                disabled={!rosterHistory.canUndo}
+              >
+                <ArrowCounterClockwise size={16} />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p className="text-xs">Undo (last 5 actions)</p>
+            </TooltipContent>
+          </Tooltip>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button
+                onClick={handleRedo}
+                variant="outline"
+                size="icon"
+                disabled={!rosterHistory.canRedo}
+              >
+                <ArrowClockwise size={16} />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p className="text-xs">Redo</p>
+            </TooltipContent>
+          </Tooltip>
+
           <Button
             onClick={handleClearAllRosters}
             variant="outline"
@@ -1284,254 +1366,27 @@ export function RosterBuilderPage() {
             const numSubs = Math.max(0, count - maxCapacity)
 
             return (
-              <div
+              <DroppableClanCard
                 key={clan.tag}
-                className={cn(
-                  "rounded-lg border p-4",
-                  clan.borderColor,
-                  clan.bgColor,
-                  isLocked && "ring-2 ring-amber-500/50"
-                )}
-              >
-                {/* Clan Header */}
-                <div className="flex items-center gap-2 mb-3">
-                  <img
-                    src={clan.leagueIcon}
-                    alt={clan.league}
-                    className="w-6 h-6"
-                  />
-                  <div className="flex-1 min-w-0">
-                    <h3 className={cn("font-bold truncate", clan.color)}>{clan.name}</h3>
-                    <p className="text-xs text-muted-foreground">{clan.league} • Min TH{clan.minTH}</p>
-                  </div>
-
-                  {/* Lock Button */}
-                  <Tooltip>
-                    <TooltipTrigger asChild>
-                      <Button
-                        variant="ghost"
-                        size="icon"
-                        className={cn(
-                          "h-7 w-7 shrink-0",
-                          isLocked ? "text-amber-400 hover:text-amber-300" : "text-muted-foreground hover:text-foreground"
-                        )}
-                        onClick={() => toggleClanLock(clan.tag)}
-                      >
-                        {isLocked ? <Lock size={14} /> : <LockOpen size={14} />}
-                      </Button>
-                    </TooltipTrigger>
-                    <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                      <p className="text-xs font-semibold mb-1">{t('rosterBuilder.guide.lockRosterTitle')}</p>
-                      <p className="text-xs">{isLocked ? t('rosterBuilder.unlockRoster') : t('rosterBuilder.lockRoster')}</p>
-                      <p className="text-xs mt-1 text-muted-foreground">{t('rosterBuilder.guide.lockRosterShort')}</p>
-                    </TooltipContent>
-                  </Tooltip>
-
-                  {/* Combined Mode Toggle & Capacity */}
-                  <Tooltip>
-                    <TooltipTrigger asChild>
-                      <Button
-                        variant="outline"
-                        size="sm"
-                        onClick={() => toggleRosterMode(clan.tag)}
-                        className={cn(
-                          "gap-2 text-xs px-2 h-7 shrink-0",
-                          count >= maxCapacity ? "border-green-500/50 bg-green-500/10 hover:bg-green-500/20" : ""
-                        )}
-                      >
-                        <span className="flex items-center gap-1">
-                          <Users size={14} />
-                          {rosterMode}
-                        </span>
-                        <span className={cn(
-                          "px-1.5 py-0.5 rounded-sm text-[10px] font-bold flex items-center gap-1",
-                          count >= maxCapacity ? "bg-green-500/20 text-green-400" :
-                            count > 0 ? "bg-yellow-500/20 text-yellow-400" : "bg-muted text-muted-foreground"
-                        )}>
-                          {count}/{maxCapacity}
-                          {numSubs > 0 && <span className="opacity-70">+{numSubs}</span>}
-                        </span>
-                      </Button>
-                    </TooltipTrigger>
-                    <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                      <p className="text-xs">{t('roster.toggle_mode')}</p>
-                    </TooltipContent>
-                  </Tooltip>
-                </div>
-
-                {/* Clan Stats */}
-                <div className="grid grid-cols-3 gap-2 text-sm mb-3">
-                  <div>
-                    <p className="text-muted-foreground text-xs">{t('rosterBuilder.projectedStars')}</p>
-                    <p className="font-bold text-yellow-400">{projectedStars}</p>
-                  </div>
-                  <div>
-                    <p className="text-muted-foreground text-xs">{t('rosterBuilder.avgTH')}</p>
-                    <p className="font-bold">{avgTH}</p>
-                  </div>
-                  <div>
-                    <p className="text-muted-foreground text-xs">{t('rosterBuilder.reliability')}</p>
-                    <p className="font-bold">{avgReliability}%</p>
-                  </div>
-                </div>
-
-                {/* Player List */}
-                <div className="space-y-1">
-                  {count === 0 ? (
-                    <p className="text-sm text-muted-foreground text-center py-4">
-                      {t('rosterBuilder.noPlayersAssigned')}
-                    </p>
-                  ) : (
-                    <>
-                      {/* Database Players */}
-                      {players.map((p, index) => {
-                        const isSubstitute = index >= maxCapacity
-                        return (
-                          <div
-                            key={p.playerTag}
-                            className={cn(
-                              "flex items-center gap-2 text-sm py-1 px-2 rounded group",
-                              isSubstitute
-                                ? "bg-amber-900/20 border border-dashed border-amber-500/30"
-                                : "bg-background/40 hover:bg-background/60"
-                            )}
-                          >
-                            {isSubstitute && (
-                              <Tooltip>
-                                <TooltipTrigger asChild>
-                                  <span className="text-[10px] font-bold bg-amber-500/30 text-amber-300 px-1 rounded cursor-help">SUB</span>
-                                </TooltipTrigger>
-                                <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                                  <p className="text-xs font-semibold mb-1">{t('rosterBuilder.guide.subsTitle')}</p>
-                                  <p className="text-xs">{t('rosterBuilder.guide.subsTip')}</p>
-                                </TooltipContent>
-                              </Tooltip>
-                            )}
-                            {p.currentTH && <THBadge level={p.currentTH} size="sm" className="hidden sm:inline-flex shrink-0" />}
-                            <span
-                              className="flex-1 truncate cursor-pointer hover:text-primary min-w-0"
-                              onClick={() => navigate(`/player/${encodeURIComponent(p.playerTag.replace('#', ''))}`)}
-                            >
-                              {p.playerName}
-                            </span>
-                            {(() => {
-                              const projection = getProjection(p.playerTag, clan.league)
-                              // Trigger prefetch on render if not cached
-                              if (!projection) {
-                                prefetchPlayer(p, clan.league)
-                              }
-                              if (projection) {
-                                return (
-                                  <LeagueAdjustmentTooltip
-                                    projection={projection}
-                                    baseStars={p.avgStars * ATTACKS_PER_SEASON}
-                                    targetLeague={clan.league}
-                                  >
-                                    <span className="text-yellow-400 font-semibold text-xs shrink-0 hidden sm:inline cursor-help">
-                                      {projection.projectedStars.toFixed(1)}★
-                                    </span>
-                                  </LeagueAdjustmentTooltip>
-                                )
-                              }
-                              // Fallback while loading
-                              return (
-                                <Tooltip>
-                                  <TooltipTrigger asChild>
-                                    <span className="text-yellow-400 font-semibold text-xs shrink-0 hidden sm:inline cursor-help">{p.avgStars.toFixed(1)}★</span>
-                                  </TooltipTrigger>
-                                  <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                                    <p className="text-xs">
-                                      {t('rosterBuilder.projectedStarsTooltip', {
-                                        stars: (p.avgStars * ATTACKS_PER_SEASON).toFixed(1),
-                                        wars: ATTACKS_PER_SEASON
-                                      })}
-                                    </p>
-                                  </TooltipContent>
-                                </Tooltip>
-                              )
-                            })()}
-                            <button
-                              onClick={() => removePlayerFromClan(p.playerTag, clan.tag)}
-                              className="opacity-0 group-hover:opacity-100 text-red-400 hover:text-red-300 transition-opacity"
-                              aria-label={t('rosterBuilder.removePlayer', { name: p.playerName })}
-                            >
-                              <X size={14} />
-                            </button>
-                          </div>
-                        )
-                      })}
-
-                      {/* Manual Players */}
-                      {clanManualPlayers?.map((p, index) => {
-                        const globalIndex = players.length + index
-                        const isSubstitute = globalIndex >= maxCapacity
-                        return (
-                          <div
-                            key={`${p.tag ?? 'manual'}-${p.addedAt}`}
-                            className={cn(
-                              "flex items-center gap-2 text-sm py-1 px-2 rounded group",
-                              isSubstitute
-                                ? "bg-amber-900/20 border border-dashed border-amber-500/30"
-                                : "bg-background/40 hover:bg-background/60"
-                            )}
-                          >
-                            {isSubstitute && (
-                              <span className="text-[10px] font-bold bg-amber-500/30 text-amber-300 px-1 rounded">SUB</span>
-                            )}
-                            <Tooltip>
-                              <TooltipTrigger asChild>
-                                <div className="flex items-center gap-1 text-amber-400">
-                                  <Wrench size={14} />
-                                  <THBadge level={p.th} size="sm" className="hidden sm:inline-flex shrink-0" />
-                                </div>
-                              </TooltipTrigger>
-                              <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                                <p className="text-xs font-semibold">{t('rosterBuilder.manual_entry_badge')}</p>
-                                <p className="text-xs">{t('rosterBuilder.estimated_avg_stars')}: {p.estimatedAvgStars}★</p>
-                                {p.notes && <p className="text-xs mt-1 text-muted-foreground">{p.notes}</p>}
-                              </TooltipContent>
-                            </Tooltip>
-                            <span className="flex-1 truncate font-medium min-w-0">
-                              {p.name}
-                            </span>
-                            <Tooltip>
-                              <TooltipTrigger asChild>
-                                <span className="text-amber-400 font-semibold text-xs shrink-0 hidden sm:inline cursor-help">{p.estimatedAvgStars.toFixed(1)}★</span>
-                              </TooltipTrigger>
-                              <TooltipContent side="top" className="max-w-xs bg-slate-800 text-slate-100 border-slate-700">
-                                <p className="text-xs">
-                                  {t('rosterBuilder.projectedStarsTooltip', {
-                                    stars: (p.estimatedAvgStars * ATTACKS_PER_SEASON).toFixed(1),
-                                    wars: ATTACKS_PER_SEASON
-                                  })}
-                                </p>
-                              </TooltipContent>
-                            </Tooltip>
-                            <button
-                              onClick={() => removeManualPlayer(clan.tag, p.addedAt)}
-                              className="opacity-0 group-hover:opacity-100 text-red-400 hover:text-red-300 transition-opacity"
-                              aria-label={`Remove ${p.name}`}
-                            >
-                              <X size={14} />
-                            </button>
-                          </div>
-                        )
-                      })}
-                    </>
-                  )}
-                </div>
-
-                {/* Add Manual Player Button */}
-                <Button
-                  variant="outline"
-                  size="sm"
-                  className="w-full mt-3 gap-2 text-xs"
-                  onClick={() => openManualPlayerDialog(clan.tag)}
-                >
-                  <Plus size={14} />
-                  {t('rosterBuilder.add_manual_player')}
-                </Button>
-              </div>
+                clan={clan}
+                isLocked={isLocked}
+                count={count}
+                projectedStars={projectedStars}
+                avgTH={avgTH}
+                avgReliability={avgReliability}
+                players={players}
+                manualPlayers={clanManualPlayers}
+                rosterMode={rosterMode}
+                maxCapacity={maxCapacity}
+                numSubs={numSubs}
+                onToggleLock={toggleClanLock}
+                onToggleMode={toggleRosterMode}
+                onRemovePlayer={removePlayerFromClan}
+                onRemoveManualPlayer={removeManualPlayer}
+                onAddManualPlayer={openManualPlayerDialog}
+                getProjection={getProjection}
+                prefetchPlayer={prefetchPlayer}
+              />
             )
           })}
         </div>
@@ -1545,6 +1400,7 @@ export function RosterBuilderPage() {
             <Table>
               <TableHeader>
                 <TableRow className="hover:bg-transparent border-border/50">
+                  <TableHead className="w-8">{/* Drag handle */}</TableHead>
                   <TableHead className="text-center w-12">
                     <Tooltip>
                       <TooltipTrigger asChild>
@@ -1642,119 +1498,23 @@ export function RosterBuilderPage() {
               </TableHeader>
               <TableBody>
                 {sortedPlayers.map((player) => {
-                  const form = calculateForm(player)
                   const assignedClan = getPlayerAssignment(player.playerTag)
                   const assignedClanInfo = allClans.find(c => c.tag === assignedClan)
                   const isExcluded = excludedPlayers.has(player.playerTag)
 
                   return (
-                    <TableRow
+                    <DraggablePlayerRow
                       key={player.playerTag}
-                      className={cn(
-                        "border-border/30",
-                        isExcluded && "opacity-40 bg-red-900/10",
-                        !isExcluded && assignedClan && "opacity-60"
-                      )}
-                    >
-                      <TableCell className="text-center">
-                        <Checkbox
-                          checked={isExcluded}
-                          onCheckedChange={() => togglePlayerExcluded(player.playerTag)}
-                          className={cn(isExcluded && "border-red-400 data-[state=checked]:bg-red-500")}
-                        />
-                      </TableCell>
-                      <TableCell
-                        className="cursor-pointer hover:text-primary"
-                        onClick={() => navigate(`/player/${encodeURIComponent(player.playerTag.replace('#', ''))}`)}
-                      >
-                        <div>
-                          <p className={cn("font-medium", isExcluded && "line-through")}>{player.playerName}</p>
-                          <p className="text-xs text-muted-foreground">{player.clanName}</p>
-                        </div>
-                      </TableCell>
-                      <TableCell>
-                        <p className="text-sm text-muted-foreground">{player.clanName}</p>
-                      </TableCell>
-                      <TableCell className="text-center">
-                        {player.currentTH ? (
-                          <THBadge level={player.currentTH} size="sm" />
-                        ) : (
-                          <span className="text-muted-foreground">-</span>
-                        )}
-                      </TableCell>
-                      <TableCell className="text-center">
-                        <span className={cn(
-                          'font-bold',
-                          player.avgStars >= 2.5 ? 'text-green-400' :
-                            player.avgStars >= 2.0 ? 'text-yellow-400' :
-                              'text-red-400'
-                        )}>
-                          {player.avgStars.toFixed(2)}
-                        </span>
-                      </TableCell>
-                      <TableCell className="text-center">
-                        <div className="flex items-center justify-center gap-1">
-                          <TrendUp size={14} className={cn(
-                            form >= 2.0 ? 'text-green-400' :
-                              form >= 1.5 ? 'text-yellow-400' :
-                                'text-red-400'
-                          )} />
-                          <span className={cn(
-                            'font-semibold',
-                            form >= 2.0 ? 'text-green-400' :
-                              form >= 1.5 ? 'text-yellow-400' :
-                                'text-red-400'
-                          )}>
-                            {form.toFixed(2)}
-                          </span>
-                        </div>
-                      </TableCell>
-                      <TableCell className="text-center">
-                        <span className={cn(
-                          "text-sm font-medium",
-                          player.reliabilityScore >= 90 ? "text-green-400" :
-                            player.reliabilityScore >= 75 ? "text-yellow-400" :
-                              "text-red-400"
-                        )}>
-                          {player.reliabilityScore.toFixed(0)}%
-                        </span>
-                      </TableCell>
-                      <TableCell className="text-center">
-                        <Select
-                          value={assignedClan || 'none'}
-                          onValueChange={(value) => assignPlayerToClan(player.playerTag, value as string)}
-                          disabled={isExcluded}
-                        >
-                          <SelectTrigger className={cn(
-                            "h-8 text-xs w-40",
-                            assignedClanInfo && assignedClanInfo.color
-                          )}>
-                            <SelectValue placeholder={t('rosterBuilder.selectClan')} />
-                          </SelectTrigger>
-                          <SelectContent>
-                            <SelectItem value="none">—</SelectItem>
-                            {allClans.map(clan => {
-                              const roster = clanRosters.get(clan.tag) || new Set()
-                              const maxCapacity = getMaxCapacity(clan.tag, true)
-                              const isFull = roster.size >= maxCapacity && !roster.has(player.playerTag)
-                              const meetsMinTH = (player.currentTH || 0) >= clan.minTH
-                              return (
-                                <SelectItem
-                                  key={clan.tag}
-                                  value={clan.tag}
-                                  disabled={isFull || !meetsMinTH}
-                                  className={cn(!meetsMinTH && 'opacity-50')}
-                                >
-                                  <span className={clan.color}>{clan.name}</span>
-                                  {clan.isCustom && <span className="text-xs text-muted-foreground ml-1">(guest)</span>}
-                                  {!meetsMinTH && <span className="text-xs text-muted-foreground ml-1">(TH{clan.minTH}+)</span>}
-                                </SelectItem>
-                              )
-                            })}
-                          </SelectContent>
-                        </Select>
-                      </TableCell>
-                    </TableRow>
+                      player={player}
+                      isExcluded={isExcluded}
+                      assignedClan={assignedClan}
+                      assignedClanInfo={assignedClanInfo}
+                      allClans={allClans}
+                      clanRosters={clanRosters}
+                      onToggleExcluded={togglePlayerExcluded}
+                      onAssignToClan={assignPlayerToClan}
+                      getMaxCapacity={getMaxCapacity}
+                    />
                   )
                 })}
               </TableBody>
@@ -1788,6 +1548,7 @@ export function RosterBuilderPage() {
             .filter((tag): tag is string => tag !== null)
         )}
       />
-    </div >
+    </div>
+    </RosterDndContext>
   )
 }
