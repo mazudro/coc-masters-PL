@@ -6,22 +6,10 @@ import { THBadge } from '@/components/THBadge'
 import { LeagueAdjustmentTooltip } from '@/components/LeagueAdjustmentTooltip'
 import { Lock, LockOpen, Users, Plus, X, Wrench } from '@phosphor-icons/react'
 import { ATTACKS_PER_SEASON } from '@/lib/rosterCalculations'
-import type { RosterPlayerStats, ManualPlayerEntry, RosterMode } from '@/lib/types'
+import type { RosterPlayerStats, ManualPlayerEntry, RosterMode, CustomClan } from '@/lib/types'
 import type { LeagueProjection } from '@/lib/types'
 import { useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-
-interface CustomClan {
-  name: string
-  tag: string
-  league: string
-  minTH: number
-  color: string
-  bgColor: string
-  borderColor: string
-  leagueIcon: string
-  isCustom: boolean
-}
 
 interface DroppableClanCardProps {
   clan: CustomClan
@@ -78,7 +66,7 @@ export function DroppableClanCard({
       type: 'clan',
       clanTag: clan.tag,
       minTH: clan.minTH,
-      maxCapacity: maxCapacity + 2, // Include subs
+      maxCapacity: maxCapacity + numSubs, // Include actual subs count
       currentCount: count
     }
   })

@@ -3,6 +3,7 @@ import {
   DragOverlay,
   PointerSensor,
   TouchSensor,
+  KeyboardSensor,
   useSensor,
   useSensors,
   DragStartEvent,
@@ -11,21 +12,10 @@ import {
   closestCenter
 } from '@dnd-kit/core'
 import { useState } from 'react'
-import type { RosterPlayerStats } from '@/lib/types'
+import type { RosterPlayerStats, CustomClan } from '@/lib/types'
 import { cn } from '@/lib/utils'
 import { THBadge } from '@/components/THBadge'
-
-interface CustomClan {
-  name: string
-  tag: string
-  league: string
-  minTH: number
-  color: string
-  bgColor: string
-  borderColor: string
-  leagueIcon: string
-  isCustom: boolean
-}
+import { useTranslation } from 'react-i18next'
 
 interface RosterDndContextProps {
   children: React.ReactNode
@@ -47,14 +37,16 @@ export function RosterDndContext({
   children,
   clanRosters,
   lockedClans,
+  excludedPlayers,
   allClans,
   onAssignPlayer,
   getMaxCapacity,
   onValidationMessage
 }: RosterDndContextProps) {
+  const { t } = useTranslation()
   const [activePlayer, setActivePlayer] = useState<RosterPlayerStats | null>(null)
 
-  // Configure sensors for mouse and touch
+  // Configure sensors for mouse, touch, and keyboard
   const sensors = useSensors(
     useSensor(PointerSensor, {
       activationConstraint: {
@@ -66,7 +58,8 @@ export function RosterDndContext({
         delay: 200, // Long-press for 200ms
         tolerance: 5, // Allow 5px of movement during long-press
       },
-    })
+    }),
+    useSensor(KeyboardSensor)
   )
 
   const handleDragStart = (event: DragStartEvent) => {
@@ -144,29 +137,39 @@ export function RosterDndContext({
 
       if (!clan) return
 
-      // Validate drop
-      if (lockedClans.has(clanTag)) {
+      // Validate: Check if player is excluded
+      if (excludedPlayers.has(player.playerTag)) {
         if (onValidationMessage) {
-          onValidationMessage('Cannot assign to locked clan')
+          onValidationMessage(t('rosterBuilder.cannotAssignExcludedPlayer'))
         }
         return
       }
 
+      // Validate: Check if clan is locked
+      if (lockedClans.has(clanTag)) {
+        if (onValidationMessage) {
+          onValidationMessage(t('rosterBuilder.cannotAssignToLockedClan'))
+        }
+        return
+      }
+
+      // Validate: Check TH requirement
       const playerTH = player.currentTH || 0
       if (playerTH < clan.minTH) {
         if (onValidationMessage) {
-          onValidationMessage(`Player does not meet TH${clan.minTH}+ requirement`)
+          onValidationMessage(t('rosterBuilder.playerDoesNotMeetTH', { minTH: clan.minTH }))
         }
         return
       }
 
+      // Validate: Check capacity
       const roster = clanRosters.get(clanTag) || new Set()
       const maxCapacity = getMaxCapacity(clanTag, true)
       const isFull = roster.size >= maxCapacity && !roster.has(player.playerTag)
 
       if (isFull) {
         if (onValidationMessage) {
-          onValidationMessage(`Roster is full (${maxCapacity} players maximum)`)
+          onValidationMessage(t('rosterBuilder.rosterIsFull', { maxCapacity }))
         }
         return
       }
@@ -207,7 +210,7 @@ export function RosterDndContext({
                 <p className="text-xs text-muted-foreground truncate">{activePlayer.clanName}</p>
               </div>
               <div className="text-right shrink-0">
-                <p className="text-xs text-muted-foreground">Avg Stars</p>
+                <p className="text-xs text-muted-foreground">{t('rosterBuilder.avgStars')}</p>
                 <p className={cn(
                   "font-bold text-sm",
                   activePlayer.avgStars >= 2.5 ? 'text-green-400' :

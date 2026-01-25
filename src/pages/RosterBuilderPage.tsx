@@ -12,7 +12,7 @@ import {
   calculatePlayerScore,
   getLeagueAdjustedProjection
 } from '@/lib/rosterCalculations'
-import type { ManualPlayerEntry, RosterMode, RosterPlayerStats } from '@/lib/types'
+import type { ManualPlayerEntry, RosterMode, RosterPlayerStats, CustomClan } from '@/lib/types'
 import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Plus, Question, Sparkle, Users, Warning, X } from '@phosphor-icons/react'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -20,19 +20,6 @@ import { RosterDndContext } from '@/components/roster-builder/RosterDndContext'
 import { DraggablePlayerRow } from '@/components/roster-builder/DraggablePlayerRow'
 import { DroppableClanCard } from '@/components/roster-builder/DroppableClanCard'
 import { toast } from 'sonner'
-
-// Custom clan type for external/guest clans
-interface CustomClan {
-  name: string
-  tag: string
-  league: string
-  minTH: number
-  color: string
-  bgColor: string
-  borderColor: string
-  leagueIcon: string
-  isCustom: boolean
-}
 
 // CoC Masters PL clan tier configuration for multi-clan distribution
 // Ordered from strongest to weakest clan for cascading player assignment
@@ -576,6 +563,13 @@ export function RosterBuilderPage() {
 
   // Clear all rosters
   const handleClearAllRosters = () => {
+    // Push current state to history before clearing
+    rosterHistory.push({
+      clanRosters: new Map(clanRosters),
+      lockedClans: new Set(lockedClans),
+      excludedPlayers: new Set(excludedPlayers)
+    })
+    
     setClanRosters(new Map())
     setLockedClans(new Set())
     setExcludedPlayers(new Set())
@@ -1208,7 +1202,7 @@ export function RosterBuilderPage() {
               </Button>
             </TooltipTrigger>
             <TooltipContent>
-              <p className="text-xs">Undo (last 5 actions)</p>
+              <p className="text-xs">{t('rosterBuilder.undo')}</p>
             </TooltipContent>
           </Tooltip>
           <Tooltip>
@@ -1223,7 +1217,7 @@ export function RosterBuilderPage() {
               </Button>
             </TooltipTrigger>
             <TooltipContent>
-              <p className="text-xs">Redo</p>
+              <p className="text-xs">{t('rosterBuilder.redo')}</p>
             </TooltipContent>
           </Tooltip>
 

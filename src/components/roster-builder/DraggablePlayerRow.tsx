@@ -1,7 +1,7 @@
 import { useDraggable } from '@dnd-kit/core'
 import { CSS } from '@dnd-kit/utilities'
 import { GripVertical } from 'lucide-react'
-import type { RosterPlayerStats } from '@/lib/types'
+import type { RosterPlayerStats, CustomClan } from '@/lib/types'
 import { TableRow, TableCell } from '@/components/ui/table'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
@@ -11,18 +11,6 @@ import { calculateForm } from '@/lib/rosterCalculations'
 import { TrendUp } from '@phosphor-icons/react'
 import { useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-
-interface CustomClan {
-  name: string
-  tag: string
-  league: string
-  minTH: number
-  color: string
-  bgColor: string
-  borderColor: string
-  leagueIcon: string
-  isCustom: boolean
-}
 
 interface DraggablePlayerRowProps {
   player: RosterPlayerStats

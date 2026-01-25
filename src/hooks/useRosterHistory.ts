@@ -54,16 +54,13 @@ export function useRosterHistory() {
       return newHistory
     })
     
-    // Update index after history is updated
+    // Update index after history is updated, based only on previous index
     setCurrentIndex(prev => {
-      const newHistory = history.slice(0, currentIndex + 1)
-      newHistory.push(state)
-      if (newHistory.length > MAX_HISTORY_SIZE) {
-        return MAX_HISTORY_SIZE - 1
-      }
-      return newHistory.length - 1
+      const nextIndex = prev + 1
+      // Clamp to the maximum valid index within the fixed history size
+      return Math.min(nextIndex, MAX_HISTORY_SIZE - 1)
     })
-  }, [currentIndex, cloneState, history])
+  }, [currentIndex, cloneState])
 
   /**
    * Undo to the previous state
