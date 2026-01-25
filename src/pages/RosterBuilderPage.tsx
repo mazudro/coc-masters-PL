@@ -1,27 +1,21 @@
-import { LeagueAdjustmentTooltip } from '@/components/LeagueAdjustmentTooltip'
 import { ManualPlayerDialog } from '@/components/ManualPlayerDialog'
-import { THBadge } from '@/components/THBadge'
 import { Button } from '@/components/ui/button'
-import { Checkbox } from '@/components/ui/checkbox'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
+import { Table, TableBody, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 import { useLeagueProjections } from '@/hooks/useLeagueProjections'
 import { useRosterHistory } from '@/hooks/useRosterHistory'
 import { getPlayerHistory, getRecentPlayerPool } from '@/lib/data'
 import {
   ATTACKS_PER_SEASON,
-  calculateForm,
   calculatePlayerScore,
   getLeagueAdjustedProjection
 } from '@/lib/rosterCalculations'
 import type { ManualPlayerEntry, RosterMode, RosterPlayerStats } from '@/lib/types'
-import { cn } from '@/lib/utils'
-import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Lock, LockOpen, Plus, Question, Sparkle, TrendUp, Users, Warning, Wrench, X } from '@phosphor-icons/react'
+import { ArrowDown, ArrowUp, ArrowCounterClockwise, ArrowClockwise, CircleNotch, Download, Image, Info, Plus, Sparkle, Users, Warning, X } from '@phosphor-icons/react'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { useNavigate } from 'react-router-dom'
 import { RosterDndContext } from '@/components/roster-builder/RosterDndContext'
 import { DraggablePlayerRow } from '@/components/roster-builder/DraggablePlayerRow'
 import { DroppableClanCard } from '@/components/roster-builder/DroppableClanCard'
@@ -120,7 +114,6 @@ const clearRosterState = () => {
 
 export function RosterBuilderPage() {
   const { t } = useTranslation()
-  const navigate = useNavigate()
   const [players, setPlayers] = useState<RosterPlayerStats[]>([])
   const [loading, setLoading] = useState(true)
 

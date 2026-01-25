@@ -42,9 +42,6 @@ interface DroppableClanCardProps {
   onAddManualPlayer: (clanTag: string) => void
   getProjection: (playerTag: string, league: string) => LeagueProjection | null
   prefetchPlayer: (player: RosterPlayerStats, league: string) => void
-  draggedPlayerTH?: number
-  isValidDrop?: boolean
-  validationMessage?: string
 }
 
 /**
@@ -69,10 +66,7 @@ export function DroppableClanCard({
   onRemoveManualPlayer,
   onAddManualPlayer,
   getProjection,
-  prefetchPlayer,
-  draggedPlayerTH,
-  isValidDrop,
-  validationMessage
+  prefetchPlayer
 }: DroppableClanCardProps) {
   const { t } = useTranslation()
   const navigate = useNavigate()
@@ -89,10 +83,6 @@ export function DroppableClanCard({
     }
   })
 
-  // Determine visual feedback during drag over
-  const showValidFeedback = isOver && isValidDrop
-  const showInvalidFeedback = isOver && !isValidDrop
-
   return (
     <div
       ref={setNodeRef}
@@ -101,8 +91,7 @@ export function DroppableClanCard({
         clan.borderColor,
         clan.bgColor,
         isLocked && "ring-2 ring-amber-500/50",
-        showValidFeedback && "ring-4 ring-green-500/50 bg-green-500/10 scale-[1.02]",
-        showInvalidFeedback && "ring-4 ring-red-500/50 bg-red-500/10"
+        isOver && "ring-4 ring-blue-500/50 bg-blue-500/10 scale-[1.02]"
       )}
     >
       {/* Clan Header */}
@@ -170,13 +159,6 @@ export function DroppableClanCard({
           </TooltipContent>
         </Tooltip>
       </div>
-
-      {/* Invalid Drop Message */}
-      {showInvalidFeedback && validationMessage && (
-        <div className="mb-3 p-2 bg-red-500/20 border border-red-500/50 rounded text-xs text-red-300">
-          {validationMessage}
-        </div>
-      )}
 
       {/* Clan Stats */}
       <div className="grid grid-cols-3 gap-2 text-sm mb-3">

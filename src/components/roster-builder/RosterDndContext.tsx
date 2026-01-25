@@ -47,16 +47,12 @@ export function RosterDndContext({
   children,
   clanRosters,
   lockedClans,
-  excludedPlayers,
   allClans,
-  players,
   onAssignPlayer,
   getMaxCapacity,
   onValidationMessage
 }: RosterDndContextProps) {
   const [activePlayer, setActivePlayer] = useState<RosterPlayerStats | null>(null)
-  const [overId, setOverId] = useState<string | null>(null)
-  const [validationError, setValidationError] = useState<string | null>(null)
 
   // Configure sensors for mouse and touch
   const sensors = useSensors(
@@ -84,7 +80,6 @@ export function RosterDndContext({
 
   const handleDragOver = (event: DragOverEvent) => {
     const { over } = event
-    setOverId(over?.id as string | null)
 
     // Validate drop target
     if (over) {
@@ -97,20 +92,17 @@ export function RosterDndContext({
         const clan = allClans.find(c => c.tag === clanTag)
 
         if (!clan) {
-          setValidationError(null)
           return
         }
 
         // Check if clan is locked
         if (lockedClans.has(clanTag)) {
-          setValidationError('Clan is locked')
           return
         }
 
         // Check TH requirement
         const playerTH = player.currentTH || 0
         if (playerTH < clan.minTH) {
-          setValidationError(`TH${clan.minTH}+ required`)
           return
         }
 
@@ -120,14 +112,9 @@ export function RosterDndContext({
         const isFull = roster.size >= maxCapacity && !roster.has(player.playerTag)
         
         if (isFull) {
-          setValidationError(`Roster full (${maxCapacity} max)`)
           return
         }
-
-        setValidationError(null)
       }
-    } else {
-      setValidationError(null)
     }
   }
 
@@ -135,8 +122,6 @@ export function RosterDndContext({
     const { active, over } = event
     
     setActivePlayer(null)
-    setOverId(null)
-    setValidationError(null)
 
     if (!over) {
       // Dropped outside any drop zone - remove from roster
@@ -193,8 +178,6 @@ export function RosterDndContext({
 
   const handleDragCancel = () => {
     setActivePlayer(null)
-    setOverId(null)
-    setValidationError(null)
   }
 
   return (
