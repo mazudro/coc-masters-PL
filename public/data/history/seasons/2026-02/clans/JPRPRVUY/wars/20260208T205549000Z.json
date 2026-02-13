@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-02-13T11:56:45.347Z",
+  "season": "2026-02",
+  "warTag": "JPRPRVUY-20260208T205549000Z",
+  "startTime": "20260207T205549.000Z",
+  "endTime": "20260208T205549.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 24,
+    "stars": 38,
+    "destructionPercentage": 93.13333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LG2RGVG8R",
+            "defenderName": "anos09",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 121,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "KASABREH"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#P9CUQ8880",
+            "defenderName": "KASABREH",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 63,
+          "attackerName": "muhammed.nour"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#8V2UGCC0Y",
+            "defenderName": "muhammed.nour",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 170,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "BLACK"
+        }
+      },
+      {
+        "tag": "#8222UYQU",
+        "name": "Mike",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8222UYQU",
+            "attackerName": "Mike",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#C9PJ90JJ",
+            "defenderName": "BLACK",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 1,
+            "destructionPercentage": 61,
+            "duration": 127,
+            "order": 25,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 61,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Hazem"
+        }
+      },
+      {
+        "tag": "#8Y0GY0JVP",
+        "name": "Paweł",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8Y0GY0JVP",
+            "attackerName": "Paweł",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#P0CRVRRPQ",
+            "defenderName": "احمد",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "احمد"
+        }
+      },
+      {
+        "tag": "#QVV82YUU0",
+        "name": "Pan Lipski",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QVV82YUU0",
+            "attackerName": "Pan Lipski",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#2U00J0VCU",
+            "defenderName": "FAEZ",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 154,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "FAEZ"
+        }
+      },
+      {
+        "tag": "#CV8LJRLV",
+        "name": "Gucio",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#CV8LJRLV",
+            "attackerName": "Gucio",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2RQRJGL9R",
+            "defenderName": "bdran",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 1,
+            "destructionPercentage": 78,
+            "duration": 180,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "bdran"
+        }
+      },
+      {
+        "tag": "#LJ2L00VCY",
+        "name": "IK∆RIS",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2L00VCY",
+            "attackerName": "IK∆RIS",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#LR00U9CR9",
+            "defenderName": "yousef",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 162,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "anos09"
+        }
+      },
+      {
+        "tag": "#9CQ2PPYY2",
+        "name": "Dom",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9CQ2PPYY2",
+            "attackerName": "Dom",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#2P29QJQPC",
+            "defenderName": "Hazem",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 69,
+            "duration": 180,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 69,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "yousef"
+        }
+      },
+      {
+        "tag": "#P8U2CVRP9",
+        "name": "arrrr",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P8U2CVRP9",
+            "attackerName": "arrrr",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#VGYC20C",
+            "defenderName": "Mega Cannon",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 136,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 92,
+          "attackerName": "Mega Cannon"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#80PVRY9RR",
+            "defenderName": "bahjatabdallah",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "bahjatabdallah"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#PPYYCJVJC",
+            "defenderName": "ᴮʳ〆ᴹᵒᵐᵉⁿ",
+            "defenderTH": 17,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 163,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "ᴮʳ〆ᴹᵒᵐᵉⁿ"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#98QPGYGCV",
+            "defenderName": "V1per",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "V1per"
+        }
+      },
+      {
+        "tag": "#9RQYYJR00",
+        "name": "ViTanic❤️BOSS",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYYJR00",
+            "attackerName": "ViTanic❤️BOSS",
+            "attackerTH": 18,
+            "attackerMapPosition": 14,
+            "defenderTag": "#C2CUL8PR",
+            "defenderName": "black fire",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "black fire"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEOSTREET182",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEOSTREET182",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#8JYGQCUPC",
+            "defenderName": "abdulsalam_01",
+            "defenderTH": 17,
+            "defenderMapPosition": 24,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 99,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "abdulsalam_01"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2RUCP2000",
+    "name": "بركان المحبه 2",
+    "clanLevel": 18,
+    "stars": 37,
+    "destructionPercentage": 90.93333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#8V2UGCC0Y",
+        "name": "muhammed.nour",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8V2UGCC0Y",
+            "attackerName": "muhammed.nour",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 63,
+            "duration": 177,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 63,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#P9CUQ8880",
+        "name": "KASABREH",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P9CUQ8880",
+            "attackerName": "KASABREH",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 130,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#C9PJ90JJ",
+        "name": "BLACK",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#C9PJ90JJ",
+            "attackerName": "BLACK",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 171,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 61,
+          "attackerName": "Mike"
+        }
+      },
+      {
+        "tag": "#2P29QJQPC",
+        "name": "Hazem",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2P29QJQPC",
+            "attackerName": "Hazem",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8222UYQU",
+            "defenderName": "Mike",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 69,
+          "attackerName": "Dom"
+        }
+      },
+      {
+        "tag": "#P0CRVRRPQ",
+        "name": "احمد",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#P0CRVRRPQ",
+            "attackerName": "احمد",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8Y0GY0JVP",
+            "defenderName": "Paweł",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 149,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "Paweł"
+        }
+      },
+      {
+        "tag": "#2U00J0VCU",
+        "name": "FAEZ",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#2U00J0VCU",
+            "attackerName": "FAEZ",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QVV82YUU0",
+            "defenderName": "Pan Lipski",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pan Lipski"
+        }
+      },
+      {
+        "tag": "#2RQRJGL9R",
+        "name": "bdran",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2RQRJGL9R",
+            "attackerName": "bdran",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#CV8LJRLV",
+            "defenderName": "Gucio",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 78,
+          "attackerName": "Gucio"
+        }
+      },
+      {
+        "tag": "#LR00U9CR9",
+        "name": "yousef",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LR00U9CR9",
+            "attackerName": "yousef",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#9CQ2PPYY2",
+            "defenderName": "Dom",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 180,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "IK∆RIS"
+        }
+      },
+      {
+        "tag": "#LG2RGVG8R",
+        "name": "anos09",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LG2RGVG8R",
+            "attackerName": "anos09",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#LJ2L00VCY",
+            "defenderName": "IK∆RIS",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#VGYC20C",
+        "name": "Mega Cannon",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#VGYC20C",
+            "attackerName": "Mega Cannon",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#P8U2CVRP9",
+            "defenderName": "arrrr",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 1,
+            "destructionPercentage": 92,
+            "duration": 161,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "arrrr"
+        }
+      },
+      {
+        "tag": "#80PVRY9RR",
+        "name": "bahjatabdallah",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#80PVRY9RR",
+            "attackerName": "bahjatabdallah",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 110,
+            "order": 8,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#PPYYCJVJC",
+        "name": "ᴮʳ〆ᴹᵒᵐᵉⁿ",
+        "townhallLevel": 17,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PPYYCJVJC",
+            "attackerName": "ᴮʳ〆ᴹᵒᵐᵉⁿ",
+            "attackerTH": 17,
+            "attackerMapPosition": 16,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#98QPGYGCV",
+        "name": "V1per",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#98QPGYGCV",
+            "attackerName": "V1per",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 115,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#C2CUL8PR",
+        "name": "black fire",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#C2CUL8PR",
+            "attackerName": "black fire",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#9RQYYJR00",
+            "defenderName": "ViTanic❤️BOSS",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 168,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ViTanic❤️BOSS"
+        }
+      },
+      {
+        "tag": "#8JYGQCUPC",
+        "name": "abdulsalam_01",
+        "townhallLevel": 17,
+        "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#8JYGQCUPC",
+            "attackerName": "abdulsalam_01",
+            "attackerTH": 17,
+            "attackerMapPosition": 24,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEOSTREET182",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MATEOSTREET182"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#P9CUQ8880",
+      "attackerName": "KASABREH",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 130,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9RQYYJR00",
+      "attackerName": "ViTanic❤️BOSS",
+      "attackerTH": 18,
+      "attackerMapPosition": 14,
+      "defenderTag": "#C2CUL8PR",
+      "defenderName": "black fire",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QVV82YUU0",
+      "attackerName": "Pan Lipski",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#2U00J0VCU",
+      "defenderName": "FAEZ",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 154,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PPYYCJVJC",
+      "attackerName": "ᴮʳ〆ᴹᵒᵐᵉⁿ",
+      "attackerTH": 17,
+      "attackerMapPosition": 16,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#80PVRY9RR",
+      "defenderName": "bahjatabdallah",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LG2RGVG8R",
+      "defenderName": "anos09",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 121,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8V2UGCC0Y",
+      "attackerName": "muhammed.nour",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 63,
+      "duration": 177,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#80PVRY9RR",
+      "attackerName": "bahjatabdallah",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 110,
+      "order": 8,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RQRJGL9R",
+      "attackerName": "bdran",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#CV8LJRLV",
+      "defenderName": "Gucio",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEOSTREET182",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#8JYGQCUPC",
+      "defenderName": "abdulsalam_01",
+      "defenderTH": 17,
+      "defenderMapPosition": 24,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 99,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2U00J0VCU",
+      "attackerName": "FAEZ",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QVV82YUU0",
+      "defenderName": "Pan Lipski",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VGYC20C",
+      "attackerName": "Mega Cannon",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#P8U2CVRP9",
+      "defenderName": "arrrr",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 1,
+      "destructionPercentage": 92,
+      "duration": 161,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#98QPGYGCV",
+      "attackerName": "V1per",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 115,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y0GY0JVP",
+      "attackerName": "Paweł",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#P0CRVRRPQ",
+      "defenderName": "احمد",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#C2CUL8PR",
+      "attackerName": "black fire",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#9RQYYJR00",
+      "defenderName": "ViTanic❤️BOSS",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 168,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#8V2UGCC0Y",
+      "defenderName": "muhammed.nour",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 170,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#C9PJ90JJ",
+      "attackerName": "BLACK",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 171,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#P9CUQ8880",
+      "defenderName": "KASABREH",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#98QPGYGCV",
+      "defenderName": "V1per",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LR00U9CR9",
+      "attackerName": "yousef",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#9CQ2PPYY2",
+      "defenderName": "Dom",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 180,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ2L00VCY",
+      "attackerName": "IK∆RIS",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#LR00U9CR9",
+      "defenderName": "yousef",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 162,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CQ2PPYY2",
+      "attackerName": "Dom",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#2P29QJQPC",
+      "defenderName": "Hazem",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 69,
+      "duration": 180,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#PPYYCJVJC",
+      "defenderName": "ᴮʳ〆ᴹᵒᵐᵉⁿ",
+      "defenderTH": 17,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 163,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#CV8LJRLV",
+      "attackerName": "Gucio",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2RQRJGL9R",
+      "defenderName": "bdran",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 1,
+      "destructionPercentage": 78,
+      "duration": 180,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8222UYQU",
+      "attackerName": "Mike",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#C9PJ90JJ",
+      "defenderName": "BLACK",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 1,
+      "destructionPercentage": 61,
+      "duration": 127,
+      "order": 25,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P0CRVRRPQ",
+      "attackerName": "احمد",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8Y0GY0JVP",
+      "defenderName": "Paweł",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 149,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2P29QJQPC",
+      "attackerName": "Hazem",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8222UYQU",
+      "defenderName": "Mike",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LG2RGVG8R",
+      "attackerName": "anos09",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#LJ2L00VCY",
+      "defenderName": "IK∆RIS",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P8U2CVRP9",
+      "attackerName": "arrrr",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#VGYC20C",
+      "defenderName": "Mega Cannon",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 136,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8JYGQCUPC",
+      "attackerName": "abdulsalam_01",
+      "attackerTH": 17,
+      "attackerMapPosition": 24,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEOSTREET182",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

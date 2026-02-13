@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-02-13T11:56:45.347Z",
+  "season": "2026-02",
+  "warTag": "JPRPRVUY-20260205T204635000Z",
+  "startTime": "20260204T204635.000Z",
+  "endTime": "20260205T204635.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 24,
+    "stars": 41,
+    "destructionPercentage": 95.4,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#9JLUGGCU2",
+            "defenderName": "Magazi295",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 151,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lean Tiger"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RVQURLLR",
+            "defenderName": "Idar",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 180,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Titan 64"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#2UVG8RYR",
+            "defenderName": "KONGELAKS",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Trippel B"
+        }
+      },
+      {
+        "tag": "#8222UYQU",
+        "name": "Mike",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8222UYQU",
+            "attackerName": "Mike",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#GY29ULR8",
+            "defenderName": "Ulli 1",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "OLIHEG"
+        }
+      },
+      {
+        "tag": "#8Y0GY0JVP",
+        "name": "Paweł",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8Y0GY0JVP",
+            "attackerName": "Paweł",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#298CCGV9C",
+            "defenderName": "MO",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MO"
+        }
+      },
+      {
+        "tag": "#QVV82YUU0",
+        "name": "Pan Lipski",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QVV82YUU0",
+            "attackerName": "Pan Lipski",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#9JLJ8LRRJ",
+            "defenderName": "Titan 64",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ulli 2"
+        }
+      },
+      {
+        "tag": "#CV8LJRLV",
+        "name": "Gucio",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#CV8LJRLV",
+            "attackerName": "Gucio",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#LJPPJ9YP",
+            "defenderName": "Ulli 2",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KAMP Ghost"
+        }
+      },
+      {
+        "tag": "#9CQ2PPYY2",
+        "name": "Dom",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9CQ2PPYY2",
+            "attackerName": "Dom",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#9V8CJJ9QR",
+            "defenderName": "KAMP Støle",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "KONGELAKS"
+        }
+      },
+      {
+        "tag": "#LJ2L00VCY",
+        "name": "IK∆RIS",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2L00VCY",
+            "attackerName": "IK∆RIS",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LY8Y0VU90",
+            "defenderName": "KAMP Ghost",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Idar"
+        }
+      },
+      {
+        "tag": "#P8U2CVRP9",
+        "name": "arrrr",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P8U2CVRP9",
+            "attackerName": "arrrr",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#LQCLVV890",
+            "defenderName": "LAKS",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 152,
+            "order": 26,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "KAMP Støle"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PGCYLLP9V",
+            "defenderName": "Legend",
+            "defenderTH": 18,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 174,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ulli 1"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#P22PQ0QP8",
+            "defenderName": "OLIHEG",
+            "defenderTH": 18,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 124,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "LAKS"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#2LLCYPG0",
+            "defenderName": "Trippel B",
+            "defenderTH": 18,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Lean Tigermini"
+        }
+      },
+      {
+        "tag": "#9RQYYJR00",
+        "name": "ViTanic❤️BOSS",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYYJR00",
+            "attackerName": "ViTanic❤️BOSS",
+            "attackerTH": 18,
+            "attackerMapPosition": 14,
+            "defenderTag": "#LJ0GG8U0L",
+            "defenderName": "Lean Tiger",
+            "defenderTH": 18,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 5,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Magazi295"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEOSTREET182",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEOSTREET182",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#PQLY0G292",
+            "defenderName": "Lean Tigermini",
+            "defenderTH": 18,
+            "defenderMapPosition": 21,
+            "stars": 2,
+            "destructionPercentage": 78,
+            "duration": 94,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 78,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Legend"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#LPRVQ99C",
+    "name": "LeanBackNPlay",
+    "clanLevel": 29,
+    "stars": 43,
+    "destructionPercentage": 99.33333333333333,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#RVQURLLR",
+        "name": "Idar",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#RVQURLLR",
+            "attackerName": "Idar",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#LJ2L00VCY",
+            "defenderName": "IK∆RIS",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#2UVG8RYR",
+        "name": "KONGELAKS",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2UVG8RYR",
+            "attackerName": "KONGELAKS",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#9CQ2PPYY2",
+            "defenderName": "Dom",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#9JLUGGCU2",
+        "name": "Magazi295",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9JLUGGCU2",
+            "attackerName": "Magazi295",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#9RQYYJR00",
+            "defenderName": "ViTanic❤️BOSS",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#GY29ULR8",
+        "name": "Ulli 1",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#GY29ULR8",
+            "attackerName": "Ulli 1",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Mike"
+        }
+      },
+      {
+        "tag": "#298CCGV9C",
+        "name": "MO",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#298CCGV9C",
+            "attackerName": "MO",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8Y0GY0JVP",
+            "defenderName": "Paweł",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 178,
+            "order": 6,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Paweł"
+        }
+      },
+      {
+        "tag": "#9JLJ8LRRJ",
+        "name": "Titan 64",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#9JLJ8LRRJ",
+            "attackerName": "Titan 64",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 30,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pan Lipski"
+        }
+      },
+      {
+        "tag": "#LJPPJ9YP",
+        "name": "Ulli 2",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LJPPJ9YP",
+            "attackerName": "Ulli 2",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#QVV82YUU0",
+            "defenderName": "Pan Lipski",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Gucio"
+        }
+      },
+      {
+        "tag": "#9V8CJJ9QR",
+        "name": "KAMP Støle",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9V8CJJ9QR",
+            "attackerName": "KAMP Støle",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#P8U2CVRP9",
+            "defenderName": "arrrr",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dom"
+        }
+      },
+      {
+        "tag": "#LY8Y0VU90",
+        "name": "KAMP Ghost",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LY8Y0VU90",
+            "attackerName": "KAMP Ghost",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#CV8LJRLV",
+            "defenderName": "Gucio",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 150,
+            "order": 1,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "IK∆RIS"
+        }
+      },
+      {
+        "tag": "#LQCLVV890",
+        "name": "LAKS",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LQCLVV890",
+            "attackerName": "LAKS",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 162,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "arrrr"
+        }
+      },
+      {
+        "tag": "#PGCYLLP9V",
+        "name": "Legend",
+        "townhallLevel": 18,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PGCYLLP9V",
+            "attackerName": "Legend",
+            "attackerTH": 18,
+            "attackerMapPosition": 15,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEOSTREET182",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 92,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#P22PQ0QP8",
+        "name": "OLIHEG",
+        "townhallLevel": 18,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#P22PQ0QP8",
+            "attackerName": "OLIHEG",
+            "attackerTH": 18,
+            "attackerMapPosition": 17,
+            "defenderTag": "#8222UYQU",
+            "defenderName": "Mike",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 2,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#2LLCYPG0",
+        "name": "Trippel B",
+        "townhallLevel": 18,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#2LLCYPG0",
+            "attackerName": "Trippel B",
+            "attackerTH": 18,
+            "attackerMapPosition": 19,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 169,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#LJ0GG8U0L",
+        "name": "Lean Tiger",
+        "townhallLevel": 18,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LJ0GG8U0L",
+            "attackerName": "Lean Tiger",
+            "attackerTH": 18,
+            "attackerMapPosition": 20,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ViTanic❤️BOSS"
+        }
+      },
+      {
+        "tag": "#PQLY0G292",
+        "name": "Lean Tigermini",
+        "townhallLevel": 18,
+        "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#PQLY0G292",
+            "attackerName": "Lean Tigermini",
+            "attackerTH": 18,
+            "attackerMapPosition": 21,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 78,
+          "attackerName": "MATEOSTREET182"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#LY8Y0VU90",
+      "attackerName": "KAMP Ghost",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#CV8LJRLV",
+      "defenderName": "Gucio",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 150,
+      "order": 1,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P22PQ0QP8",
+      "attackerName": "OLIHEG",
+      "attackerTH": 18,
+      "attackerMapPosition": 17,
+      "defenderTag": "#8222UYQU",
+      "defenderName": "Mike",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 2,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2LLCYPG0",
+      "attackerName": "Trippel B",
+      "attackerTH": 18,
+      "attackerMapPosition": 19,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 169,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y0GY0JVP",
+      "attackerName": "Paweł",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#298CCGV9C",
+      "defenderName": "MO",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9RQYYJR00",
+      "attackerName": "ViTanic❤️BOSS",
+      "attackerTH": 18,
+      "attackerMapPosition": 14,
+      "defenderTag": "#LJ0GG8U0L",
+      "defenderName": "Lean Tiger",
+      "defenderTH": 18,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 5,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#298CCGV9C",
+      "attackerName": "MO",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8Y0GY0JVP",
+      "defenderName": "Paweł",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 6,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ0GG8U0L",
+      "attackerName": "Lean Tiger",
+      "attackerTH": 18,
+      "attackerMapPosition": 20,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PGCYLLP9V",
+      "defenderName": "Legend",
+      "defenderTH": 18,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 174,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#P22PQ0QP8",
+      "defenderName": "OLIHEG",
+      "defenderTH": 18,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 124,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQLY0G292",
+      "attackerName": "Lean Tigermini",
+      "attackerTH": 18,
+      "attackerMapPosition": 21,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#2LLCYPG0",
+      "defenderName": "Trippel B",
+      "defenderTH": 18,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 178,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2UVG8RYR",
+      "attackerName": "KONGELAKS",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#9CQ2PPYY2",
+      "defenderName": "Dom",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RVQURLLR",
+      "attackerName": "Idar",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#LJ2L00VCY",
+      "defenderName": "IK∆RIS",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LQCLVV890",
+      "attackerName": "LAKS",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 162,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEOSTREET182",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#PQLY0G292",
+      "defenderName": "Lean Tigermini",
+      "defenderTH": 18,
+      "defenderMapPosition": 21,
+      "stars": 2,
+      "destructionPercentage": 78,
+      "duration": 94,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#2UVG8RYR",
+      "defenderName": "KONGELAKS",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PGCYLLP9V",
+      "attackerName": "Legend",
+      "attackerTH": 18,
+      "attackerMapPosition": 15,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEOSTREET182",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 92,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#9JLUGGCU2",
+      "defenderName": "Magazi295",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 151,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9CQ2PPYY2",
+      "attackerName": "Dom",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#9V8CJJ9QR",
+      "defenderName": "KAMP Støle",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9V8CJJ9QR",
+      "attackerName": "KAMP Støle",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#P8U2CVRP9",
+      "defenderName": "arrrr",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CV8LJRLV",
+      "attackerName": "Gucio",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#LJPPJ9YP",
+      "defenderName": "Ulli 2",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RVQURLLR",
+      "defenderName": "Idar",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 180,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8222UYQU",
+      "attackerName": "Mike",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#GY29ULR8",
+      "defenderName": "Ulli 1",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QVV82YUU0",
+      "attackerName": "Pan Lipski",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#9JLJ8LRRJ",
+      "defenderName": "Titan 64",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GY29ULR8",
+      "attackerName": "Ulli 1",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P8U2CVRP9",
+      "attackerName": "arrrr",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#LQCLVV890",
+      "defenderName": "LAKS",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 152,
+      "order": 26,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LJPPJ9YP",
+      "attackerName": "Ulli 2",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#QVV82YUU0",
+      "defenderName": "Pan Lipski",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9JLUGGCU2",
+      "attackerName": "Magazi295",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#9RQYYJR00",
+      "defenderName": "ViTanic❤️BOSS",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 28,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ2L00VCY",
+      "attackerName": "IK∆RIS",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LY8Y0VU90",
+      "defenderName": "KAMP Ghost",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9JLJ8LRRJ",
+      "attackerName": "Titan 64",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 30,
+      "side": "opponent"
+    }
+  ]
+}

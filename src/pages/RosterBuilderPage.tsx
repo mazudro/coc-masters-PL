@@ -26,10 +26,11 @@ import { toast } from 'sonner'
 // - coc masters PL (#P0J2J8GJ) - main clan
 // - Akademia CoC PL (#JPRPRVUY) - academy
 // - Psychole! (#29RYVJ8C8) - training
+// League data updated for 2026-03 season based on 2026-02 results
 const CLAN_TIERS = [
-  { name: 'coc masters PL', tag: '#P0J2J8GJ', league: 'Master League I', minTH: 16, color: 'text-blue-400', bgColor: 'bg-blue-400/10', borderColor: 'border-blue-400/30', leagueIcon: '/images/leagues/master-1.png', isCustom: false },
-  { name: 'Akademia CoC PL', tag: '#JPRPRVUY', league: 'Crystal League I', minTH: 12, color: 'text-green-400', bgColor: 'bg-green-400/10', borderColor: 'border-green-400/30', leagueIcon: '/images/leagues/crystal-1.png', isCustom: false },
-  { name: 'Psychole!', tag: '#29RYVJ8C8', league: 'Crystal League II', minTH: 10, color: 'text-orange-400', bgColor: 'bg-orange-400/10', borderColor: 'border-orange-400/30', leagueIcon: '/images/leagues/crystal-2.png', isCustom: false },
+  { name: 'coc masters PL', tag: '#P0J2J8GJ', league: 'Champion League I', minTH: 16, color: 'text-blue-400', bgColor: 'bg-blue-400/10', borderColor: 'border-blue-400/30', leagueIcon: '/images/leagues/champion-1.png', isCustom: false },
+  { name: 'Akademia CoC PL', tag: '#JPRPRVUY', league: 'Master League II', minTH: 12, color: 'text-green-400', bgColor: 'bg-green-400/10', borderColor: 'border-green-400/30', leagueIcon: '/images/leagues/master-2.png', isCustom: false },
+  { name: 'Psychole!', tag: '#29RYVJ8C8', league: 'Master League III', minTH: 10, color: 'text-orange-400', bgColor: 'bg-orange-400/10', borderColor: 'border-orange-400/30', leagueIcon: '/images/leagues/master-3.png', isCustom: false },
 ] as const satisfies readonly CustomClan[]
 
 type SortField = 'playerName' | 'totalWars' | 'totalAttacks' | 'totalStars' | 'avgStars' | 'threeStarRate' | 'reliabilityScore' | 'currentTH' | 'form'

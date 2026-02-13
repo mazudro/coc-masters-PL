@@ -24,7 +24,7 @@ dotenv.config({ path: ".env.local" });
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // Official CoC API Key
-const COC_API_KEY = process.env.COC_API_KEY || "COC_API_KEY";
+const COC_API_KEY = process.env.COC_API_KEY || "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImFmMDcyYjU1LWVlNWQtNGQ1Yy1hOWI4LTYzOTlkOTJiMTU0OSIsImlhdCI6MTc3MDk4MzI5MSwic3ViIjoiZGV2ZWxvcGVyL2I0MTQ5NGFmLWI0YTYtMDhhZi1jNmI5LWQxYjY5MWJkOTMzNCIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjIxMi4xMjkuNzYuMjE4Il0sInR5cGUiOiJjbGllbnQifV19.hsKa2SNaAj-AT6IEb0q0Aw5F3IscjSuWaMQHVwclydTQwxII-zi4jN4RTI1Tesus0jI0TN5CLVBm2TzUlDtb1w";
 
 const FAMILY_CLANS = [
   { name: "coc masters PL", tag: "#P0J2J8GJ" },

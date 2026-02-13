@@ -1,0 +1,1411 @@
+{
+  "generatedAt": "2026-02-13T11:56:44.596Z",
+  "season": "2026-02",
+  "warTag": "29RYVJ8C8-20260207T202431000Z",
+  "startTime": "20260206T202431.000Z",
+  "endTime": "20260207T202431.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 38,
+    "destructionPercentage": 92.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P28Q8VYR",
+            "defenderName": "Fortix23",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 180,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Teddy"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#Q0Y9GU08",
+            "defenderName": "jpower",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 134,
+            "order": 30,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "jpower"
+        }
+      },
+      {
+        "tag": "#RGR9RY2",
+        "name": "Dominik",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGR9RY2",
+            "attackerName": "Dominik",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#VVL9R92",
+            "defenderName": "Teddy",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 95,
+            "duration": 180,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 95,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fortix23"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#20LJUYLL",
+            "defenderName": "chibipower",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 72,
+            "duration": 144,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 70,
+          "attackerName": "chibipower"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#VV98PLYR",
+            "defenderName": "huhu1",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 72,
+            "duration": 137,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 72,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "huhu1"
+        }
+      },
+      {
+        "tag": "#QJ88YRYR8",
+        "name": "Barto19",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QJ88YRYR8",
+            "attackerName": "Barto19",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#U9P9QC8",
+            "defenderName": "HackiBvB",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "HackiBvB"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Q9QYPVR0",
+            "defenderName": "Joschy",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 177,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Joschy"
+        }
+      },
+      {
+        "tag": "#P9UGCVQ9V",
+        "name": "maatii2901",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P9UGCVQ9V",
+            "attackerName": "maatii2901",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#89G8V99",
+            "defenderName": "Tae-yeon",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 123,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Tae-yeon"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#200P9VLP",
+            "defenderName": "Teddy",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 127,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Teddy"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#2PJCR802U",
+            "defenderName": "Montana",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 135,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 73,
+          "attackerName": "Montana"
+        }
+      },
+      {
+        "tag": "#GLUYQUCQV",
+        "name": "SlimShady",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GLUYQUCQV",
+            "attackerName": "SlimShady",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#PVVVU0P82",
+            "defenderName": "Arya",
+            "defenderTH": 16,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Arya"
+        }
+      },
+      {
+        "tag": "#UQCRLPV8",
+        "name": "nyxon",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#UQCRLPV8",
+            "attackerName": "nyxon",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#YUJLCQQQG",
+            "defenderName": "Tyrion",
+            "defenderTH": 16,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "Tyrion"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#LYC9C228Y",
+            "defenderName": "Dracarys",
+            "defenderTH": 15,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 66,
+          "attackerName": "yehee"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#QQQPPL2Y9",
+            "defenderName": "yehee",
+            "defenderTH": 15,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 143,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "Dracarys"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#22QL9YR99",
+            "defenderName": "Teddy WAR",
+            "defenderTH": 15,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 180,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Teddy WAR"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2RLQU8QJJ",
+    "name": "JPower‘s Rest",
+    "clanLevel": 12,
+    "stars": 34,
+    "destructionPercentage": 85,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P28Q8VYR",
+        "name": "Fortix23",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P28Q8VYR",
+            "attackerName": "Fortix23",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#RGR9RY2",
+            "defenderName": "Dominik",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 88,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#Q0Y9GU08",
+        "name": "jpower",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Q0Y9GU08",
+            "attackerName": "jpower",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 109,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#VVL9R92",
+        "name": "Teddy",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#VVL9R92",
+            "attackerName": "Teddy",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 122,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 95,
+          "attackerName": "Dominik"
+        }
+      },
+      {
+        "tag": "#20LJUYLL",
+        "name": "chibipower",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#20LJUYLL",
+            "attackerName": "chibipower",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 2,
+            "destructionPercentage": 70,
+            "duration": 67,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 70,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 72,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#VV98PLYR",
+        "name": "huhu1",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#VV98PLYR",
+            "attackerName": "huhu1",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 78,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 72,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#U9P9QC8",
+        "name": "HackiBvB",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#U9P9QC8",
+            "attackerName": "HackiBvB",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#QJ88YRYR8",
+            "defenderName": "Barto19",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 159,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Barto19"
+        }
+      },
+      {
+        "tag": "#Q9QYPVR0",
+        "name": "Joschy",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QYPVR0",
+            "attackerName": "Joschy",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 3,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#89G8V99",
+        "name": "Tae-yeon",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#89G8V99",
+            "attackerName": "Tae-yeon",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#P9UGCVQ9V",
+            "defenderName": "maatii2901",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 148,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "maatii2901"
+        }
+      },
+      {
+        "tag": "#200P9VLP",
+        "name": "Teddy",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#200P9VLP",
+            "attackerName": "Teddy",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 146,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#2PJCR802U",
+        "name": "Montana",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2PJCR802U",
+            "attackerName": "Montana",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#Q8J2V8GY",
+            "defenderName": "genetic",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 73,
+            "duration": 96,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 73,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#PVVVU0P82",
+        "name": "Arya",
+        "townhallLevel": 16,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PVVVU0P82",
+            "attackerName": "Arya",
+            "attackerTH": 16,
+            "attackerMapPosition": 11,
+            "defenderTag": "#GLUYQUCQV",
+            "defenderName": "SlimShady",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 125,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SlimShady"
+        }
+      },
+      {
+        "tag": "#YUJLCQQQG",
+        "name": "Tyrion",
+        "townhallLevel": 16,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YUJLCQQQG",
+            "attackerName": "Tyrion",
+            "attackerTH": 16,
+            "attackerMapPosition": 12,
+            "defenderTag": "#UQCRLPV8",
+            "defenderName": "nyxon",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 138,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "nyxon"
+        }
+      },
+      {
+        "tag": "#LYC9C228Y",
+        "name": "Dracarys",
+        "townhallLevel": 15,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LYC9C228Y",
+            "attackerName": "Dracarys",
+            "attackerTH": 15,
+            "attackerMapPosition": 13,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 95,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#QQQPPL2Y9",
+        "name": "yehee",
+        "townhallLevel": 15,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QQQPPL2Y9",
+            "attackerName": "yehee",
+            "attackerTH": 15,
+            "attackerMapPosition": 14,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 66,
+            "duration": 89,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#22QL9YR99",
+        "name": "Teddy WAR",
+        "townhallLevel": 15,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#22QL9YR99",
+            "attackerName": "Teddy WAR",
+            "attackerTH": 15,
+            "attackerMapPosition": 15,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#LYC9C228Y",
+      "defenderName": "Dracarys",
+      "defenderTH": 15,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#QQQPPL2Y9",
+      "defenderName": "yehee",
+      "defenderTH": 15,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 143,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q9QYPVR0",
+      "attackerName": "Joschy",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 3,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GLUYQUCQV",
+      "attackerName": "SlimShady",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#PVVVU0P82",
+      "defenderName": "Arya",
+      "defenderTH": 16,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22QL9YR99",
+      "attackerName": "Teddy WAR",
+      "attackerTH": 15,
+      "attackerMapPosition": 15,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#2PJCR802U",
+      "defenderName": "Montana",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 135,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#200P9VLP",
+      "attackerName": "Teddy",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 146,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Q9QYPVR0",
+      "defenderName": "Joschy",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 177,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#22QL9YR99",
+      "defenderName": "Teddy WAR",
+      "defenderTH": 15,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 180,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#VV98PLYR",
+      "defenderName": "huhu1",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 72,
+      "duration": 137,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P28Q8VYR",
+      "defenderName": "Fortix23",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 180,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9UGCVQ9V",
+      "attackerName": "maatii2901",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#89G8V99",
+      "defenderName": "Tae-yeon",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LYC9C228Y",
+      "attackerName": "Dracarys",
+      "attackerTH": 15,
+      "attackerMapPosition": 13,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 95,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQQPPL2Y9",
+      "attackerName": "yehee",
+      "attackerTH": 15,
+      "attackerMapPosition": 14,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 66,
+      "duration": 89,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YUJLCQQQG",
+      "attackerName": "Tyrion",
+      "attackerTH": 16,
+      "attackerMapPosition": 12,
+      "defenderTag": "#UQCRLPV8",
+      "defenderName": "nyxon",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 138,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PVVVU0P82",
+      "attackerName": "Arya",
+      "attackerTH": 16,
+      "attackerMapPosition": 11,
+      "defenderTag": "#GLUYQUCQV",
+      "defenderName": "SlimShady",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 125,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PJCR802U",
+      "attackerName": "Montana",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#Q8J2V8GY",
+      "defenderName": "genetic",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 73,
+      "duration": 96,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#89G8V99",
+      "attackerName": "Tae-yeon",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#P9UGCVQ9V",
+      "defenderName": "maatii2901",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 148,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VV98PLYR",
+      "attackerName": "huhu1",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 78,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#20LJUYLL",
+      "attackerName": "chibipower",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 2,
+      "destructionPercentage": 70,
+      "duration": 67,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#Q0Y9GU08",
+      "attackerName": "jpower",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 109,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGR9RY2",
+      "attackerName": "Dominik",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#VVL9R92",
+      "defenderName": "Teddy",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 95,
+      "duration": 180,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#U9P9QC8",
+      "attackerName": "HackiBvB",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#QJ88YRYR8",
+      "defenderName": "Barto19",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 159,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UQCRLPV8",
+      "attackerName": "nyxon",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#YUJLCQQQG",
+      "defenderName": "Tyrion",
+      "defenderTH": 16,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P28Q8VYR",
+      "attackerName": "Fortix23",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#RGR9RY2",
+      "defenderName": "Dominik",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 88,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#VVL9R92",
+      "attackerName": "Teddy",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 122,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#200P9VLP",
+      "defenderName": "Teddy",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 127,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#20LJUYLL",
+      "defenderName": "chibipower",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 72,
+      "duration": 144,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QJ88YRYR8",
+      "attackerName": "Barto19",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#U9P9QC8",
+      "defenderName": "HackiBvB",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 123,
+      "order": 29,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#Q0Y9GU08",
+      "defenderName": "jpower",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 134,
+      "order": 30,
+      "side": "clan"
+    }
+  ]
+}

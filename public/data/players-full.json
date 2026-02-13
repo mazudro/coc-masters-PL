@@ -2300,42 +2300,43 @@
     "name": "Gantz",
     "th": 18,
     "clans": [
+      "#JPRPRVUY",
       "#P0J2J8GJ"
     ],
-    "seasonsCount": 24,
+    "seasonsCount": 25,
     "totals": {
-      "stars": 386,
-      "attacks": 164,
-      "wars": 164,
-      "destruction": 14655,
+      "stars": 388,
+      "attacks": 165,
+      "wars": 165,
+      "destruction": 14754,
       "triples": 63,
       "missedAttacks": 0,
       "avgStars": 2.35,
-      "avgDestruction": 89.36,
-      "threeStarRate": 38.41
+      "avgDestruction": 89.42,
+      "threeStarRate": 38.18
     },
-    "reliabilityScore": 74.45,
+    "reliabilityScore": 74.39,
     "reliabilityBreakdown": {
-      "performance": 58.37,
+      "performance": 58.26,
       "attendance": 100,
-      "leagueAdj": 65.91,
-      "weighted": 74.45
+      "leagueAdj": 65.88,
+      "weighted": 74.39
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 5,
-      "twoStars": 96,
+      "twoStars": 97,
       "threeStars": 63
     },
     "defense": {
-      "timesAttacked": 151,
-      "starsAllowed": 325,
+      "timesAttacked": 152,
+      "starsAllowed": 327,
       "triplesAllowed": 49,
       "avgStarsAllowed": 2.15,
       "defenseQuality": 28
     },
     "lastLeague": {
-      "tier": "Champion League III"
+      "tier": "Master League II"
     },
     "primaryLeague": "Champion League III",
     "leagueHistory": [
@@ -2356,8 +2357,8 @@
       },
       {
         "leagueTier": "Master League II",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 21
+        "seasonsPlayed": 4,
+        "attacksInLeague": 22
       },
       {
         "leagueTier": "Crystal League I",
@@ -2380,8 +2381,28 @@
       "stars": 19,
       "avgStars": 2.71
     },
-    "performanceTrend": "stable",
+    "performanceTrend": "declining",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 99,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
       {
         "season": "2026-01",
         "clanTag": "#P0J2J8GJ",
@@ -4836,40 +4857,40 @@
       "#P0J2J8GJ",
       "#29RYVJ8C8"
     ],
-    "seasonsCount": 19,
+    "seasonsCount": 20,
     "totals": {
-      "stars": 269,
-      "attacks": 112,
-      "wars": 115,
-      "destruction": 10077,
+      "stars": 271,
+      "attacks": 113,
+      "wars": 116,
+      "destruction": 10175,
       "triples": 59,
       "missedAttacks": 3,
       "avgStars": 2.4,
-      "avgDestruction": 89.97,
-      "threeStarRate": 52.68
+      "avgDestruction": 90.04,
+      "threeStarRate": 52.21
     },
-    "reliabilityScore": 77.51,
+    "reliabilityScore": 77.4,
     "reliabilityBreakdown": {
-      "performance": 66.34,
-      "attendance": 97.39,
-      "leagueAdj": 67.86,
-      "weighted": 77.51
+      "performance": 66.11,
+      "attendance": 97.41,
+      "leagueAdj": 67.79,
+      "weighted": 77.4
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 14,
-      "twoStars": 39,
+      "twoStars": 40,
       "threeStars": 59
     },
     "defense": {
-      "timesAttacked": 107,
-      "starsAllowed": 252,
+      "timesAttacked": 108,
+      "starsAllowed": 254,
       "triplesAllowed": 43,
-      "avgStarsAllowed": 2.36,
-      "defenseQuality": 21
+      "avgStarsAllowed": 2.35,
+      "defenseQuality": 22
     },
     "lastLeague": {
-      "tier": "Master League III"
+      "tier": "Master League II"
     },
     "primaryLeague": "Master League III",
     "leagueHistory": [
@@ -4889,14 +4910,14 @@
         "attacksInLeague": 27
       },
       {
-        "leagueTier": "Champion League I",
-        "seasonsPlayed": 1,
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 2,
         "attacksInLeague": 7
       },
       {
-        "leagueTier": "Master League II",
+        "leagueTier": "Champion League I",
         "seasonsPlayed": 1,
-        "attacksInLeague": 6
+        "attacksInLeague": 7
       },
       {
         "leagueTier": "Champion League II",
@@ -4914,8 +4935,28 @@
       "stars": 21,
       "avgStars": 3
     },
-    "performanceTrend": "improving",
+    "performanceTrend": "declining",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 98,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
       {
         "season": "2026-01",
         "clanTag": "#JPRPRVUY",
@@ -5764,40 +5805,40 @@
     "name": "Borsuk",
     "th": 18,
     "clans": [
+      "#29RYVJ8C8",
       "#JPRPRVUY",
-      "#P0J2J8GJ",
-      "#29RYVJ8C8"
+      "#P0J2J8GJ"
     ],
-    "seasonsCount": 20,
+    "seasonsCount": 21,
     "totals": {
-      "stars": 210,
-      "attacks": 94,
-      "wars": 95,
-      "destruction": 8189,
-      "triples": 32,
+      "stars": 213,
+      "attacks": 95,
+      "wars": 96,
+      "destruction": 8289,
+      "triples": 33,
       "missedAttacks": 1,
-      "avgStars": 2.23,
-      "avgDestruction": 87.12,
-      "threeStarRate": 34.04
+      "avgStars": 2.24,
+      "avgDestruction": 87.25,
+      "threeStarRate": 34.74
     },
-    "reliabilityScore": 69.92,
+    "reliabilityScore": 70.15,
     "reliabilityBreakdown": {
-      "performance": 54.19,
-      "attendance": 98.95,
-      "leagueAdj": 54.52,
-      "weighted": 69.92
+      "performance": 54.7,
+      "attendance": 98.96,
+      "leagueAdj": 54.47,
+      "weighted": 70.15
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 10,
       "twoStars": 52,
-      "threeStars": 32
+      "threeStars": 33
     },
     "defense": {
-      "timesAttacked": 90,
-      "starsAllowed": 205,
+      "timesAttacked": 91,
+      "starsAllowed": 207,
       "triplesAllowed": 35,
-      "avgStarsAllowed": 2.28,
+      "avgStarsAllowed": 2.27,
       "defenseQuality": 24
     },
     "lastLeague": {
@@ -5807,8 +5848,8 @@
     "leagueHistory": [
       {
         "leagueTier": "Master League III",
-        "seasonsPlayed": 10,
-        "attacksInLeague": 46
+        "seasonsPlayed": 11,
+        "attacksInLeague": 47
       },
       {
         "leagueTier": "Crystal League I",
@@ -5841,8 +5882,28 @@
       "stars": 19,
       "avgStars": 2.71
     },
-    "performanceTrend": "improving",
+    "performanceTrend": "stable",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
       {
         "season": "2026-01",
         "clanTag": "#JPRPRVUY",
@@ -6605,43 +6666,43 @@
     "name": "Mamcorz",
     "th": 18,
     "clans": [
-      "#P0J2J8GJ",
-      "#JPRPRVUY"
+      "#JPRPRVUY",
+      "#P0J2J8GJ"
     ],
-    "seasonsCount": 24,
+    "seasonsCount": 25,
     "totals": {
-      "stars": 200,
-      "attacks": 87,
-      "wars": 89,
-      "destruction": 7650,
+      "stars": 202,
+      "attacks": 88,
+      "wars": 90,
+      "destruction": 7743,
       "triples": 37,
       "missedAttacks": 2,
       "avgStars": 2.3,
-      "avgDestruction": 87.93,
-      "threeStarRate": 42.53
+      "avgDestruction": 87.99,
+      "threeStarRate": 42.05
     },
-    "reliabilityScore": 71.86,
+    "reliabilityScore": 71.77,
     "reliabilityBreakdown": {
-      "performance": 59.6,
-      "attendance": 97.75,
-      "leagueAdj": 54.14,
-      "weighted": 71.86
+      "performance": 59.36,
+      "attendance": 97.78,
+      "leagueAdj": 54.2,
+      "weighted": 71.77
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 11,
-      "twoStars": 39,
+      "twoStars": 40,
       "threeStars": 37
     },
     "defense": {
-      "timesAttacked": 78,
-      "starsAllowed": 172,
+      "timesAttacked": 79,
+      "starsAllowed": 173,
       "triplesAllowed": 27,
-      "avgStarsAllowed": 2.21,
-      "defenseQuality": 26
+      "avgStarsAllowed": 2.19,
+      "defenseQuality": 27
     },
     "lastLeague": {
-      "tier": "Champion League III"
+      "tier": "Master League II"
     },
     "primaryLeague": "Champion League III",
     "leagueHistory": [
@@ -6679,6 +6740,11 @@
         "leagueTier": "Master League III",
         "seasonsPlayed": 1,
         "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
       }
     ],
     "bestSeason": {
@@ -6688,6 +6754,26 @@
     },
     "performanceTrend": "declining",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 93,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 67
+      },
       {
         "season": "2026-01",
         "clanTag": "#P0J2J8GJ",
@@ -7908,40 +7994,40 @@
       "#JPRPRVUY",
       "#P0J2J8GJ"
     ],
-    "seasonsCount": 16,
+    "seasonsCount": 17,
     "totals": {
-      "stars": 181,
-      "attacks": 87,
-      "wars": 90,
-      "destruction": 7083,
+      "stars": 183,
+      "attacks": 88,
+      "wars": 91,
+      "destruction": 7172,
       "triples": 8,
       "missedAttacks": 3,
       "avgStars": 2.08,
-      "avgDestruction": 81.41,
-      "threeStarRate": 9.2
+      "avgDestruction": 81.5,
+      "threeStarRate": 9.09
     },
-    "reliabilityScore": 65.3,
+    "reliabilityScore": 65.24,
     "reliabilityBreakdown": {
-      "performance": 39.27,
-      "attendance": 96.67,
-      "leagueAdj": 68.97,
-      "weighted": 65.3
+      "performance": 39.21,
+      "attendance": 96.7,
+      "leagueAdj": 68.75,
+      "weighted": 65.24
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 1,
-      "twoStars": 78,
+      "twoStars": 79,
       "threeStars": 8
     },
     "defense": {
-      "timesAttacked": 88,
-      "starsAllowed": 203,
+      "timesAttacked": 89,
+      "starsAllowed": 205,
       "triplesAllowed": 38,
-      "avgStarsAllowed": 2.31,
+      "avgStarsAllowed": 2.3,
       "defenseQuality": 23
     },
     "lastLeague": {
-      "tier": "Crystal League I"
+      "tier": "Master League III"
     },
     "primaryLeague": "Master League I",
     "leagueHistory": [
@@ -7952,8 +8038,8 @@
       },
       {
         "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 18
+        "seasonsPlayed": 5,
+        "attacksInLeague": 19
       },
       {
         "leagueTier": "Champion League III",
@@ -7986,8 +8072,28 @@
       "stars": 17,
       "avgStars": 2.43
     },
-    "performanceTrend": "declining",
+    "performanceTrend": "stable",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 89,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
       {
         "season": "2026-01",
         "clanTag": "#29RYVJ8C8",
@@ -12244,6 +12350,237 @@
     ]
   },
   {
+    "tag": "#2Q2CLJU90",
+    "name": "Piotrek",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY",
+      "#29RYVJ8C8",
+      "#P0J2J8GJ"
+    ],
+    "seasonsCount": 8,
+    "totals": {
+      "stars": 96,
+      "attacks": 43,
+      "wars": 46,
+      "destruction": 3711,
+      "triples": 20,
+      "missedAttacks": 3,
+      "avgStars": 2.23,
+      "avgDestruction": 86.3,
+      "threeStarRate": 46.51
+    },
+    "reliabilityScore": 70.09,
+    "reliabilityBreakdown": {
+      "performance": 60.42,
+      "attendance": 93.48,
+      "leagueAdj": 50.93,
+      "weighted": 70.09
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 10,
+      "twoStars": 13,
+      "threeStars": 20
+    },
+    "defense": {
+      "timesAttacked": 45,
+      "starsAllowed": 99,
+      "triplesAllowed": 16,
+      "avgStarsAllowed": 2.2,
+      "defenseQuality": 27
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 19
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 14
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 10
+      }
+    ],
+    "bestSeason": {
+      "season": "2023-11",
+      "stars": 21,
+      "avgStars": 3
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 1,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 97,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2024-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 5,
+        "triples": 0,
+        "avgStars": 1.67,
+        "avgDestruction": 86.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 2,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 11
+      },
+      {
+        "season": "2024-06",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 6,
+        "stars": 15,
+        "triples": 4,
+        "avgStars": 2.5,
+        "avgDestruction": 90,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 4
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 38
+      },
+      {
+        "season": "2024-03",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 6,
+        "stars": 12,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 83,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 4,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 29
+      },
+      {
+        "season": "2024-01",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 13,
+        "triples": 2,
+        "avgStars": 1.86,
+        "avgDestruction": 79.86,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 3,
+          "twoStars": 2,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 6
+      },
+      {
+        "season": "2023-12",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 14,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 18,
+        "triples": 5,
+        "avgStars": 2.57,
+        "avgDestruction": 94.57,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 5
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 29
+      },
+      {
+        "season": "2023-11",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 14,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 21,
+        "triples": 7,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 7
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 39
+      },
+      {
+        "season": "2023-10",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 14,
+        "warsParticipated": 7,
+        "attacks": 6,
+        "stars": 11,
+        "triples": 1,
+        "avgStars": 1.83,
+        "avgDestruction": 65.83,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 2,
+          "twoStars": 3,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 24
+      }
+    ]
+  },
+  {
     "tag": "#QJVGJQLRJ",
     "name": "byczeq",
     "th": 17,
@@ -12829,216 +13166,6 @@
         },
         "leagueTier": "Crystal League III",
         "defenseQuality": 33
-      }
-    ]
-  },
-  {
-    "tag": "#2Q2CLJU90",
-    "name": "Piotrek",
-    "th": 15,
-    "clans": [
-      "#29RYVJ8C8",
-      "#P0J2J8GJ"
-    ],
-    "seasonsCount": 7,
-    "totals": {
-      "stars": 95,
-      "attacks": 42,
-      "wars": 45,
-      "destruction": 3614,
-      "triples": 20,
-      "missedAttacks": 3,
-      "avgStars": 2.26,
-      "avgDestruction": 86.05,
-      "threeStarRate": 47.62
-    },
-    "reliabilityScore": 70.47,
-    "reliabilityBreakdown": {
-      "performance": 61.48,
-      "attendance": 93.33,
-      "leagueAdj": 50.71,
-      "weighted": 70.47
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 9,
-      "twoStars": 13,
-      "threeStars": 20
-    },
-    "defense": {
-      "timesAttacked": 44,
-      "starsAllowed": 97,
-      "triplesAllowed": 16,
-      "avgStarsAllowed": 2.2,
-      "defenseQuality": 27
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 19
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 13
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 10
-      }
-    ],
-    "bestSeason": {
-      "season": "2023-11",
-      "stars": 21,
-      "avgStars": 3
-    },
-    "performanceTrend": "declining",
-    "seasons": [
-      {
-        "season": "2024-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 5,
-        "triples": 0,
-        "avgStars": 1.67,
-        "avgDestruction": 86.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 2,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 11
-      },
-      {
-        "season": "2024-06",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 6,
-        "stars": 15,
-        "triples": 4,
-        "avgStars": 2.5,
-        "avgDestruction": 90,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 4
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 38
-      },
-      {
-        "season": "2024-03",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 6,
-        "stars": 12,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 83,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 4,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 29
-      },
-      {
-        "season": "2024-01",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 13,
-        "triples": 2,
-        "avgStars": 1.86,
-        "avgDestruction": 79.86,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 3,
-          "twoStars": 2,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 6
-      },
-      {
-        "season": "2023-12",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 14,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 18,
-        "triples": 5,
-        "avgStars": 2.57,
-        "avgDestruction": 94.57,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 5
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 29
-      },
-      {
-        "season": "2023-11",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 14,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 21,
-        "triples": 7,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 7
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 39
-      },
-      {
-        "season": "2023-10",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 14,
-        "warsParticipated": 7,
-        "attacks": 6,
-        "stars": 11,
-        "triples": 1,
-        "avgStars": 1.83,
-        "avgDestruction": 65.83,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 2,
-          "twoStars": 3,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 24
       }
     ]
   },
@@ -14502,6 +14629,347 @@
     ]
   },
   {
+    "tag": "#80YY0C8C",
+    "name": "mateusz",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY",
+      "#29RYVJ8C8",
+      "#P0J2J8GJ"
+    ],
+    "seasonsCount": 13,
+    "totals": {
+      "stars": 77,
+      "attacks": 31,
+      "wars": 34,
+      "destruction": 2849,
+      "triples": 18,
+      "missedAttacks": 3,
+      "avgStars": 2.48,
+      "avgDestruction": 91.9,
+      "threeStarRate": 58.06
+    },
+    "reliabilityScore": 73.74,
+    "reliabilityBreakdown": {
+      "performance": 70.36,
+      "attendance": 91.18,
+      "leagueAdj": 50.81,
+      "weighted": 73.74
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 3,
+      "twoStars": 10,
+      "threeStars": 18
+    },
+    "defense": {
+      "timesAttacked": 35,
+      "starsAllowed": 80,
+      "triplesAllowed": 14,
+      "avgStarsAllowed": 2.29,
+      "defenseQuality": 24
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 6,
+        "attacksInLeague": 18
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 8
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Crystal League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      },
+      {
+        "leagueTier": "Crystal League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 0
+      }
+    ],
+    "bestSeason": {
+      "season": "2023-10",
+      "stars": 11,
+      "avgStars": 1.83
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 95,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 10,
+        "triples": 2,
+        "avgStars": 2.5,
+        "avgDestruction": 96.25,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 25
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 9,
+        "triples": 3,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 3,
+        "stars": 9,
+        "triples": 3,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-06",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 89,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 67
+      },
+      {
+        "season": "2024-12",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 8,
+        "triples": 2,
+        "avgStars": 2.67,
+        "avgDestruction": 94.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2024-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 6,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 88.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 11
+      },
+      {
+        "season": "2024-08",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 13,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 86,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2024-07",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 13,
+        "warsParticipated": 1,
+        "attacks": 0,
+        "stars": 0,
+        "triples": 0,
+        "avgStars": 0,
+        "avgDestruction": 0,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2023-10",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 13,
+        "warsParticipated": 7,
+        "attacks": 6,
+        "stars": 11,
+        "triples": 1,
+        "avgStars": 1.83,
+        "avgDestruction": 76.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 2,
+          "twoStars": 3,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 19
+      }
+    ]
+  },
+  {
     "tag": "#Y2LPGCV9",
     "name": "Mamcorz 2.0",
     "th": 15,
@@ -15493,327 +15961,6 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 24
-      }
-    ]
-  },
-  {
-    "tag": "#80YY0C8C",
-    "name": "mateusz",
-    "th": 18,
-    "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8",
-      "#P0J2J8GJ"
-    ],
-    "seasonsCount": 12,
-    "totals": {
-      "stars": 74,
-      "attacks": 30,
-      "wars": 33,
-      "destruction": 2749,
-      "triples": 17,
-      "missedAttacks": 3,
-      "avgStars": 2.47,
-      "avgDestruction": 91.63,
-      "threeStarRate": 56.67
-    },
-    "reliabilityScore": 73.19,
-    "reliabilityBreakdown": {
-      "performance": 69.5,
-      "attendance": 90.91,
-      "leagueAdj": 50.5,
-      "weighted": 73.19
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 3,
-      "twoStars": 10,
-      "threeStars": 17
-    },
-    "defense": {
-      "timesAttacked": 34,
-      "starsAllowed": 78,
-      "triplesAllowed": 14,
-      "avgStarsAllowed": 2.29,
-      "defenseQuality": 24
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 6,
-        "attacksInLeague": 18
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 7
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Crystal League II",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 1
-      },
-      {
-        "leagueTier": "Crystal League III",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 0
-      }
-    ],
-    "bestSeason": {
-      "season": "2023-10",
-      "stars": 11,
-      "avgStars": 1.83
-    },
-    "performanceTrend": "declining",
-    "seasons": [
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 18,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 95,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 10,
-        "triples": 2,
-        "avgStars": 2.5,
-        "avgDestruction": 96.25,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 25
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 9,
-        "triples": 3,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 3,
-        "stars": 9,
-        "triples": 3,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-06",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 89,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 67
-      },
-      {
-        "season": "2024-12",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 8,
-        "triples": 2,
-        "avgStars": 2.67,
-        "avgDestruction": 94.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2024-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 6,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 88.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 11
-      },
-      {
-        "season": "2024-08",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 13,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 86,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League II",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2024-07",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 13,
-        "warsParticipated": 1,
-        "attacks": 0,
-        "stars": 0,
-        "triples": 0,
-        "avgStars": 0,
-        "avgDestruction": 0,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2023-10",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 13,
-        "warsParticipated": 7,
-        "attacks": 6,
-        "stars": 11,
-        "triples": 1,
-        "avgStars": 1.83,
-        "avgDestruction": 76.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 2,
-          "twoStars": 3,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 19
       }
     ]
   },
@@ -16828,6 +16975,242 @@
     ]
   },
   {
+    "tag": "#J0992UCY",
+    "name": "Don Pedro",
+    "th": 18,
+    "clans": [
+      "#29RYVJ8C8",
+      "#JPRPRVUY",
+      "#P0J2J8GJ"
+    ],
+    "seasonsCount": 8,
+    "totals": {
+      "stars": 56,
+      "attacks": 23,
+      "wars": 23,
+      "destruction": 2055,
+      "triples": 12,
+      "missedAttacks": 0,
+      "avgStars": 2.43,
+      "avgDestruction": 89.35,
+      "threeStarRate": 52.17
+    },
+    "reliabilityScore": 76.96,
+    "reliabilityBreakdown": {
+      "performance": 66.59,
+      "attendance": 100,
+      "leagueAdj": 60,
+      "weighted": 76.96
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 2,
+      "twoStars": 9,
+      "threeStars": 12
+    },
+    "defense": {
+      "timesAttacked": 22,
+      "starsAllowed": 57,
+      "triplesAllowed": 14,
+      "avgStarsAllowed": 2.59,
+      "defenseQuality": 14
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 5,
+        "attacksInLeague": 10
+      },
+      {
+        "leagueTier": "Champion League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 7
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 2
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-09",
+      "stars": 16,
+      "avgStars": 2.29
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 95.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 10,
+        "triples": 3,
+        "avgStars": 2.5,
+        "avgDestruction": 93.75,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 8
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 6,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 86.33,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 44
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 17,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 16,
+        "triples": 2,
+        "avgStars": 2.29,
+        "avgDestruction": 80.86,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 5,
+          "threeStars": 2
+        },
+        "leagueTier": "Champion League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-07",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 82,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      }
+    ]
+  },
+  {
     "tag": "#Y92GQ9PCL",
     "name": "Waluś",
     "th": 16,
@@ -17069,222 +17452,6 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 14
-      }
-    ]
-  },
-  {
-    "tag": "#J0992UCY",
-    "name": "Don Pedro",
-    "th": 18,
-    "clans": [
-      "#29RYVJ8C8",
-      "#JPRPRVUY",
-      "#P0J2J8GJ"
-    ],
-    "seasonsCount": 7,
-    "totals": {
-      "stars": 53,
-      "attacks": 22,
-      "wars": 22,
-      "destruction": 1955,
-      "triples": 11,
-      "missedAttacks": 0,
-      "avgStars": 2.41,
-      "avgDestruction": 88.86,
-      "threeStarRate": 50
-    },
-    "reliabilityScore": 76.42,
-    "reliabilityBreakdown": {
-      "performance": 65.17,
-      "attendance": 100,
-      "leagueAdj": 60.45,
-      "weighted": 76.42
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 2,
-      "twoStars": 9,
-      "threeStars": 11
-    },
-    "defense": {
-      "timesAttacked": 21,
-      "starsAllowed": 54,
-      "triplesAllowed": 13,
-      "avgStarsAllowed": 2.57,
-      "defenseQuality": 14
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 9
-      },
-      {
-        "leagueTier": "Champion League III",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 7
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-09",
-      "stars": 16,
-      "avgStars": 2.29
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 18,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 95.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 10,
-        "triples": 3,
-        "avgStars": 2.5,
-        "avgDestruction": 93.75,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 8
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 6,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 86.33,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 44
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 17,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 16,
-        "triples": 2,
-        "avgStars": 2.29,
-        "avgDestruction": 80.86,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 5,
-          "threeStars": 2
-        },
-        "leagueTier": "Champion League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-07",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 82,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
       }
     ]
   },
@@ -18026,40 +18193,40 @@
     "name": "xyz@",
     "th": 17,
     "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
+      "#29RYVJ8C8",
+      "#JPRPRVUY"
     ],
-    "seasonsCount": 7,
+    "seasonsCount": 8,
     "totals": {
-      "stars": 46,
-      "attacks": 17,
-      "wars": 17,
-      "destruction": 1622,
-      "triples": 12,
+      "stars": 49,
+      "attacks": 18,
+      "wars": 18,
+      "destruction": 1722,
+      "triples": 13,
       "missedAttacks": 0,
-      "avgStars": 2.71,
-      "avgDestruction": 95.41,
-      "threeStarRate": 70.59
+      "avgStars": 2.72,
+      "avgDestruction": 95.67,
+      "threeStarRate": 72.22
     },
-    "reliabilityScore": 82.03,
+    "reliabilityScore": 82.43,
     "reliabilityBreakdown": {
-      "performance": 80.46,
+      "performance": 81.44,
       "attendance": 100,
-      "leagueAdj": 54.12,
-      "weighted": 82.03
+      "leagueAdj": 53.89,
+      "weighted": 82.43
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 0,
       "twoStars": 5,
-      "threeStars": 12
+      "threeStars": 13
     },
     "defense": {
-      "timesAttacked": 17,
-      "starsAllowed": 48,
+      "timesAttacked": 18,
+      "starsAllowed": 50,
       "triplesAllowed": 15,
-      "avgStarsAllowed": 2.82,
-      "defenseQuality": 6
+      "avgStarsAllowed": 2.78,
+      "defenseQuality": 7
     },
     "lastLeague": {
       "tier": "Master League III"
@@ -18068,8 +18235,8 @@
     "leagueHistory": [
       {
         "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 8
+        "seasonsPlayed": 5,
+        "attacksInLeague": 9
       },
       {
         "leagueTier": "Master League II",
@@ -18089,6 +18256,26 @@
     },
     "performanceTrend": "improving",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
       {
         "season": "2026-01",
         "clanTag": "#JPRPRVUY",
@@ -18451,6 +18638,151 @@
     ]
   },
   {
+    "tag": "#LJ2L00VCY",
+    "name": "IK∆RIS",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY",
+      "#P0J2J8GJ"
+    ],
+    "seasonsCount": 4,
+    "totals": {
+      "stars": 46,
+      "attacks": 18,
+      "wars": 18,
+      "destruction": 1700,
+      "triples": 10,
+      "missedAttacks": 0,
+      "avgStars": 2.56,
+      "avgDestruction": 94.44,
+      "threeStarRate": 55.56
+    },
+    "reliabilityScore": 81.59,
+    "reliabilityBreakdown": {
+      "performance": 70.45,
+      "attendance": 100,
+      "leagueAdj": 74.44,
+      "weighted": 81.59
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 8,
+      "threeStars": 10
+    },
+    "defense": {
+      "timesAttacked": 17,
+      "starsAllowed": 45,
+      "triplesAllowed": 11,
+      "avgStarsAllowed": 2.65,
+      "defenseQuality": 12
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Champion League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Champion League III",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 13
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 5
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 18,
+      "avgStars": 2.57
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 18,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 18,
+        "triples": 4,
+        "avgStars": 2.57,
+        "avgDestruction": 96.29,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 3,
+          "threeStars": 4
+        },
+        "leagueTier": "Champion League III",
+        "defenseQuality": 14
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 18,
+        "warsParticipated": 6,
+        "attacks": 6,
+        "stars": 16,
+        "triples": 4,
+        "avgStars": 2.67,
+        "avgDestruction": 94.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 4
+        },
+        "leagueTier": "Champion League III",
+        "defenseQuality": 13
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 9,
+        "triples": 1,
+        "avgStars": 2.25,
+        "avgDestruction": 89.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 3,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 8
+      }
+    ]
+  },
+  {
     "tag": "#LQ0RJY9",
     "name": "Yonderbrack",
     "th": 15,
@@ -18571,6 +18903,211 @@
         },
         "leagueTier": "Crystal League I",
         "defenseQuality": 39
+      }
+    ]
+  },
+  {
+    "tag": "#98GYP8CCV",
+    "name": "retorax",
+    "th": 18,
+    "clans": [
+      "#29RYVJ8C8",
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 7,
+    "totals": {
+      "stars": 45,
+      "attacks": 17,
+      "wars": 17,
+      "destruction": 1630,
+      "triples": 11,
+      "missedAttacks": 0,
+      "avgStars": 2.65,
+      "avgDestruction": 95.88,
+      "threeStarRate": 64.71
+    },
+    "reliabilityScore": 80.38,
+    "reliabilityBreakdown": {
+      "performance": 76.52,
+      "attendance": 100,
+      "leagueAdj": 54.71,
+      "weighted": 80.38
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 6,
+      "threeStars": 11
+    },
+    "defense": {
+      "timesAttacked": 17,
+      "starsAllowed": 39,
+      "triplesAllowed": 6,
+      "avgStarsAllowed": 2.29,
+      "defenseQuality": 24
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 5,
+        "attacksInLeague": 9
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 8
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-09",
+      "stars": 10,
+      "avgStars": 2.5
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 9,
+        "triples": 1,
+        "avgStars": 2.25,
+        "avgDestruction": 93.25,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 3,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 8
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 9,
+        "triples": 3,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 44
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 10,
+        "triples": 2,
+        "avgStars": 2.5,
+        "avgDestruction": 94.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-06",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 89.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
       }
     ]
   },
@@ -18700,131 +19237,6 @@
         },
         "leagueTier": "Champion League III",
         "defenseQuality": 14
-      }
-    ]
-  },
-  {
-    "tag": "#LJ2L00VCY",
-    "name": "IK∆RIS",
-    "th": 18,
-    "clans": [
-      "#P0J2J8GJ",
-      "#JPRPRVUY"
-    ],
-    "seasonsCount": 3,
-    "totals": {
-      "stars": 43,
-      "attacks": 17,
-      "wars": 17,
-      "destruction": 1600,
-      "triples": 9,
-      "missedAttacks": 0,
-      "avgStars": 2.53,
-      "avgDestruction": 94.12,
-      "threeStarRate": 52.94
-    },
-    "reliabilityScore": 80.95,
-    "reliabilityBreakdown": {
-      "performance": 68.64,
-      "attendance": 100,
-      "leagueAdj": 75.29,
-      "weighted": 80.95
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 8,
-      "threeStars": 9
-    },
-    "defense": {
-      "timesAttacked": 16,
-      "starsAllowed": 42,
-      "triplesAllowed": 10,
-      "avgStarsAllowed": 2.63,
-      "defenseQuality": 12
-    },
-    "lastLeague": {
-      "tier": "Champion League III"
-    },
-    "primaryLeague": "Champion League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Champion League III",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 13
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 4
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 18,
-      "avgStars": 2.57
-    },
-    "performanceTrend": "improving",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 18,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 18,
-        "triples": 4,
-        "avgStars": 2.57,
-        "avgDestruction": 96.29,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 3,
-          "threeStars": 4
-        },
-        "leagueTier": "Champion League III",
-        "defenseQuality": 14
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 18,
-        "warsParticipated": 6,
-        "attacks": 6,
-        "stars": 16,
-        "triples": 4,
-        "avgStars": 2.67,
-        "avgDestruction": 94.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 4
-        },
-        "leagueTier": "Champion League III",
-        "defenseQuality": 13
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 9,
-        "triples": 1,
-        "avgStars": 2.25,
-        "avgDestruction": 89.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 3,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 8
       }
     ]
   },
@@ -19020,191 +19432,6 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 38
-      }
-    ]
-  },
-  {
-    "tag": "#98GYP8CCV",
-    "name": "retorax",
-    "th": 18,
-    "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 6,
-    "totals": {
-      "stars": 42,
-      "attacks": 16,
-      "wars": 16,
-      "destruction": 1530,
-      "triples": 10,
-      "missedAttacks": 0,
-      "avgStars": 2.63,
-      "avgDestruction": 95.63,
-      "threeStarRate": 62.5
-    },
-    "reliabilityScore": 79.79,
-    "reliabilityBreakdown": {
-      "performance": 75.08,
-      "attendance": 100,
-      "leagueAdj": 55,
-      "weighted": 79.79
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 6,
-      "threeStars": 10
-    },
-    "defense": {
-      "timesAttacked": 16,
-      "starsAllowed": 36,
-      "triplesAllowed": 5,
-      "avgStarsAllowed": 2.25,
-      "defenseQuality": 25
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 8
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 8
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-09",
-      "stars": 10,
-      "avgStars": 2.5
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 18,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 9,
-        "triples": 1,
-        "avgStars": 2.25,
-        "avgDestruction": 93.25,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 3,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 8
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 9,
-        "triples": 3,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 44
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 10,
-        "triples": 2,
-        "avgStars": 2.5,
-        "avgDestruction": 94.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-06",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 89.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
       }
     ]
   },
@@ -19643,6 +19870,216 @@
         },
         "leagueTier": "Crystal League III",
         "defenseQuality": 0
+      }
+    ]
+  },
+  {
+    "tag": "#8C8UPLCJY",
+    "name": "Polish Strenght",
+    "th": 17,
+    "clans": [
+      "#29RYVJ8C8",
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 7,
+    "totals": {
+      "stars": 38,
+      "attacks": 14,
+      "wars": 14,
+      "destruction": 1346,
+      "triples": 10,
+      "missedAttacks": 0,
+      "avgStars": 2.71,
+      "avgDestruction": 96.14,
+      "threeStarRate": 71.43
+    },
+    "reliabilityScore": 81.83,
+    "reliabilityBreakdown": {
+      "performance": 80.88,
+      "attendance": 100,
+      "leagueAdj": 52.14,
+      "weighted": 81.83
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 4,
+      "threeStars": 10
+    },
+    "defense": {
+      "timesAttacked": 12,
+      "starsAllowed": 29,
+      "triplesAllowed": 6,
+      "avgStarsAllowed": 2.42,
+      "defenseQuality": 19
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 5,
+        "attacksInLeague": 9
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-09",
+      "stars": 11,
+      "avgStars": 2.75
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 96,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 8,
+        "triples": 2,
+        "avgStars": 2.67,
+        "avgDestruction": 98.33,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 11
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 11,
+        "triples": 3,
+        "avgStars": 2.75,
+        "avgDestruction": 99.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 8
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 61,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-06",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 50
       }
     ]
   },
@@ -20120,352 +20557,43 @@
     ]
   },
   {
-    "tag": "#8C8UPLCJY",
-    "name": "Polish Strenght",
-    "th": 17,
-    "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 6,
-    "totals": {
-      "stars": 35,
-      "attacks": 13,
-      "wars": 13,
-      "destruction": 1246,
-      "triples": 9,
-      "missedAttacks": 0,
-      "avgStars": 2.69,
-      "avgDestruction": 95.85,
-      "threeStarRate": 69.23
-    },
-    "reliabilityScore": 81.21,
-    "reliabilityBreakdown": {
-      "performance": 79.45,
-      "attendance": 100,
-      "leagueAdj": 52.31,
-      "weighted": 81.21
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 4,
-      "threeStars": 9
-    },
-    "defense": {
-      "timesAttacked": 12,
-      "starsAllowed": 29,
-      "triplesAllowed": 6,
-      "avgStarsAllowed": 2.42,
-      "defenseQuality": 19
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 8
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 1
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-09",
-      "stars": 11,
-      "avgStars": 2.75
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 96,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 8,
-        "triples": 2,
-        "avgStars": 2.67,
-        "avgDestruction": 98.33,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 11
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 11,
-        "triples": 3,
-        "avgStars": 2.75,
-        "avgDestruction": 99.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 8
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 61,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-06",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 50
-      }
-    ]
-  },
-  {
-    "tag": "#PG82Q2QP2",
-    "name": "Ffand",
-    "th": 15,
-    "clans": [
-      "#P0J2J8GJ"
-    ],
-    "seasonsCount": 3,
-    "totals": {
-      "stars": 34,
-      "attacks": 18,
-      "wars": 21,
-      "destruction": 1451,
-      "triples": 3,
-      "missedAttacks": 3,
-      "avgStars": 1.89,
-      "avgDestruction": 80.61,
-      "threeStarRate": 16.67
-    },
-    "reliabilityScore": 57.93,
-    "reliabilityBreakdown": {
-      "performance": 39.84,
-      "attendance": 85.71,
-      "leagueAdj": 50,
-      "weighted": 57.93
-    },
-    "starBuckets": {
-      "zeroStars": 1,
-      "oneStars": 3,
-      "twoStars": 11,
-      "threeStars": 3
-    },
-    "defense": {
-      "timesAttacked": 22,
-      "starsAllowed": 49,
-      "triplesAllowed": 8,
-      "avgStarsAllowed": 2.23,
-      "defenseQuality": 26
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 18
-      }
-    ],
-    "bestSeason": {
-      "season": "2024-05",
-      "stars": 12,
-      "avgStars": 1.71
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2024-06",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 6,
-        "stars": 12,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 85.67,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 4,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 29
-      },
-      {
-        "season": "2024-05",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 7,
-        "stars": 12,
-        "triples": 1,
-        "avgStars": 1.71,
-        "avgDestruction": 85.14,
-        "starBuckets": {
-          "zeroStars": 1,
-          "oneStars": 1,
-          "twoStars": 4,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 19
-      },
-      {
-        "season": "2024-04",
-        "clanTag": "#P0J2J8GJ",
-        "clanName": "coc masters PL",
-        "th": 15,
-        "warsParticipated": 7,
-        "attacks": 5,
-        "stars": 10,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 68.2,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 3,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 29
-      }
-    ]
-  },
-  {
     "tag": "#8UV0C2QYL",
     "name": "Predator",
     "th": 18,
     "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
+      "#29RYVJ8C8",
+      "#JPRPRVUY"
     ],
-    "seasonsCount": 8,
+    "seasonsCount": 9,
     "totals": {
-      "stars": 33,
-      "attacks": 16,
-      "wars": 17,
-      "destruction": 1070,
+      "stars": 34,
+      "attacks": 17,
+      "wars": 18,
+      "destruction": 1135,
       "triples": 2,
       "missedAttacks": 1,
-      "avgStars": 2.06,
-      "avgDestruction": 66.88,
-      "threeStarRate": 12.5
+      "avgStars": 2,
+      "avgDestruction": 66.76,
+      "threeStarRate": 11.76
     },
-    "reliabilityScore": 61.08,
+    "reliabilityScore": 60.58,
     "reliabilityBreakdown": {
-      "performance": 40.58,
-      "attendance": 94.12,
-      "leagueAdj": 49.38,
-      "weighted": 61.08
+      "performance": 39.21,
+      "attendance": 94.44,
+      "leagueAdj": 49.41,
+      "weighted": 60.58
     },
     "starBuckets": {
       "zeroStars": 0,
-      "oneStars": 1,
+      "oneStars": 2,
       "twoStars": 13,
       "threeStars": 2
     },
     "defense": {
-      "timesAttacked": 17,
-      "starsAllowed": 41,
+      "timesAttacked": 18,
+      "starsAllowed": 43,
       "triplesAllowed": 9,
-      "avgStarsAllowed": 2.41,
+      "avgStarsAllowed": 2.39,
       "defenseQuality": 20
     },
     "lastLeague": {
@@ -20475,8 +20603,8 @@
     "leagueHistory": [
       {
         "leagueTier": "Master League III",
-        "seasonsPlayed": 4,
-        "attacksInLeague": 9
+        "seasonsPlayed": 5,
+        "attacksInLeague": 10
       },
       {
         "leagueTier": "Crystal League I",
@@ -20494,8 +20622,28 @@
       "stars": 7,
       "avgStars": 2.33
     },
-    "performanceTrend": "stable",
+    "performanceTrend": "declining",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 1,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 65,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
       {
         "season": "2025-12",
         "clanTag": "#JPRPRVUY",
@@ -20655,6 +20803,125 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 22
+      }
+    ]
+  },
+  {
+    "tag": "#PG82Q2QP2",
+    "name": "Ffand",
+    "th": 15,
+    "clans": [
+      "#P0J2J8GJ"
+    ],
+    "seasonsCount": 3,
+    "totals": {
+      "stars": 34,
+      "attacks": 18,
+      "wars": 21,
+      "destruction": 1451,
+      "triples": 3,
+      "missedAttacks": 3,
+      "avgStars": 1.89,
+      "avgDestruction": 80.61,
+      "threeStarRate": 16.67
+    },
+    "reliabilityScore": 57.93,
+    "reliabilityBreakdown": {
+      "performance": 39.84,
+      "attendance": 85.71,
+      "leagueAdj": 50,
+      "weighted": 57.93
+    },
+    "starBuckets": {
+      "zeroStars": 1,
+      "oneStars": 3,
+      "twoStars": 11,
+      "threeStars": 3
+    },
+    "defense": {
+      "timesAttacked": 22,
+      "starsAllowed": 49,
+      "triplesAllowed": 8,
+      "avgStarsAllowed": 2.23,
+      "defenseQuality": 26
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 18
+      }
+    ],
+    "bestSeason": {
+      "season": "2024-05",
+      "stars": 12,
+      "avgStars": 1.71
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2024-06",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 6,
+        "stars": 12,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 85.67,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 4,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 29
+      },
+      {
+        "season": "2024-05",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 7,
+        "stars": 12,
+        "triples": 1,
+        "avgStars": 1.71,
+        "avgDestruction": 85.14,
+        "starBuckets": {
+          "zeroStars": 1,
+          "oneStars": 1,
+          "twoStars": 4,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 19
+      },
+      {
+        "season": "2024-04",
+        "clanTag": "#P0J2J8GJ",
+        "clanName": "coc masters PL",
+        "th": 15,
+        "warsParticipated": 7,
+        "attacks": 5,
+        "stars": 10,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 68.2,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 3,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 29
       }
     ]
   },
@@ -21032,6 +21299,170 @@
     ]
   },
   {
+    "tag": "#PQCPJRQ0Q",
+    "name": "Michael",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 5,
+    "totals": {
+      "stars": 31,
+      "attacks": 11,
+      "wars": 11,
+      "destruction": 1064,
+      "triples": 9,
+      "missedAttacks": 0,
+      "avgStars": 2.82,
+      "avgDestruction": 96.73,
+      "threeStarRate": 81.82
+    },
+    "reliabilityScore": 85.47,
+    "reliabilityBreakdown": {
+      "performance": 87.91,
+      "attendance": 100,
+      "leagueAdj": 54.55,
+      "weighted": 85.47
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 2,
+      "threeStars": 9
+    },
+    "defense": {
+      "timesAttacked": 10,
+      "starsAllowed": 20,
+      "triplesAllowed": 2,
+      "avgStarsAllowed": 2,
+      "defenseQuality": 33
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 6
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 5
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-11",
+      "stars": 11,
+      "avgStars": 2.75
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 96,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 50
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 4,
+        "attacks": 4,
+        "stars": 11,
+        "triples": 3,
+        "avgStars": 2.75,
+        "avgDestruction": 92,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 16,
+        "warsParticipated": 3,
+        "attacks": 3,
+        "stars": 9,
+        "triples": 3,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 3
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      }
+    ]
+  },
+  {
     "tag": "#8PVPQGLU9",
     "name": "Lemoniadek",
     "th": 17,
@@ -21343,150 +21774,6 @@
         },
         "leagueTier": "Crystal League III",
         "defenseQuality": 11
-      }
-    ]
-  },
-  {
-    "tag": "#PQCPJRQ0Q",
-    "name": "Michael",
-    "th": 18,
-    "clans": [
-      "#JPRPRVUY"
-    ],
-    "seasonsCount": 4,
-    "totals": {
-      "stars": 29,
-      "attacks": 10,
-      "wars": 10,
-      "destruction": 968,
-      "triples": 9,
-      "missedAttacks": 0,
-      "avgStars": 2.9,
-      "avgDestruction": 96.8,
-      "threeStarRate": 90
-    },
-    "reliabilityScore": 87.8,
-    "reliabilityBreakdown": {
-      "performance": 93.33,
-      "attendance": 100,
-      "leagueAdj": 54,
-      "weighted": 87.8
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 1,
-      "threeStars": 9
-    },
-    "defense": {
-      "timesAttacked": 9,
-      "starsAllowed": 17,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 1.89,
-      "defenseQuality": 37
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 6
-      },
-      {
-        "leagueTier": "Master League II",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 4
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-11",
-      "stars": 11,
-      "avgStars": 2.75
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 18,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 50
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 4,
-        "attacks": 4,
-        "stars": 11,
-        "triples": 3,
-        "avgStars": 2.75,
-        "avgDestruction": 92,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League II",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 16,
-        "warsParticipated": 3,
-        "attacks": 3,
-        "stars": 9,
-        "triples": 3,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 3
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
       }
     ]
   },
@@ -22335,6 +22622,236 @@
     ]
   },
   {
+    "tag": "#9P9QYQR0Q",
+    "name": "MATEOSTREET182",
+    "th": 17,
+    "clans": [
+      "#JPRPRVUY",
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 8,
+    "totals": {
+      "stars": 22,
+      "attacks": 11,
+      "wars": 11,
+      "destruction": 911,
+      "triples": 2,
+      "missedAttacks": 0,
+      "avgStars": 2,
+      "avgDestruction": 82.82,
+      "threeStarRate": 18.18
+    },
+    "reliabilityScore": 63.91,
+    "reliabilityBreakdown": {
+      "performance": 42.42,
+      "attendance": 100,
+      "leagueAdj": 49.09,
+      "weighted": 63.91
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 2,
+      "twoStars": 7,
+      "threeStars": 2
+    },
+    "defense": {
+      "timesAttacked": 10,
+      "starsAllowed": 24,
+      "triplesAllowed": 4,
+      "avgStarsAllowed": 2.4,
+      "defenseQuality": 20
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 5,
+        "attacksInLeague": 8
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-06",
+      "stars": 4,
+      "avgStars": 2
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 97,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 95,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 87,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 75,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 85,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 3,
+        "triples": 0,
+        "avgStars": 1.5,
+        "avgDestruction": 76.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-06",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 66,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 17
+      }
+    ]
+  },
+  {
     "tag": "#L8GG2R0GV",
     "name": "Bartosz4255",
     "th": 16,
@@ -22834,211 +23351,6 @@
     ]
   },
   {
-    "tag": "#9P9QYQR0Q",
-    "name": "MATEOSTREET182",
-    "th": 17,
-    "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 7,
-    "totals": {
-      "stars": 20,
-      "attacks": 10,
-      "wars": 10,
-      "destruction": 814,
-      "triples": 2,
-      "missedAttacks": 0,
-      "avgStars": 2,
-      "avgDestruction": 81.4,
-      "threeStarRate": 20
-    },
-    "reliabilityScore": 64.1,
-    "reliabilityBreakdown": {
-      "performance": 43.33,
-      "attendance": 100,
-      "leagueAdj": 48,
-      "weighted": 64.1
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 2,
-      "twoStars": 6,
-      "threeStars": 2
-    },
-    "defense": {
-      "timesAttacked": 9,
-      "starsAllowed": 21,
-      "triplesAllowed": 3,
-      "avgStarsAllowed": 2.33,
-      "defenseQuality": 22
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 5,
-        "attacksInLeague": 8
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-06",
-      "stars": 4,
-      "avgStars": 2
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 95,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 87,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 75,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 85,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 3,
-        "triples": 0,
-        "avgStars": 1.5,
-        "avgDestruction": 76.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-06",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 66,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 17
-      }
-    ]
-  },
-  {
     "tag": "#UJGQGYJ8",
     "name": "Games",
     "th": 15,
@@ -23368,6 +23680,190 @@
     ]
   },
   {
+    "tag": "#Q8J2V8GY",
+    "name": "genetic",
+    "th": 17,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 6,
+    "totals": {
+      "stars": 18,
+      "attacks": 8,
+      "wars": 9,
+      "destruction": 719,
+      "triples": 4,
+      "missedAttacks": 1,
+      "avgStars": 2.25,
+      "avgDestruction": 89.88,
+      "threeStarRate": 50
+    },
+    "reliabilityScore": 68.49,
+    "reliabilityBreakdown": {
+      "performance": 62.5,
+      "attendance": 88.89,
+      "leagueAdj": 46.25,
+      "weighted": 68.49
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 2,
+      "twoStars": 2,
+      "threeStars": 4
+    },
+    "defense": {
+      "timesAttacked": 8,
+      "starsAllowed": 17,
+      "triplesAllowed": 1,
+      "avgStarsAllowed": 2.13,
+      "defenseQuality": 29
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 4,
+        "attacksInLeague": 5
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 3
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 6,
+      "avgStars": 3
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 1,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 90,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 2,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 82,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 82,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-06",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 82.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 17
+      }
+    ]
+  },
+  {
     "tag": "#QYVJY90Q0",
     "name": "jaśkoo",
     "th": 12,
@@ -23463,6 +23959,190 @@
         },
         "leagueTier": "Crystal League III",
         "defenseQuality": 33
+      }
+    ]
+  },
+  {
+    "tag": "#Q0C29UUUR",
+    "name": "pląs",
+    "th": 16,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 6,
+    "totals": {
+      "stars": 17,
+      "attacks": 8,
+      "wars": 8,
+      "destruction": 706,
+      "triples": 4,
+      "missedAttacks": 0,
+      "avgStars": 2.13,
+      "avgDestruction": 88.25,
+      "threeStarRate": 50
+    },
+    "reliabilityScore": 71.22,
+    "reliabilityBreakdown": {
+      "performance": 60.5,
+      "attendance": 100,
+      "leagueAdj": 45,
+      "weighted": 71.22
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 3,
+      "twoStars": 1,
+      "threeStars": 4
+    },
+    "defense": {
+      "timesAttacked": 7,
+      "starsAllowed": 18,
+      "triplesAllowed": 5,
+      "avgStarsAllowed": 2.57,
+      "defenseQuality": 14
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 4
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 4,
+      "avgStars": 2
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 16,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 1,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 70,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 1,
+        "avgStars": 2,
+        "avgDestruction": 89,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 3,
+        "triples": 0,
+        "avgStars": 1.5,
+        "avgDestruction": 79,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-08",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
       }
     ]
   },
@@ -23677,170 +24357,6 @@
     ]
   },
   {
-    "tag": "#Q0C29UUUR",
-    "name": "pląs",
-    "th": 15,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 5,
-    "totals": {
-      "stars": 16,
-      "attacks": 7,
-      "wars": 7,
-      "destruction": 636,
-      "triples": 4,
-      "missedAttacks": 0,
-      "avgStars": 2.29,
-      "avgDestruction": 90.86,
-      "threeStarRate": 57.14
-    },
-    "reliabilityScore": 73.89,
-    "reliabilityBreakdown": {
-      "performance": 66.74,
-      "attendance": 100,
-      "leagueAdj": 44.29,
-      "weighted": 73.89
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 2,
-      "twoStars": 1,
-      "threeStars": 4
-    },
-    "defense": {
-      "timesAttacked": 6,
-      "starsAllowed": 15,
-      "triplesAllowed": 4,
-      "avgStarsAllowed": 2.5,
-      "defenseQuality": 17
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 3
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 4,
-      "avgStars": 2
-    },
-    "performanceTrend": "declining",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 89,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 3,
-        "triples": 0,
-        "avgStars": 1.5,
-        "avgDestruction": 79,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      }
-    ]
-  },
-  {
     "tag": "#2082CJJYV",
     "name": "AdeK",
     "th": 16,
@@ -23915,170 +24431,6 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 50
-      }
-    ]
-  },
-  {
-    "tag": "#Q8J2V8GY",
-    "name": "genetic",
-    "th": 17,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 5,
-    "totals": {
-      "stars": 15,
-      "attacks": 7,
-      "wars": 8,
-      "destruction": 619,
-      "triples": 3,
-      "missedAttacks": 1,
-      "avgStars": 2.14,
-      "avgDestruction": 88.43,
-      "threeStarRate": 42.86
-    },
-    "reliabilityScore": 65.46,
-    "reliabilityBreakdown": {
-      "performance": 57.1,
-      "attendance": 87.5,
-      "leagueAdj": 45.71,
-      "weighted": 65.46
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 2,
-      "twoStars": 2,
-      "threeStars": 3
-    },
-    "defense": {
-      "timesAttacked": 7,
-      "starsAllowed": 15,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 2.14,
-      "defenseQuality": 29
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 3
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 6,
-      "avgStars": 3
-    },
-    "performanceTrend": "improving",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 1,
-        "triples": 0,
-        "avgStars": 1,
-        "avgDestruction": 90,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 2,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 82,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-08",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 16,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 82,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-06",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 1,
-        "avgStars": 2,
-        "avgDestruction": 82.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 17
       }
     ]
   },
@@ -25005,6 +25357,315 @@
           "threeStars": 0
         },
         "leagueTier": "Master League III",
+        "defenseQuality": 33
+      }
+    ]
+  },
+  {
+    "tag": "#P9VCRQJV0",
+    "name": "Miki 07",
+    "th": 15,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 5,
+    "totals": {
+      "stars": 13,
+      "attacks": 7,
+      "wars": 7,
+      "destruction": 558,
+      "triples": 2,
+      "missedAttacks": 0,
+      "avgStars": 1.86,
+      "avgDestruction": 79.71,
+      "threeStarRate": 28.57
+    },
+    "reliabilityScore": 64.24,
+    "reliabilityBreakdown": {
+      "performance": 45.29,
+      "attendance": 100,
+      "leagueAdj": 44.29,
+      "weighted": 64.24
+    },
+    "starBuckets": {
+      "zeroStars": 1,
+      "oneStars": 1,
+      "twoStars": 3,
+      "threeStars": 2
+    },
+    "defense": {
+      "timesAttacked": 6,
+      "starsAllowed": 15,
+      "triplesAllowed": 4,
+      "avgStarsAllowed": 2.5,
+      "defenseQuality": 17
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Crystal League I",
+    "leagueHistory": [
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 2,
+        "attacksInLeague": 3
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 5,
+      "avgStars": 2.5
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 85,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 67
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 15,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 87.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 17
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 1,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 71,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 1,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-10",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 14,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-09",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 13,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 1,
+        "avgDestruction": 63.5,
+        "starBuckets": {
+          "zeroStars": 1,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      }
+    ]
+  },
+  {
+    "tag": "#P9UGCVQ9V",
+    "name": "maatii2901",
+    "th": 18,
+    "clans": [
+      "#29RYVJ8C8",
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 4,
+    "totals": {
+      "stars": 13,
+      "attacks": 5,
+      "wars": 5,
+      "destruction": 485,
+      "triples": 3,
+      "missedAttacks": 0,
+      "avgStars": 2.6,
+      "avgDestruction": 97,
+      "threeStarRate": 60
+    },
+    "reliabilityScore": 77.6,
+    "reliabilityBreakdown": {
+      "performance": 73.33,
+      "attendance": 100,
+      "leagueAdj": 48,
+      "weighted": 77.6
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 2,
+      "threeStars": 3
+    },
+    "defense": {
+      "timesAttacked": 5,
+      "starsAllowed": 12,
+      "triplesAllowed": 2,
+      "avgStarsAllowed": 2.4,
+      "defenseQuality": 20
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 3,
+        "attacksInLeague": 4
+      },
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2025-12",
+      "stars": 4,
+      "avgStars": 2
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2025-12",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 4,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 92.5,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 2,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2025-11",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
         "defenseQuality": 33
       }
     ]
@@ -26235,150 +26896,6 @@
     ]
   },
   {
-    "tag": "#P9VCRQJV0",
-    "name": "Miki 07",
-    "th": 15,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 4,
-    "totals": {
-      "stars": 11,
-      "attacks": 6,
-      "wars": 6,
-      "destruction": 473,
-      "triples": 2,
-      "missedAttacks": 0,
-      "avgStars": 1.83,
-      "avgDestruction": 78.83,
-      "threeStarRate": 33.33
-    },
-    "reliabilityScore": 64.89,
-    "reliabilityBreakdown": {
-      "performance": 47.17,
-      "attendance": 100,
-      "leagueAdj": 43.33,
-      "weighted": 64.89
-    },
-    "starBuckets": {
-      "zeroStars": 1,
-      "oneStars": 1,
-      "twoStars": 2,
-      "threeStars": 2
-    },
-    "defense": {
-      "timesAttacked": 5,
-      "starsAllowed": 14,
-      "triplesAllowed": 4,
-      "avgStarsAllowed": 2.8,
-      "defenseQuality": 7
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 3,
-        "attacksInLeague": 4
-      },
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 5,
-      "avgStars": 2.5
-    },
-    "performanceTrend": "declining",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 15,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 87.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 17
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 1,
-        "triples": 0,
-        "avgStars": 1,
-        "avgDestruction": 71,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 1,
-          "twoStars": 0,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-10",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 14,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-09",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 13,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 1,
-        "avgDestruction": 63.5,
-        "starBuckets": {
-          "zeroStars": 1,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      }
-    ]
-  },
-  {
     "tag": "#PQP9UGPJ0",
     "name": "1wf_",
     "th": 12,
@@ -26885,131 +27402,6 @@
     ]
   },
   {
-    "tag": "#P9UGCVQ9V",
-    "name": "maatii2901",
-    "th": 17,
-    "clans": [
-      "#JPRPRVUY",
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 3,
-    "totals": {
-      "stars": 10,
-      "attacks": 4,
-      "wars": 4,
-      "destruction": 385,
-      "triples": 2,
-      "missedAttacks": 0,
-      "avgStars": 2.5,
-      "avgDestruction": 96.25,
-      "threeStarRate": 50
-    },
-    "reliabilityScore": 74.5,
-    "reliabilityBreakdown": {
-      "performance": 66.67,
-      "attendance": 100,
-      "leagueAdj": 47.5,
-      "weighted": 74.5
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 2,
-      "threeStars": 2
-    },
-    "defense": {
-      "timesAttacked": 4,
-      "starsAllowed": 9,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 2.25,
-      "defenseQuality": 25
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 2,
-        "attacksInLeague": 3
-      },
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 1
-      }
-    ],
-    "bestSeason": {
-      "season": "2025-12",
-      "stars": 4,
-      "avgStars": 2
-    },
-    "performanceTrend": "stable",
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 0
-      },
-      {
-        "season": "2025-12",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 92.5,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      },
-      {
-        "season": "2025-11",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
-      }
-    ]
-  },
-  {
     "tag": "#8JPLGG88C",
     "name": "WarRiaT_",
     "th": 12,
@@ -27415,6 +27807,319 @@
     ]
   },
   {
+    "tag": "#GLUYQUCQV",
+    "name": "SlimShady",
+    "th": 17,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 9,
+      "attacks": 3,
+      "wars": 3,
+      "destruction": 300,
+      "triples": 3,
+      "missedAttacks": 0,
+      "avgStars": 3,
+      "avgDestruction": 100,
+      "threeStarRate": 100
+    },
+    "reliabilityScore": 88.67,
+    "reliabilityBreakdown": {
+      "performance": 100,
+      "attendance": 100,
+      "leagueAdj": 43.33,
+      "weighted": 88.67
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 0,
+      "threeStars": 3
+    },
+    "defense": {
+      "timesAttacked": 3,
+      "starsAllowed": 7,
+      "triplesAllowed": 1,
+      "avgStarsAllowed": 2.33,
+      "defenseQuality": 22
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Crystal League I",
+    "leagueHistory": [
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 6,
+      "avgStars": 3
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 17
+      }
+    ]
+  },
+  {
+    "tag": "#9RQYYJR00",
+    "name": "ViTanic❤️BOSS",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY",
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 8,
+      "attacks": 3,
+      "wars": 3,
+      "destruction": 280,
+      "triples": 2,
+      "missedAttacks": 0,
+      "avgStars": 2.67,
+      "avgDestruction": 93.33,
+      "threeStarRate": 66.67
+    },
+    "reliabilityScore": 79.36,
+    "reliabilityBreakdown": {
+      "performance": 77.84,
+      "attendance": 100,
+      "leagueAdj": 46.67,
+      "weighted": 79.36
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 1,
+      "threeStars": 2
+    },
+    "defense": {
+      "timesAttacked": 3,
+      "starsAllowed": 8,
+      "triplesAllowed": 2,
+      "avgStarsAllowed": 2.67,
+      "defenseQuality": 11
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Crystal League I",
+    "leagueHistory": [
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 5,
+      "avgStars": 2.5
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 90,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 17
+      }
+    ]
+  },
+  {
+    "tag": "#QJ88YRYR8",
+    "name": "Barto19",
+    "th": 18,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 8,
+      "attacks": 3,
+      "wars": 3,
+      "destruction": 275,
+      "triples": 2,
+      "missedAttacks": 0,
+      "avgStars": 2.67,
+      "avgDestruction": 91.67,
+      "threeStarRate": 66.67
+    },
+    "reliabilityScore": 78.69,
+    "reliabilityBreakdown": {
+      "performance": 77.84,
+      "attendance": 100,
+      "leagueAdj": 43.33,
+      "weighted": 78.69
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 1,
+      "threeStars": 2
+    },
+    "defense": {
+      "timesAttacked": 3,
+      "starsAllowed": 8,
+      "triplesAllowed": 2,
+      "avgStarsAllowed": 2.67,
+      "defenseQuality": 11
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Crystal League I",
+    "leagueHistory": [
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 6,
+      "avgStars": 3
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 75,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 6,
+        "triples": 2,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 2
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 17
+      }
+    ]
+  },
+  {
     "tag": "#2Y0JR0RQQ",
     "name": "♧ShAdOw♧",
     "th": 14,
@@ -27713,6 +28418,111 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 0
+      }
+    ]
+  },
+  {
+    "tag": "#CV8LJRLV",
+    "name": "Gucio",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY",
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 7,
+      "attacks": 3,
+      "wars": 3,
+      "destruction": 244,
+      "triples": 1,
+      "missedAttacks": 0,
+      "avgStars": 2.33,
+      "avgDestruction": 81.33,
+      "threeStarRate": 33.33
+    },
+    "reliabilityScore": 69.31,
+    "reliabilityBreakdown": {
+      "performance": 55.5,
+      "attendance": 100,
+      "leagueAdj": 46.67,
+      "weighted": 69.31
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 2,
+      "threeStars": 1
+    },
+    "defense": {
+      "timesAttacked": 3,
+      "starsAllowed": 5,
+      "triplesAllowed": 0,
+      "avgStarsAllowed": 1.67,
+      "defenseQuality": 44
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Crystal League I",
+    "leagueHistory": [
+      {
+        "leagueTier": "Crystal League I",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 2
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 5,
+      "avgStars": 2.5
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 68,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 2,
+        "attacks": 2,
+        "stars": 5,
+        "triples": 1,
+        "avgStars": 2.5,
+        "avgDestruction": 88,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 1
+        },
+        "leagueTier": "Crystal League I",
+        "defenseQuality": 50
       }
     ]
   },
@@ -28414,46 +29224,46 @@
     ]
   },
   {
-    "tag": "#GLUYQUCQV",
-    "name": "SlimShady",
-    "th": 17,
+    "tag": "#RGR9RY2",
+    "name": "Dominik",
+    "th": 18,
     "clans": [
       "#29RYVJ8C8"
     ],
-    "seasonsCount": 1,
+    "seasonsCount": 2,
     "totals": {
       "stars": 6,
-      "attacks": 2,
-      "wars": 2,
-      "destruction": 200,
-      "triples": 2,
+      "attacks": 3,
+      "wars": 3,
+      "destruction": 225,
+      "triples": 0,
       "missedAttacks": 0,
-      "avgStars": 3,
-      "avgDestruction": 100,
-      "threeStarRate": 100
+      "avgStars": 2,
+      "avgDestruction": 75,
+      "threeStarRate": 0
     },
-    "reliabilityScore": 88,
+    "reliabilityScore": 58.67,
     "reliabilityBreakdown": {
-      "performance": 100,
+      "performance": 33.33,
       "attendance": 100,
-      "leagueAdj": 40,
-      "weighted": 88
+      "leagueAdj": 43.33,
+      "weighted": 58.67
     },
     "starBuckets": {
       "zeroStars": 0,
       "oneStars": 0,
-      "twoStars": 0,
-      "threeStars": 2
+      "twoStars": 3,
+      "threeStars": 0
     },
     "defense": {
-      "timesAttacked": 2,
+      "timesAttacked": 3,
       "starsAllowed": 5,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 2.5,
-      "defenseQuality": 17
+      "triplesAllowed": 0,
+      "avgStarsAllowed": 1.67,
+      "defenseQuality": 44
     },
     "lastLeague": {
-      "tier": "Crystal League I"
+      "tier": "Master League III"
     },
     "primaryLeague": "Crystal League I",
     "leagueHistory": [
@@ -28461,111 +29271,59 @@
         "leagueTier": "Crystal League I",
         "seasonsPlayed": 1,
         "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 6,
-      "avgStars": 3
-    },
-    "seasons": [
+      },
       {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 17
-      }
-    ]
-  },
-  {
-    "tag": "#QJ88YRYR8",
-    "name": "Barto19",
-    "th": 17,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 6,
-      "attacks": 2,
-      "wars": 2,
-      "destruction": 200,
-      "triples": 2,
-      "missedAttacks": 0,
-      "avgStars": 3,
-      "avgDestruction": 100,
-      "threeStarRate": 100
-    },
-    "reliabilityScore": 88,
-    "reliabilityBreakdown": {
-      "performance": 100,
-      "attendance": 100,
-      "leagueAdj": 40,
-      "weighted": 88
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 0,
-      "threeStars": 2
-    },
-    "defense": {
-      "timesAttacked": 2,
-      "starsAllowed": 5,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 2.5,
-      "defenseQuality": 17
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
+        "leagueTier": "Master League III",
         "seasonsPlayed": 1,
-        "attacksInLeague": 2
+        "attacksInLeague": 1
       }
     ],
     "bestSeason": {
       "season": "2026-01",
-      "stars": 6,
-      "avgStars": 3
+      "stars": 4,
+      "avgStars": 2
     },
+    "performanceTrend": "stable",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 93,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 67
+      },
       {
         "season": "2026-01",
         "clanTag": "#29RYVJ8C8",
         "clanName": "Psychole!",
-        "th": 17,
+        "th": 18,
         "warsParticipated": 2,
         "attacks": 2,
-        "stars": 6,
-        "triples": 2,
-        "avgStars": 3,
-        "avgDestruction": 100,
+        "stars": 4,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 66,
         "starBuckets": {
           "zeroStars": 0,
           "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 2
+          "twoStars": 2,
+          "threeStars": 0
         },
         "leagueTier": "Crystal League I",
-        "defenseQuality": 17
+        "defenseQuality": 33
       }
     ]
   },
@@ -28722,6 +29480,110 @@
         },
         "leagueTier": "Crystal League III",
         "defenseQuality": 17
+      }
+    ]
+  },
+  {
+    "tag": "#QVV82YUU0",
+    "name": "Pan Lipski",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 6,
+      "attacks": 2,
+      "wars": 2,
+      "destruction": 200,
+      "triples": 2,
+      "missedAttacks": 0,
+      "avgStars": 3,
+      "avgDestruction": 100,
+      "threeStarRate": 100
+    },
+    "reliabilityScore": 91,
+    "reliabilityBreakdown": {
+      "performance": 100,
+      "attendance": 100,
+      "leagueAdj": 55,
+      "weighted": 91
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 0,
+      "threeStars": 2
+    },
+    "defense": {
+      "timesAttacked": 2,
+      "starsAllowed": 5,
+      "triplesAllowed": 1,
+      "avgStarsAllowed": 2.5,
+      "defenseQuality": 17
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 3,
+      "avgStars": 3
+    },
+    "performanceTrend": "stable",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
       }
     ]
   },
@@ -28986,162 +29848,6 @@
     ]
   },
   {
-    "tag": "#9RQYYJR00",
-    "name": "~••KING••~",
-    "th": 17,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 5,
-      "attacks": 2,
-      "wars": 2,
-      "destruction": 180,
-      "triples": 1,
-      "missedAttacks": 0,
-      "avgStars": 2.5,
-      "avgDestruction": 90,
-      "threeStarRate": 50
-    },
-    "reliabilityScore": 73,
-    "reliabilityBreakdown": {
-      "performance": 66.67,
-      "attendance": 100,
-      "leagueAdj": 40,
-      "weighted": 73
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 1,
-      "threeStars": 1
-    },
-    "defense": {
-      "timesAttacked": 2,
-      "starsAllowed": 5,
-      "triplesAllowed": 1,
-      "avgStarsAllowed": 2.5,
-      "defenseQuality": 17
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 5,
-      "avgStars": 2.5
-    },
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 17,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 90,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 17
-      }
-    ]
-  },
-  {
-    "tag": "#CV8LJRLV",
-    "name": "Gucio",
-    "th": 18,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 5,
-      "attacks": 2,
-      "wars": 2,
-      "destruction": 176,
-      "triples": 1,
-      "missedAttacks": 0,
-      "avgStars": 2.5,
-      "avgDestruction": 88,
-      "threeStarRate": 50
-    },
-    "reliabilityScore": 73,
-    "reliabilityBreakdown": {
-      "performance": 66.67,
-      "attendance": 100,
-      "leagueAdj": 40,
-      "weighted": 73
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 1,
-      "threeStars": 1
-    },
-    "defense": {
-      "timesAttacked": 2,
-      "starsAllowed": 3,
-      "triplesAllowed": 0,
-      "avgStarsAllowed": 1.5,
-      "defenseQuality": 50
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 5,
-      "avgStars": 2.5
-    },
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 18,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 5,
-        "triples": 1,
-        "avgStars": 2.5,
-        "avgDestruction": 88,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 1
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 50
-      }
-    ]
-  },
-  {
     "tag": "#8CUCL29JJ",
     "name": "SayorexiK",
     "th": 14,
@@ -29282,6 +29988,214 @@
         },
         "leagueTier": "Gold League I",
         "defenseQuality": 17
+      }
+    ]
+  },
+  {
+    "tag": "#8Y0GY0JVP",
+    "name": "Paweł",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 5,
+      "attacks": 2,
+      "wars": 2,
+      "destruction": 192,
+      "triples": 1,
+      "missedAttacks": 0,
+      "avgStars": 2.5,
+      "avgDestruction": 96,
+      "threeStarRate": 50
+    },
+    "reliabilityScore": 76,
+    "reliabilityBreakdown": {
+      "performance": 66.67,
+      "attendance": 100,
+      "leagueAdj": 55,
+      "weighted": 76
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 1,
+      "threeStars": 1
+    },
+    "defense": {
+      "timesAttacked": 2,
+      "starsAllowed": 3,
+      "triplesAllowed": 0,
+      "avgStarsAllowed": 1.5,
+      "defenseQuality": 50
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-02",
+      "stars": 3,
+      "avgStars": 3
+    },
+    "performanceTrend": "improving",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 67
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 92,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
+      }
+    ]
+  },
+  {
+    "tag": "#9CQ2PPYY2",
+    "name": "Dom",
+    "th": 18,
+    "clans": [
+      "#JPRPRVUY"
+    ],
+    "seasonsCount": 2,
+    "totals": {
+      "stars": 5,
+      "attacks": 2,
+      "wars": 2,
+      "destruction": 197,
+      "triples": 1,
+      "missedAttacks": 0,
+      "avgStars": 2.5,
+      "avgDestruction": 98.5,
+      "threeStarRate": 50
+    },
+    "reliabilityScore": 76,
+    "reliabilityBreakdown": {
+      "performance": 66.67,
+      "attendance": 100,
+      "leagueAdj": 55,
+      "weighted": 76
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 1,
+      "threeStars": 1
+    },
+    "defense": {
+      "timesAttacked": 2,
+      "starsAllowed": 4,
+      "triplesAllowed": 0,
+      "avgStarsAllowed": 2,
+      "defenseQuality": 33
+    },
+    "lastLeague": {
+      "tier": "Master League II"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-01",
+      "stars": 3,
+      "avgStars": 3
+    },
+    "performanceTrend": "declining",
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 97,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 33
+      },
+      {
+        "season": "2026-01",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 3,
+        "triples": 1,
+        "avgStars": 3,
+        "avgDestruction": 100,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 1
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 33
       }
     ]
   },
@@ -29516,84 +30430,6 @@
         },
         "leagueTier": "Master League III",
         "defenseQuality": 17
-      }
-    ]
-  },
-  {
-    "tag": "#RGR9RY2",
-    "name": "Dominik",
-    "th": 18,
-    "clans": [
-      "#29RYVJ8C8"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 4,
-      "attacks": 2,
-      "wars": 2,
-      "destruction": 132,
-      "triples": 0,
-      "missedAttacks": 0,
-      "avgStars": 2,
-      "avgDestruction": 66,
-      "threeStarRate": 0
-    },
-    "reliabilityScore": 58,
-    "reliabilityBreakdown": {
-      "performance": 33.33,
-      "attendance": 100,
-      "leagueAdj": 40,
-      "weighted": 58
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 2,
-      "threeStars": 0
-    },
-    "defense": {
-      "timesAttacked": 2,
-      "starsAllowed": 4,
-      "triplesAllowed": 0,
-      "avgStarsAllowed": 2,
-      "defenseQuality": 33
-    },
-    "lastLeague": {
-      "tier": "Crystal League I"
-    },
-    "primaryLeague": "Crystal League I",
-    "leagueHistory": [
-      {
-        "leagueTier": "Crystal League I",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 2
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 4,
-      "avgStars": 2
-    },
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#29RYVJ8C8",
-        "clanName": "Psychole!",
-        "th": 18,
-        "warsParticipated": 2,
-        "attacks": 2,
-        "stars": 4,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 66,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 2,
-          "threeStars": 0
-        },
-        "leagueTier": "Crystal League I",
-        "defenseQuality": 33
       }
     ]
   },
@@ -30321,8 +31157,8 @@
     ]
   },
   {
-    "tag": "#QVV82YUU0",
-    "name": "Pan Lipski",
+    "tag": "#P8U2CVRP9",
+    "name": "arrrr",
     "th": 18,
     "clans": [
       "#JPRPRVUY"
@@ -30339,12 +31175,12 @@
       "avgDestruction": 100,
       "threeStarRate": 100
     },
-    "reliabilityScore": 90,
+    "reliabilityScore": 92,
     "reliabilityBreakdown": {
       "performance": 100,
       "attendance": 100,
-      "leagueAdj": 50,
-      "weighted": 90
+      "leagueAdj": 60,
+      "weighted": 92
     },
     "starBuckets": {
       "zeroStars": 0,
@@ -30360,24 +31196,24 @@
       "defenseQuality": 33
     },
     "lastLeague": {
-      "tier": "Master League III"
+      "tier": "Master League II"
     },
-    "primaryLeague": "Master League III",
+    "primaryLeague": "Master League II",
     "leagueHistory": [
       {
-        "leagueTier": "Master League III",
+        "leagueTier": "Master League II",
         "seasonsPlayed": 1,
         "attacksInLeague": 1
       }
     ],
     "bestSeason": {
-      "season": "2026-01",
+      "season": "2026-02",
       "stars": 3,
       "avgStars": 3
     },
     "seasons": [
       {
-        "season": "2026-01",
+        "season": "2026-02",
         "clanTag": "#JPRPRVUY",
         "clanName": "Akademia CoC PL",
         "th": 18,
@@ -30393,85 +31229,7 @@
           "twoStars": 0,
           "threeStars": 1
         },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      }
-    ]
-  },
-  {
-    "tag": "#9CQ2PPYY2",
-    "name": "Dom",
-    "th": 18,
-    "clans": [
-      "#JPRPRVUY"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 3,
-      "attacks": 1,
-      "wars": 1,
-      "destruction": 100,
-      "triples": 1,
-      "missedAttacks": 0,
-      "avgStars": 3,
-      "avgDestruction": 100,
-      "threeStarRate": 100
-    },
-    "reliabilityScore": 90,
-    "reliabilityBreakdown": {
-      "performance": 100,
-      "attendance": 100,
-      "leagueAdj": 50,
-      "weighted": 90
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 0,
-      "threeStars": 1
-    },
-    "defense": {
-      "timesAttacked": 1,
-      "starsAllowed": 2,
-      "triplesAllowed": 0,
-      "avgStarsAllowed": 2,
-      "defenseQuality": 33
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 1
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 3,
-      "avgStars": 3
-    },
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 18,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 3,
-        "triples": 1,
-        "avgStars": 3,
-        "avgDestruction": 100,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 0,
-          "threeStars": 1
-        },
-        "leagueTier": "Master League III",
+        "leagueTier": "Master League II",
         "defenseQuality": 33
       }
     ]
@@ -31101,6 +31859,84 @@
     ]
   },
   {
+    "tag": "#UQCRLPV8",
+    "name": "nyxon",
+    "th": 17,
+    "clans": [
+      "#29RYVJ8C8"
+    ],
+    "seasonsCount": 1,
+    "totals": {
+      "stars": 2,
+      "attacks": 1,
+      "wars": 1,
+      "destruction": 95,
+      "triples": 0,
+      "missedAttacks": 0,
+      "avgStars": 2,
+      "avgDestruction": 95,
+      "threeStarRate": 0
+    },
+    "reliabilityScore": 60,
+    "reliabilityBreakdown": {
+      "performance": 33.33,
+      "attendance": 100,
+      "leagueAdj": 50,
+      "weighted": 60
+    },
+    "starBuckets": {
+      "zeroStars": 0,
+      "oneStars": 0,
+      "twoStars": 1,
+      "threeStars": 0
+    },
+    "defense": {
+      "timesAttacked": 1,
+      "starsAllowed": 3,
+      "triplesAllowed": 1,
+      "avgStarsAllowed": 3,
+      "defenseQuality": 0
+    },
+    "lastLeague": {
+      "tier": "Master League III"
+    },
+    "primaryLeague": "Master League III",
+    "leagueHistory": [
+      {
+        "leagueTier": "Master League III",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 1
+      }
+    ],
+    "bestSeason": {
+      "season": "2026-02",
+      "stars": 2,
+      "avgStars": 2
+    },
+    "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#29RYVJ8C8",
+        "clanName": "Psychole!",
+        "th": 17,
+        "warsParticipated": 1,
+        "attacks": 1,
+        "stars": 2,
+        "triples": 0,
+        "avgStars": 2,
+        "avgDestruction": 95,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 1,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League III",
+        "defenseQuality": 0
+      }
+    ]
+  },
+  {
     "tag": "#90GV02P0L",
     "name": "JOHN PATRICK-08",
     "th": 13,
@@ -31263,24 +32099,24 @@
     "clans": [
       "#JPRPRVUY"
     ],
-    "seasonsCount": 1,
+    "seasonsCount": 2,
     "totals": {
       "stars": 2,
       "attacks": 1,
-      "wars": 1,
+      "wars": 2,
       "destruction": 90,
       "triples": 0,
-      "missedAttacks": 0,
+      "missedAttacks": 1,
       "avgStars": 2,
       "avgDestruction": 90,
       "threeStarRate": 0
     },
-    "reliabilityScore": 60,
+    "reliabilityScore": 42.5,
     "reliabilityBreakdown": {
       "performance": 33.33,
-      "attendance": 100,
+      "attendance": 50,
       "leagueAdj": 50,
-      "weighted": 60
+      "weighted": 42.5
     },
     "starBuckets": {
       "zeroStars": 0,
@@ -31289,14 +32125,14 @@
       "threeStars": 0
     },
     "defense": {
-      "timesAttacked": 1,
-      "starsAllowed": 2,
+      "timesAttacked": 2,
+      "starsAllowed": 4,
       "triplesAllowed": 0,
       "avgStarsAllowed": 2,
       "defenseQuality": 33
     },
     "lastLeague": {
-      "tier": "Master League III"
+      "tier": "Master League II"
     },
     "primaryLeague": "Master League III",
     "leagueHistory": [
@@ -31304,6 +32140,11 @@
         "leagueTier": "Master League III",
         "seasonsPlayed": 1,
         "attacksInLeague": 1
+      },
+      {
+        "leagueTier": "Master League II",
+        "seasonsPlayed": 1,
+        "attacksInLeague": 0
       }
     ],
     "bestSeason": {
@@ -31311,7 +32152,28 @@
       "stars": 2,
       "avgStars": 2
     },
+    "performanceTrend": "declining",
     "seasons": [
+      {
+        "season": "2026-02",
+        "clanTag": "#JPRPRVUY",
+        "clanName": "Akademia CoC PL",
+        "th": 18,
+        "warsParticipated": 1,
+        "attacks": 0,
+        "stars": 0,
+        "triples": 0,
+        "avgStars": 0,
+        "avgDestruction": 0,
+        "starBuckets": {
+          "zeroStars": 0,
+          "oneStars": 0,
+          "twoStars": 0,
+          "threeStars": 0
+        },
+        "leagueTier": "Master League II",
+        "defenseQuality": 0
+      },
       {
         "season": "2026-01",
         "clanTag": "#JPRPRVUY",
@@ -31323,84 +32185,6 @@
         "triples": 0,
         "avgStars": 2,
         "avgDestruction": 90,
-        "starBuckets": {
-          "zeroStars": 0,
-          "oneStars": 0,
-          "twoStars": 1,
-          "threeStars": 0
-        },
-        "leagueTier": "Master League III",
-        "defenseQuality": 33
-      }
-    ]
-  },
-  {
-    "tag": "#8Y0GY0JVP",
-    "name": "Paweł",
-    "th": 18,
-    "clans": [
-      "#JPRPRVUY"
-    ],
-    "seasonsCount": 1,
-    "totals": {
-      "stars": 2,
-      "attacks": 1,
-      "wars": 1,
-      "destruction": 92,
-      "triples": 0,
-      "missedAttacks": 0,
-      "avgStars": 2,
-      "avgDestruction": 92,
-      "threeStarRate": 0
-    },
-    "reliabilityScore": 60,
-    "reliabilityBreakdown": {
-      "performance": 33.33,
-      "attendance": 100,
-      "leagueAdj": 50,
-      "weighted": 60
-    },
-    "starBuckets": {
-      "zeroStars": 0,
-      "oneStars": 0,
-      "twoStars": 1,
-      "threeStars": 0
-    },
-    "defense": {
-      "timesAttacked": 1,
-      "starsAllowed": 2,
-      "triplesAllowed": 0,
-      "avgStarsAllowed": 2,
-      "defenseQuality": 33
-    },
-    "lastLeague": {
-      "tier": "Master League III"
-    },
-    "primaryLeague": "Master League III",
-    "leagueHistory": [
-      {
-        "leagueTier": "Master League III",
-        "seasonsPlayed": 1,
-        "attacksInLeague": 1
-      }
-    ],
-    "bestSeason": {
-      "season": "2026-01",
-      "stars": 2,
-      "avgStars": 2
-    },
-    "seasons": [
-      {
-        "season": "2026-01",
-        "clanTag": "#JPRPRVUY",
-        "clanName": "Akademia CoC PL",
-        "th": 18,
-        "warsParticipated": 1,
-        "attacks": 1,
-        "stars": 2,
-        "triples": 0,
-        "avgStars": 2,
-        "avgDestruction": 92,
         "starBuckets": {
           "zeroStars": 0,
           "oneStars": 0,

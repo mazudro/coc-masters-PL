@@ -1,0 +1,74 @@
+name: Daily CWL Data Sync
+
+on:
+  schedule:
+    # Runs at 06:00 UTC every day
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Fetch ClashKing CWL data
+        run: npm run fetch
+        env:
+          # ClashKing API doesn't need auth, but add if needed later
+          NODE_ENV: production
+      
+      - name: Update league CSV data
+        run: npm run csv:update
+        continue-on-error: true # CSV update may fail if CoC API is unreachable
+      
+      - name: Generate all data files
+        run: npm run generate
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "🔄 Daily data sync - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+      
+      - name: Summary
+        run: |
+          echo "## 📊 Data Sync Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
+            echo "✅ Data updated and pushed to repository" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Changed files:" >> $GITHUB_STEP_SUMMARY
+            git diff --name-only HEAD~1 >> $GITHUB_STEP_SUMMARY 2>/dev/null || echo "Unable to show diff" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No data changes detected" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🕐 Completed at: $(date -u +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY

@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-02-13T11:56:44.597Z",
+  "season": "2026-02",
+  "warTag": "29RYVJ8C8-20260210T211512000Z",
+  "startTime": "20260209T211512.000Z",
+  "endTime": "20260210T211512.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 39,
+    "destructionPercentage": 94.06666666666666,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#PQY8QLJ8R",
+            "defenderName": "STEEL MAN",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 76,
+            "duration": 180,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 76,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "keelu"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#99LC2Y22J",
+            "defenderName": "King Of Knight",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 168,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Op^Keelu"
+        }
+      },
+      {
+        "tag": "#RGR9RY2",
+        "name": "Dominik",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGR9RY2",
+            "attackerName": "Dominik",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#Y8VGPCJ8U",
+            "defenderName": "monster raka",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 86,
+            "duration": 174,
+            "order": 18,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 86,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "King Of Knight"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#G9YYRPURV",
+            "defenderName": "Yomlemi",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 159,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Yomlemi"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#8UPCJCG0P",
+            "defenderName": "Dark ranger",
+            "defenderTH": 17,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dark ranger"
+        }
+      },
+      {
+        "tag": "#QJ88YRYR8",
+        "name": "Barto19",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QJ88YRYR8",
+            "attackerName": "Barto19",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#L0UVVUVJQ",
+            "defenderName": "CASTERUS",
+            "defenderTH": 17,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 142,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "monster raka"
+        }
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Y2C8928CJ",
+            "defenderName": "MRITYUNJAYA-IV",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 140,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "CASTERUS"
+        }
+      },
+      {
+        "tag": "#P9UGCVQ9V",
+        "name": "maatii2901",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P9UGCVQ9V",
+            "attackerName": "maatii2901",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#P8VLUYUYG",
+            "defenderName": "RB°°{Bhadra}",
+            "defenderTH": 17,
+            "defenderMapPosition": 11,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 127,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "RB°°{Bhadra}"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#GLRPGJQR2",
+            "defenderName": "Op^Keelu",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 82,
+            "order": 21,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#GLUYQUCQV",
+        "name": "SlimShady",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GLUYQUCQV",
+            "attackerName": "SlimShady",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#P28V0GRPL",
+            "defenderName": "Agent _ Kiru",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Ｍａｄ Ｂｕｎｎｙ"
+        }
+      },
+      {
+        "tag": "#YPJCCRY2L",
+        "name": "DarthHawk",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPJCCRY2L",
+            "attackerName": "DarthHawk",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#9GVQ0UVYV",
+            "defenderName": "❤️❤️Gaurav❤️❤️",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 1,
+            "destructionPercentage": 81,
+            "duration": 152,
+            "order": 27,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "❤️❤️Gaurav❤️❤️"
+        }
+      },
+      {
+        "tag": "#UQCRLPV8",
+        "name": "nyxon",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#UQCRLPV8",
+            "attackerName": "nyxon",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#G2LUCVQ80",
+            "defenderName": "keelu",
+            "defenderTH": 18,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 126,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "MRITYUNJAYA-IV"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#99LG20V00",
+            "defenderName": "A Kay",
+            "defenderTH": 17,
+            "defenderMapPosition": 19,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "A Kay"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#888LQPJC",
+            "defenderName": "ABINASH",
+            "defenderTH": 16,
+            "defenderMapPosition": 20,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ABINASH"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#Y8VUCJUY8",
+            "defenderName": "Ｍａｄ Ｂｕｎｎｙ",
+            "defenderTH": 16,
+            "defenderMapPosition": 22,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 135,
+            "order": 17,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Agent _ Kiru"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#220CJRR0Q",
+    "name": "KILLER BOYS",
+    "clanLevel": 18,
+    "stars": 40,
+    "destructionPercentage": 91.93333333333334,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#PQY8QLJ8R",
+        "name": "STEEL MAN",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 76,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#99LC2Y22J",
+        "name": "King Of Knight",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#99LC2Y22J",
+            "attackerName": "King Of Knight",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RGR9RY2",
+            "defenderName": "Dominik",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 133,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#Y8VGPCJ8U",
+        "name": "monster raka",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#Y8VGPCJ8U",
+            "attackerName": "monster raka",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#QJ88YRYR8",
+            "defenderName": "Barto19",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 148,
+            "order": 29,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 86,
+          "attackerName": "Dominik"
+        }
+      },
+      {
+        "tag": "#G9YYRPURV",
+        "name": "Yomlemi",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#G9YYRPURV",
+            "attackerName": "Yomlemi",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 144,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#8UPCJCG0P",
+        "name": "Dark ranger",
+        "townhallLevel": 17,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8UPCJCG0P",
+            "attackerName": "Dark ranger",
+            "attackerTH": 17,
+            "attackerMapPosition": 8,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#L0UVVUVJQ",
+        "name": "CASTERUS",
+        "townhallLevel": 17,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#L0UVVUVJQ",
+            "attackerName": "CASTERUS",
+            "attackerTH": 17,
+            "attackerMapPosition": 9,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 145,
+            "order": 15,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Barto19"
+        }
+      },
+      {
+        "tag": "#Y2C8928CJ",
+        "name": "MRITYUNJAYA-IV",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Y2C8928CJ",
+            "attackerName": "MRITYUNJAYA-IV",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#UQCRLPV8",
+            "defenderName": "nyxon",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 165,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#P8VLUYUYG",
+        "name": "RB°°{Bhadra}",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#P8VLUYUYG",
+            "attackerName": "RB°°{Bhadra}",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#P9UGCVQ9V",
+            "defenderName": "maatii2901",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 147,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "maatii2901"
+        }
+      },
+      {
+        "tag": "#GLRPGJQR2",
+        "name": "Op^Keelu",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GLRPGJQR2",
+            "attackerName": "Op^Keelu",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 161,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#P28V0GRPL",
+        "name": "Agent _ Kiru",
+        "townhallLevel": 17,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#P28V0GRPL",
+            "attackerName": "Agent _ Kiru",
+            "attackerTH": 17,
+            "attackerMapPosition": 13,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 134,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SlimShady"
+        }
+      },
+      {
+        "tag": "#9GVQ0UVYV",
+        "name": "❤️❤️Gaurav❤️❤️",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9GVQ0UVYV",
+            "attackerName": "❤️❤️Gaurav❤️❤️",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#YPJCCRY2L",
+            "defenderName": "DarthHawk",
+            "defenderTH": 17,
+            "defenderMapPosition": 13,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 94,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 81,
+          "attackerName": "DarthHawk"
+        }
+      },
+      {
+        "tag": "#G2LUCVQ80",
+        "name": "keelu",
+        "townhallLevel": 18,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G2LUCVQ80",
+            "attackerName": "keelu",
+            "attackerTH": 18,
+            "attackerMapPosition": 15,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 12,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "nyxon"
+        }
+      },
+      {
+        "tag": "#99LG20V00",
+        "name": "A Kay",
+        "townhallLevel": 17,
+        "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#99LG20V00",
+            "attackerName": "A Kay",
+            "attackerTH": 17,
+            "attackerMapPosition": 19,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 96,
+            "order": 9,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#888LQPJC",
+        "name": "ABINASH",
+        "townhallLevel": 16,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#888LQPJC",
+            "attackerName": "ABINASH",
+            "attackerTH": 16,
+            "attackerMapPosition": 20,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 146,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#Y8VUCJUY8",
+        "name": "Ｍａｄ Ｂｕｎｎｙ",
+        "townhallLevel": 16,
+        "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#Y8VUCJUY8",
+            "attackerName": "Ｍａｄ Ｂｕｎｎｙ",
+            "attackerTH": 16,
+            "attackerMapPosition": 22,
+            "defenderTag": "#GLUYQUCQV",
+            "defenderName": "SlimShady",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 166,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#888LQPJC",
+      "defenderName": "ABINASH",
+      "defenderTH": 16,
+      "defenderMapPosition": 20,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GLUYQUCQV",
+      "attackerName": "SlimShady",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#P28V0GRPL",
+      "defenderName": "Agent _ Kiru",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Y2C8928CJ",
+      "defenderName": "MRITYUNJAYA-IV",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 140,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#8UPCJCG0P",
+      "defenderName": "Dark ranger",
+      "defenderTH": 17,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y8VUCJUY8",
+      "attackerName": "Ｍａｄ Ｂｕｎｎｙ",
+      "attackerTH": 16,
+      "attackerMapPosition": 22,
+      "defenderTag": "#GLUYQUCQV",
+      "defenderName": "SlimShady",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 166,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QJ88YRYR8",
+      "attackerName": "Barto19",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#L0UVVUVJQ",
+      "defenderName": "CASTERUS",
+      "defenderTH": 17,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 142,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#G9YYRPURV",
+      "attackerName": "Yomlemi",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 144,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#UQCRLPV8",
+      "attackerName": "nyxon",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#G2LUCVQ80",
+      "defenderName": "keelu",
+      "defenderTH": 18,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 126,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#99LG20V00",
+      "attackerName": "A Kay",
+      "attackerTH": 17,
+      "attackerMapPosition": 19,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 96,
+      "order": 9,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P28V0GRPL",
+      "attackerName": "Agent _ Kiru",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P8VLUYUYG",
+      "attackerName": "RB°°{Bhadra}",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#P9UGCVQ9V",
+      "defenderName": "maatii2901",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 147,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#G2LUCVQ80",
+      "attackerName": "keelu",
+      "attackerTH": 18,
+      "attackerMapPosition": 15,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 12,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#GLRPGJQR2",
+      "attackerName": "Op^Keelu",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 161,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#99LG20V00",
+      "defenderName": "A Kay",
+      "defenderTH": 17,
+      "defenderMapPosition": 19,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L0UVVUVJQ",
+      "attackerName": "CASTERUS",
+      "attackerTH": 17,
+      "attackerMapPosition": 9,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 145,
+      "order": 15,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9GVQ0UVYV",
+      "attackerName": "❤️❤️Gaurav❤️❤️",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#YPJCCRY2L",
+      "defenderName": "DarthHawk",
+      "defenderTH": 17,
+      "defenderMapPosition": 13,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 94,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#Y8VUCJUY8",
+      "defenderName": "Ｍａｄ Ｂｕｎｎｙ",
+      "defenderTH": 16,
+      "defenderMapPosition": 22,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 135,
+      "order": 17,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#RGR9RY2",
+      "attackerName": "Dominik",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#Y8VGPCJ8U",
+      "defenderName": "monster raka",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 86,
+      "duration": 174,
+      "order": 18,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#99LC2Y22J",
+      "defenderName": "King Of Knight",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 168,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y2C8928CJ",
+      "attackerName": "MRITYUNJAYA-IV",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#UQCRLPV8",
+      "defenderName": "nyxon",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 165,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#GLRPGJQR2",
+      "defenderName": "Op^Keelu",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 82,
+      "order": 21,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#G9YYRPURV",
+      "defenderName": "Yomlemi",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 159,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9UGCVQ9V",
+      "attackerName": "maatii2901",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#P8VLUYUYG",
+      "defenderName": "RB°°{Bhadra}",
+      "defenderTH": 17,
+      "defenderMapPosition": 11,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 127,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#888LQPJC",
+      "attackerName": "ABINASH",
+      "attackerTH": 16,
+      "attackerMapPosition": 20,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 146,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#99LC2Y22J",
+      "attackerName": "King Of Knight",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RGR9RY2",
+      "defenderName": "Dominik",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 133,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8UPCJCG0P",
+      "attackerName": "Dark ranger",
+      "attackerTH": 17,
+      "attackerMapPosition": 8,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 134,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YPJCCRY2L",
+      "attackerName": "DarthHawk",
+      "attackerTH": 17,
+      "attackerMapPosition": 13,
+      "defenderTag": "#9GVQ0UVYV",
+      "defenderName": "❤️❤️Gaurav❤️❤️",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 1,
+      "destructionPercentage": 81,
+      "duration": 152,
+      "order": 27,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#PQY8QLJ8R",
+      "defenderName": "STEEL MAN",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 76,
+      "duration": 180,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Y8VGPCJ8U",
+      "attackerName": "monster raka",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#QJ88YRYR8",
+      "defenderName": "Barto19",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 148,
+      "order": 29,
+      "side": "opponent"
+    }
+  ]
+}

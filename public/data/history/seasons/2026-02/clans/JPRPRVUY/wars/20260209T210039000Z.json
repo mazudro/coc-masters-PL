@@ -1,0 +1,1375 @@
+{
+  "generatedAt": "2026-02-13T11:56:45.347Z",
+  "season": "2026-02",
+  "warTag": "JPRPRVUY-20260209T210039000Z",
+  "startTime": "20260208T210039.000Z",
+  "endTime": "20260209T210039.000Z",
+  "teamSize": 15,
+  "result": "win",
+  "clan": {
+    "tag": "#JPRPRVUY",
+    "name": "Akademia CoC PL",
+    "clanLevel": 24,
+    "stars": 33,
+    "destructionPercentage": 89.66666666666667,
+    "attacks": 14,
+    "members": [
+      {
+        "tag": "#22L2VVJQQ",
+        "name": "Gantz",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22L2VVJQQ",
+            "attackerName": "Gantz",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#2PQQ2VL8V",
+            "defenderName": "La Buche",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 99,
+            "duration": 180,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 99,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "Mylka1"
+        }
+      },
+      {
+        "tag": "#L90QVUQJ",
+        "name": "Mamcorz",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L90QVUQJ",
+            "attackerName": "Mamcorz",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#29Y0UGL8U",
+            "defenderName": "SC☆ ACOXY",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 180,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 60,
+          "attackerName": "Mylka2"
+        }
+      },
+      {
+        "tag": "#8222UYQU",
+        "name": "Mike",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 59,
+          "attackerName": "SC☆ ACOXY"
+        }
+      },
+      {
+        "tag": "#2RUYVJJU",
+        "name": "Zzlevo",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2RUYVJJU",
+            "attackerName": "Zzlevo",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#2Q8R9JQR8",
+            "defenderName": "Mylka1",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 98,
+            "duration": 180,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 98,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "Mylka3"
+        }
+      },
+      {
+        "tag": "#8Y0GY0JVP",
+        "name": "Paweł",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8Y0GY0JVP",
+            "attackerName": "Paweł",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#PUQ9U08UY",
+            "defenderName": "Mylka2",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 167,
+            "order": 14,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "Mylka4"
+        }
+      },
+      {
+        "tag": "#QVV82YUU0",
+        "name": "Pan Lipski",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QVV82YUU0",
+            "attackerName": "Pan Lipski",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#LPG8YGC02",
+            "defenderName": "Mylka3",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 116,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "La Buche"
+        }
+      },
+      {
+        "tag": "#CV8LJRLV",
+        "name": "Gucio",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#CV8LJRLV",
+            "attackerName": "Gucio",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#28QRP9CCV",
+            "defenderName": "garry",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 180,
+            "order": 24,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 92,
+          "attackerName": "garry"
+        }
+      },
+      {
+        "tag": "#LJ2L00VCY",
+        "name": "IK∆RIS",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LJ2L00VCY",
+            "attackerName": "IK∆RIS",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#LGV0GUUJ",
+            "defenderName": "lilou06",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 22,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Gaspos67"
+        }
+      },
+      {
+        "tag": "#9CQ2PPYY2",
+        "name": "Dom",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9CQ2PPYY2",
+            "attackerName": "Dom",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#PQLQVQ2P",
+            "defenderName": "TOMBY",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 85,
+          "attackerName": "SC ☆ MIDOU⭐️31"
+        }
+      },
+      {
+        "tag": "#P8U2CVRP9",
+        "name": "arrrr",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P8U2CVRP9",
+            "attackerName": "arrrr",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#U8YLPV80",
+            "defenderName": "Gaspos67",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 28,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 75,
+          "attackerName": "lilou06"
+        }
+      },
+      {
+        "tag": "#PQCPJRQ0Q",
+        "name": "Michael",
+        "townhallLevel": 18,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PQCPJRQ0Q",
+            "attackerName": "Michael",
+            "attackerTH": 18,
+            "attackerMapPosition": 11,
+            "defenderTag": "#YY22RG2G2",
+            "defenderName": "SC ☆ MIDOU-ORAN",
+            "defenderTH": 18,
+            "defenderMapPosition": 15,
+            "stars": 2,
+            "destructionPercentage": 96,
+            "duration": 180,
+            "order": 7,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 96,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "TOMBY"
+        }
+      },
+      {
+        "tag": "#80YY0C8C",
+        "name": "mateusz",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#80YY0C8C",
+            "attackerName": "mateusz",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#8U28RULL",
+            "defenderName": "Pepon_",
+            "defenderTH": 18,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 160,
+            "order": 29,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 87,
+          "attackerName": "Pepon_"
+        }
+      },
+      {
+        "tag": "#2Q2CLJU90",
+        "name": "Piotrek",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2Q2CLJU90",
+            "attackerName": "Piotrek",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#PGLYYCV29",
+            "defenderName": "SC ☆ BOUBA",
+            "defenderTH": 18,
+            "defenderMapPosition": 17,
+            "stars": 1,
+            "destructionPercentage": 97,
+            "duration": 180,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "MonTanA"
+        }
+      },
+      {
+        "tag": "#9RQYYJR00",
+        "name": "ViTanic❤️BOSS",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYYJR00",
+            "attackerName": "ViTanic❤️BOSS",
+            "attackerTH": 18,
+            "attackerMapPosition": 14,
+            "defenderTag": "#UJLV80P8",
+            "defenderName": "MonTanA",
+            "defenderTH": 18,
+            "defenderMapPosition": 18,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SC ☆ MIDOU-ORAN"
+        }
+      },
+      {
+        "tag": "#9P9QYQR0Q",
+        "name": "MATEOSTREET182",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#9P9QYQR0Q",
+            "attackerName": "MATEOSTREET182",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#YQQJLPUU2",
+            "defenderName": "SC ☆ MIDOU⭐️31",
+            "defenderTH": 18,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 97,
+            "duration": 107,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 97,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "SC ☆ BOUBA"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2RLVYP9QG",
+    "name": "Supram ☆☆☆ clan",
+    "clanLevel": 10,
+    "stars": 33,
+    "destructionPercentage": 84.46666666666667,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#29Y0UGL8U",
+        "name": "SC☆ ACOXY",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#29Y0UGL8U",
+            "attackerName": "SC☆ ACOXY",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#8222UYQU",
+            "defenderName": "Mike",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 59,
+            "duration": 136,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 59,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "Mamcorz"
+        }
+      },
+      {
+        "tag": "#2Q8R9JQR8",
+        "name": "Mylka1",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2Q8R9JQR8",
+            "attackerName": "Mylka1",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#22L2VVJQQ",
+            "defenderName": "Gantz",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 162,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 98,
+          "attackerName": "Zzlevo"
+        }
+      },
+      {
+        "tag": "#2PQQ2VL8V",
+        "name": "La Buche",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2PQQ2VL8V",
+            "attackerName": "La Buche",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#QVV82YUU0",
+            "defenderName": "Pan Lipski",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 130,
+            "order": 11,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 99,
+          "attackerName": "Gantz"
+        }
+      },
+      {
+        "tag": "#QQGQLPPLL",
+        "name": "Mylka4",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QQGQLPPLL",
+            "attackerName": "Mylka4",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#8Y0GY0JVP",
+            "defenderName": "Paweł",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 138,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#PUQ9U08UY",
+        "name": "Mylka2",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#PUQ9U08UY",
+            "attackerName": "Mylka2",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#L90QVUQJ",
+            "defenderName": "Mamcorz",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 1,
+            "destructionPercentage": 60,
+            "duration": 100,
+            "order": 20,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 60,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Paweł"
+        }
+      },
+      {
+        "tag": "#LPG8YGC02",
+        "name": "Mylka3",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LPG8YGC02",
+            "attackerName": "Mylka3",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#2RUYVJJU",
+            "defenderName": "Zzlevo",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 168,
+            "order": 19,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Pan Lipski"
+        }
+      },
+      {
+        "tag": "#28QRP9CCV",
+        "name": "garry",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#28QRP9CCV",
+            "attackerName": "garry",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#CV8LJRLV",
+            "defenderName": "Gucio",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 92,
+            "duration": 175,
+            "order": 4,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 92,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 68,
+          "attackerName": "Gucio"
+        }
+      },
+      {
+        "tag": "#U8YLPV80",
+        "name": "Gaspos67",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#U8YLPV80",
+            "attackerName": "Gaspos67",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#LJ2L00VCY",
+            "defenderName": "IK∆RIS",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 167,
+            "order": 10,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "arrrr"
+        }
+      },
+      {
+        "tag": "#PQLQVQ2P",
+        "name": "TOMBY",
+        "townhallLevel": 18,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PQLQVQ2P",
+            "attackerName": "TOMBY",
+            "attackerTH": 18,
+            "attackerMapPosition": 12,
+            "defenderTag": "#PQCPJRQ0Q",
+            "defenderName": "Michael",
+            "defenderTH": 18,
+            "defenderMapPosition": 11,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "Dom"
+        }
+      },
+      {
+        "tag": "#LGV0GUUJ",
+        "name": "lilou06",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LGV0GUUJ",
+            "attackerName": "lilou06",
+            "attackerTH": 18,
+            "attackerMapPosition": 14,
+            "defenderTag": "#P8U2CVRP9",
+            "defenderName": "arrrr",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 2,
+            "destructionPercentage": 75,
+            "duration": 172,
+            "order": 23,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 75,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "IK∆RIS"
+        }
+      },
+      {
+        "tag": "#YY22RG2G2",
+        "name": "SC ☆ MIDOU-ORAN",
+        "townhallLevel": 18,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YY22RG2G2",
+            "attackerName": "SC ☆ MIDOU-ORAN",
+            "attackerTH": 18,
+            "attackerMapPosition": 15,
+            "defenderTag": "#9RQYYJR00",
+            "defenderName": "ViTanic❤️BOSS",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 96,
+          "attackerName": "Michael"
+        }
+      },
+      {
+        "tag": "#8U28RULL",
+        "name": "Pepon_",
+        "townhallLevel": 18,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#8U28RULL",
+            "attackerName": "Pepon_",
+            "attackerTH": 18,
+            "attackerMapPosition": 16,
+            "defenderTag": "#80YY0C8C",
+            "defenderName": "mateusz",
+            "defenderTH": 18,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 87,
+            "duration": 180,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 87,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "mateusz"
+        }
+      },
+      {
+        "tag": "#PGLYYCV29",
+        "name": "SC ☆ BOUBA",
+        "townhallLevel": 18,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#PGLYYCV29",
+            "attackerName": "SC ☆ BOUBA",
+            "attackerTH": 18,
+            "attackerMapPosition": 17,
+            "defenderTag": "#9P9QYQR0Q",
+            "defenderName": "MATEOSTREET182",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 158,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 97,
+          "attackerName": "Piotrek"
+        }
+      },
+      {
+        "tag": "#UJLV80P8",
+        "name": "MonTanA",
+        "townhallLevel": 18,
+        "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#UJLV80P8",
+            "attackerName": "MonTanA",
+            "attackerTH": 18,
+            "attackerMapPosition": 18,
+            "defenderTag": "#2Q2CLJU90",
+            "defenderName": "Piotrek",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 68,
+            "duration": 123,
+            "order": 16,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 68,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "ViTanic❤️BOSS"
+        }
+      },
+      {
+        "tag": "#YQQJLPUU2",
+        "name": "SC ☆ MIDOU⭐️31",
+        "townhallLevel": 18,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YQQJLPUU2",
+            "attackerName": "SC ☆ MIDOU⭐️31",
+            "attackerTH": 18,
+            "attackerMapPosition": 20,
+            "defenderTag": "#9CQ2PPYY2",
+            "defenderName": "Dom",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 2,
+            "destructionPercentage": 85,
+            "duration": 180,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 97,
+          "attackerName": "MATEOSTREET182"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#9RQYYJR00",
+      "attackerName": "ViTanic❤️BOSS",
+      "attackerTH": 18,
+      "attackerMapPosition": 14,
+      "defenderTag": "#UJLV80P8",
+      "defenderName": "MonTanA",
+      "defenderTH": 18,
+      "defenderMapPosition": 18,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2Q2CLJU90",
+      "attackerName": "Piotrek",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#PGLYYCV29",
+      "defenderName": "SC ☆ BOUBA",
+      "defenderTH": 18,
+      "defenderMapPosition": 17,
+      "stars": 1,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#L90QVUQJ",
+      "attackerName": "Mamcorz",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#29Y0UGL8U",
+      "defenderName": "SC☆ ACOXY",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 180,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#28QRP9CCV",
+      "attackerName": "garry",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#CV8LJRLV",
+      "defenderName": "Gucio",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 92,
+      "duration": 175,
+      "order": 4,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PGLYYCV29",
+      "attackerName": "SC ☆ BOUBA",
+      "attackerTH": 18,
+      "attackerMapPosition": 17,
+      "defenderTag": "#9P9QYQR0Q",
+      "defenderName": "MATEOSTREET182",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#9CQ2PPYY2",
+      "attackerName": "Dom",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#PQLQVQ2P",
+      "defenderName": "TOMBY",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 180,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#PQCPJRQ0Q",
+      "attackerName": "Michael",
+      "attackerTH": 18,
+      "attackerMapPosition": 11,
+      "defenderTag": "#YY22RG2G2",
+      "defenderName": "SC ☆ MIDOU-ORAN",
+      "defenderTH": 18,
+      "defenderMapPosition": 15,
+      "stars": 2,
+      "destructionPercentage": 96,
+      "duration": 180,
+      "order": 7,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22L2VVJQQ",
+      "attackerName": "Gantz",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#2PQQ2VL8V",
+      "defenderName": "La Buche",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 99,
+      "duration": 180,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#9P9QYQR0Q",
+      "attackerName": "MATEOSTREET182",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#YQQJLPUU2",
+      "defenderName": "SC ☆ MIDOU⭐️31",
+      "defenderTH": 18,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 97,
+      "duration": 107,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#U8YLPV80",
+      "attackerName": "Gaspos67",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#LJ2L00VCY",
+      "defenderName": "IK∆RIS",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 167,
+      "order": 10,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2PQQ2VL8V",
+      "attackerName": "La Buche",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#QVV82YUU0",
+      "defenderName": "Pan Lipski",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 130,
+      "order": 11,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QVV82YUU0",
+      "attackerName": "Pan Lipski",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#LPG8YGC02",
+      "defenderName": "Mylka3",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 116,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8U28RULL",
+      "attackerName": "Pepon_",
+      "attackerTH": 18,
+      "attackerMapPosition": 16,
+      "defenderTag": "#80YY0C8C",
+      "defenderName": "mateusz",
+      "defenderTH": 18,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 87,
+      "duration": 180,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8Y0GY0JVP",
+      "attackerName": "Paweł",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#PUQ9U08UY",
+      "defenderName": "Mylka2",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 167,
+      "order": 14,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#2RUYVJJU",
+      "attackerName": "Zzlevo",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#2Q8R9JQR8",
+      "defenderName": "Mylka1",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 98,
+      "duration": 180,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UJLV80P8",
+      "attackerName": "MonTanA",
+      "attackerTH": 18,
+      "attackerMapPosition": 18,
+      "defenderTag": "#2Q2CLJU90",
+      "defenderName": "Piotrek",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 123,
+      "order": 16,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PQLQVQ2P",
+      "attackerName": "TOMBY",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#PQCPJRQ0Q",
+      "defenderName": "Michael",
+      "defenderTH": 18,
+      "defenderMapPosition": 11,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#QQGQLPPLL",
+      "attackerName": "Mylka4",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#8Y0GY0JVP",
+      "defenderName": "Paweł",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 138,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LPG8YGC02",
+      "attackerName": "Mylka3",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#2RUYVJJU",
+      "defenderName": "Zzlevo",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 168,
+      "order": 19,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PUQ9U08UY",
+      "attackerName": "Mylka2",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#L90QVUQJ",
+      "defenderName": "Mamcorz",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 1,
+      "destructionPercentage": 60,
+      "duration": 100,
+      "order": 20,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#2Q8R9JQR8",
+      "attackerName": "Mylka1",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#22L2VVJQQ",
+      "defenderName": "Gantz",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 162,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LJ2L00VCY",
+      "attackerName": "IK∆RIS",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#LGV0GUUJ",
+      "defenderName": "lilou06",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 158,
+      "order": 22,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LGV0GUUJ",
+      "attackerName": "lilou06",
+      "attackerTH": 18,
+      "attackerMapPosition": 14,
+      "defenderTag": "#P8U2CVRP9",
+      "defenderName": "arrrr",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 2,
+      "destructionPercentage": 75,
+      "duration": 172,
+      "order": 23,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CV8LJRLV",
+      "attackerName": "Gucio",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#28QRP9CCV",
+      "defenderName": "garry",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 68,
+      "duration": 180,
+      "order": 24,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#YY22RG2G2",
+      "attackerName": "SC ☆ MIDOU-ORAN",
+      "attackerTH": 18,
+      "attackerMapPosition": 15,
+      "defenderTag": "#9RQYYJR00",
+      "defenderName": "ViTanic❤️BOSS",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YQQJLPUU2",
+      "attackerName": "SC ☆ MIDOU⭐️31",
+      "attackerTH": 18,
+      "attackerMapPosition": 20,
+      "defenderTag": "#9CQ2PPYY2",
+      "defenderName": "Dom",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 2,
+      "destructionPercentage": 85,
+      "duration": 180,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#29Y0UGL8U",
+      "attackerName": "SC☆ ACOXY",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#8222UYQU",
+      "defenderName": "Mike",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 59,
+      "duration": 136,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P8U2CVRP9",
+      "attackerName": "arrrr",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#U8YLPV80",
+      "defenderName": "Gaspos67",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 28,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#80YY0C8C",
+      "attackerName": "mateusz",
+      "attackerTH": 18,
+      "attackerMapPosition": 12,
+      "defenderTag": "#8U28RULL",
+      "defenderName": "Pepon_",
+      "defenderTH": 18,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 160,
+      "order": 29,
+      "side": "clan"
+    }
+  ]
+}

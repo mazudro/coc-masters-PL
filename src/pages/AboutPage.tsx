@@ -525,9 +525,9 @@ export function AboutPage() {
                     </CardHeader>
                     <CardContent className="space-y-2 text-sm">
                       {[
-                        ['coc masters PL', '#P0J2J8GJ', 'TH16+', 'Master League I'],
-                        ['Akademia CoC PL', '#JPRPRVUY', 'TH12+', 'Crystal League I'],
-                        ['Psychole!', '#29RYVJ8C8', 'TH10+', 'Crystal League II'],
+                        ['coc masters PL', '#P0J2J8GJ', 'TH16+', 'Champion League I'],
+                        ['Akademia CoC PL', '#JPRPRVUY', 'TH12+', 'Master League II'],
+                        ['Psychole!', '#29RYVJ8C8', 'TH10+', 'Master League III'],
                       ].map((clan) => (
                         <div key={clan[0]} className="grid grid-cols-4 gap-2 p-2 rounded border border-border/50">
                           <span className="font-semibold">{clan[0]}</span>

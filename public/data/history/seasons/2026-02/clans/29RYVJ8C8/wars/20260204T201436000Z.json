@@ -1,0 +1,1339 @@
+{
+  "generatedAt": "2026-02-13T11:56:44.596Z",
+  "season": "2026-02",
+  "warTag": "29RYVJ8C8-20260204T201436000Z",
+  "startTime": "20260203T201436.000Z",
+  "endTime": "20260204T201436.000Z",
+  "teamSize": 15,
+  "result": "loss",
+  "clan": {
+    "tag": "#29RYVJ8C8",
+    "name": "Psychole!",
+    "clanLevel": 14,
+    "stars": 32,
+    "destructionPercentage": 83.13333333333334,
+    "attacks": 15,
+    "members": [
+      {
+        "tag": "#P20UPJULV",
+        "name": "mrUK",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P20UPJULV",
+            "attackerName": "mrUK",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#22YQY9PJU",
+            "defenderName": "Bert Beule",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 2,
+            "destructionPercentage": 62,
+            "duration": 180,
+            "order": 11,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 62,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Bert Beule"
+        }
+      },
+      {
+        "tag": "#LLCP9VVJV",
+        "name": "Borsuk",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LLCP9VVJV",
+            "attackerName": "Borsuk",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#R9VGR2CC",
+            "defenderName": "Dr. Evil",
+            "defenderTH": 18,
+            "defenderMapPosition": 2,
+            "stars": 2,
+            "destructionPercentage": 80,
+            "duration": 171,
+            "order": 19,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 80,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 74,
+          "attackerName": "tonages"
+        }
+      },
+      {
+        "tag": "#RGR9RY2",
+        "name": "Dominik",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#RGR9RY2",
+            "attackerName": "Dominik",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8G0LLPQY",
+            "defenderName": "gaare",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 176,
+            "order": 15,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dr. Evil"
+        }
+      },
+      {
+        "tag": "#8UV0C2QYL",
+        "name": "Predator",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8UV0C2QYL",
+            "attackerName": "Predator",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#C9U8U99U",
+            "defenderName": "Fabio",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 2,
+            "destructionPercentage": 58,
+            "duration": 113,
+            "order": 16,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 58,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Fabio"
+        }
+      },
+      {
+        "tag": "#98GYP8CCV",
+        "name": "retorax",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#98GYP8CCV",
+            "attackerName": "retorax",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#J8YYQLPR",
+            "defenderName": "DaveStarr",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 1,
+            "destructionPercentage": 66,
+            "duration": 130,
+            "order": 9,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 66,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 81,
+          "attackerName": "DaveStarr"
+        }
+      },
+      {
+        "tag": "#QJ88YRYR8",
+        "name": "Barto19",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QJ88YRYR8",
+            "attackerName": "Barto19",
+            "attackerTH": 18,
+            "attackerMapPosition": 7,
+            "defenderTag": "#PLRGUQ9P",
+            "defenderName": "tonages",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 173,
+            "order": 10,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#J0992UCY",
+        "name": "Don Pedro",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#J0992UCY",
+            "attackerName": "Don Pedro",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#Y0PV0C8G9",
+            "defenderName": "Luca_1906",
+            "defenderTH": 18,
+            "defenderMapPosition": 7,
+            "stars": 2,
+            "destructionPercentage": 91,
+            "duration": 180,
+            "order": 8,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 91,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "leo"
+        }
+      },
+      {
+        "tag": "#P9UGCVQ9V",
+        "name": "maatii2901",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#P9UGCVQ9V",
+            "attackerName": "maatii2901",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#GJG82CYL",
+            "defenderName": "leo",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 2,
+            "destructionPercentage": 77,
+            "duration": 109,
+            "order": 20,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 77,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "gaare"
+        }
+      },
+      {
+        "tag": "#8C8UPLCJY",
+        "name": "Polish Strenght",
+        "townhallLevel": 17,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8C8UPLCJY",
+            "attackerName": "Polish Strenght",
+            "attackerTH": 17,
+            "attackerMapPosition": 10,
+            "defenderTag": "#CG0L9V2",
+            "defenderName": "⚔️Schini⚔️",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 23,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Wandereule"
+        }
+      },
+      {
+        "tag": "#Q8J2V8GY",
+        "name": "genetic",
+        "townhallLevel": 17,
+        "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Q8J2V8GY",
+            "attackerName": "genetic",
+            "attackerTH": 17,
+            "attackerMapPosition": 11,
+            "defenderTag": "#PL9VUL9VJ",
+            "defenderName": "Humäxxx",
+            "defenderTH": 18,
+            "defenderMapPosition": 10,
+            "stars": 1,
+            "destructionPercentage": 69,
+            "duration": 124,
+            "order": 12,
+            "side": "clan"
+          }
+        ],
+        "stars": 1,
+        "destruction": 69,
+        "opponentAttacks": 0
+      },
+      {
+        "tag": "#GLUYQUCQV",
+        "name": "SlimShady",
+        "townhallLevel": 17,
+        "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GLUYQUCQV",
+            "attackerName": "SlimShady",
+            "attackerTH": 17,
+            "attackerMapPosition": 12,
+            "defenderTag": "#YC0V2UURL",
+            "defenderName": "Wandereule",
+            "defenderTH": 18,
+            "defenderMapPosition": 13,
+            "stars": 2,
+            "destructionPercentage": 79,
+            "duration": 163,
+            "order": 2,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 79,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 94,
+          "attackerName": "Humäxxx"
+        }
+      },
+      {
+        "tag": "#UQCRLPV8",
+        "name": "nyxon",
+        "townhallLevel": 17,
+        "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#UQCRLPV8",
+            "attackerName": "nyxon",
+            "attackerTH": 17,
+            "attackerMapPosition": 14,
+            "defenderTag": "#9CPPV898",
+            "defenderName": "xApokalYpTo",
+            "defenderTH": 18,
+            "defenderMapPosition": 14,
+            "stars": 2,
+            "destructionPercentage": 89,
+            "duration": 147,
+            "order": 4,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 89,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 85,
+          "attackerName": "⚔️Schini⚔️"
+        }
+      },
+      {
+        "tag": "#8YQLVJYV2",
+        "name": "xyz@",
+        "townhallLevel": 17,
+        "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#8YQLVJYV2",
+            "attackerName": "xyz@",
+            "attackerTH": 17,
+            "attackerMapPosition": 15,
+            "defenderTag": "#P0JJLYVR",
+            "defenderName": "humaxxx",
+            "defenderTH": 18,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 141,
+            "order": 1,
+            "side": "clan"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "humaxxx"
+        }
+      },
+      {
+        "tag": "#Q0C29UUUR",
+        "name": "pląs",
+        "townhallLevel": 16,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q0C29UUUR",
+            "attackerName": "pląs",
+            "attackerTH": 16,
+            "attackerMapPosition": 16,
+            "defenderTag": "#LRURULL",
+            "defenderName": "phantomlord1365",
+            "defenderTH": 17,
+            "defenderMapPosition": 17,
+            "stars": 2,
+            "destructionPercentage": 93,
+            "duration": 174,
+            "order": 3,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 93,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "⚔️Schini⚔️"
+        }
+      },
+      {
+        "tag": "#P9VCRQJV0",
+        "name": "Miki 07",
+        "townhallLevel": 15,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#P9VCRQJV0",
+            "attackerName": "Miki 07",
+            "attackerTH": 15,
+            "attackerMapPosition": 17,
+            "defenderTag": "#LV9J00RQ2",
+            "defenderName": "⚔️Schini⚔️",
+            "defenderTH": 17,
+            "defenderMapPosition": 20,
+            "stars": 2,
+            "destructionPercentage": 83,
+            "duration": 177,
+            "order": 6,
+            "side": "clan"
+          }
+        ],
+        "stars": 2,
+        "destruction": 83,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "phantomlord1365"
+        }
+      }
+    ]
+  },
+  "opponent": {
+    "tag": "#2YQP2UCY8",
+    "name": "Gang—Bang—Gang",
+    "clanLevel": 23,
+    "stars": 34,
+    "destructionPercentage": 82.26666666666667,
+    "attacks": 13,
+    "members": [
+      {
+        "tag": "#22YQY9PJU",
+        "name": "Bert Beule",
+        "townhallLevel": 18,
+        "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22YQY9PJU",
+            "attackerName": "Bert Beule",
+            "attackerTH": 18,
+            "attackerMapPosition": 1,
+            "defenderTag": "#P20UPJULV",
+            "defenderName": "mrUK",
+            "defenderTH": 18,
+            "defenderMapPosition": 1,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 172,
+            "order": 13,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 62,
+          "attackerName": "mrUK"
+        }
+      },
+      {
+        "tag": "#R9VGR2CC",
+        "name": "Dr. Evil",
+        "townhallLevel": 18,
+        "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#R9VGR2CC",
+            "attackerName": "Dr. Evil",
+            "attackerTH": 18,
+            "attackerMapPosition": 2,
+            "defenderTag": "#RGR9RY2",
+            "defenderName": "Dominik",
+            "defenderTH": 18,
+            "defenderMapPosition": 4,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 113,
+            "order": 7,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 80,
+          "attackerName": "Borsuk"
+        }
+      },
+      {
+        "tag": "#PLRGUQ9P",
+        "name": "tonages",
+        "townhallLevel": 18,
+        "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#PLRGUQ9P",
+            "attackerName": "tonages",
+            "attackerTH": 18,
+            "attackerMapPosition": 3,
+            "defenderTag": "#LLCP9VVJV",
+            "defenderName": "Borsuk",
+            "defenderTH": 18,
+            "defenderMapPosition": 3,
+            "stars": 2,
+            "destructionPercentage": 74,
+            "duration": 103,
+            "order": 14,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 74,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Barto19"
+        }
+      },
+      {
+        "tag": "#C9U8U99U",
+        "name": "Fabio",
+        "townhallLevel": 18,
+        "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#C9U8U99U",
+            "attackerName": "Fabio",
+            "attackerTH": 18,
+            "attackerMapPosition": 4,
+            "defenderTag": "#8UV0C2QYL",
+            "defenderName": "Predator",
+            "defenderTH": 18,
+            "defenderMapPosition": 5,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 5,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 58,
+          "attackerName": "Predator"
+        }
+      },
+      {
+        "tag": "#J8YYQLPR",
+        "name": "DaveStarr",
+        "townhallLevel": 18,
+        "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#J8YYQLPR",
+            "attackerName": "DaveStarr",
+            "attackerTH": 18,
+            "attackerMapPosition": 5,
+            "defenderTag": "#98GYP8CCV",
+            "defenderName": "retorax",
+            "defenderTH": 18,
+            "defenderMapPosition": 6,
+            "stars": 2,
+            "destructionPercentage": 81,
+            "duration": 99,
+            "order": 18,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 81,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 66,
+          "attackerName": "retorax"
+        }
+      },
+      {
+        "tag": "#8G0LLPQY",
+        "name": "gaare",
+        "townhallLevel": 18,
+        "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8G0LLPQY",
+            "attackerName": "gaare",
+            "attackerTH": 18,
+            "attackerMapPosition": 6,
+            "defenderTag": "#P9UGCVQ9V",
+            "defenderName": "maatii2901",
+            "defenderTH": 18,
+            "defenderMapPosition": 9,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 128,
+            "order": 22,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Dominik"
+        }
+      },
+      {
+        "tag": "#Y0PV0C8G9",
+        "name": "Luca_1906",
+        "townhallLevel": 18,
+        "mapPosition": 7,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 91,
+          "attackerName": "Don Pedro"
+        }
+      },
+      {
+        "tag": "#GJG82CYL",
+        "name": "leo",
+        "townhallLevel": 18,
+        "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GJG82CYL",
+            "attackerName": "leo",
+            "attackerTH": 18,
+            "attackerMapPosition": 8,
+            "defenderTag": "#J0992UCY",
+            "defenderName": "Don Pedro",
+            "defenderTH": 18,
+            "defenderMapPosition": 8,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 137,
+            "order": 17,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 77,
+          "attackerName": "maatii2901"
+        }
+      },
+      {
+        "tag": "#CG0L9V2",
+        "name": "⚔️Schini⚔️",
+        "townhallLevel": 18,
+        "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#CG0L9V2",
+            "attackerName": "⚔️Schini⚔️",
+            "attackerTH": 18,
+            "attackerMapPosition": 9,
+            "defenderTag": "#UQCRLPV8",
+            "defenderName": "nyxon",
+            "defenderTH": 17,
+            "defenderMapPosition": 14,
+            "stars": 1,
+            "destructionPercentage": 85,
+            "duration": 109,
+            "order": 27,
+            "side": "opponent"
+          }
+        ],
+        "stars": 1,
+        "destruction": 85,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "Polish Strenght"
+        }
+      },
+      {
+        "tag": "#PL9VUL9VJ",
+        "name": "Humäxxx",
+        "townhallLevel": 18,
+        "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PL9VUL9VJ",
+            "attackerName": "Humäxxx",
+            "attackerTH": 18,
+            "attackerMapPosition": 10,
+            "defenderTag": "#GLUYQUCQV",
+            "defenderName": "SlimShady",
+            "defenderTH": 17,
+            "defenderMapPosition": 12,
+            "stars": 2,
+            "destructionPercentage": 94,
+            "duration": 150,
+            "order": 28,
+            "side": "opponent"
+          }
+        ],
+        "stars": 2,
+        "destruction": 94,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 1,
+          "destructionPercentage": 69,
+          "attackerName": "genetic"
+        }
+      },
+      {
+        "tag": "#YC0V2UURL",
+        "name": "Wandereule",
+        "townhallLevel": 18,
+        "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YC0V2UURL",
+            "attackerName": "Wandereule",
+            "attackerTH": 18,
+            "attackerMapPosition": 13,
+            "defenderTag": "#8C8UPLCJY",
+            "defenderName": "Polish Strenght",
+            "defenderTH": 17,
+            "defenderMapPosition": 10,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 98,
+            "order": 25,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 79,
+          "attackerName": "SlimShady"
+        }
+      },
+      {
+        "tag": "#9CPPV898",
+        "name": "xApokalYpTo",
+        "townhallLevel": 18,
+        "mapPosition": 14,
+        "attacks": [],
+        "stars": 0,
+        "destruction": 0,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 89,
+          "attackerName": "nyxon"
+        }
+      },
+      {
+        "tag": "#P0JJLYVR",
+        "name": "humaxxx",
+        "townhallLevel": 18,
+        "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P0JJLYVR",
+            "attackerName": "humaxxx",
+            "attackerTH": 18,
+            "attackerMapPosition": 16,
+            "defenderTag": "#8YQLVJYV2",
+            "defenderName": "xyz@",
+            "defenderTH": 17,
+            "defenderMapPosition": 15,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 156,
+            "order": 26,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 3,
+          "destructionPercentage": 100,
+          "attackerName": "xyz@"
+        }
+      },
+      {
+        "tag": "#LRURULL",
+        "name": "phantomlord1365",
+        "townhallLevel": 17,
+        "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LRURULL",
+            "attackerName": "phantomlord1365",
+            "attackerTH": 17,
+            "attackerMapPosition": 17,
+            "defenderTag": "#P9VCRQJV0",
+            "defenderName": "Miki 07",
+            "defenderTH": 15,
+            "defenderMapPosition": 17,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 132,
+            "order": 24,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 93,
+          "attackerName": "pląs"
+        }
+      },
+      {
+        "tag": "#LV9J00RQ2",
+        "name": "⚔️Schini⚔️",
+        "townhallLevel": 17,
+        "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LV9J00RQ2",
+            "attackerName": "⚔️Schini⚔️",
+            "attackerTH": 17,
+            "attackerMapPosition": 20,
+            "defenderTag": "#Q0C29UUUR",
+            "defenderName": "pląs",
+            "defenderTH": 16,
+            "defenderMapPosition": 16,
+            "stars": 3,
+            "destructionPercentage": 100,
+            "duration": 107,
+            "order": 21,
+            "side": "opponent"
+          }
+        ],
+        "stars": 3,
+        "destruction": 100,
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "stars": 2,
+          "destructionPercentage": 83,
+          "attackerName": "Miki 07"
+        }
+      }
+    ]
+  },
+  "attackTimeline": [
+    {
+      "attackerTag": "#8YQLVJYV2",
+      "attackerName": "xyz@",
+      "attackerTH": 17,
+      "attackerMapPosition": 15,
+      "defenderTag": "#P0JJLYVR",
+      "defenderName": "humaxxx",
+      "defenderTH": 18,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 1,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GLUYQUCQV",
+      "attackerName": "SlimShady",
+      "attackerTH": 17,
+      "attackerMapPosition": 12,
+      "defenderTag": "#YC0V2UURL",
+      "defenderName": "Wandereule",
+      "defenderTH": 18,
+      "defenderMapPosition": 13,
+      "stars": 2,
+      "destructionPercentage": 79,
+      "duration": 163,
+      "order": 2,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q0C29UUUR",
+      "attackerName": "pląs",
+      "attackerTH": 16,
+      "attackerMapPosition": 16,
+      "defenderTag": "#LRURULL",
+      "defenderName": "phantomlord1365",
+      "defenderTH": 17,
+      "defenderMapPosition": 17,
+      "stars": 2,
+      "destructionPercentage": 93,
+      "duration": 174,
+      "order": 3,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#UQCRLPV8",
+      "attackerName": "nyxon",
+      "attackerTH": 17,
+      "attackerMapPosition": 14,
+      "defenderTag": "#9CPPV898",
+      "defenderName": "xApokalYpTo",
+      "defenderTH": 18,
+      "defenderMapPosition": 14,
+      "stars": 2,
+      "destructionPercentage": 89,
+      "duration": 147,
+      "order": 4,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#C9U8U99U",
+      "attackerName": "Fabio",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8UV0C2QYL",
+      "defenderName": "Predator",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 5,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P9VCRQJV0",
+      "attackerName": "Miki 07",
+      "attackerTH": 15,
+      "attackerMapPosition": 17,
+      "defenderTag": "#LV9J00RQ2",
+      "defenderName": "⚔️Schini⚔️",
+      "defenderTH": 17,
+      "defenderMapPosition": 20,
+      "stars": 2,
+      "destructionPercentage": 83,
+      "duration": 177,
+      "order": 6,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#R9VGR2CC",
+      "attackerName": "Dr. Evil",
+      "attackerTH": 18,
+      "attackerMapPosition": 2,
+      "defenderTag": "#RGR9RY2",
+      "defenderName": "Dominik",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 113,
+      "order": 7,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J0992UCY",
+      "attackerName": "Don Pedro",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#Y0PV0C8G9",
+      "defenderName": "Luca_1906",
+      "defenderTH": 18,
+      "defenderMapPosition": 7,
+      "stars": 2,
+      "destructionPercentage": 91,
+      "duration": 180,
+      "order": 8,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#98GYP8CCV",
+      "attackerName": "retorax",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#J8YYQLPR",
+      "defenderName": "DaveStarr",
+      "defenderTH": 18,
+      "defenderMapPosition": 5,
+      "stars": 1,
+      "destructionPercentage": 66,
+      "duration": 130,
+      "order": 9,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#QJ88YRYR8",
+      "attackerName": "Barto19",
+      "attackerTH": 18,
+      "attackerMapPosition": 7,
+      "defenderTag": "#PLRGUQ9P",
+      "defenderName": "tonages",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 173,
+      "order": 10,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P20UPJULV",
+      "attackerName": "mrUK",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#22YQY9PJU",
+      "defenderName": "Bert Beule",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 2,
+      "destructionPercentage": 62,
+      "duration": 180,
+      "order": 11,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#Q8J2V8GY",
+      "attackerName": "genetic",
+      "attackerTH": 17,
+      "attackerMapPosition": 11,
+      "defenderTag": "#PL9VUL9VJ",
+      "defenderName": "Humäxxx",
+      "defenderTH": 18,
+      "defenderMapPosition": 10,
+      "stars": 1,
+      "destructionPercentage": 69,
+      "duration": 124,
+      "order": 12,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#22YQY9PJU",
+      "attackerName": "Bert Beule",
+      "attackerTH": 18,
+      "attackerMapPosition": 1,
+      "defenderTag": "#P20UPJULV",
+      "defenderName": "mrUK",
+      "defenderTH": 18,
+      "defenderMapPosition": 1,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 172,
+      "order": 13,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PLRGUQ9P",
+      "attackerName": "tonages",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#LLCP9VVJV",
+      "defenderName": "Borsuk",
+      "defenderTH": 18,
+      "defenderMapPosition": 3,
+      "stars": 2,
+      "destructionPercentage": 74,
+      "duration": 103,
+      "order": 14,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#RGR9RY2",
+      "attackerName": "Dominik",
+      "attackerTH": 18,
+      "attackerMapPosition": 4,
+      "defenderTag": "#8G0LLPQY",
+      "defenderName": "gaare",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 176,
+      "order": 15,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#8UV0C2QYL",
+      "attackerName": "Predator",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#C9U8U99U",
+      "defenderName": "Fabio",
+      "defenderTH": 18,
+      "defenderMapPosition": 4,
+      "stars": 2,
+      "destructionPercentage": 58,
+      "duration": 113,
+      "order": 16,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#GJG82CYL",
+      "attackerName": "leo",
+      "attackerTH": 18,
+      "attackerMapPosition": 8,
+      "defenderTag": "#J0992UCY",
+      "defenderName": "Don Pedro",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 137,
+      "order": 17,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#J8YYQLPR",
+      "attackerName": "DaveStarr",
+      "attackerTH": 18,
+      "attackerMapPosition": 5,
+      "defenderTag": "#98GYP8CCV",
+      "defenderName": "retorax",
+      "defenderTH": 18,
+      "defenderMapPosition": 6,
+      "stars": 2,
+      "destructionPercentage": 81,
+      "duration": 99,
+      "order": 18,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#LLCP9VVJV",
+      "attackerName": "Borsuk",
+      "attackerTH": 18,
+      "attackerMapPosition": 3,
+      "defenderTag": "#R9VGR2CC",
+      "defenderName": "Dr. Evil",
+      "defenderTH": 18,
+      "defenderMapPosition": 2,
+      "stars": 2,
+      "destructionPercentage": 80,
+      "duration": 171,
+      "order": 19,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#P9UGCVQ9V",
+      "attackerName": "maatii2901",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#GJG82CYL",
+      "defenderName": "leo",
+      "defenderTH": 18,
+      "defenderMapPosition": 8,
+      "stars": 2,
+      "destructionPercentage": 77,
+      "duration": 109,
+      "order": 20,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LV9J00RQ2",
+      "attackerName": "⚔️Schini⚔️",
+      "attackerTH": 17,
+      "attackerMapPosition": 20,
+      "defenderTag": "#Q0C29UUUR",
+      "defenderName": "pląs",
+      "defenderTH": 16,
+      "defenderMapPosition": 16,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 107,
+      "order": 21,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8G0LLPQY",
+      "attackerName": "gaare",
+      "attackerTH": 18,
+      "attackerMapPosition": 6,
+      "defenderTag": "#P9UGCVQ9V",
+      "defenderName": "maatii2901",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 128,
+      "order": 22,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#8C8UPLCJY",
+      "attackerName": "Polish Strenght",
+      "attackerTH": 17,
+      "attackerMapPosition": 10,
+      "defenderTag": "#CG0L9V2",
+      "defenderName": "⚔️Schini⚔️",
+      "defenderTH": 18,
+      "defenderMapPosition": 9,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 141,
+      "order": 23,
+      "side": "clan"
+    },
+    {
+      "attackerTag": "#LRURULL",
+      "attackerName": "phantomlord1365",
+      "attackerTH": 17,
+      "attackerMapPosition": 17,
+      "defenderTag": "#P9VCRQJV0",
+      "defenderName": "Miki 07",
+      "defenderTH": 15,
+      "defenderMapPosition": 17,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 132,
+      "order": 24,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#YC0V2UURL",
+      "attackerName": "Wandereule",
+      "attackerTH": 18,
+      "attackerMapPosition": 13,
+      "defenderTag": "#8C8UPLCJY",
+      "defenderName": "Polish Strenght",
+      "defenderTH": 17,
+      "defenderMapPosition": 10,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 98,
+      "order": 25,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#P0JJLYVR",
+      "attackerName": "humaxxx",
+      "attackerTH": 18,
+      "attackerMapPosition": 16,
+      "defenderTag": "#8YQLVJYV2",
+      "defenderName": "xyz@",
+      "defenderTH": 17,
+      "defenderMapPosition": 15,
+      "stars": 3,
+      "destructionPercentage": 100,
+      "duration": 156,
+      "order": 26,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#CG0L9V2",
+      "attackerName": "⚔️Schini⚔️",
+      "attackerTH": 18,
+      "attackerMapPosition": 9,
+      "defenderTag": "#UQCRLPV8",
+      "defenderName": "nyxon",
+      "defenderTH": 17,
+      "defenderMapPosition": 14,
+      "stars": 1,
+      "destructionPercentage": 85,
+      "duration": 109,
+      "order": 27,
+      "side": "opponent"
+    },
+    {
+      "attackerTag": "#PL9VUL9VJ",
+      "attackerName": "Humäxxx",
+      "attackerTH": 18,
+      "attackerMapPosition": 10,
+      "defenderTag": "#GLUYQUCQV",
+      "defenderName": "SlimShady",
+      "defenderTH": 17,
+      "defenderMapPosition": 12,
+      "stars": 2,
+      "destructionPercentage": 94,
+      "duration": 150,
+      "order": 28,
+      "side": "opponent"
+    }
+  ]
+}
