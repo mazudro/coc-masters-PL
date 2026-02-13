@@ -1,180 +1,99 @@
 {
-  "generatedAt": "2026-02-10T10:34:46.247Z",
+  "generatedAt": "2026-02-13T11:16:40.938Z",
   "currentSeason": "2026-02",
   "clan": {
     "name": "coc masters PL",
     "tag": "#P0J2J8GJ"
   },
   "stats": {
-    "wars": 15,
-    "warsWon": 9,
-    "warsLost": 6,
-    "warsTied": 0,
-    "stars": 618,
-    "destruction": 1467.4,
-    "attacks": 225,
-    "winRate": 60
+    "wars": 687,
+    "warsWon": 350,
+    "warsLost": 295,
+    "warsTied": 42,
+    "stars": 27190,
+    "destruction": 58775.07,
+    "attacks": 11589,
+    "winRate": 50.95
   },
   "players": [
     {
-      "name": "Jjiraya",
-      "tag": "#22CVU8U9",
+      "name": "Pedro",
+      "tag": "#802R9V99J",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 15,
-      "avgStars": 3,
-      "destruction": 500,
-      "avgDestruction": 100,
-      "triples": 5,
+      "wars": 169,
+      "attacks": 168,
+      "stars": 429,
+      "avgStars": 2.55,
+      "destruction": 15688,
+      "avgDestruction": 93.38,
+      "triples": 95,
       "starBuckets": {
         "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 0,
-        "threeStars": 5
+        "oneStars": 2,
+        "twoStars": 71,
+        "threeStars": 95
       },
-      "threeStarRate": 100,
-      "reliabilityScore": 98,
+      "threeStarRate": 56.55,
+      "reliabilityScore": 80.03,
       "reliabilityBreakdown": {
-        "performance": 100,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 98
+        "performance": 70.83,
+        "attendance": 99.41,
+        "leagueAdj": 66.79,
+        "weighted": 80.03
       },
-      "missedAttacks": 0
+      "missedAttacks": 1
     },
     {
-      "name": "bielik",
-      "tag": "#292QYUVYC",
+      "name": "wscielky bili",
+      "tag": "#LP2P2L002",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 15,
-      "avgStars": 3,
-      "destruction": 500,
-      "avgDestruction": 100,
-      "triples": 5,
+      "wars": 173,
+      "attacks": 172,
+      "stars": 417,
+      "avgStars": 2.42,
+      "destruction": 15523,
+      "avgDestruction": 90.25,
+      "triples": 83,
       "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 0,
-        "threeStars": 5
+        "zeroStars": 2,
+        "oneStars": 6,
+        "twoStars": 81,
+        "threeStars": 83
       },
-      "threeStarRate": 100,
-      "reliabilityScore": 98,
+      "threeStarRate": 48.26,
+      "reliabilityScore": 77.16,
       "reliabilityBreakdown": {
-        "performance": 100,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 98
+        "performance": 64.53,
+        "attendance": 99.42,
+        "leagueAdj": 66.63,
+        "weighted": 77.16
       },
-      "missedAttacks": 0
+      "missedAttacks": 1
     },
     {
-      "name": "byczeq",
-      "tag": "#YLJJYG28G",
+      "name": "Maryśka™",
+      "tag": "#L999C9G8",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 15,
-      "avgStars": 3,
-      "destruction": 500,
-      "avgDestruction": 100,
-      "triples": 5,
+      "wars": 159,
+      "attacks": 159,
+      "stars": 407,
+      "avgStars": 2.56,
+      "destruction": 15098,
+      "avgDestruction": 94.96,
+      "triples": 99,
       "starBuckets": {
         "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 0,
-        "threeStars": 5
+        "oneStars": 10,
+        "twoStars": 50,
+        "threeStars": 99
       },
-      "threeStarRate": 100,
-      "reliabilityScore": 98,
+      "threeStarRate": 62.26,
+      "reliabilityScore": 81.72,
       "reliabilityBreakdown": {
-        "performance": 100,
+        "performance": 73.79,
         "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 98
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Wybraniec",
-      "tag": "#299PCL828",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 15,
-      "avgStars": 3,
-      "destruction": 500,
-      "avgDestruction": 100,
-      "triples": 5,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 0,
-        "threeStars": 5
-      },
-      "threeStarRate": 100,
-      "reliabilityScore": 98,
-      "reliabilityBreakdown": {
-        "performance": 100,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 98
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Drax90",
-      "tag": "#2P9J8CCQY",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 15,
-      "avgStars": 3,
-      "destruction": 500,
-      "avgDestruction": 100,
-      "triples": 5,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 0,
-        "threeStars": 5
-      },
-      "threeStarRate": 100,
-      "reliabilityScore": 98,
-      "reliabilityBreakdown": {
-        "performance": 100,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 98
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Kiesl",
-      "tag": "#RL8YC2LL",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 498,
-      "avgDestruction": 99.6,
-      "triples": 4,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
-      },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
-      "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
+        "leagueAdj": 67.55,
+        "weighted": 81.72
       },
       "missedAttacks": 0
     },
@@ -182,134 +101,26 @@
       "name": "King Motyl",
       "tag": "#YPG8QQ280",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 483,
-      "avgDestruction": 96.6,
-      "triples": 4,
+      "wars": 166,
+      "attacks": 166,
+      "stars": 406,
+      "avgStars": 2.45,
+      "destruction": 15043,
+      "avgDestruction": 90.62,
+      "triples": 82,
       "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
+        "zeroStars": 1,
+        "oneStars": 6,
+        "twoStars": 77,
+        "threeStars": 82
       },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
+      "threeStarRate": 49.4,
+      "reliabilityScore": 77.99,
       "reliabilityBreakdown": {
-        "performance": 86.67,
+        "performance": 65.46,
         "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Michał",
-      "tag": "#288CJQJU2",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 495,
-      "avgDestruction": 99,
-      "triples": 4,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
-      },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
-      "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "wscielky bili",
-      "tag": "#LP2P2L002",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 470,
-      "avgDestruction": 94,
-      "triples": 4,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
-      },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
-      "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Juzef PL",
-      "tag": "#9C9Q9RP82",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 494,
-      "avgDestruction": 98.8,
-      "triples": 4,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
-      },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
-      "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
-      },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Maryśka™",
-      "tag": "#L999C9G8",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 495,
-      "avgDestruction": 99,
-      "triples": 4,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
-      },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
-      "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
+        "leagueAdj": 67.65,
+        "weighted": 77.99
       },
       "missedAttacks": 0
     },
@@ -317,107 +128,1052 @@
       "name": "Mejdej",
       "tag": "#20QRJRPR2",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 14,
-      "avgStars": 2.8,
-      "destruction": 499,
-      "avgDestruction": 99.8,
-      "triples": 4,
+      "wars": 159,
+      "attacks": 158,
+      "stars": 385,
+      "avgStars": 2.44,
+      "destruction": 14788,
+      "avgDestruction": 93.59,
+      "triples": 81,
       "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 1,
-        "threeStars": 4
+        "zeroStars": 1,
+        "oneStars": 10,
+        "twoStars": 66,
+        "threeStars": 81
       },
-      "threeStarRate": 80,
-      "reliabilityScore": 92,
+      "threeStarRate": 51.27,
+      "reliabilityScore": 77.82,
       "reliabilityBreakdown": {
-        "performance": 86.67,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 92
+        "performance": 66.24,
+        "attendance": 99.37,
+        "leagueAdj": 66.14,
+        "weighted": 77.82
       },
-      "missedAttacks": 0
-    },
-    {
-      "name": "Pedro",
-      "tag": "#802R9V99J",
-      "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 13,
-      "avgStars": 2.6,
-      "destruction": 495,
-      "avgDestruction": 99,
-      "triples": 3,
-      "starBuckets": {
-        "zeroStars": 0,
-        "oneStars": 0,
-        "twoStars": 2,
-        "threeStars": 3
-      },
-      "threeStarRate": 60,
-      "reliabilityScore": 86,
-      "reliabilityBreakdown": {
-        "performance": 73.33,
-        "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 86
-      },
-      "missedAttacks": 0
+      "missedAttacks": 1
     },
     {
       "name": "inoja",
       "tag": "#PPRLRRUGU",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 12,
-      "avgStars": 2.4,
-      "destruction": 462,
-      "avgDestruction": 92.4,
-      "triples": 3,
+      "wars": 155,
+      "attacks": 154,
+      "stars": 362,
+      "avgStars": 2.35,
+      "destruction": 13298,
+      "avgDestruction": 86.35,
+      "triples": 65,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 11,
+        "twoStars": 78,
+        "threeStars": 65
+      },
+      "threeStarRate": 42.21,
+      "reliabilityScore": 74.26,
+      "reliabilityBreakdown": {
+        "performance": 60.28,
+        "attendance": 99.35,
+        "leagueAdj": 61.79,
+        "weighted": 74.26
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "Drax90",
+      "tag": "#2P9J8CCQY",
+      "th": 18,
+      "wars": 117,
+      "attacks": 117,
+      "stars": 317,
+      "avgStars": 2.71,
+      "destruction": 11341,
+      "avgDestruction": 96.93,
+      "triples": 88,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 3,
+        "twoStars": 25,
+        "threeStars": 88
+      },
+      "threeStarRate": 75.21,
+      "reliabilityScore": 87.13,
+      "reliabilityBreakdown": {
+        "performance": 82.76,
+        "attendance": 100,
+        "leagueAdj": 74.44,
+        "weighted": 87.13
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Legend",
+      "tag": "#2RGGCQY8J",
+      "th": 17,
+      "wars": 126,
+      "attacks": 120,
+      "stars": 290,
+      "avgStars": 2.42,
+      "destruction": 10914,
+      "avgDestruction": 90.95,
+      "triples": 61,
+      "starBuckets": {
+        "zeroStars": 2,
+        "oneStars": 7,
+        "twoStars": 50,
+        "threeStars": 61
+      },
+      "threeStarRate": 50.83,
+      "reliabilityScore": 75.23,
+      "reliabilityBreakdown": {
+        "performance": 65.69,
+        "attendance": 95.24,
+        "leagueAdj": 61.67,
+        "weighted": 75.23
+      },
+      "missedAttacks": 6
+    },
+    {
+      "name": "Marcin :-)",
+      "tag": "#PL20280R8",
+      "th": 17,
+      "wars": 91,
+      "attacks": 91,
+      "stars": 254,
+      "avgStars": 2.79,
+      "destruction": 8941,
+      "avgDestruction": 98.25,
+      "triples": 74,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 2,
+        "twoStars": 15,
+        "threeStars": 74
+      },
+      "threeStarRate": 81.32,
+      "reliabilityScore": 86.77,
+      "reliabilityBreakdown": {
+        "performance": 87.18,
+        "attendance": 100,
+        "leagueAdj": 62.69,
+        "weighted": 86.77
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Methanolek™",
+      "tag": "#LLYQ90PGV",
+      "th": 18,
+      "wars": 84,
+      "attacks": 82,
+      "stars": 213,
+      "avgStars": 2.6,
+      "destruction": 7840,
+      "avgDestruction": 95.61,
+      "triples": 56,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 5,
+        "twoStars": 20,
+        "threeStars": 56
+      },
+      "threeStarRate": 68.29,
+      "reliabilityScore": 79.61,
+      "reliabilityBreakdown": {
+        "performance": 77.44,
+        "attendance": 97.62,
+        "leagueAdj": 52.99,
+        "weighted": 79.61
+      },
+      "missedAttacks": 2
+    },
+    {
+      "name": "Wybraniec",
+      "tag": "#299PCL828",
+      "th": 18,
+      "wars": 75,
+      "attacks": 75,
+      "stars": 201,
+      "avgStars": 2.68,
+      "destruction": 7203,
+      "avgDestruction": 96.04,
+      "triples": 52,
       "starBuckets": {
         "zeroStars": 0,
         "oneStars": 1,
-        "twoStars": 1,
-        "threeStars": 3
+        "twoStars": 22,
+        "threeStars": 52
       },
-      "threeStarRate": 60,
-      "reliabilityScore": 84.5,
+      "threeStarRate": 69.33,
+      "reliabilityScore": 83.85,
       "reliabilityBreakdown": {
-        "performance": 70,
+        "performance": 79.33,
         "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 84.5
+        "leagueAdj": 65.73,
+        "weighted": 83.85
       },
       "missedAttacks": 0
+    },
+    {
+      "name": "~ Yakuu ~",
+      "tag": "#22Y9JQYJ",
+      "th": 17,
+      "wars": 77,
+      "attacks": 77,
+      "stars": 195,
+      "avgStars": 2.53,
+      "destruction": 7257,
+      "avgDestruction": 94.25,
+      "triples": 48,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 7,
+        "twoStars": 22,
+        "threeStars": 48
+      },
+      "threeStarRate": 62.34,
+      "reliabilityScore": 81.11,
+      "reliabilityBreakdown": {
+        "performance": 73.38,
+        "attendance": 100,
+        "leagueAdj": 65.45,
+        "weighted": 81.11
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "ArturLic32",
+      "tag": "#PVG0Y0PP0",
+      "th": 17,
+      "wars": 98,
+      "attacks": 98,
+      "stars": 191,
+      "avgStars": 1.95,
+      "destruction": 6936,
+      "avgDestruction": 70.78,
+      "triples": 2,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 7,
+        "twoStars": 89,
+        "threeStars": 2
+      },
+      "threeStarRate": 2.04,
+      "reliabilityScore": 61.08,
+      "reliabilityBreakdown": {
+        "performance": 33.5,
+        "attendance": 100,
+        "leagueAdj": 55,
+        "weighted": 61.08
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "byczeq",
+      "tag": "#YLJJYG28G",
+      "th": 18,
+      "wars": 81,
+      "attacks": 73,
+      "stars": 187,
+      "avgStars": 2.56,
+      "destruction": 6848,
+      "avgDestruction": 93.81,
+      "triples": 49,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 6,
+        "twoStars": 17,
+        "threeStars": 49
+      },
+      "threeStarRate": 67.12,
+      "reliabilityScore": 78.67,
+      "reliabilityBreakdown": {
+        "performance": 76.26,
+        "attendance": 90.12,
+        "leagueAdj": 64.04,
+        "weighted": 78.67
+      },
+      "missedAttacks": 8
+    },
+    {
+      "name": "Jjiraya",
+      "tag": "#22CVU8U9",
+      "th": 18,
+      "wars": 68,
+      "attacks": 68,
+      "stars": 183,
+      "avgStars": 2.69,
+      "destruction": 6552,
+      "avgDestruction": 96.35,
+      "triples": 49,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 2,
+        "twoStars": 17,
+        "threeStars": 49
+      },
+      "threeStarRate": 72.06,
+      "reliabilityScore": 85.07,
+      "reliabilityBreakdown": {
+        "performance": 80.88,
+        "attendance": 100,
+        "leagueAdj": 68.38,
+        "weighted": 85.07
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "bielik",
+      "tag": "#292QYUVYC",
+      "th": 18,
+      "wars": 47,
+      "attacks": 47,
+      "stars": 121,
+      "avgStars": 2.57,
+      "destruction": 4382,
+      "avgDestruction": 93.23,
+      "triples": 28,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 1,
+        "twoStars": 18,
+        "threeStars": 28
+      },
+      "threeStarRate": 59.57,
+      "reliabilityScore": 79.46,
+      "reliabilityBreakdown": {
+        "performance": 72.7,
+        "attendance": 100,
+        "leagueAdj": 58.72,
+        "weighted": 79.46
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "byczeq",
+      "tag": "#QJVGJQLRJ",
+      "th": 17,
+      "wars": 41,
+      "attacks": 41,
+      "stars": 109,
+      "avgStars": 2.66,
+      "destruction": 3920,
+      "avgDestruction": 95.61,
+      "triples": 27,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 14,
+        "threeStars": 27
+      },
+      "threeStarRate": 65.85,
+      "reliabilityScore": 83.12,
+      "reliabilityBreakdown": {
+        "performance": 77.24,
+        "attendance": 100,
+        "leagueAdj": 66.83,
+        "weighted": 83.12
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "ROMAN",
+      "tag": "#2QYJJGP8V",
+      "th": 15,
+      "wars": 49,
+      "attacks": 45,
+      "stars": 101,
+      "avgStars": 2.24,
+      "destruction": 3733,
+      "avgDestruction": 82.96,
+      "triples": 15,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 4,
+        "twoStars": 26,
+        "threeStars": 15
+      },
+      "threeStarRate": 33.33,
+      "reliabilityScore": 66.48,
+      "reliabilityBreakdown": {
+        "performance": 54.07,
+        "attendance": 91.84,
+        "leagueAdj": 50,
+        "weighted": 66.48
+      },
+      "missedAttacks": 4
+    },
+    {
+      "name": "Martha",
+      "tag": "#9V2QJUV0V",
+      "th": 14,
+      "wars": 49,
+      "attacks": 49,
+      "stars": 101,
+      "avgStars": 2.06,
+      "destruction": 3876,
+      "avgDestruction": 79.1,
+      "triples": 8,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 5,
+        "twoStars": 36,
+        "threeStars": 8
+      },
+      "threeStarRate": 16.33,
+      "reliabilityScore": 64.7,
+      "reliabilityBreakdown": {
+        "performance": 42.52,
+        "attendance": 100,
+        "leagueAdj": 52.86,
+        "weighted": 64.7
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Kiesl",
+      "tag": "#RL8YC2LL",
+      "th": 18,
+      "wars": 33,
+      "attacks": 33,
+      "stars": 95,
+      "avgStars": 2.88,
+      "destruction": 3272,
+      "avgDestruction": 99.15,
+      "triples": 29,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 4,
+        "threeStars": 29
+      },
+      "threeStarRate": 87.88,
+      "reliabilityScore": 89.27,
+      "reliabilityBreakdown": {
+        "performance": 91.92,
+        "attendance": 100,
+        "leagueAdj": 64.55,
+        "weighted": 89.27
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "cloud",
+      "tag": "#22RQLGP0R",
+      "th": 17,
+      "wars": 35,
+      "attacks": 35,
+      "stars": 84,
+      "avgStars": 2.4,
+      "destruction": 3259,
+      "avgDestruction": 93.11,
+      "triples": 18,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 4,
+        "twoStars": 13,
+        "threeStars": 18
+      },
+      "threeStarRate": 51.43,
+      "reliabilityScore": 80.97,
+      "reliabilityBreakdown": {
+        "performance": 65.71,
+        "attendance": 100,
+        "leagueAdj": 82,
+        "weighted": 80.97
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "013",
+      "tag": "#2UJ99QGJG",
+      "th": 17,
+      "wars": 35,
+      "attacks": 34,
+      "stars": 71,
+      "avgStars": 2.09,
+      "destruction": 2781,
+      "avgDestruction": 81.79,
+      "triples": 6,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 1,
+        "twoStars": 26,
+        "threeStars": 6
+      },
+      "threeStarRate": 17.65,
+      "reliabilityScore": 64.34,
+      "reliabilityBreakdown": {
+        "performance": 43.63,
+        "attendance": 97.14,
+        "leagueAdj": 53.53,
+        "weighted": 64.34
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "Yonderbrack",
+      "tag": "#LQ0RJY9",
+      "th": 15,
+      "wars": 21,
+      "attacks": 21,
+      "stars": 46,
+      "avgStars": 2.19,
+      "destruction": 1840,
+      "avgDestruction": 87.62,
+      "triples": 6,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 2,
+        "twoStars": 13,
+        "threeStars": 6
+      },
+      "threeStarRate": 28.57,
+      "reliabilityScore": 66.52,
+      "reliabilityBreakdown": {
+        "performance": 50.79,
+        "attendance": 100,
+        "leagueAdj": 43.33,
+        "weighted": 66.52
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "barteklewl",
+      "tag": "#UUR2CJVY",
+      "th": 17,
+      "wars": 20,
+      "attacks": 19,
+      "stars": 45,
+      "avgStars": 2.37,
+      "destruction": 1698,
+      "avgDestruction": 89.37,
+      "triples": 8,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 1,
+        "twoStars": 10,
+        "threeStars": 8
+      },
+      "threeStarRate": 42.11,
+      "reliabilityScore": 78.49,
+      "reliabilityBreakdown": {
+        "performance": 60.53,
+        "attendance": 95,
+        "leagueAdj": 90,
+        "weighted": 78.49
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "Marek",
+      "tag": "#Y9UV2CCQ",
+      "th": 17,
+      "wars": 14,
+      "attacks": 14,
+      "stars": 38,
+      "avgStars": 2.71,
+      "destruction": 1375,
+      "avgDestruction": 98.21,
+      "triples": 10,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 4,
+        "threeStars": 10
+      },
+      "threeStarRate": 71.43,
+      "reliabilityScore": 86.43,
+      "reliabilityBreakdown": {
+        "performance": 80.95,
+        "attendance": 100,
+        "leagueAdj": 75,
+        "weighted": 86.43
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Wysokie_Bueno™",
+      "tag": "#PVUGGPU2Q",
+      "th": 15,
+      "wars": 14,
+      "attacks": 14,
+      "stars": 37,
+      "avgStars": 2.64,
+      "destruction": 1297,
+      "avgDestruction": 92.64,
+      "triples": 9,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 5,
+        "threeStars": 9
+      },
+      "threeStarRate": 64.29,
+      "reliabilityScore": 79.29,
+      "reliabilityBreakdown": {
+        "performance": 76.19,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 79.29
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Michał",
+      "tag": "#288CJQJU2",
+      "th": 18,
+      "wars": 12,
+      "attacks": 12,
+      "stars": 35,
+      "avgStars": 2.92,
+      "destruction": 1195,
+      "avgDestruction": 99.58,
+      "triples": 11,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 1,
+        "threeStars": 11
+      },
+      "threeStarRate": 91.67,
+      "reliabilityScore": 90.83,
+      "reliabilityBreakdown": {
+        "performance": 94.44,
+        "attendance": 100,
+        "leagueAdj": 66.67,
+        "weighted": 90.83
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Ffand",
+      "tag": "#PG82Q2QP2",
+      "th": 15,
+      "wars": 21,
+      "attacks": 18,
+      "stars": 34,
+      "avgStars": 1.89,
+      "destruction": 1451,
+      "avgDestruction": 80.61,
+      "triples": 3,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 3,
+        "twoStars": 11,
+        "threeStars": 3
+      },
+      "threeStarRate": 16.67,
+      "reliabilityScore": 57.92,
+      "reliabilityBreakdown": {
+        "performance": 39.81,
+        "attendance": 85.71,
+        "leagueAdj": 50,
+        "weighted": 57.92
+      },
+      "missedAttacks": 3
+    },
+    {
+      "name": "Juzef PL",
+      "tag": "#9C9Q9RP82",
+      "th": 18,
+      "wars": 12,
+      "attacks": 12,
+      "stars": 34,
+      "avgStars": 2.83,
+      "destruction": 1163,
+      "avgDestruction": 96.92,
+      "triples": 10,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 2,
+        "threeStars": 10
+      },
+      "threeStarRate": 83.33,
+      "reliabilityScore": 88.33,
+      "reliabilityBreakdown": {
+        "performance": 88.89,
+        "attendance": 100,
+        "leagueAdj": 66.67,
+        "weighted": 88.33
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "KALIXON",
+      "tag": "#8GC8PG22J",
+      "th": 15,
+      "wars": 18,
+      "attacks": 15,
+      "stars": 29,
+      "avgStars": 1.93,
+      "destruction": 1162,
+      "avgDestruction": 77.47,
+      "triples": 4,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 5,
+        "twoStars": 6,
+        "threeStars": 4
+      },
+      "threeStarRate": 26.67,
+      "reliabilityScore": 59.27,
+      "reliabilityBreakdown": {
+        "performance": 45.56,
+        "attendance": 83.33,
+        "leagueAdj": 48,
+        "weighted": 59.27
+      },
+      "missedAttacks": 3
     },
     {
       "name": "Mario",
       "tag": "#2G8RC2JY",
       "th": 18,
-      "wars": 5,
-      "attacks": 5,
-      "stars": 10,
-      "avgStars": 2,
-      "destruction": 467,
-      "avgDestruction": 93.4,
-      "triples": 1,
+      "wars": 12,
+      "attacks": 12,
+      "stars": 27,
+      "avgStars": 2.25,
+      "destruction": 1070,
+      "avgDestruction": 89.17,
+      "triples": 4,
       "starBuckets": {
         "zeroStars": 0,
         "oneStars": 1,
+        "twoStars": 7,
+        "threeStars": 4
+      },
+      "threeStarRate": 33.33,
+      "reliabilityScore": 72.71,
+      "reliabilityBreakdown": {
+        "performance": 54.17,
+        "attendance": 100,
+        "leagueAdj": 66.67,
+        "weighted": 72.71
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "AdeK",
+      "tag": "#2082CJJYV",
+      "th": 16,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 19,
+      "avgStars": 2.71,
+      "destruction": 663,
+      "avgDestruction": 94.71,
+      "triples": 5,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 2,
+        "threeStars": 5
+      },
+      "threeStarRate": 71.43,
+      "reliabilityScore": 81.43,
+      "reliabilityBreakdown": {
+        "performance": 80.95,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 81.43
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Stefan",
+      "tag": "#88YV2U8PQ",
+      "th": 12,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 15,
+      "avgStars": 2.14,
+      "destruction": 495,
+      "avgDestruction": 70.71,
+      "triples": 1,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 6,
+        "threeStars": 1
+      },
+      "threeStarRate": 14.29,
+      "reliabilityScore": 64.29,
+      "reliabilityBreakdown": {
+        "performance": 42.86,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 64.29
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "c4_vic",
+      "tag": "#2PU2V09PP",
+      "th": 14,
+      "wars": 7,
+      "attacks": 6,
+      "stars": 15,
+      "avgStars": 2.5,
+      "destruction": 485,
+      "avgDestruction": 80.83,
+      "triples": 3,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 3,
+        "threeStars": 3
+      },
+      "threeStarRate": 50,
+      "reliabilityScore": 70,
+      "reliabilityBreakdown": {
+        "performance": 66.67,
+        "attendance": 85.71,
+        "leagueAdj": 50,
+        "weighted": 70
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "RED",
+      "tag": "#P2Q8PYJC2",
+      "th": 14,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 13,
+      "avgStars": 1.86,
+      "destruction": 477,
+      "avgDestruction": 68.14,
+      "triples": 1,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 0,
+        "twoStars": 5,
+        "threeStars": 1
+      },
+      "threeStarRate": 14.29,
+      "reliabilityScore": 62.14,
+      "reliabilityBreakdown": {
+        "performance": 38.1,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 62.14
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "ZEUSx!",
+      "tag": "#PVCG9G00Y",
+      "th": 15,
+      "wars": 7,
+      "attacks": 6,
+      "stars": 13,
+      "avgStars": 2.17,
+      "destruction": 498,
+      "avgDestruction": 83,
+      "triples": 1,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 0,
+        "twoStars": 5,
+        "threeStars": 1
+      },
+      "threeStarRate": 16.67,
+      "reliabilityScore": 60,
+      "reliabilityBreakdown": {
+        "performance": 44.44,
+        "attendance": 85.71,
+        "leagueAdj": 50,
+        "weighted": 60
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "R8",
+      "tag": "#YRQJ022J0",
+      "th": 12,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 13,
+      "avgStars": 1.86,
+      "destruction": 479,
+      "avgDestruction": 68.43,
+      "triples": 0,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 1,
+        "twoStars": 6,
+        "threeStars": 0
+      },
+      "threeStarRate": 0,
+      "reliabilityScore": 58.93,
+      "reliabilityBreakdown": {
+        "performance": 30.95,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 58.93
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "LORD",
+      "tag": "#P0YUU0VJL",
+      "th": 13,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 12,
+      "avgStars": 1.71,
+      "destruction": 553,
+      "avgDestruction": 79,
+      "triples": 0,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 2,
+        "twoStars": 5,
+        "threeStars": 0
+      },
+      "threeStarRate": 0,
+      "reliabilityScore": 57.86,
+      "reliabilityBreakdown": {
+        "performance": 28.57,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 57.86
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "EndoheroPl",
+      "tag": "#GRUPPPLC",
+      "th": 13,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 12,
+      "avgStars": 1.71,
+      "destruction": 414,
+      "avgDestruction": 59.14,
+      "triples": 1,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 3,
         "twoStars": 3,
         "threeStars": 1
       },
-      "threeStarRate": 20,
-      "reliabilityScore": 72.5,
+      "threeStarRate": 14.29,
+      "reliabilityScore": 61.07,
       "reliabilityBreakdown": {
-        "performance": 43.33,
+        "performance": 35.71,
         "attendance": 100,
-        "leagueAdj": 90,
-        "weighted": 72.5
+        "leagueAdj": 50,
+        "weighted": 61.07
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Kacper ;)",
+      "tag": "#8YPJYPLYP",
+      "th": 13,
+      "wars": 7,
+      "attacks": 7,
+      "stars": 12,
+      "avgStars": 1.71,
+      "destruction": 554,
+      "avgDestruction": 79.14,
+      "triples": 1,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 3,
+        "twoStars": 3,
+        "threeStars": 1
+      },
+      "threeStarRate": 14.29,
+      "reliabilityScore": 61.07,
+      "reliabilityBreakdown": {
+        "performance": 35.71,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 61.07
+      },
+      "missedAttacks": 0
+    },
+    {
+      "name": "Graba",
+      "tag": "#9R0J9J9QV",
+      "th": 13,
+      "wars": 7,
+      "attacks": 6,
+      "stars": 7,
+      "avgStars": 1.17,
+      "destruction": 330,
+      "avgDestruction": 55,
+      "triples": 0,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 3,
+        "twoStars": 2,
+        "threeStars": 0
+      },
+      "threeStarRate": 0,
+      "reliabilityScore": 48.75,
+      "reliabilityBreakdown": {
+        "performance": 19.44,
+        "attendance": 85.71,
+        "leagueAdj": 50,
+        "weighted": 48.75
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "zz",
+      "tag": "#YV88JRGV",
+      "th": 13,
+      "wars": 5,
+      "attacks": 4,
+      "stars": 5,
+      "avgStars": 1.25,
+      "destruction": 269,
+      "avgDestruction": 67.25,
+      "triples": 0,
+      "starBuckets": {
+        "zeroStars": 1,
+        "oneStars": 1,
+        "twoStars": 2,
+        "threeStars": 0
+      },
+      "threeStarRate": 0,
+      "reliabilityScore": 47.38,
+      "reliabilityBreakdown": {
+        "performance": 20.83,
+        "attendance": 80,
+        "leagueAdj": 50,
+        "weighted": 47.38
+      },
+      "missedAttacks": 1
+    },
+    {
+      "name": "_INAXI_",
+      "tag": "#2028UR229",
+      "th": 13,
+      "wars": 2,
+      "attacks": 2,
+      "stars": 3,
+      "avgStars": 1.5,
+      "destruction": 125,
+      "avgDestruction": 62.5,
+      "triples": 0,
+      "starBuckets": {
+        "zeroStars": 0,
+        "oneStars": 1,
+        "twoStars": 1,
+        "threeStars": 0
+      },
+      "threeStarRate": 0,
+      "reliabilityScore": 56.25,
+      "reliabilityBreakdown": {
+        "performance": 25,
+        "attendance": 100,
+        "leagueAdj": 50,
+        "weighted": 56.25
       },
       "missedAttacks": 0
     }

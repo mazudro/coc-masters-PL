@@ -26,7 +26,7 @@ const CACHE_DIR = path.join(ROOT_DIR, 'tmp', 'cwl-cache');
 const CSV_DIR = path.join(ROOT_DIR, 'public', 'data', 'mix csv');
 
 // Official CoC API for current league info
-const COC_API_KEY = process.env.COC_API_KEY || "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImRhZWRkZjczLTU4NzYtNGYzNS1iZTYzLWJjNGYyNmIzNzc4ZSIsImlhdCI6MTc2ODUxMjY3MSwic3ViIjoiZGV2ZWxvcGVyLzg5NmQ1ZTk2LTY4YjAtNWYyYy1jNTNiLTk3NmMwYjI5NWVjMCIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjIxMi4xMjkuODQuMTk3Il0sInR5cGUiOiJjbGllbnQifV19.ijoedka4ku-gO1eX7XIIOgL1wtFAWKR1-IO4WkOeFf0ut7uZt_wLhuxoEaNrheRwLh5GIpMHtxccQ8IQptnh_g";
+const COC_API_KEY = process.env.COC_API_KEY || "COC_API_KEY";
 
 const FAMILY_CLANS = [
   { name: "coc masters PL", tag: "#P0J2J8GJ", csvName: "P0J2J8GJ" },
