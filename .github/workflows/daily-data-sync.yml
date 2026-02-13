@@ -36,6 +36,8 @@ jobs:
       - name: Update league CSV data
         run: npm run csv:update
         continue-on-error: true # CSV update may fail if CoC API is unreachable
+        env:
+          COC_API_KEY: ${{ secrets.COC_API_KEY }}
       
       - name: Generate all data files
         run: npm run generate
